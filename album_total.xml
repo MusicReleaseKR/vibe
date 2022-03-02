@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-02T16:18:55.181Z</updated>
+    <updated>2022-03-02T17:14:28.972Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hawaa 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7336308</id>
+        <link href="https://vibe.naver.com/album/7336308"/>
+        <updated>2022-03-02T17:14:28.251Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7336308" class="title"><span data-v-1f47c720="" class="text"> Hawaa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/620072" class="link_artist"><span class="text">Babbu Maan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Halke Mai Legi 업데이트]]></title>
         <id>https://vibe.naver.com/album/7335663</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7312690"/>
         <updated>2022-03-02T15:13:58.016Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7312690" class="title"><span data-v-1f47c720="" class="text"> HEALING <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/494452" class="link_artist"><span class="text">Noah Slee</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afraid To Love 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7312688</id>
-        <link href="https://vibe.naver.com/album/7312688"/>
-        <updated>2022-03-02T15:13:58.016Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7312688" class="title"><span data-v-1f47c720="" class="text"> Afraid To Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1814386" class="link_artist"><span class="text">Far Out</span></a><span>, </span></span><span><a href="/artist/473928" class="link_artist"><span class="text">KARRA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

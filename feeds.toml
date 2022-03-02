@@ -1,0 +1,19 @@
+[album_domestic]
+title = "네이버 바이브 ─ 최신앨범 ─ 국내"
+url = "https://vibe.naver.com/new-release-album/domestic"
+entrySelector = "div.sub_list ul li.list_item"
+titleSelector = "a.title span.text"
+linkSelector = "a.title"
+contentSelector = "a.link_artist span.text"
+imageSelector = "div.thumb_area a img"
+waitUntil = "networkidle"
+
+[album_oversea]
+title = "네이버 바이브 ─ 최신앨범 ─ 해외"
+url = "https://vibe.naver.com/new-release-album/oversea"
+entrySelector = "div.sub_list ul li.list_item"
+titleSelector = "a.title span.text"
+linkSelector = "a.title"
+contentSelector = "a.link_artist span.text"
+imageSelector = "div.thumb_area a img"
+waitUntil = "networkidle"

@@ -5,7 +5,6 @@ entrySelector = "div.sub_list ul li.list_item"
 titleSelector = "a.title span.text"
 linkSelector = "a.title"
 contentSelector = "a.link_artist span.text"
-imageSelector = "div.thumb_area a img"
 waitUntil = "networkidle"
 
 [album_oversea]
@@ -15,5 +14,4 @@ entrySelector = "div.sub_list ul li.list_item"
 titleSelector = "a.title span.text"
 linkSelector = "a.title"
 contentSelector = "a.link_artist span.text"
-imageSelector = "div.thumb_area a img"
 waitUntil = "networkidle"

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-02T18:20:43.331Z</updated>
+    <updated>2022-03-02T19:12:39.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -172,13 +172,6 @@
         <link href="https://vibe.naver.com/album/7299300"/>
         <updated>2022-03-02T13:08:16.407Z</updated>
         <content type="html"><![CDATA[Kehlani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dark 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7311911</id>
-        <link href="https://vibe.naver.com/album/7311911"/>
-        <updated>2022-03-02T13:08:16.410Z</updated>
-        <content type="html"><![CDATA[Alesso]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Maggie Valley 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7281957"/>
         <updated>2022-03-02T13:08:16.465Z</updated>
         <content type="html"><![CDATA[Tears For Fears]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Enjoy The Weather 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7299742</id>
+        <link href="https://vibe.naver.com/album/7299742"/>
+        <updated>2022-03-02T19:12:30.098Z</updated>
+        <content type="html"><![CDATA[Chris James]]></content>
     </entry>
 </feed>

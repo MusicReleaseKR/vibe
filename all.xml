@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-02T15:13:58.688Z</updated>
+    <updated>2022-03-02T16:18:55.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[새벽을 믿지 말자 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Tears For Fears]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Halke Mai Legi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7335663</id>
+        <link href="https://vibe.naver.com/album/7335663"/>
+        <updated>2022-03-02T16:18:54.551Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7335663" class="title"><span data-v-1f47c720="" class="text"> Halke Mai Legi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3801466" class="link_artist"><span class="text">Ajay Hooda</span></a><span>, </span></span><span><a href="/artist/2761703" class="link_artist"><span class="text">Sandeep Surila</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gali Teri Se 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7335322</id>
+        <link href="https://vibe.naver.com/album/7335322"/>
+        <updated>2022-03-02T16:18:54.551Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7335322" class="title"><span data-v-1f47c720="" class="text"> Gali Teri Se <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2422614" class="link_artist"><span class="text">Afsana Khan</span></a><span>, </span></span><span><a href="/artist/1876403" class="link_artist"><span class="text">Bunty Bains</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Leviathan 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7335175</id>
         <link href="https://vibe.naver.com/album/7335175"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7312688"/>
         <updated>2022-03-02T15:13:58.016Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7312688" class="title"><span data-v-1f47c720="" class="text"> Afraid To Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1814386" class="link_artist"><span class="text">Far Out</span></a><span>, </span></span><span><a href="/artist/473928" class="link_artist"><span class="text">KARRA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Perspective 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7312676</id>
-        <link href="https://vibe.naver.com/album/7312676"/>
-        <updated>2022-03-02T15:13:58.017Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7312676" class="title"><span data-v-1f47c720="" class="text"> Perspective <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3891200" class="link_artist"><span class="text">Kenaj</span></a><span>, </span></span><span><a href="/artist/3494977" class="link_artist"><span class="text">OVRDSE</span></a><span>, </span></span><span><a href="/artist/607694" class="link_artist"><span class="text">Murphy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Micro Beats 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7312671</id>
-        <link href="https://vibe.naver.com/album/7312671"/>
-        <updated>2022-03-02T15:13:58.018Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7312671" class="title"><span data-v-1f47c720="" class="text"> Micro Beats <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1416394" class="link_artist"><span class="text">The Mika King</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

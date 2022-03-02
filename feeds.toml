@@ -15,3 +15,12 @@ titleSelector = "a.title span.text"
 linkSelector = "a.title"
 contentSelector = "a.link_artist span.text"
 waitUntil = "networkidle"
+
+[album_total]
+title = "네이버 바이브 ─ 최신앨범 ─ 모든 앨범"
+url = "https://vibe.naver.com/new-release-album/total"
+entrySelector = "div.sub_list ul li.list_item"
+titleSelector = "a.title span.text"
+linkSelector = "a.title"
+contentSelector = "a.link_artist span.text"
+waitUntil = "networkidle"

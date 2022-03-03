@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-03T11:15:32.150Z</updated>
+    <updated>2022-03-03T12:26:46.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fall In Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7344151</id>
+        <link href="https://vibe.naver.com/album/7344151"/>
+        <updated>2022-03-03T12:26:45.795Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344151" class="title"><span data-v-1f47c720="" class="text"> Fall In Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3734096" class="link_artist"><span class="text">Hoàng Thùy Linh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걘 업데이트]]></title>
         <id>https://vibe.naver.com/album/7342017</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7341296"/>
         <updated>2022-03-03T05:12:51.741Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7341296" class="title"><span data-v-1f47c720="" class="text"> Nozh III <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5346863" class="link_artist"><span class="text">NOZH</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiel (Siembra el Caos) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7341295</id>
-        <link href="https://vibe.naver.com/album/7341295"/>
-        <updated>2022-03-03T05:12:51.742Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7341295" class="title"><span data-v-1f47c720="" class="text"> Hiel (Siembra el Caos) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3027505" class="link_artist"><span class="text">Eôn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

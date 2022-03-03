@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-03T08:15:53.955Z</updated>
+    <updated>2022-03-03T09:17:50.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[333 (Deluxe) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7312585</id>
+        <link href="https://vibe.naver.com/album/7312585"/>
+        <updated>2022-03-03T09:17:40.646Z</updated>
+        <content type="html"><![CDATA[Tinashe]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[West Coast 업데이트]]></title>
         <id>https://vibe.naver.com/album/7282282</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7290445"/>
         <updated>2022-03-02T13:08:16.413Z</updated>
         <content type="html"><![CDATA[Denzel Curry]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Doppelgänger 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7312097</id>
-        <link href="https://vibe.naver.com/album/7312097"/>
-        <updated>2022-03-02T13:08:16.413Z</updated>
-        <content type="html"><![CDATA[Joshua Bassett]]></content>
     </entry>
 </feed>

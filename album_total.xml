@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-03T08:15:53.961Z</updated>
+    <updated>2022-03-03T09:17:50.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[걘 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7342017</id>
+        <link href="https://vibe.naver.com/album/7342017"/>
+        <updated>2022-03-03T09:17:49.671Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7342017" class="title"><span data-v-1f47c720="" class="text"> 걘 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/272810" class="link_artist"><span class="text">C JAMM</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[짝사랑 얘기 (웹툰 '쌈 마이웨이' X 백아연) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7342014</id>
+        <link href="https://vibe.naver.com/album/7342014"/>
+        <updated>2022-03-03T09:17:49.677Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7342014" class="title"><span data-v-1f47c720="" class="text"> 짝사랑 얘기 (웹툰 '쌈 마이웨이' X 백아연) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/214206" class="link_artist"><span class="text">백아연</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[입김 업데이트]]></title>
         <id>https://vibe.naver.com/album/7341412</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7341295"/>
         <updated>2022-03-03T05:12:51.742Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7341295" class="title"><span data-v-1f47c720="" class="text"> Hiel (Siembra el Caos) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3027505" class="link_artist"><span class="text">Eôn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home Tour 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7341294</id>
-        <link href="https://vibe.naver.com/album/7341294"/>
-        <updated>2022-03-03T05:12:51.743Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7341294" class="title"><span data-v-1f47c720="" class="text"> Home Tour <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4780582" class="link_artist"><span class="text">AKA Matador</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Esa Curiosidad 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7341293</id>
-        <link href="https://vibe.naver.com/album/7341293"/>
-        <updated>2022-03-03T05:12:51.743Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7341293" class="title"><span data-v-1f47c720="" class="text"> Esa Curiosidad <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4775997" class="link_artist"><span class="text">Cikred</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

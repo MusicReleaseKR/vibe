@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-04T08:15:41.133Z</updated>
+    <updated>2022-03-04T09:13:43.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/7344398"/>
         <updated>2022-03-04T03:16:11.409Z</updated>
         <content type="html"><![CDATA[Camila Cabello]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run, Rose, Run 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7340674</id>
+        <link href="https://vibe.naver.com/album/7340674"/>
+        <updated>2022-03-04T09:13:33.597Z</updated>
+        <content type="html"><![CDATA[Dolly Parton]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Left You Alone 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7341179</id>
+        <link href="https://vibe.naver.com/album/7341179"/>
+        <updated>2022-03-04T09:13:33.598Z</updated>
+        <content type="html"><![CDATA[j. pastel]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GET IT 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7331816"/>
         <updated>2022-03-03T03:15:48.260Z</updated>
         <content type="html"><![CDATA[MINAKEKKE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shadow Of Mine 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7300953</id>
-        <link href="https://vibe.naver.com/album/7300953"/>
-        <updated>2022-03-02T13:08:16.366Z</updated>
-        <content type="html"><![CDATA[Alec Benjamin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lose My Mind 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7293615</id>
-        <link href="https://vibe.naver.com/album/7293615"/>
-        <updated>2022-03-02T13:08:16.372Z</updated>
-        <content type="html"><![CDATA[James Arthur]]></content>
     </entry>
 </feed>

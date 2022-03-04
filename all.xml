@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T03:16:23.537Z</updated>
+    <updated>2022-03-04T04:16:33.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[국가가 부른다 Part 3 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -985,13 +985,6 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344527" class="title"><span data-v-1f47c720="" class="text"> Inaam (From "Rudra") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1465572" class="link_artist"><span class="text">Ananya Birla</span></a><span>, </span></span><span><a href="/artist/5347760" class="link_artist"><span class="text">Salvage Audio Collective</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Make Me Feel Good (Tion Wayne & Bru-C Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7344524</id>
-        <link href="https://vibe.naver.com/album/7344524"/>
-        <updated>2022-03-03T19:12:16.190Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344524" class="title"><span data-v-1f47c720="" class="text"> Make Me Feel Good (Tion Wayne &amp; Bru-C Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4934093" class="link_artist"><span class="text">Belters Only</span></a><span>, </span></span><span><a href="/artist/1524397" class="link_artist"><span class="text">Tion Wayne</span></a><span>, </span></span><span><a href="/artist/1323125" class="link_artist"><span class="text">Bru-C</span></a><span>, </span></span><span><a href="/artist/947423" class="link_artist"><span class="text">Jazzy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Glock 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7344520</id>
         <link href="https://vibe.naver.com/album/7344520"/>
@@ -1053,5 +1046,12 @@
         <link href="https://vibe.naver.com/album/7344417"/>
         <updated>2022-03-03T16:19:50.055Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344417" class="title"><span data-v-1f47c720="" class="text"> Run <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5346472" class="link_artist"><span class="text">JigBeats</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Birchix 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7344416</id>
+        <link href="https://vibe.naver.com/album/7344416"/>
+        <updated>2022-03-04T04:16:32.878Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344416" class="title"><span data-v-1f47c720="" class="text"> Birchix <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5346472" class="link_artist"><span class="text">JigBeats</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

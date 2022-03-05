@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-05T06:16:27.187Z</updated>
+    <updated>2022-03-05T07:13:37.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Vol.127] 유희열의 스케치북 With you : 여든 두번째 목소리 '유스케 X 이무진' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -488,7 +488,7 @@
         <content type="html"><![CDATA[Kane Brown]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Anyone For You (Acoustic) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <title type="html"><![CDATA[Anyone For You (Tiger Lily) (Acoustic) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/7344387</id>
         <link href="https://vibe.naver.com/album/7344387"/>
         <updated>2022-03-04T03:16:11.442Z</updated>
@@ -703,6 +703,13 @@
         <link href="https://vibe.naver.com/album/7331816"/>
         <updated>2022-03-03T03:15:48.260Z</updated>
         <content type="html"><![CDATA[MINAKEKKE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sutili Le ke Bagnava 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7345557</id>
+        <link href="https://vibe.naver.com/album/7345557"/>
+        <updated>2022-03-05T07:13:36.352Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7345557" class="title"><span data-v-1f47c720="" class="text"> Sutili Le ke Bagnava <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1759513" class="link_artist"><span class="text">Vijay Chauhan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Il gallo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7344830"/>
         <updated>2022-03-04T15:18:50.716Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344830" class="title"><span data-v-1f47c720="" class="text"> Savior <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4127310" class="link_artist"><span class="text">elephant DEE</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ideais 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7344828</id>
-        <link href="https://vibe.naver.com/album/7344828"/>
-        <updated>2022-03-04T15:18:50.717Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344828" class="title"><span data-v-1f47c720="" class="text"> Ideais <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2656956" class="link_artist"><span class="text">Diniz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

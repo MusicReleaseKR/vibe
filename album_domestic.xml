@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-03-05T08:16:09.435Z</updated>
+    <updated>2022-03-05T09:12:26.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 사람 (2022) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7344996</id>
+        <link href="https://vibe.naver.com/album/7344996"/>
+        <updated>2022-03-05T09:12:06.661Z</updated>
+        <content type="html"><![CDATA[해찬(HAECHAN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑하는 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7345218</id>
+        <link href="https://vibe.naver.com/album/7345218"/>
+        <updated>2022-03-05T09:12:06.674Z</updated>
+        <content type="html"><![CDATA[마크툽(Maktub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악의 마음을 읽는 자들 OST Part 3 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7345144</id>
+        <link href="https://vibe.naver.com/album/7345144"/>
+        <updated>2022-03-05T09:12:06.678Z</updated>
+        <content type="html"><![CDATA[김소연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포르쉐 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7344982</id>
+        <link href="https://vibe.naver.com/album/7344982"/>
+        <updated>2022-03-05T09:12:06.679Z</updated>
+        <content type="html"><![CDATA[JAEHA(재하)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지나가세요 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7345173</id>
+        <link href="https://vibe.naver.com/album/7345173"/>
+        <updated>2022-03-05T09:12:06.679Z</updated>
+        <content type="html"><![CDATA[홍주현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고작 하루 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7345182</id>
+        <link href="https://vibe.naver.com/album/7345182"/>
+        <updated>2022-03-05T09:12:06.698Z</updated>
+        <content type="html"><![CDATA[리제(이지혜)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Vol.127] 유희열의 스케치북 With you : 여든 두번째 목소리 '유스케 X 이무진' 업데이트]]></title>
         <id>https://vibe.naver.com/album/7345168</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/7342038"/>
         <updated>2022-03-04T03:16:01.316Z</updated>
         <content type="html"><![CDATA[신스틸러 (Sinstealer)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hopefully 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7342949</id>
-        <link href="https://vibe.naver.com/album/7342949"/>
-        <updated>2022-03-04T03:16:01.316Z</updated>
-        <content type="html"><![CDATA[eunae]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bleach 업데이트]]></title>
-        <id>https://vibe.naver.com/album/6406680</id>
-        <link href="https://vibe.naver.com/album/6406680"/>
-        <updated>2022-03-03T09:17:31.623Z</updated>
-        <content type="html"><![CDATA[Glen Check]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독백 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7332189</id>
-        <link href="https://vibe.naver.com/album/7332189"/>
-        <updated>2022-03-03T09:17:31.624Z</updated>
-        <content type="html"><![CDATA[참솜(Chamsom)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소금비 (Prod. By Alfie Hole) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7312956</id>
-        <link href="https://vibe.naver.com/album/7312956"/>
-        <updated>2022-03-03T09:17:31.624Z</updated>
-        <content type="html"><![CDATA[sogumm]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sometimes (Feat. THAMA, Street Baby) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7331515</id>
-        <link href="https://vibe.naver.com/album/7331515"/>
-        <updated>2022-03-03T09:17:31.624Z</updated>
-        <content type="html"><![CDATA[PATEKO(파테코)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Always here 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7340687</id>
-        <link href="https://vibe.naver.com/album/7340687"/>
-        <updated>2022-03-03T09:17:31.624Z</updated>
-        <content type="html"><![CDATA[신지]]></content>
     </entry>
 </feed>

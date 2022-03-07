@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T00:52:06.603Z</updated>
+    <updated>2022-03-07T02:10:26.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[스물다섯 스물하나 OST Part 6  업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/7345154</id>
         <link href="https://vibe.naver.com/album/7345154"/>
         <updated>2022-03-06T09:11:55.125Z</updated>
-        <content type="html"><![CDATA[지효 (트와이스)]]></content>
+        <content type="html"><![CDATA[지효 (TWICE)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ceremony (feat. BIG Naughty) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[MINAKEKKE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[闭上眼睛的声音 (눈 감는 소리) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7345763</id>
+        <link href="https://vibe.naver.com/album/7345763"/>
+        <updated>2022-03-07T02:10:25.464Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7345763" class="title"><span data-v-1f47c720="" class="text"> 闭上眼睛的声音 (눈 감는 소리) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5348397" class="link_artist"><span class="text">苦果(Ku Guo)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[PRODIGIA-TE (Banda Deluxe) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7345692</id>
         <link href="https://vibe.naver.com/album/7345692"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7344874"/>
         <updated>2022-03-06T15:13:20.788Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344874" class="title"><span data-v-1f47c720="" class="text"> Guatemala del Ayer, Hoy y Siempre <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3658915" class="link_artist"><span class="text">Marimba El Valle</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dominasi Kultural 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7344871</id>
-        <link href="https://vibe.naver.com/album/7344871"/>
-        <updated>2022-03-06T15:13:20.789Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344871" class="title"><span data-v-1f47c720="" class="text"> Dominasi Kultural <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5347922" class="link_artist"><span class="text">MTAD</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

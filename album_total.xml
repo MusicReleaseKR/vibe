@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-07T00:52:06.599Z</updated>
+    <updated>2022-03-07T02:10:26.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[闭上眼睛的声音 (눈 감는 소리) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7345763</id>
+        <link href="https://vibe.naver.com/album/7345763"/>
+        <updated>2022-03-07T02:10:25.464Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7345763" class="title"><span data-v-1f47c720="" class="text"> 闭上眼睛的声音 (눈 감는 소리) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5348397" class="link_artist"><span class="text">苦果(Ku Guo)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PRODIGIA-TE (Banda Deluxe) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7345692</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7344874"/>
         <updated>2022-03-06T15:13:20.788Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344874" class="title"><span data-v-1f47c720="" class="text"> Guatemala del Ayer, Hoy y Siempre <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3658915" class="link_artist"><span class="text">Marimba El Valle</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dominasi Kultural 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7344871</id>
-        <link href="https://vibe.naver.com/album/7344871"/>
-        <updated>2022-03-06T15:13:20.789Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7344871" class="title"><span data-v-1f47c720="" class="text"> Dominasi Kultural <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5347922" class="link_artist"><span class="text">MTAD</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

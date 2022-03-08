@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T10:14:52.318Z</updated>
+    <updated>2022-03-08T11:14:52.947Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BROKEN FERRARI 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[keshi]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Inneram Indha Neram 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7347487</id>
+        <link href="https://vibe.naver.com/album/7347487"/>
+        <updated>2022-03-08T11:14:51.934Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347487" class="title"><span data-v-1f47c720="" class="text"> Inneram Indha Neram <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4283731" class="link_artist"><span class="text">Vijai Bulganin</span></a><span>, </span></span><span><a href="/artist/4477925" class="link_artist"><span class="text">Adithya RK</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It's a Lot 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7347471</id>
         <link href="https://vibe.naver.com/album/7347471"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7346484"/>
         <updated>2022-03-07T15:19:08.490Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7346484" class="title"><span data-v-1f47c720="" class="text"> Love At First Sight <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2139305" class="link_artist"><span class="text">Metrópolis</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heaven's Sky 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7346483</id>
-        <link href="https://vibe.naver.com/album/7346483"/>
-        <updated>2022-03-07T15:19:08.490Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7346483" class="title"><span data-v-1f47c720="" class="text"> Heaven's Sky <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2002107" class="link_artist"><span class="text">Nanà</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

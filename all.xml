@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-08T22:14:12.314Z</updated>
+    <updated>2022-03-08T23:13:28.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BROKEN FERRARI 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[keshi]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Parler 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7347694</id>
+        <link href="https://vibe.naver.com/album/7347694"/>
+        <updated>2022-03-08T23:13:27.182Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347694" class="title"><span data-v-1f47c720="" class="text"> Parler <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4716690" class="link_artist"><span class="text">DRYSSCO</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mithi Daaru 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7347687</id>
         <link href="https://vibe.naver.com/album/7347687"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7347576"/>
         <updated>2022-03-08T15:18:34.084Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347576" class="title"><span data-v-1f47c720="" class="text"> Sannenme No Uwaki / Gonenme No Hakyoku Best Tag <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5316869" class="link_artist"><span class="text">Hiroshi &amp; Kibo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COLLAGE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7347574</id>
-        <link href="https://vibe.naver.com/album/7347574"/>
-        <updated>2022-03-08T15:18:34.085Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347574" class="title"><span data-v-1f47c720="" class="text"> COLLAGE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1542399" class="link_artist"><span class="text">Masaki Suda</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

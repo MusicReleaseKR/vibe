@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-08T19:11:48.549Z</updated>
+    <updated>2022-03-08T20:14:33.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mithi Daaru 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7347687</id>
+        <link href="https://vibe.naver.com/album/7347687"/>
+        <updated>2022-03-08T20:14:32.418Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347687" class="title"><span data-v-1f47c720="" class="text"> Mithi Daaru <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5349264" class="link_artist"><span class="text">Ranjodh Cheema</span></a><span>, </span></span><span><a href="/artist/320603" class="link_artist"><span class="text">Gurlej Akhtar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jari Neraka 업데이트]]></title>
         <id>https://vibe.naver.com/album/7347662</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7347574"/>
         <updated>2022-03-08T15:18:34.085Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347574" class="title"><span data-v-1f47c720="" class="text"> COLLAGE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1542399" class="link_artist"><span class="text">Masaki Suda</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memory Glass / Rouge Best Tag 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347573</id>
-        <link href="https://vibe.naver.com/album/7347573"/>
-        <updated>2022-03-08T15:18:34.088Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347573" class="title"><span data-v-1f47c720="" class="text"> Memory Glass / Rouge Best Tag <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/244739" class="link_artist"><span class="text">Jun Horie</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-09T09:17:38.478Z</updated>
+    <updated>2022-03-09T10:20:01.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[THE M Part 4 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dynoro]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[PER ASPERA AD ASTRA 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7347725</id>
+        <link href="https://vibe.naver.com/album/7347725"/>
+        <updated>2022-03-09T10:20:00.777Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347725" class="title"><span data-v-1f47c720="" class="text"> PER ASPERA AD ASTRA <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5337522" class="link_artist"><span class="text">Per Aspera Ad Astra</span></a><span>, </span></span><span><a href="/artist/208067" class="link_artist"><span class="text">Kermit</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lodhi Rajput Damdar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7347723</id>
         <link href="https://vibe.naver.com/album/7347723"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7347586"/>
         <updated>2022-03-08T15:18:34.076Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347586" class="title"><span data-v-1f47c720="" class="text"> You're the Only... / Forever My Love Best Tag <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/375752" class="link_artist"><span class="text">Masatoshi Ono</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seventeen 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7347585</id>
-        <link href="https://vibe.naver.com/album/7347585"/>
-        <updated>2022-03-08T15:18:34.076Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347585" class="title"><span data-v-1f47c720="" class="text"> Seventeen <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3515536" class="link_artist"><span class="text">Yoh Kamiyama</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

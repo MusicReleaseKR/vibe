@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-09T16:19:09.698Z</updated>
+    <updated>2022-03-09T17:15:32.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Paura (Live) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7347782</id>
+        <link href="https://vibe.naver.com/album/7347782"/>
+        <updated>2022-03-09T17:15:31.900Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347782" class="title"><span data-v-1f47c720="" class="text"> Paura (Live) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2179979" class="link_artist"><span class="text">Luna Di Domenico</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Right Time 업데이트]]></title>
         <id>https://vibe.naver.com/album/7347767</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7346821"/>
         <updated>2022-03-09T15:18:46.133Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7346821" class="title"><span data-v-1f47c720="" class="text"> Papá <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1998926" class="link_artist"><span class="text">Simón Olano</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tragoudia 78 Strofon 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7346819</id>
-        <link href="https://vibe.naver.com/album/7346819"/>
-        <updated>2022-03-09T15:18:46.134Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7346819" class="title"><span data-v-1f47c720="" class="text"> Tragoudia 78 Strofon <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4049355" class="link_artist"><span class="text">Andros Georgiou</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

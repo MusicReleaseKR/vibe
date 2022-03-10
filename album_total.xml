@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-10T07:13:09.254Z</updated>
+    <updated>2022-03-10T08:16:12.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/7348504"/>
         <updated>2022-03-10T05:12:44.586Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348504" class="title"><span data-v-1f47c720="" class="text"> Titanic <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4576760" class="link_artist"><span class="text">FNF Chop</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Y스포츠센터 응원가 (즐겨라) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7348450</id>
+        <link href="https://vibe.naver.com/album/7348450"/>
+        <updated>2022-03-10T08:16:11.996Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348450" class="title"><span data-v-1f47c720="" class="text"> Y스포츠센터 응원가 (즐겨라) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2156479" class="link_artist"><span class="text">윤석현</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Escape 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7347949"/>
         <updated>2022-03-10T02:19:53.490Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347949" class="title"><span data-v-1f47c720="" class="text"> Rue De Bas <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4988328" class="link_artist"><span class="text">Roma 49</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lumina 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347946</id>
-        <link href="https://vibe.naver.com/album/7347946"/>
-        <updated>2022-03-10T02:19:53.491Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347946" class="title"><span data-v-1f47c720="" class="text"> Lumina <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3898275" class="link_artist"><span class="text">Ujuu</span></a><span>, </span></span><span><a href="/artist/3349495" class="link_artist"><span class="text">Ryns</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T10:19:24.436Z</updated>
+    <updated>2022-03-10T11:13:20.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[너머 (The Other Side) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Michael Fay]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[JE M'EN REMETS A TA LOI (Live concert) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7350409</id>
+        <link href="https://vibe.naver.com/album/7350409"/>
+        <updated>2022-03-10T11:13:19.810Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7350409" class="title"><span data-v-1f47c720="" class="text"> JE M'EN REMETS A TA LOI (Live concert) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2786205" class="link_artist"><span class="text">Wilsone</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Circus 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7349351</id>
+        <link href="https://vibe.naver.com/album/7349351"/>
+        <updated>2022-03-10T11:13:19.810Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7349351" class="title"><span data-v-1f47c720="" class="text"> Circus <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2900766" class="link_artist"><span class="text">Niko Walters</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Playlist 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7348635</id>
         <link href="https://vibe.naver.com/album/7348635"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7347961"/>
         <updated>2022-03-10T02:19:53.484Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347961" class="title"><span data-v-1f47c720="" class="text"> Lança da Marcone <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2398476" class="link_artist"><span class="text">Mc Talibã</span></a><span>, </span></span><span><a href="/artist/4061363" class="link_artist"><span class="text">MC Luiggi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astro do Cenário 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7347960</id>
-        <link href="https://vibe.naver.com/album/7347960"/>
-        <updated>2022-03-10T02:19:53.485Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347960" class="title"><span data-v-1f47c720="" class="text"> Astro do Cenário <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3569142" class="link_artist"><span class="text">Mc Wallace</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nghe Đi Rồi Ngủ 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7347959</id>
-        <link href="https://vibe.naver.com/album/7347959"/>
-        <updated>2022-03-10T10:19:23.891Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347959" class="title"><span data-v-1f47c720="" class="text"> Nghe Đi Rồi Ngủ <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3024165" class="link_artist"><span class="text">Củ Cải</span></a><span>, </span></span><span><a href="/artist/5261557" class="link_artist"><span class="text">m r x</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

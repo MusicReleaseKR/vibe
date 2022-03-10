@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-10T05:12:45.641Z</updated>
+    <updated>2022-03-10T06:16:49.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/7348321"/>
         <updated>2022-03-10T02:19:53.385Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348321" class="title"><span data-v-1f47c720="" class="text"> Escape <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4923720" class="link_artist"><span class="text">J.He</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[New Day 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7348288</id>
+        <link href="https://vibe.naver.com/album/7348288"/>
+        <updated>2022-03-10T06:16:48.282Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348288" class="title"><span data-v-1f47c720="" class="text"> New Day <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/279163" class="link_artist"><span class="text">Alison Wonderland</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휴식할 때 듣기 좋은 클래식 피아노 75 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7347946"/>
         <updated>2022-03-10T02:19:53.491Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347946" class="title"><span data-v-1f47c720="" class="text"> Lumina <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3898275" class="link_artist"><span class="text">Ujuu</span></a><span>, </span></span><span><a href="/artist/3349495" class="link_artist"><span class="text">Ryns</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do You Remember? 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347945</id>
-        <link href="https://vibe.naver.com/album/7347945"/>
-        <updated>2022-03-10T02:19:53.492Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347945" class="title"><span data-v-1f47c720="" class="text"> Do You Remember? <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/7675" class="link_artist"><span class="text">Darren Hayes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

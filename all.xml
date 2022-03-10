@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T06:16:49.386Z</updated>
+    <updated>2022-03-10T07:13:09.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[네 생각이 나지 않았다고 말했어 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -40,7 +40,7 @@
         <content type="html"><![CDATA[EXN]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[끝이안보이는데퇴근을어떻게일찍해 (Feat. 이루어진) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <title type="html"><![CDATA[WORKER 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/7347074</id>
         <link href="https://vibe.naver.com/album/7347074"/>
         <updated>2022-03-10T03:17:45.292Z</updated>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Idman]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Playlist 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7348635</id>
+        <link href="https://vibe.naver.com/album/7348635"/>
+        <updated>2022-03-10T07:13:08.527Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348635" class="title"><span data-v-1f47c720="" class="text"> Playlist <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5300085" class="link_artist"><span class="text">Chanel Loren</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Whap Whap 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7348505</id>
         <link href="https://vibe.naver.com/album/7348505"/>
@@ -724,13 +731,6 @@
         <link href="https://vibe.naver.com/album/7348321"/>
         <updated>2022-03-10T02:19:53.385Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348321" class="title"><span data-v-1f47c720="" class="text"> Escape <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4923720" class="link_artist"><span class="text">J.He</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Day 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7348288</id>
-        <link href="https://vibe.naver.com/album/7348288"/>
-        <updated>2022-03-10T06:16:48.282Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348288" class="title"><span data-v-1f47c720="" class="text"> New Day <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/279163" class="link_artist"><span class="text">Alison Wonderland</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[휴식할 때 듣기 좋은 클래식 피아노 75 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

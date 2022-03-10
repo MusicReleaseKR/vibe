@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-10T11:13:20.862Z</updated>
+    <updated>2022-03-10T12:23:36.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[너머 (The Other Side) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,18 +705,18 @@
         <content type="html"><![CDATA[Michael Fay]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Va En Thozhi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7350714</id>
+        <link href="https://vibe.naver.com/album/7350714"/>
+        <updated>2022-03-10T12:23:36.081Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7350714" class="title"><span data-v-1f47c720="" class="text"> Va En Thozhi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/124423" class="link_artist"><span class="text">Ben Human</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[JE M'EN REMETS A TA LOI (Live concert) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7350409</id>
         <link href="https://vibe.naver.com/album/7350409"/>
         <updated>2022-03-10T11:13:19.810Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7350409" class="title"><span data-v-1f47c720="" class="text"> JE M'EN REMETS A TA LOI (Live concert) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2786205" class="link_artist"><span class="text">Wilsone</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Circus 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7349351</id>
-        <link href="https://vibe.naver.com/album/7349351"/>
-        <updated>2022-03-10T11:13:19.810Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7349351" class="title"><span data-v-1f47c720="" class="text"> Circus <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2900766" class="link_artist"><span class="text">Niko Walters</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Playlist 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

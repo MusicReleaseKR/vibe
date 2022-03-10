@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-10T04:17:55.354Z</updated>
+    <updated>2022-03-10T05:12:45.641Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Whap Whap 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7348505</id>
+        <link href="https://vibe.naver.com/album/7348505"/>
+        <updated>2022-03-10T05:12:44.586Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348505" class="title"><span data-v-1f47c720="" class="text"> Whap Whap <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2558118" class="link_artist"><span class="text">Skillibeng</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Titanic 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7348504</id>
+        <link href="https://vibe.naver.com/album/7348504"/>
+        <updated>2022-03-10T05:12:44.586Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7348504" class="title"><span data-v-1f47c720="" class="text"> Titanic <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4576760" class="link_artist"><span class="text">FNF Chop</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Escape 업데이트]]></title>
         <id>https://vibe.naver.com/album/7348321</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7347945"/>
         <updated>2022-03-10T02:19:53.492Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347945" class="title"><span data-v-1f47c720="" class="text"> Do You Remember? <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/7675" class="link_artist"><span class="text">Darren Hayes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fancy Drip 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347944</id>
-        <link href="https://vibe.naver.com/album/7347944"/>
-        <updated>2022-03-10T02:19:53.493Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347944" class="title"><span data-v-1f47c720="" class="text"> Fancy Drip <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5116760" class="link_artist"><span class="text">KeewiMakingMillions</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adım 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347943</id>
-        <link href="https://vibe.naver.com/album/7347943"/>
-        <updated>2022-03-10T02:19:53.494Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7347943" class="title"><span data-v-1f47c720="" class="text"> Adım <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4410462" class="link_artist"><span class="text">Oksijen</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

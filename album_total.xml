@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-11T04:18:08.950Z</updated>
+    <updated>2022-03-11T05:12:25.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bones 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7353132</id>
+        <link href="https://vibe.naver.com/album/7353132"/>
+        <updated>2022-03-11T05:12:24.433Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353132" class="title"><span data-v-1f47c720="" class="text"> Bones <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/210899" class="link_artist"><span class="text">Imagine Dragons</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7220 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7353109</id>
+        <link href="https://vibe.naver.com/album/7353109"/>
+        <updated>2022-03-11T05:12:24.441Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353109" class="title"><span data-v-1f47c720="" class="text"> 7220 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/270766" class="link_artist"><span class="text">Lil Durk</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Verano Sin Sol 업데이트]]></title>
         <id>https://vibe.naver.com/album/7353034</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7352552"/>
         <updated>2022-03-11T03:16:10.015Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352552" class="title"><span data-v-1f47c720="" class="text"> Same Same But Different 시즌 4. '지구 울다: Earth Cry' <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5348002" class="link_artist"><span class="text">노름마치</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Might Be Through With The Past, But The Past Ain't Through With Us 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7352532</id>
-        <link href="https://vibe.naver.com/album/7352532"/>
-        <updated>2022-03-11T03:16:10.016Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352532" class="title"><span data-v-1f47c720="" class="text"> We Might Be Through With The Past, But The Past Ain't Through With Us <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4780565" class="link_artist"><span class="text">라이언 컬프(Ryan Kulp)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adesso torni a casa 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7352527</id>
-        <link href="https://vibe.naver.com/album/7352527"/>
-        <updated>2022-03-11T00:56:18.770Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352527" class="title"><span data-v-1f47c720="" class="text"> Adesso torni a casa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4948941" class="link_artist"><span class="text">Marco Fracasia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

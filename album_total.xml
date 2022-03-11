@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-11T15:18:45.006Z</updated>
+    <updated>2022-03-11T16:24:06.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Baboon Blues 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7357249</id>
+        <link href="https://vibe.naver.com/album/7357249"/>
+        <updated>2022-03-11T16:24:05.424Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7357249" class="title"><span data-v-1f47c720="" class="text"> Baboon Blues <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4705018" class="link_artist"><span class="text">Shinysides</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Segen und Fluch 업데이트]]></title>
         <id>https://vibe.naver.com/album/7356896</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7352030"/>
         <updated>2022-03-11T15:18:44.413Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352030" class="title"><span data-v-1f47c720="" class="text"> Unexpected Miracle <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5350958" class="link_artist"><span class="text">Anthony Tonge</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pagli 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7352029</id>
-        <link href="https://vibe.naver.com/album/7352029"/>
-        <updated>2022-03-11T15:18:44.414Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352029" class="title"><span data-v-1f47c720="" class="text"> Pagli <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/170020" class="link_artist"><span class="text">Jolly</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

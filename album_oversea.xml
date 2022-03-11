@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-11T08:16:14.823Z</updated>
+    <updated>2022-03-11T09:19:23.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sweetest Pie 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7348807</id>
+        <link href="https://vibe.naver.com/album/7348807"/>
+        <updated>2022-03-11T09:19:11.299Z</updated>
+        <content type="html"><![CDATA[Megan Thee Stallion]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bones 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7353132</id>
+        <link href="https://vibe.naver.com/album/7353132"/>
+        <updated>2022-03-11T09:19:11.302Z</updated>
+        <content type="html"><![CDATA[Imagine Dragons]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Discoteca (Deorro Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7345996</id>
+        <link href="https://vibe.naver.com/album/7345996"/>
+        <updated>2022-03-11T09:19:11.303Z</updated>
+        <content type="html"><![CDATA[Pitbull]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Juniper Songbook 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7347397</id>
+        <link href="https://vibe.naver.com/album/7347397"/>
+        <updated>2022-03-11T09:19:11.304Z</updated>
+        <content type="html"><![CDATA[Summer Salt]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[once in a moon 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7349381</id>
+        <link href="https://vibe.naver.com/album/7349381"/>
+        <updated>2022-03-11T09:19:11.305Z</updated>
+        <content type="html"><![CDATA[Sarah Kang]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iPad 업데이트]]></title>
         <id>https://vibe.naver.com/album/7351635</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/7340623"/>
         <updated>2022-03-10T03:17:56.517Z</updated>
         <content type="html"><![CDATA[Cool Company]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dodging Bullets 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347164</id>
-        <link href="https://vibe.naver.com/album/7347164"/>
-        <updated>2022-03-10T03:17:56.518Z</updated>
-        <content type="html"><![CDATA[pisceze]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Between: The Collection 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7335858</id>
-        <link href="https://vibe.naver.com/album/7335858"/>
-        <updated>2022-03-10T03:17:56.519Z</updated>
-        <content type="html"><![CDATA[Danielle Bradbery]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Paris Girls 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347278</id>
-        <link href="https://vibe.naver.com/album/7347278"/>
-        <updated>2022-03-10T03:17:56.519Z</updated>
-        <content type="html"><![CDATA[FLAVIA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[History 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7344395</id>
-        <link href="https://vibe.naver.com/album/7344395"/>
-        <updated>2022-03-10T03:17:56.520Z</updated>
-        <content type="html"><![CDATA[Mitch James]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow Motion 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7344385</id>
-        <link href="https://vibe.naver.com/album/7344385"/>
-        <updated>2022-03-11T05:12:14.900Z</updated>
-        <content type="html"><![CDATA[Lily Lyons]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-11T22:13:57.765Z</updated>
+    <updated>2022-03-11T23:13:19.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GANADARA 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Cool Company]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Candy 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7360210</id>
+        <link href="https://vibe.naver.com/album/7360210"/>
+        <updated>2022-03-11T23:13:19.183Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7360210" class="title"><span data-v-1f47c720="" class="text"> Candy <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4910199" class="link_artist"><span class="text">Dope Rodriguez</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sohni Naar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7360174</id>
+        <link href="https://vibe.naver.com/album/7360174"/>
+        <updated>2022-03-11T23:13:19.183Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7360174" class="title"><span data-v-1f47c720="" class="text"> Sohni Naar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4939122" class="link_artist"><span class="text">Timmy Sirhind</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pusha 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7359197</id>
         <link href="https://vibe.naver.com/album/7359197"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7353027"/>
         <updated>2022-03-11T15:18:44.372Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353027" class="title"><span data-v-1f47c720="" class="text"> Amends <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3279619" class="link_artist"><span class="text">Makadi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Présidentielle '22 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7352875</id>
-        <link href="https://vibe.naver.com/album/7352875"/>
-        <updated>2022-03-11T15:18:44.372Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352875" class="title"><span data-v-1f47c720="" class="text"> Présidentielle '22 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4070189" class="link_artist"><span class="text">Lil Candy Brownie</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Kid 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7352845</id>
-        <link href="https://vibe.naver.com/album/7352845"/>
-        <updated>2022-03-11T15:18:44.372Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7352845" class="title"><span data-v-1f47c720="" class="text"> Hey Kid <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4892501" class="link_artist"><span class="text">Buzzing Around</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

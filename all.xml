@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-12T04:17:39.772Z</updated>
+    <updated>2022-03-12T05:11:57.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Vol.128] 유희열의 스케치북 With you : 여든 세번째 목소리 '유스케 X 포레스텔라' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Cool Company]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Selection 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7362592</id>
+        <link href="https://vibe.naver.com/album/7362592"/>
+        <updated>2022-03-12T05:11:57.032Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7362592" class="title"><span data-v-1f47c720="" class="text"> Selection <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5221864" class="link_artist"><span class="text">KASSYRIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[El Último Trago y Nos Vamos (VOL 1) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7362259</id>
         <link href="https://vibe.naver.com/album/7362259"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7353508"/>
         <updated>2022-03-11T15:18:44.364Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353508" class="title"><span data-v-1f47c720="" class="text"> أصوات المطر للمساعدة على النوم (أصوات الطبيعة) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4803787" class="link_artist"><span class="text">موسيقى غورو ووف لتهدئة الأطفال</span></a><span>, </span></span><span><a href="/artist/4803788" class="link_artist"><span class="text">أغاني أطفال لولو آند لو</span></a><span>, </span></span><span><a href="/artist/3588579" class="link_artist"><span class="text">Loulou &amp; Lou</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353474</id>
-        <link href="https://vibe.naver.com/album/7353474"/>
-        <updated>2022-03-12T03:14:49.925Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353474" class="title"><span data-v-1f47c720="" class="text"> 바람 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2479383" class="link_artist"><span class="text">만모스</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

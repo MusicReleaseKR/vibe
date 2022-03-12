@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-12T00:49:22.224Z</updated>
+    <updated>2022-03-12T02:00:49.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[GANADARA 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,55 @@
         <content type="html"><![CDATA[Cool Company]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Loafer 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361738</id>
+        <link href="https://vibe.naver.com/album/7361738"/>
+        <updated>2022-03-12T02:00:48.815Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361738" class="title"><span data-v-1f47c720="" class="text"> Loafer <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3454768" class="link_artist"><span class="text">Deep Dhaka</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Graphic 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361601</id>
+        <link href="https://vibe.naver.com/album/7361601"/>
+        <updated>2022-03-12T02:00:48.817Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361601" class="title"><span data-v-1f47c720="" class="text"> Graphic <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4580635" class="link_artist"><span class="text">Taylah</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vortix 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361585</id>
+        <link href="https://vibe.naver.com/album/7361585"/>
+        <updated>2022-03-12T02:00:48.817Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361585" class="title"><span data-v-1f47c720="" class="text"> Vortix <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5221864" class="link_artist"><span class="text">KASSYRIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dreaming 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361458</id>
+        <link href="https://vibe.naver.com/album/7361458"/>
+        <updated>2022-03-12T02:00:48.817Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361458" class="title"><span data-v-1f47c720="" class="text"> Dreaming <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5221864" class="link_artist"><span class="text">KASSYRIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ibryd 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361331</id>
+        <link href="https://vibe.naver.com/album/7361331"/>
+        <updated>2022-03-12T02:00:48.817Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361331" class="title"><span data-v-1f47c720="" class="text"> Ibryd <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5221864" class="link_artist"><span class="text">KASSYRIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nient'altro che te 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361242</id>
+        <link href="https://vibe.naver.com/album/7361242"/>
+        <updated>2022-03-12T02:00:48.817Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361242" class="title"><span data-v-1f47c720="" class="text"> Nient'altro che te <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4555545" class="link_artist"><span class="text">Serafico</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[COUPE DECALE CONGOLAIS - MBOKALISATION 3.0 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7361194</id>
+        <link href="https://vibe.naver.com/album/7361194"/>
+        <updated>2022-03-12T02:00:48.819Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361194" class="title"><span data-v-1f47c720="" class="text"> COUPE DECALE CONGOLAIS - MBOKALISATION 3.0 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4581716" class="link_artist"><span class="text">AFARA TSENA FUKUSHIMA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Candy 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7360210</id>
         <link href="https://vibe.naver.com/album/7360210"/>
@@ -1004,54 +1053,5 @@
         <link href="https://vibe.naver.com/album/7353448"/>
         <updated>2022-03-11T15:18:44.366Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353448" class="title"><span data-v-1f47c720="" class="text"> Canções De Crianças <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3588589" class="link_artist"><span class="text">Música de Ninar Yin &amp; Jan</span></a><span>, </span></span><span><a href="/artist/3568623" class="link_artist"><span class="text">LL Kids Canções Infantis</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kleinkindlieder 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353447</id>
-        <link href="https://vibe.naver.com/album/7353447"/>
-        <updated>2022-03-11T15:18:44.366Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353447" class="title"><span data-v-1f47c720="" class="text"> Kleinkindlieder <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3588585" class="link_artist"><span class="text">Schlaflieder Yin und Jan</span></a><span>, </span></span><span><a href="/artist/3568607" class="link_artist"><span class="text">LL Kids Kinderlieder</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chansons Pour Tout-Petits 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353445</id>
-        <link href="https://vibe.naver.com/album/7353445"/>
-        <updated>2022-03-11T15:18:44.366Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353445" class="title"><span data-v-1f47c720="" class="text"> Chansons Pour Tout-Petits <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3588590" class="link_artist"><span class="text">Berceuse Pour Bébé Yin et Jan</span></a><span>, </span></span><span><a href="/artist/3568601" class="link_artist"><span class="text">LL Kids Chansons Pour Enfants</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peuterliedjes 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353444</id>
-        <link href="https://vibe.naver.com/album/7353444"/>
-        <updated>2022-03-11T15:18:44.368Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353444" class="title"><span data-v-1f47c720="" class="text"> Peuterliedjes <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3588591" class="link_artist"><span class="text">Slaapliedjes Yin en Jan</span></a><span>, </span></span><span><a href="/artist/3568244" class="link_artist"><span class="text">LL Kids Kinderliedjes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toddler Songs 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353443</id>
-        <link href="https://vibe.naver.com/album/7353443"/>
-        <updated>2022-03-11T15:18:44.368Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353443" class="title"><span data-v-1f47c720="" class="text"> Toddler Songs <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3588592" class="link_artist"><span class="text">Baby Lullabies Yin and Jan</span></a><span>, </span></span><span><a href="/artist/3568612" class="link_artist"><span class="text">LL Kids Nursery Rhymes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Gonna Do 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353247</id>
-        <link href="https://vibe.naver.com/album/7353247"/>
-        <updated>2022-03-11T15:18:44.368Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353247" class="title"><span data-v-1f47c720="" class="text"> What You Gonna Do <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3951451" class="link_artist"><span class="text">Still Crazy Unlimited</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Creating Chaos, Pt. 1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353213</id>
-        <link href="https://vibe.naver.com/album/7353213"/>
-        <updated>2022-03-11T15:18:44.370Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353213" class="title"><span data-v-1f47c720="" class="text"> Creating Chaos, Pt. 1 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4379738" class="link_artist"><span class="text">TheBrokenLeon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amends 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7353027</id>
-        <link href="https://vibe.naver.com/album/7353027"/>
-        <updated>2022-03-11T15:18:44.372Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7353027" class="title"><span data-v-1f47c720="" class="text"> Amends <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3279619" class="link_artist"><span class="text">Makadi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

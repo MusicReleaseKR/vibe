@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-13T10:14:04.475Z</updated>
+    <updated>2022-03-13T11:11:02.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Un Œil Ouvert 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7377053</id>
+        <link href="https://vibe.naver.com/album/7377053"/>
+        <updated>2022-03-13T11:11:02.097Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7377053" class="title"><span data-v-1f47c720="" class="text"> Un Œil Ouvert <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3672242" class="link_artist"><span class="text">Paulin Buntline</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Candy Flip 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7376744</id>
+        <link href="https://vibe.naver.com/album/7376744"/>
+        <updated>2022-03-13T11:11:02.099Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7376744" class="title"><span data-v-1f47c720="" class="text"> Candy Flip <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2723392" class="link_artist"><span class="text">Máci</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Interplanetary 업데이트]]></title>
         <id>https://vibe.naver.com/album/7376083</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7361839"/>
         <updated>2022-03-12T15:13:31.239Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361839" class="title"><span data-v-1f47c720="" class="text"> Darli <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2692578" class="link_artist"><span class="text">Sebastian Schiller</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kandy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7361788</id>
-        <link href="https://vibe.naver.com/album/7361788"/>
-        <updated>2022-03-12T15:13:31.239Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361788" class="title"><span data-v-1f47c720="" class="text"> Kandy <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4181903" class="link_artist"><span class="text">MN-Music</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calm Aftermath (Strings) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7361518</id>
-        <link href="https://vibe.naver.com/album/7361518"/>
-        <updated>2022-03-12T15:13:31.240Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361518" class="title"><span data-v-1f47c720="" class="text"> Calm Aftermath (Strings) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5180097" class="link_artist"><span class="text">Norman Cooper</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

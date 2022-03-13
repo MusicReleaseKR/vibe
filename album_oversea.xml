@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-13T02:03:57.124Z</updated>
+    <updated>2022-03-13T03:14:34.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Maybe We Could Be a Thing 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7353421</id>
+        <link href="https://vibe.naver.com/album/7353421"/>
+        <updated>2022-03-13T03:14:24.078Z</updated>
+        <content type="html"><![CDATA[Jesse Barrera]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweetest Pie 업데이트]]></title>
         <id>https://vibe.naver.com/album/7348807</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7347384"/>
         <updated>2022-03-10T03:17:56.516Z</updated>
         <content type="html"><![CDATA[Panski]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kind Of Freak (Jafunk Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7340623</id>
-        <link href="https://vibe.naver.com/album/7340623"/>
-        <updated>2022-03-10T03:17:56.517Z</updated>
-        <content type="html"><![CDATA[Cool Company]]></content>
     </entry>
 </feed>

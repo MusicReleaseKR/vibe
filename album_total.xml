@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-13T07:13:27.449Z</updated>
+    <updated>2022-03-13T08:15:30.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Interplanetary 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7376083</id>
+        <link href="https://vibe.naver.com/album/7376083"/>
+        <updated>2022-03-13T08:15:29.619Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7376083" class="title"><span data-v-1f47c720="" class="text"> Interplanetary <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3625723" class="link_artist"><span class="text">Pavlin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Notturn 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7375974</id>
+        <link href="https://vibe.naver.com/album/7375974"/>
+        <updated>2022-03-13T08:15:29.619Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7375974" class="title"><span data-v-1f47c720="" class="text"> Notturn <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5221864" class="link_artist"><span class="text">KASSYRIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tampak Siring Bali 업데이트]]></title>
         <id>https://vibe.naver.com/album/7375082</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7361518"/>
         <updated>2022-03-12T15:13:31.240Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361518" class="title"><span data-v-1f47c720="" class="text"> Calm Aftermath (Strings) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5180097" class="link_artist"><span class="text">Norman Cooper</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[סוכריות קופצות (שירי משוררים לילדים ולהורים) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7361497</id>
-        <link href="https://vibe.naver.com/album/7361497"/>
-        <updated>2022-03-12T15:13:31.240Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361497" class="title"><span data-v-1f47c720="" class="text"> סוכריות קופצות (שירי משוררים לילדים ולהורים) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4654322" class="link_artist"><span class="text">יעל ארנון ורד</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please Don't Fight 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7361200</id>
-        <link href="https://vibe.naver.com/album/7361200"/>
-        <updated>2022-03-12T15:13:31.242Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7361200" class="title"><span data-v-1f47c720="" class="text"> Please Don't Fight <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1780324" class="link_artist"><span class="text">Wilde</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

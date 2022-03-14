@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T04:20:28.329Z</updated>
+    <updated>2022-03-14T05:34:22.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[봄날의 우리 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[George Cosby]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[At Midnight I Will Rise 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7385696</id>
+        <link href="https://vibe.naver.com/album/7385696"/>
+        <updated>2022-03-14T05:34:21.607Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7385696" class="title"><span data-v-1f47c720="" class="text"> At Midnight I Will Rise <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2431874" class="link_artist"><span class="text">Yelena Eckemoff</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live @ Q 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7385364</id>
+        <link href="https://vibe.naver.com/album/7385364"/>
+        <updated>2022-03-14T05:34:21.607Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7385364" class="title"><span data-v-1f47c720="" class="text"> Live @ Q <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2154631" class="link_artist"><span class="text">Olívia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vitiligo No Preocupa 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7385052</id>
         <link href="https://vibe.naver.com/album/7385052"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7369276"/>
         <updated>2022-03-13T15:13:47.784Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7369276" class="title"><span data-v-1f47c720="" class="text"> CINEMA <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3600770" class="link_artist"><span class="text">Marlhy</span></a><span>, </span></span><span><a href="/artist/987267" class="link_artist"><span class="text">Oddkidout</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Petalo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7369271</id>
-        <link href="https://vibe.naver.com/album/7369271"/>
-        <updated>2022-03-13T15:13:47.786Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7369271" class="title"><span data-v-1f47c720="" class="text"> Petalo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5211359" class="link_artist"><span class="text">Chabal</span></a><span>, </span></span><span><a href="/artist/2877025" class="link_artist"><span class="text">Inline</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forever Young 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7369265</id>
-        <link href="https://vibe.naver.com/album/7369265"/>
-        <updated>2022-03-13T15:13:47.788Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7369265" class="title"><span data-v-1f47c720="" class="text"> Forever Young <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4652078" class="link_artist"><span class="text">Viki and the Wild</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

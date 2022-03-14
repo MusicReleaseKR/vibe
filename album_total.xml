@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-14T16:24:05.592Z</updated>
+    <updated>2022-03-14T17:15:49.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -130,13 +130,6 @@
         <link href="https://vibe.naver.com/album/7386822"/>
         <updated>2022-03-14T15:18:25.007Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7386822" class="title"><span data-v-1f47c720="" class="text"> Diversity (Pagkakaiba-iba) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4107735" class="link_artist"><span class="text">Def Jam REKOGNIZE</span></a><span>, </span></span><span><a href="/artist/4926854" class="link_artist"><span class="text">Banong Bagsek</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Be Scared 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7386381</id>
-        <link href="https://vibe.naver.com/album/7386381"/>
-        <updated>2022-03-14T16:24:04.808Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7386381" class="title"><span data-v-1f47c720="" class="text"> Don't Be Scared <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/123972" class="link_artist"><span class="text">Chase &amp; Status</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ferrari (Extended Mix) (Download Ver.) 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7379917"/>
         <updated>2022-03-14T15:18:25.042Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7379917" class="title"><span data-v-1f47c720="" class="text"> تعمل عم البطل <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5250790" class="link_artist"><span class="text">حسام راضي</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The World is Gray 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7379916</id>
+        <link href="https://vibe.naver.com/album/7379916"/>
+        <updated>2022-03-14T17:15:49.256Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7379916" class="title"><span data-v-1f47c720="" class="text"> The World is Gray <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4311052" class="link_artist"><span class="text">Generix</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

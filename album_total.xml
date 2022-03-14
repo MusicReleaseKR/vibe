@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-13T23:15:04.817Z</updated>
+    <updated>2022-03-14T00:54:41.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Innovation 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7383438</id>
+        <link href="https://vibe.naver.com/album/7383438"/>
+        <updated>2022-03-14T00:54:40.376Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7383438" class="title"><span data-v-1f47c720="" class="text"> Innovation <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5221864" class="link_artist"><span class="text">KASSYRIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run for Cover 업데이트]]></title>
         <id>https://vibe.naver.com/album/7383172</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7367912"/>
         <updated>2022-03-13T15:13:47.801Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7367912" class="title"><span data-v-1f47c720="" class="text"> Selalu <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3883295" class="link_artist"><span class="text">Alfie Zumi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back to You 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7367911</id>
-        <link href="https://vibe.naver.com/album/7367911"/>
-        <updated>2022-03-13T15:13:47.803Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7367911" class="title"><span data-v-1f47c720="" class="text"> Back to You <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4109429" class="link_artist"><span class="text">deckos.</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

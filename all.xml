@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T17:15:49.968Z</updated>
+    <updated>2022-03-14T18:20:51.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BORN TO LOVE YOU 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[George Cosby]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kamle 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7391240</id>
+        <link href="https://vibe.naver.com/album/7391240"/>
+        <updated>2022-03-14T18:20:50.429Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7391240" class="title"><span data-v-1f47c720="" class="text"> Kamle <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1363647" class="link_artist"><span class="text">Akasa</span></a><span>, </span></span><span><a href="/artist/2404718" class="link_artist"><span class="text">Yasser Desai</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fin 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7390109</id>
         <link href="https://vibe.naver.com/album/7390109"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7379917"/>
         <updated>2022-03-14T15:18:25.042Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7379917" class="title"><span data-v-1f47c720="" class="text"> تعمل عم البطل <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5250790" class="link_artist"><span class="text">حسام راضي</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The World is Gray 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7379916</id>
-        <link href="https://vibe.naver.com/album/7379916"/>
-        <updated>2022-03-14T17:15:49.256Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7379916" class="title"><span data-v-1f47c720="" class="text"> The World is Gray <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4311052" class="link_artist"><span class="text">Generix</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

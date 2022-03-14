@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-14T12:23:18.085Z</updated>
+    <updated>2022-03-14T13:25:04.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Trong Đó Có Chúng Ta 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7388669</id>
+        <link href="https://vibe.naver.com/album/7388669"/>
+        <updated>2022-03-14T13:25:02.912Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7388669" class="title"><span data-v-1f47c720="" class="text"> Trong Đó Có Chúng Ta <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5356344" class="link_artist"><span class="text">BAE Khanh Huyen</span></a><span>, </span></span><span><a href="/artist/5356345" class="link_artist"><span class="text">BAE quynhanh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lover Hamar 업데이트]]></title>
         <id>https://vibe.naver.com/album/7388331</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7371385"/>
         <updated>2022-03-13T15:13:47.729Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7371385" class="title"><span data-v-1f47c720="" class="text"> En panne <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4929356" class="link_artist"><span class="text">Chaos Heidi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hotbox Session #3 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7370795</id>
-        <link href="https://vibe.naver.com/album/7370795"/>
-        <updated>2022-03-13T15:13:47.733Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7370795" class="title"><span data-v-1f47c720="" class="text"> Hotbox Session #3 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5273171" class="link_artist"><span class="text">Hotbox Network</span></a><span>, </span></span><span><a href="/artist/2897860" class="link_artist"><span class="text">Thanasimos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

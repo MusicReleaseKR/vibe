@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-15T21:10:31.740Z</updated>
+    <updated>2022-03-15T22:15:45.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Niggh 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7403410</id>
+        <link href="https://vibe.naver.com/album/7403410"/>
+        <updated>2022-03-15T22:15:44.778Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7403410" class="title"><span data-v-1f47c720="" class="text"> Niggh <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3769075" class="link_artist"><span class="text">Simiran Kaur Dhadli</span></a><span>, </span></span><span><a href="/artist/1876403" class="link_artist"><span class="text">Bunty Bains</span></a><span>, </span></span><span><a href="/artist/3522371" class="link_artist"><span class="text">Wazir Patar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tomodachi 업데이트]]></title>
         <id>https://vibe.naver.com/album/7400478</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7390598"/>
         <updated>2022-03-15T15:14:35.632Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7390598" class="title"><span data-v-1f47c720="" class="text"> Paul Bismuth #2 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3416085" class="link_artist"><span class="text">TAZKO BOOSTER</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trust in U <3<3<3 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7390162</id>
-        <link href="https://vibe.naver.com/album/7390162"/>
-        <updated>2022-03-15T15:14:35.636Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7390162" class="title"><span data-v-1f47c720="" class="text"> Trust in U &lt;3&lt;3&lt;3 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3848679" class="link_artist"><span class="text">vst Zelda</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

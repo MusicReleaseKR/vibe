@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-15T07:13:48.434Z</updated>
+    <updated>2022-03-15T08:18:35.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -216,6 +216,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7386893" class="title"><span data-v-1f47c720="" class="text"> Highlights from Indian Summer <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/301827" class="link_artist"><span class="text">Yakushimaru Hiroko</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rocksta 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7386892</id>
+        <link href="https://vibe.naver.com/album/7386892"/>
+        <updated>2022-03-15T08:18:34.950Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7386892" class="title"><span data-v-1f47c720="" class="text"> Rocksta <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4110698" class="link_artist"><span class="text">1300</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[라온 Trio & Hymn 업데이트]]></title>
         <id>https://vibe.naver.com/album/7386891</id>
         <link href="https://vibe.naver.com/album/7386891"/>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7386819"/>
         <updated>2022-03-15T03:15:23.460Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7386819" class="title"><span data-v-1f47c720="" class="text"> Pt윤 가족찬양 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4604620" class="link_artist"><span class="text">PT윤 Ministry</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마시메롱의 색깔 똥 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7386818</id>
-        <link href="https://vibe.naver.com/album/7386818"/>
-        <updated>2022-03-15T03:15:23.461Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7386818" class="title"><span data-v-1f47c720="" class="text"> 마시메롱의 색깔 똥 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/273065" class="link_artist"><span class="text">주니토니</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

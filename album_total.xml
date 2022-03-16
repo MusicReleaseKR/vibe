@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-16T15:18:47.714Z</updated>
+    <updated>2022-03-16T16:19:40.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[A Lil Promo (Freestyle) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7407989</id>
-        <link href="https://vibe.naver.com/album/7407989"/>
-        <updated>2022-03-16T15:18:47.079Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7407989" class="title"><span data-v-1f47c720="" class="text"> A Lil Promo (Freestyle) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2554836" class="link_artist"><span class="text">Digga D</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Wymieniam waluty 업데이트]]></title>
         <id>https://vibe.naver.com/album/7407986</id>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7397975"/>
         <updated>2022-03-16T15:18:47.127Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397975" class="title"><span data-v-1f47c720="" class="text"> Gateaux <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2856526" class="link_artist"><span class="text">C'est Karma</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maxxx Beats 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7397974</id>
+        <link href="https://vibe.naver.com/album/7397974"/>
+        <updated>2022-03-16T16:19:40.230Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397974" class="title"><span data-v-1f47c720="" class="text"> Maxxx Beats <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1416394" class="link_artist"><span class="text">The Mika King</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

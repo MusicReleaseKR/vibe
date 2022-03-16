@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-16T19:16:04.274Z</updated>
+    <updated>2022-03-16T20:15:15.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DIMENSION 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,27 @@
         <content type="html"><![CDATA[Vaundy]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Laal Rang Le 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7409964</id>
+        <link href="https://vibe.naver.com/album/7409964"/>
+        <updated>2022-03-16T20:15:14.422Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7409964" class="title"><span data-v-1f47c720="" class="text"> Laal Rang Le <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/139020" class="link_artist"><span class="text">Harry</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mat Khel 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7409766</id>
+        <link href="https://vibe.naver.com/album/7409766"/>
+        <updated>2022-03-16T20:15:14.423Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7409766" class="title"><span data-v-1f47c720="" class="text"> Mat Khel <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1794107" class="link_artist"><span class="text">Ravish Khanna</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jab Se 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7409716</id>
+        <link href="https://vibe.naver.com/album/7409716"/>
+        <updated>2022-03-16T20:15:14.424Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7409716" class="title"><span data-v-1f47c720="" class="text"> Jab Se <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2735287" class="link_artist"><span class="text">Aüra</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Wymieniam waluty 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7407986</id>
         <link href="https://vibe.naver.com/album/7407986"/>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/7397977"/>
         <updated>2022-03-16T15:18:47.125Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397977" class="title"><span data-v-1f47c720="" class="text"> Soul Salvation <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4796328" class="link_artist"><span class="text">Qeight</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dogtooth 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7397976</id>
-        <link href="https://vibe.naver.com/album/7397976"/>
-        <updated>2022-03-16T15:18:47.126Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397976" class="title"><span data-v-1f47c720="" class="text"> Dogtooth <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4207226" class="link_artist"><span class="text">Poly Chain</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gateaux 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7397975</id>
-        <link href="https://vibe.naver.com/album/7397975"/>
-        <updated>2022-03-16T15:18:47.127Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397975" class="title"><span data-v-1f47c720="" class="text"> Gateaux <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2856526" class="link_artist"><span class="text">C'est Karma</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maxxx Beats 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7397974</id>
-        <link href="https://vibe.naver.com/album/7397974"/>
-        <updated>2022-03-16T16:19:40.230Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397974" class="title"><span data-v-1f47c720="" class="text"> Maxxx Beats <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1416394" class="link_artist"><span class="text">The Mika King</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

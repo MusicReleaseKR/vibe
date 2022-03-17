@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-17T00:53:36.257Z</updated>
+    <updated>2022-03-17T02:15:46.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[DIMENSION 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Vaundy]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Show Business 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7411564</id>
+        <link href="https://vibe.naver.com/album/7411564"/>
+        <updated>2022-03-17T02:15:45.366Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7411564" class="title"><span data-v-1f47c720="" class="text"> Show Business <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/146349" class="link_artist"><span class="text">The Hilltop Hoods</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Two Sides Of My Story 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7410927</id>
         <link href="https://vibe.naver.com/album/7410927"/>
@@ -738,6 +745,13 @@
         <link href="https://vibe.naver.com/album/7408983"/>
         <updated>2022-03-17T00:53:35.557Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7408983" class="title"><span data-v-1f47c720="" class="text"> Uno Nunca Sabe <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3073306" class="link_artist"><span class="text">Ke Personajes</span></a><span>, </span></span><span><a href="/artist/1861494" class="link_artist"><span class="text">Ulises Eyherabide</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[maybe 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7408925</id>
+        <link href="https://vibe.naver.com/album/7408925"/>
+        <updated>2022-03-17T02:15:45.414Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7408925" class="title"><span data-v-1f47c720="" class="text"> maybe <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/214374" class="link_artist"><span class="text">Machine Gun Kelly</span></a><span>, </span></span><span><a href="/artist/113355" class="link_artist"><span class="text">Bring Me The Horizon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wymieniam waluty 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7397982"/>
         <updated>2022-03-16T15:18:47.120Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397982" class="title"><span data-v-1f47c720="" class="text"> Coda <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5161626" class="link_artist"><span class="text">Le Big Zero</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No One is Thinking About You (Or Anyone Else for That Matter) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7397981</id>
-        <link href="https://vibe.naver.com/album/7397981"/>
-        <updated>2022-03-16T15:18:47.120Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397981" class="title"><span data-v-1f47c720="" class="text"> No One is Thinking About You (Or Anyone Else for That Matter) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2714157" class="link_artist"><span class="text">Devon Kay &amp; the Solutions</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unfuckwittable 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7397980</id>
-        <link href="https://vibe.naver.com/album/7397980"/>
-        <updated>2022-03-16T15:18:47.121Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7397980" class="title"><span data-v-1f47c720="" class="text"> Unfuckwittable <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5146670" class="link_artist"><span class="text">King Desiana</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

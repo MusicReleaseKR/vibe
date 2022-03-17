@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-17T03:15:07.867Z</updated>
+    <updated>2022-03-17T04:17:01.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://vibe.naver.com/album/7412653"/>
         <updated>2022-03-17T03:15:06.854Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7412653" class="title"><span data-v-1f47c720="" class="text"> Bad Bed <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1409130" class="link_artist"><span class="text">글라빙고(GLABINGO)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show Business 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7411564</id>
-        <link href="https://vibe.naver.com/album/7411564"/>
-        <updated>2022-03-17T02:15:45.366Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7411564" class="title"><span data-v-1f47c720="" class="text"> Show Business <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/146349" class="link_artist"><span class="text">The Hilltop Hoods</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Two Sides Of My Story 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7404741"/>
         <updated>2022-03-17T03:15:06.958Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7404741" class="title"><span data-v-1f47c720="" class="text"> Zerogyosukid Vol.1 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2562715" class="link_artist"><span class="text">ZEROGYOSUKID(제로교수키드)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Is Pain 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7404740</id>
+        <link href="https://vibe.naver.com/album/7404740"/>
+        <updated>2022-03-17T04:17:00.862Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7404740" class="title"><span data-v-1f47c720="" class="text"> Love Is Pain <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4057200" class="link_artist"><span class="text">Alexis Brooke</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

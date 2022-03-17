@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-17T16:18:30.770Z</updated>
+    <updated>2022-03-17T17:18:53.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tant Pis 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7416986</id>
+        <link href="https://vibe.naver.com/album/7416986"/>
+        <updated>2022-03-17T17:18:52.522Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7416986" class="title"><span data-v-1f47c720="" class="text"> Tant Pis <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4638623" class="link_artist"><span class="text">Romane &amp; Gaël</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[O.G Ni Nani? 업데이트]]></title>
         <id>https://vibe.naver.com/album/7416907</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7416788"/>
         <updated>2022-03-17T16:18:30.133Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7416788" class="title"><span data-v-1f47c720="" class="text"> Do It Again (Mario da Ragnio &amp; Mikimoto Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1618353" class="link_artist"><span class="text">El Mukuka</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ekkert að 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7416787</id>
-        <link href="https://vibe.naver.com/album/7416787"/>
-        <updated>2022-03-17T16:18:30.133Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7416787" class="title"><span data-v-1f47c720="" class="text"> Ekkert að <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5339804" class="link_artist"><span class="text">Una Torfa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

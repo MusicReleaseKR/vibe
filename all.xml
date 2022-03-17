@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-17T12:23:19.134Z</updated>
+    <updated>2022-03-17T13:26:11.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[RAD 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -768,6 +768,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7412653" class="title"><span data-v-1f47c720="" class="text"> Bad Bed <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1409130" class="link_artist"><span class="text">글라빙고(GLABINGO)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pegasus 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7411794</id>
+        <link href="https://vibe.naver.com/album/7411794"/>
+        <updated>2022-03-17T13:26:11.220Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7411794" class="title"><span data-v-1f47c720="" class="text"> Pegasus <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1253524" class="link_artist"><span class="text">Lück</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Two Sides Of My Story 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7410927</id>
         <link href="https://vibe.naver.com/album/7410927"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7404753"/>
         <updated>2022-03-17T03:15:06.950Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7404753" class="title"><span data-v-1f47c720="" class="text"> 열일곱이day 30 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2809958" class="link_artist"><span class="text">열일곱이다</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 싯다르타 Season4 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7404751</id>
-        <link href="https://vibe.naver.com/album/7404751"/>
-        <updated>2022-03-17T03:14:46.522Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7404751" class="title"><span data-v-1f47c720="" class="text"> 뮤지컬 싯다르타 Season4 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-17T11:13:54.733Z</updated>
+    <updated>2022-03-17T12:23:19.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STRESSES 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7416592</id>
+        <link href="https://vibe.naver.com/album/7416592"/>
+        <updated>2022-03-17T12:23:17.873Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7416592" class="title"><span data-v-1f47c720="" class="text"> STRESSES <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4789763" class="link_artist"><span class="text">of Mercury</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Time and Place 업데이트]]></title>
         <id>https://vibe.naver.com/album/7415723</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7404751"/>
         <updated>2022-03-17T03:15:06.952Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7404751" class="title"><span data-v-1f47c720="" class="text"> 뮤지컬 싯다르타 Season4 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wild One 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7404750</id>
-        <link href="https://vibe.naver.com/album/7404750"/>
-        <updated>2022-03-17T03:15:06.953Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7404750" class="title"><span data-v-1f47c720="" class="text"> Wild One <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1865999" class="link_artist"><span class="text">Samuel Jack</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

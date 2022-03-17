@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-17T17:18:53.235Z</updated>
+    <updated>2022-03-17T18:18:59.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ranjha 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7417022</id>
+        <link href="https://vibe.naver.com/album/7417022"/>
+        <updated>2022-03-17T18:18:59.182Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7417022" class="title"><span data-v-1f47c720="" class="text"> Ranjha <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5382466" class="link_artist"><span class="text">Hanan Shaah</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tant Pis 업데이트]]></title>
         <id>https://vibe.naver.com/album/7416986</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7416789"/>
         <updated>2022-03-17T16:18:30.118Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7416789" class="title"><span data-v-1f47c720="" class="text"> Risa y Llanto <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3476943" class="link_artist"><span class="text">Biomigrant</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do It Again (Mario da Ragnio & Mikimoto Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7416788</id>
-        <link href="https://vibe.naver.com/album/7416788"/>
-        <updated>2022-03-17T16:18:30.133Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7416788" class="title"><span data-v-1f47c720="" class="text"> Do It Again (Mario da Ragnio &amp; Mikimoto Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1618353" class="link_artist"><span class="text">El Mukuka</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

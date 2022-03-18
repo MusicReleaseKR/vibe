@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-18T08:16:29.384Z</updated>
+    <updated>2022-03-18T09:18:50.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blick Blick 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7419541</id>
+        <link href="https://vibe.naver.com/album/7419541"/>
+        <updated>2022-03-18T09:18:40.137Z</updated>
+        <content type="html"><![CDATA[Coi Leray]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7404704</id>
+        <link href="https://vibe.naver.com/album/7404704"/>
+        <updated>2022-03-18T09:18:40.138Z</updated>
+        <content type="html"><![CDATA[Mamas Gun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LILO 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7413173</id>
+        <link href="https://vibe.naver.com/album/7413173"/>
+        <updated>2022-03-18T09:18:40.156Z</updated>
+        <content type="html"><![CDATA[LILO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[海城 (Hai Cheng) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7415897</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7351713"/>
         <updated>2022-03-17T03:14:57.863Z</updated>
         <content type="html"><![CDATA[Alissic]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love.Life.Backstage 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7349449</id>
-        <link href="https://vibe.naver.com/album/7349449"/>
-        <updated>2022-03-17T03:14:57.864Z</updated>
-        <content type="html"><![CDATA[Big Pat]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You To You 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7347593</id>
-        <link href="https://vibe.naver.com/album/7347593"/>
-        <updated>2022-03-17T03:14:57.865Z</updated>
-        <content type="html"><![CDATA[Asian Kung-Fu Generation]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ziki Ziki 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7350422</id>
-        <link href="https://vibe.naver.com/album/7350422"/>
-        <updated>2022-03-16T03:17:09.210Z</updated>
-        <content type="html"><![CDATA[Static &amp; Ben El]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-18T00:52:56.746Z</updated>
+    <updated>2022-03-18T02:20:55.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[海城 (Hai Cheng) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7415897</id>
+        <link href="https://vibe.naver.com/album/7415897"/>
+        <updated>2022-03-18T02:20:43.295Z</updated>
+        <content type="html"><![CDATA[디에잇(SEVENTEEN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[It'll All Make Sense In The End (Deluxe) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7348451</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7386555"/>
         <updated>2022-03-16T03:17:09.253Z</updated>
         <content type="html"><![CDATA[Raon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LET THE GRASS GROW 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7351701</id>
-        <link href="https://vibe.naver.com/album/7351701"/>
-        <updated>2022-03-15T03:15:13.209Z</updated>
-        <content type="html"><![CDATA[Ruel]]></content>
     </entry>
 </feed>

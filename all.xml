@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T06:16:46.661Z</updated>
+    <updated>2022-03-18T07:13:28.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ODDINARY 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Static &amp; Ben El]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fastdrive Bye "Phonk" 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7420922</id>
+        <link href="https://vibe.naver.com/album/7420922"/>
+        <updated>2022-03-18T07:13:28.334Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7420922" class="title"><span data-v-1f47c720="" class="text"> Fastdrive Bye "Phonk" <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5387427" class="link_artist"><span class="text">mysxha</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Verona 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7420373</id>
         <link href="https://vibe.naver.com/album/7420373"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7418097"/>
         <updated>2022-03-18T00:52:55.988Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7418097" class="title"><span data-v-1f47c720="" class="text"> Ngbg <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3110540" class="link_artist"><span class="text">The OhNos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VAMPIRO 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7418071</id>
-        <link href="https://vibe.naver.com/album/7418071"/>
-        <updated>2022-03-18T00:52:55.989Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7418071" class="title"><span data-v-1f47c720="" class="text"> VAMPIRO <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2403572" class="link_artist"><span class="text">YTAM</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-03-18T03:18:06.152Z</updated>
+    <updated>2022-03-18T04:17:03.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ODDINARY 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7414419</id>
+        <link href="https://vibe.naver.com/album/7414419"/>
+        <updated>2022-03-18T04:16:43.149Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CATWALK (feat. Rico Nasty) (prod. GOLDBUUDA) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7415902</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7404318"/>
         <updated>2022-03-17T03:14:46.563Z</updated>
         <content type="html"><![CDATA[정하준]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개 망나니 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7404629</id>
-        <link href="https://vibe.naver.com/album/7404629"/>
-        <updated>2022-03-17T03:14:46.563Z</updated>
-        <content type="html"><![CDATA[배드맥스(BadMax)]]></content>
     </entry>
 </feed>

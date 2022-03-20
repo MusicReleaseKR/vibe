@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-20T15:14:18.781Z</updated>
+    <updated>2022-03-20T16:17:15.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[coNEXTion (Age of Light) - SM STATION : NCT LAB 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Alissic]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Acoustic Seven 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7422486</id>
+        <link href="https://vibe.naver.com/album/7422486"/>
+        <updated>2022-03-20T16:17:14.928Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7422486" class="title"><span data-v-1f47c720="" class="text"> Acoustic Seven <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2402899" class="link_artist"><span class="text">The Worship Zone</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[XinBawangBieJi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7422270</id>
         <link href="https://vibe.naver.com/album/7422270"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7422173"/>
         <updated>2022-03-20T15:14:18.192Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7422173" class="title"><span data-v-1f47c720="" class="text"> Blumi the Darkness (Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1566566" class="link_artist"><span class="text">Blumi</span></a><span>, </span></span><span><a href="/artist/5388020" class="link_artist"><span class="text">Ankierman</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ハルイチバン 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7422172</id>
-        <link href="https://vibe.naver.com/album/7422172"/>
-        <updated>2022-03-20T15:14:18.193Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7422172" class="title"><span data-v-1f47c720="" class="text"> ハルイチバン <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5388018" class="link_artist"><span class="text">きのぽっぽ</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

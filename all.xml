@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T03:23:31.960Z</updated>
+    <updated>2022-03-22T04:16:43.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Can't Stop This Party 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/7423591</id>
+        <link href="https://vibe.naver.com/album/7423591"/>
+        <updated>2022-03-22T04:16:23.328Z</updated>
+        <content type="html"><![CDATA[Seori]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moodswing 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/7423895</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/7418580"/>
         <updated>2022-03-21T03:22:15.169Z</updated>
         <content type="html"><![CDATA[LA트레인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신기루 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/7419227</id>
-        <link href="https://vibe.naver.com/album/7419227"/>
-        <updated>2022-03-21T03:22:15.170Z</updated>
-        <content type="html"><![CDATA[DAYTONSEOUL(데이턴서울)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Compliance 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -820,7 +820,7 @@
         <title type="html"><![CDATA[군검사 도베르만 OST Part 3 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7423984</id>
         <link href="https://vibe.naver.com/album/7423984"/>
-        <updated>2022-03-22T03:23:31.158Z</updated>
+        <updated>2022-03-22T03:23:10.971Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7423984" class="title"><span data-v-1f47c720="" class="text"> 군검사 도베르만 OST Part 3 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2436046" class="link_artist"><span class="text">YELO(옐로)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -841,7 +841,7 @@
         <title type="html"><![CDATA[YS BLOCK Ver.2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7423981</id>
         <link href="https://vibe.naver.com/album/7423981"/>
-        <updated>2022-03-22T03:23:31.159Z</updated>
+        <updated>2022-03-22T03:23:10.970Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7423981" class="title"><span data-v-1f47c720="" class="text"> YS BLOCK Ver.2 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4714877" class="link_artist"><span class="text">YS Block</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -876,14 +876,14 @@
         <title type="html"><![CDATA[그때의 그 노래 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7423973</id>
         <link href="https://vibe.naver.com/album/7423973"/>
-        <updated>2022-03-22T03:23:31.176Z</updated>
+        <updated>2022-03-22T03:23:10.986Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7423973" class="title"><span data-v-1f47c720="" class="text"> 그때의 그 노래 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5388694" class="link_artist"><span class="text">금표</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유니버스(UNIVERSE) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7423972</id>
         <link href="https://vibe.naver.com/album/7423972"/>
-        <updated>2022-03-22T03:23:31.184Z</updated>
+        <updated>2022-03-22T03:23:10.973Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7423972" class="title"><span data-v-1f47c720="" class="text"> 유니버스(UNIVERSE) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4548032" class="link_artist"><span class="text">최혜빈</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1051,7 +1051,7 @@
         <title type="html"><![CDATA[Moodswing 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7423895</id>
         <link href="https://vibe.naver.com/album/7423895"/>
-        <updated>2022-03-22T03:23:31.230Z</updated>
+        <updated>2022-03-22T03:23:10.961Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7423895" class="title"><span data-v-1f47c720="" class="text"> Moodswing <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1487574" class="link_artist"><span class="text">알레프(ALEPH)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

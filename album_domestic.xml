@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-03-22T07:13:11.163Z</updated>
+    <updated>2022-03-22T08:17:11.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Can't Stop This Party 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7423591</id>
-        <link href="https://vibe.naver.com/album/7423591"/>
-        <updated>2022-03-22T04:16:23.328Z</updated>
-        <content type="html"><![CDATA[Seori]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Moodswing 업데이트]]></title>
         <id>https://vibe.naver.com/album/7423895</id>
@@ -95,6 +88,13 @@
         <link href="https://vibe.naver.com/album/7423856"/>
         <updated>2022-03-22T03:23:10.979Z</updated>
         <content type="html"><![CDATA[이서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다나랜드 인기동요 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7423832</id>
+        <link href="https://vibe.naver.com/album/7423832"/>
+        <updated>2022-03-22T08:16:52.683Z</updated>
+        <content type="html"><![CDATA[다나랜드]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[찬란한 내 인생 OST Special Album 업데이트]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-22T23:23:45.584Z</updated>
+    <updated>2022-03-23T01:00:43.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dios y La Muerte 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7424944</id>
+        <link href="https://vibe.naver.com/album/7424944"/>
+        <updated>2022-03-23T01:00:42.646Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7424944" class="title"><span data-v-1f47c720="" class="text"> Dios y La Muerte <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1993171" class="link_artist"><span class="text">Bhavi</span></a><span>, </span></span><span><a href="/artist/1514350" class="link_artist"><span class="text">Santa Fe Klan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Business 업데이트]]></title>
         <id>https://vibe.naver.com/album/7424941</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7424889"/>
         <updated>2022-03-22T15:15:15.490Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7424889" class="title"><span data-v-1f47c720="" class="text"> Sensei,oshiete from yomuoto <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/138854" class="link_artist"><span class="text">Riku</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[500miles / Kazeo Atsumete Best Tag 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7424888</id>
-        <link href="https://vibe.naver.com/album/7424888"/>
-        <updated>2022-03-22T15:15:15.491Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7424888" class="title"><span data-v-1f47c720="" class="text"> 500miles / Kazeo Atsumete Best Tag <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/49725" class="link_artist"><span class="text">Leyona</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

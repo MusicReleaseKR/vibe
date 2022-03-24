@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-24T08:17:37.111Z</updated>
+    <updated>2022-03-24T09:18:54.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Give Me The Reason 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7424946</id>
+        <link href="https://vibe.naver.com/album/7424946"/>
+        <updated>2022-03-24T09:18:43.204Z</updated>
+        <content type="html"><![CDATA[James Bay]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Last Dance Part 2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7425067</id>
+        <link href="https://vibe.naver.com/album/7425067"/>
+        <updated>2022-03-24T09:18:43.206Z</updated>
+        <content type="html"><![CDATA[Emmit Fenn]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Nightingale Sang in Berkeley Square 업데이트]]></title>
         <id>https://vibe.naver.com/album/7423630</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7416735"/>
         <updated>2022-03-23T03:06:51.967Z</updated>
         <content type="html"><![CDATA[Helión]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AT LEAST WE HAVE THIS (DELUXE) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7409451</id>
-        <link href="https://vibe.naver.com/album/7409451"/>
-        <updated>2022-03-23T03:06:51.968Z</updated>
-        <content type="html"><![CDATA[Ama Lou]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Hotel 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7424243</id>
-        <link href="https://vibe.naver.com/album/7424243"/>
-        <updated>2022-03-23T03:06:51.968Z</updated>
-        <content type="html"><![CDATA[Lykke Li]]></content>
     </entry>
 </feed>

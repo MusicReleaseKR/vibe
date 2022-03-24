@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-24T16:18:23.409Z</updated>
+    <updated>2022-03-24T17:30:57.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이석훈 정규 1집 '같은 자리' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Helión]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ako mi je sudjeno 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7429961</id>
+        <link href="https://vibe.naver.com/album/7429961"/>
+        <updated>2022-03-24T17:30:57.054Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429961" class="title"><span data-v-1f47c720="" class="text"> Ako mi je sudjeno <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/468167" class="link_artist"><span class="text">Nica</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Okwagala Kwo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7429880</id>
         <link href="https://vibe.naver.com/album/7429880"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7429760"/>
         <updated>2022-03-24T15:20:19.164Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429760" class="title"><span data-v-1f47c720="" class="text"> neue whip <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4080398" class="link_artist"><span class="text">Skrt Cobain</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Running 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7429759</id>
-        <link href="https://vibe.naver.com/album/7429759"/>
-        <updated>2022-03-24T15:20:19.165Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429759" class="title"><span data-v-1f47c720="" class="text"> Running <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/864773" class="link_artist"><span class="text">Sharlene San Pedro</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

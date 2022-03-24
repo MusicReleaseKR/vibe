@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-24T10:22:41.766Z</updated>
+    <updated>2022-03-24T11:13:32.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://vibe.naver.com/album/7428423"/>
         <updated>2022-03-24T09:18:53.645Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7428423" class="title"><span data-v-1f47c720="" class="text"> PROMISED LAND <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/474402" class="link_artist"><span class="text">Paul Blanco</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Starting Over 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7428224</id>
+        <link href="https://vibe.naver.com/album/7428224"/>
+        <updated>2022-03-24T11:13:31.393Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7428224" class="title"><span data-v-1f47c720="" class="text"> Starting Over <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1606477" class="link_artist"><span class="text">The Lazy Eyes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[On the Move 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7425883"/>
         <updated>2022-03-23T15:34:07.426Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425883" class="title"><span data-v-1f47c720="" class="text"> 6秒エンパシー <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2561211" class="link_artist"><span class="text">Stainy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Concursa 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7425882</id>
-        <link href="https://vibe.naver.com/album/7425882"/>
-        <updated>2022-03-23T15:34:07.426Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425882" class="title"><span data-v-1f47c720="" class="text"> Concursa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2822668" class="link_artist"><span class="text">La ONU, Ovejas Negras Unidas</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

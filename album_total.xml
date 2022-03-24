@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-24T09:18:54.350Z</updated>
+    <updated>2022-03-24T10:22:41.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Behind the Moon 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7429412</id>
+        <link href="https://vibe.naver.com/album/7429412"/>
+        <updated>2022-03-24T10:22:41.039Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429412" class="title"><span data-v-1f47c720="" class="text"> Behind the Moon <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4999106" class="link_artist"><span class="text">Tom Burkh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me Tira da Mira 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7429411</id>
+        <link href="https://vibe.naver.com/album/7429411"/>
+        <updated>2022-03-24T10:22:41.041Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429411" class="title"><span data-v-1f47c720="" class="text"> Me Tira da Mira <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/229835" class="link_artist"><span class="text">Thiaguinho</span></a><span>, </span></span><span><a href="/artist/2195629" class="link_artist"><span class="text">Carol Biazin</span></a><span>, </span></span><span><a href="/artist/3035710" class="link_artist"><span class="text">Renegado</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pussy Power (Remix) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7429263</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7425882"/>
         <updated>2022-03-23T15:34:07.426Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425882" class="title"><span data-v-1f47c720="" class="text"> Concursa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2822668" class="link_artist"><span class="text">La ONU, Ovejas Negras Unidas</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nebel 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7425881</id>
-        <link href="https://vibe.naver.com/album/7425881"/>
-        <updated>2022-03-23T15:34:07.427Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425881" class="title"><span data-v-1f47c720="" class="text"> Nebel <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2770394" class="link_artist"><span class="text">Hendrik Müller</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get out and Breathe 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7425880</id>
-        <link href="https://vibe.naver.com/album/7425880"/>
-        <updated>2022-03-23T15:34:07.429Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425880" class="title"><span data-v-1f47c720="" class="text"> Get out and Breathe <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4388432" class="link_artist"><span class="text">Pekka Takamaa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-24T05:13:09.568Z</updated>
+    <updated>2022-03-24T06:17:21.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cambios de Luna 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7429123</id>
+        <link href="https://vibe.naver.com/album/7429123"/>
+        <updated>2022-03-24T06:17:20.465Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429123" class="title"><span data-v-1f47c720="" class="text"> Cambios de Luna <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3666884" class="link_artist"><span class="text">Kenia OS</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Objective 업데이트]]></title>
         <id>https://vibe.naver.com/album/7428165</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7425870"/>
         <updated>2022-03-23T15:34:07.436Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425870" class="title"><span data-v-1f47c720="" class="text"> The Collapse <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/207883" class="link_artist"><span class="text">Secrets</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loveline 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7425869</id>
-        <link href="https://vibe.naver.com/album/7425869"/>
-        <updated>2022-03-23T15:34:07.437Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7425869" class="title"><span data-v-1f47c720="" class="text"> Loveline <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4997350" class="link_artist"><span class="text">Davante Devaughn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

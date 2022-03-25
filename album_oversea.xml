@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-25T09:18:47.044Z</updated>
+    <updated>2022-03-25T10:20:57.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stars In The Sky (From Sonic The Hedgehog 2) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7429183</id>
+        <link href="https://vibe.naver.com/album/7429183"/>
+        <updated>2022-03-25T10:20:46.363Z</updated>
+        <content type="html"><![CDATA[Kid Cudi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crush On You 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7423642</id>
+        <link href="https://vibe.naver.com/album/7423642"/>
+        <updated>2022-03-25T10:20:46.363Z</updated>
+        <content type="html"><![CDATA[Finding&nbsp;Hope]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miles Away 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7429049</id>
+        <link href="https://vibe.naver.com/album/7429049"/>
+        <updated>2022-03-25T10:20:46.374Z</updated>
+        <content type="html"><![CDATA[IHF]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GABRIEL (Korean Special Edition) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7427617</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7416585"/>
         <updated>2022-03-24T03:20:47.060Z</updated>
         <content type="html"><![CDATA[Young Franco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ants From Up There 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7425177</id>
-        <link href="https://vibe.naver.com/album/7425177"/>
-        <updated>2022-03-24T03:20:47.061Z</updated>
-        <content type="html"><![CDATA[Black Country, New Road]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Autumn 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7416781</id>
-        <link href="https://vibe.naver.com/album/7416781"/>
-        <updated>2022-03-24T03:20:47.065Z</updated>
-        <content type="html"><![CDATA[Jaxx]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ESCAPE YOUR LOVE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7416687</id>
-        <link href="https://vibe.naver.com/album/7416687"/>
-        <updated>2022-03-24T03:20:47.069Z</updated>
-        <content type="html"><![CDATA[ssgkobe]]></content>
     </entry>
 </feed>

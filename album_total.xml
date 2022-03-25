@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-25T09:18:47.031Z</updated>
+    <updated>2022-03-25T10:20:57.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Forever Banned 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7430701</id>
+        <link href="https://vibe.naver.com/album/7430701"/>
+        <updated>2022-03-25T10:20:56.551Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430701" class="title"><span data-v-1f47c720="" class="text"> Forever Banned <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3705324" class="link_artist"><span class="text">Chiara Causetti</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sahib Kanshi Ram 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7430699</id>
+        <link href="https://vibe.naver.com/album/7430699"/>
+        <updated>2022-03-25T10:20:56.557Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430699" class="title"><span data-v-1f47c720="" class="text"> Sahib Kanshi Ram <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5168525" class="link_artist"><span class="text">Dharamveer Nadaan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tell Me That It's Over 업데이트]]></title>
         <id>https://vibe.naver.com/album/7430632</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7430008"/>
         <updated>2022-03-24T23:14:12.365Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430008" class="title"><span data-v-1f47c720="" class="text"> Azumi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4933752" class="link_artist"><span class="text">Tiago José</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bafana Ba Number 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7430007</id>
-        <link href="https://vibe.naver.com/album/7430007"/>
-        <updated>2022-03-24T22:14:38.434Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430007" class="title"><span data-v-1f47c720="" class="text"> Bafana Ba Number <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5389072" class="link_artist"><span class="text">G-Master &amp; Sisco</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intsimbi Edlezinye 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7430006</id>
-        <link href="https://vibe.naver.com/album/7430006"/>
-        <updated>2022-03-24T22:14:38.434Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430006" class="title"><span data-v-1f47c720="" class="text"> Intsimbi Edlezinye <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3564006" class="link_artist"><span class="text">Mr JazziQ</span></a><span>, </span></span><span><a href="/artist/4887675" class="link_artist"><span class="text">Tsiki XII</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

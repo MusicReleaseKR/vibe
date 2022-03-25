@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-25T10:20:57.245Z</updated>
+    <updated>2022-03-25T11:16:57.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Memento Mori 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Young Franco]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[All The World's A Stage 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7430707</id>
+        <link href="https://vibe.naver.com/album/7430707"/>
+        <updated>2022-03-25T11:16:56.890Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430707" class="title"><span data-v-1f47c720="" class="text"> All The World's A Stage <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2468159" class="link_artist"><span class="text">Carisma Guitar Duo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Forever Banned 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7430701</id>
         <link href="https://vibe.naver.com/album/7430701"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7430010"/>
         <updated>2022-03-24T23:14:12.365Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430010" class="title"><span data-v-1f47c720="" class="text"> Dead (Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3448812" class="link_artist"><span class="text">La F</span></a><span>, </span></span><span><a href="/artist/349322" class="link_artist"><span class="text">Hayce Lemsi</span></a><span>, </span></span><span><a href="/artist/3582779" class="link_artist"><span class="text">Kanoé (artist)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Azumi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7430008</id>
-        <link href="https://vibe.naver.com/album/7430008"/>
-        <updated>2022-03-24T23:14:12.365Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430008" class="title"><span data-v-1f47c720="" class="text"> Azumi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4933752" class="link_artist"><span class="text">Tiago José</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

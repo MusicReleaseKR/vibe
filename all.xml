@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-25T08:18:27.091Z</updated>
+    <updated>2022-03-25T09:18:47.052Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[매일매일 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -212,7 +212,7 @@
         <id>https://vibe.naver.com/album/7429177</id>
         <link href="https://vibe.naver.com/album/7429177"/>
         <updated>2022-03-24T09:18:33.765Z</updated>
-        <content type="html"><![CDATA[CNEMA(시네마)]]></content>
+        <content type="html"><![CDATA[시네마(CNEMA)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Guilty Pleasure 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -831,6 +831,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430339" class="title"><span data-v-1f47c720="" class="text"> DRIP <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3772128" class="link_artist"><span class="text">D3szn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[중독 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7430326</id>
+        <link href="https://vibe.naver.com/album/7430326"/>
+        <updated>2022-03-25T09:18:46.338Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430326" class="title"><span data-v-1f47c720="" class="text"> 중독 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2414306" class="link_artist"><span class="text">D-CRUNCH(디크런치)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I Don't Mind It 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7430221</id>
         <link href="https://vibe.naver.com/album/7430221"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7430006"/>
         <updated>2022-03-24T22:14:38.434Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430006" class="title"><span data-v-1f47c720="" class="text"> Intsimbi Edlezinye <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3564006" class="link_artist"><span class="text">Mr JazziQ</span></a><span>, </span></span><span><a href="/artist/4887675" class="link_artist"><span class="text">Tsiki XII</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weer 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7430005</id>
-        <link href="https://vibe.naver.com/album/7430005"/>
-        <updated>2022-03-24T22:14:38.445Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430005" class="title"><span data-v-1f47c720="" class="text"> Weer <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/256416" class="link_artist"><span class="text">Reen</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

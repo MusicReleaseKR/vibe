@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-26T10:15:04.120Z</updated>
+    <updated>2022-03-26T11:11:45.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://vibe.naver.com/album/7430655"/>
         <updated>2022-03-25T15:18:40.326Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430655" class="title"><span data-v-1f47c720="" class="text"> Présidentielle '22 chapitre III <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4070189" class="link_artist"><span class="text">Lil Candy Brownie</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<불후의 명곡> - 아티스트 김창완 편 2부 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7430631</id>
+        <link href="https://vibe.naver.com/album/7430631"/>
+        <updated>2022-03-26T11:11:44.717Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7430631" class="title"><span data-v-1f47c720="" class="text"> &lt;불후의 명곡&gt; - 아티스트 김창완 편 2부 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아기싱어 PART1 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7429990"/>
         <updated>2022-03-25T15:18:40.329Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429990" class="title"><span data-v-1f47c720="" class="text"> A Fairly OddRythm <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4621950" class="link_artist"><span class="text">Ole JSE</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vatos Locos 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7429970</id>
-        <link href="https://vibe.naver.com/album/7429970"/>
-        <updated>2022-03-25T15:18:40.330Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7429970" class="title"><span data-v-1f47c720="" class="text"> Vatos Locos <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5032033" class="link_artist"><span class="text">Besocijan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

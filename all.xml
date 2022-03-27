@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-27T17:13:48.466Z</updated>
+    <updated>2022-03-27T18:15:31.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[스물다섯 스물하나 OST Part 9 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Young Franco]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Malwai Dhol Mix 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7432197</id>
+        <link href="https://vibe.naver.com/album/7432197"/>
+        <updated>2022-03-27T18:15:30.224Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7432197" class="title"><span data-v-1f47c720="" class="text"> Malwai Dhol Mix <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1542947" class="link_artist"><span class="text">Sonu Bajwa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tanto Mais 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7432067</id>
         <link href="https://vibe.naver.com/album/7432067"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7431922"/>
         <updated>2022-03-27T15:14:18.573Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7431922" class="title"><span data-v-1f47c720="" class="text"> Killed Another <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2890822" class="link_artist"><span class="text">GHOST CLOAK</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maligaya 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7431921</id>
-        <link href="https://vibe.naver.com/album/7431921"/>
-        <updated>2022-03-27T15:14:18.574Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7431921" class="title"><span data-v-1f47c720="" class="text"> Maligaya <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5391959" class="link_artist"><span class="text">Odenfi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

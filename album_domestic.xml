@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-03-27T03:18:32.412Z</updated>
+    <updated>2022-03-27T04:17:35.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/7428451"/>
         <updated>2022-03-27T03:18:11.165Z</updated>
         <content type="html"><![CDATA[빌리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do You Remember 업데이트]]></title>
+        <id>https://vibe.naver.com/album/6616528</id>
+        <link href="https://vibe.naver.com/album/6616528"/>
+        <updated>2022-03-27T04:17:14.031Z</updated>
+        <content type="html"><![CDATA[주예인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꽃말 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7428204"/>
         <updated>2022-03-25T03:18:00.809Z</updated>
         <content type="html"><![CDATA[피아컬(PIACAL)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before Midnight 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7428186</id>
-        <link href="https://vibe.naver.com/album/7428186"/>
-        <updated>2022-03-25T03:18:00.809Z</updated>
-        <content type="html"><![CDATA[션케이(Sean.K)]]></content>
     </entry>
 </feed>

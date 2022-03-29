@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-03-29T20:14:30.151Z</updated>
+    <updated>2022-03-29T21:12:54.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Baby Nee Sugar 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7434362</id>
+        <link href="https://vibe.naver.com/album/7434362"/>
+        <updated>2022-03-29T21:12:53.499Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7434362" class="title"><span data-v-1f47c720="" class="text"> Baby Nee Sugar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5393172" class="link_artist"><span class="text">Osho Venkat</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aynı Yerde 업데이트]]></title>
         <id>https://vibe.naver.com/album/7434060</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7433442"/>
         <updated>2022-03-29T15:18:30.293Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7433442" class="title"><span data-v-1f47c720="" class="text"> Gostar do Mundo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2348227" class="link_artist"><span class="text">Sessa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind Wind Human 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7433441</id>
-        <link href="https://vibe.naver.com/album/7433441"/>
-        <updated>2022-03-29T15:18:30.295Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7433441" class="title"><span data-v-1f47c720="" class="text"> Wind Wind Human <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/295985" class="link_artist"><span class="text">Jack Gordon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T12:29:57.227Z</updated>
+    <updated>2022-03-29T13:29:40.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[엄마가 필요해 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Sheff G]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sanze 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7434011</id>
+        <link href="https://vibe.naver.com/album/7434011"/>
+        <updated>2022-03-29T13:29:40.075Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7434011" class="title"><span data-v-1f47c720="" class="text"> Sanze <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5393010" class="link_artist"><span class="text">Ila Rio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DOG OR CHICK 3 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7433689</id>
         <link href="https://vibe.naver.com/album/7433689"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7432807"/>
         <updated>2022-03-29T03:29:03.730Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7432807" class="title"><span data-v-1f47c720="" class="text"> 헤어지고 너에게 할 수 있던 말 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4998835" class="link_artist"><span class="text">육회한놈들</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hourglass 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7432804</id>
-        <link href="https://vibe.naver.com/album/7432804"/>
-        <updated>2022-03-29T03:29:03.730Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7432804" class="title"><span data-v-1f47c720="" class="text"> Hourglass <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5392334" class="link_artist"><span class="text">BEFREE(비프리)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

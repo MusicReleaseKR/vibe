@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T21:12:54.176Z</updated>
+    <updated>2022-03-29T22:13:45.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[엄마가 필요해 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Sheff G]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mikel Arteta 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7434369</id>
+        <link href="https://vibe.naver.com/album/7434369"/>
+        <updated>2022-03-29T22:13:44.483Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7434369" class="title"><span data-v-1f47c720="" class="text"> Mikel Arteta <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3953488" class="link_artist"><span class="text">Bigor</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Baby Nee Sugar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7434362</id>
         <link href="https://vibe.naver.com/album/7434362"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7433443"/>
         <updated>2022-03-29T15:18:30.292Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7433443" class="title"><span data-v-1f47c720="" class="text"> 世界が終わるその瞬間（とき）だけは <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5392668" class="link_artist"><span class="text">AMATSU</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gostar do Mundo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7433442</id>
-        <link href="https://vibe.naver.com/album/7433442"/>
-        <updated>2022-03-29T15:18:30.293Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7433442" class="title"><span data-v-1f47c720="" class="text"> Gostar do Mundo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2348227" class="link_artist"><span class="text">Sessa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

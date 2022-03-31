@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-03-31T08:20:44.267Z</updated>
+    <updated>2022-03-31T09:20:01.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[When You're Gone 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7437580</id>
+        <link href="https://vibe.naver.com/album/7437580"/>
+        <updated>2022-03-31T09:19:50.481Z</updated>
+        <content type="html"><![CDATA[Shawn Mendes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coffee 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7434487</id>
+        <link href="https://vibe.naver.com/album/7434487"/>
+        <updated>2022-03-31T09:19:50.481Z</updated>
+        <content type="html"><![CDATA[Abroad]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[up at night (Feat. justin bieber) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7436951</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7429685"/>
         <updated>2022-03-30T03:28:23.033Z</updated>
         <content type="html"><![CDATA[YungManny]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRIP 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7430339</id>
-        <link href="https://vibe.naver.com/album/7430339"/>
-        <updated>2022-03-30T03:28:23.034Z</updated>
-        <content type="html"><![CDATA[D3szn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adapt 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7433989</id>
-        <link href="https://vibe.naver.com/album/7433989"/>
-        <updated>2022-03-30T03:28:23.038Z</updated>
-        <content type="html"><![CDATA[Sakanaction]]></content>
     </entry>
 </feed>

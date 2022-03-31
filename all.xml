@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T00:57:03.147Z</updated>
+    <updated>2022-03-31T02:29:18.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[내 낡은 자전거 (Riding) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Ariadne]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Stay No More 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7436992</id>
+        <link href="https://vibe.naver.com/album/7436992"/>
+        <updated>2022-03-31T02:29:17.984Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7436992" class="title"><span data-v-1f47c720="" class="text"> Stay No More <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4774202" class="link_artist"><span class="text">Evan Lin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[012 Nkwari 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7436884</id>
         <link href="https://vibe.naver.com/album/7436884"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7435132"/>
         <updated>2022-03-30T15:18:11.522Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7435132" class="title"><span data-v-1f47c720="" class="text"> The Future 16 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/796853" class="link_artist"><span class="text">Milado</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Firekeeper 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7435131</id>
-        <link href="https://vibe.naver.com/album/7435131"/>
-        <updated>2022-03-30T15:18:11.522Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7435131" class="title"><span data-v-1f47c720="" class="text"> Firekeeper <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4148696" class="link_artist"><span class="text">Battlelore</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

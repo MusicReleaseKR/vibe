@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-01T08:18:12.134Z</updated>
+    <updated>2022-04-01T09:18:53.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cure the Jones 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7437081</id>
+        <link href="https://vibe.naver.com/album/7437081"/>
+        <updated>2022-04-01T09:18:41.583Z</updated>
+        <content type="html"><![CDATA[Mamas Gun]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Follow Me 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7437887</id>
+        <link href="https://vibe.naver.com/album/7437887"/>
+        <updated>2022-04-01T09:18:41.587Z</updated>
+        <content type="html"><![CDATA[Pabllo Vittar]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Make Your Mind Up (Feat. James Cherry, Toni Fortune) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7435029</id>
+        <link href="https://vibe.naver.com/album/7435029"/>
+        <updated>2022-04-01T09:18:41.587Z</updated>
+        <content type="html"><![CDATA[Lincoln Jesser]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[As It Was 업데이트]]></title>
         <id>https://vibe.naver.com/album/7439242</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7429758"/>
         <updated>2022-03-31T03:26:17.037Z</updated>
         <content type="html"><![CDATA[Aronchupa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's Go! DSDC! 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7435048</id>
-        <link href="https://vibe.naver.com/album/7435048"/>
-        <updated>2022-03-31T03:26:17.038Z</updated>
-        <content type="html"><![CDATA[Deep Sea Diving Club]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jacket 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7434541</id>
-        <link href="https://vibe.naver.com/album/7434541"/>
-        <updated>2022-03-31T03:26:17.039Z</updated>
-        <content type="html"><![CDATA[Satoko Shibata]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pinky Swear 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7434490</id>
-        <link href="https://vibe.naver.com/album/7434490"/>
-        <updated>2022-03-30T09:18:02.444Z</updated>
-        <content type="html"><![CDATA[CIX(씨아이엑스)]]></content>
     </entry>
 </feed>

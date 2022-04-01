@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-01T05:12:57.020Z</updated>
+    <updated>2022-04-01T06:17:43.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Un Nuevo Amor 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7439612</id>
+        <link href="https://vibe.naver.com/album/7439612"/>
+        <updated>2022-04-01T06:17:43.022Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7439612" class="title"><span data-v-1f47c720="" class="text"> Un Nuevo Amor <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/312450" class="link_artist"><span class="text">Matisse</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sa Pu Nyaman 업데이트]]></title>
         <id>https://vibe.naver.com/album/7439501</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7438809"/>
         <updated>2022-03-31T15:19:48.562Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7438809" class="title"><span data-v-1f47c720="" class="text"> Tainted Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2830013" class="link_artist"><span class="text">Isaac Dunbar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallucination (Extended) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7438808</id>
-        <link href="https://vibe.naver.com/album/7438808"/>
-        <updated>2022-03-31T15:19:48.563Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7438808" class="title"><span data-v-1f47c720="" class="text"> Hallucination (Extended) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1449071" class="link_artist"><span class="text">Regard</span></a><span>, </span></span><span><a href="/artist/355215" class="link_artist"><span class="text">Years &amp; Years</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

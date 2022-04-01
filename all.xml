@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T16:21:01.911Z</updated>
+    <updated>2022-04-01T17:18:32.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[나비처럼 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -768,13 +768,6 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7439814" class="title"><span data-v-1f47c720="" class="text"> Como da Primeira Vez <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4938354" class="link_artist"><span class="text">Gio Moratti</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Wings Of Stone 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7439770</id>
-        <link href="https://vibe.naver.com/album/7439770"/>
-        <updated>2022-04-01T16:21:01.191Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7439770" class="title"><span data-v-1f47c720="" class="text"> Wings Of Stone <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/98297" class="link_artist"><span class="text">Adam Levine</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Torpparin tuska 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7439090</id>
         <link href="https://vibe.naver.com/album/7439090"/>
@@ -1053,5 +1046,12 @@
         <link href="https://vibe.naver.com/album/7438983"/>
         <updated>2022-04-01T15:19:38.252Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7438983" class="title"><span data-v-1f47c720="" class="text"> Topfloor <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2887199" class="link_artist"><span class="text">V Kid</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ampunkan Aku 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7438982</id>
+        <link href="https://vibe.naver.com/album/7438982"/>
+        <updated>2022-04-01T17:18:31.405Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7438982" class="title"><span data-v-1f47c720="" class="text"> Ampunkan Aku <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4584451" class="link_artist"><span class="text">Valdy Nyonk</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-02T03:26:05.100Z</updated>
+    <updated>2022-04-02T04:16:57.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Waddup 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7440286</id>
+        <link href="https://vibe.naver.com/album/7440286"/>
+        <updated>2022-04-02T04:16:56.374Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7440286" class="title"><span data-v-1f47c720="" class="text"> Waddup <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5122448" class="link_artist"><span class="text">PGF Nuk</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love-Evidence 업데이트]]></title>
         <id>https://vibe.naver.com/album/7440028</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7439013"/>
         <updated>2022-04-01T15:19:38.227Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7439013" class="title"><span data-v-1f47c720="" class="text"> Drake de São Paulo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3007251" class="link_artist"><span class="text">Mc Vitão Do Savoy</span></a><span>, </span></span><span><a href="/artist/4149262" class="link_artist"><span class="text">Mc Adiel</span></a><span>, </span></span><span><a href="/artist/2809646" class="link_artist"><span class="text">MC V7</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Io Non Sono Un Robot 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7439012</id>
-        <link href="https://vibe.naver.com/album/7439012"/>
-        <updated>2022-04-01T15:19:38.227Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7439012" class="title"><span data-v-1f47c720="" class="text"> Io Non Sono Un Robot <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5369670" class="link_artist"><span class="text">IL MOOD</span></a><span>, </span></span><span><a href="/artist/2553221" class="link_artist"><span class="text">Chris Bomaye</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

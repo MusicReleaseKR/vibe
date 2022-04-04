@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-04-04T14:13:48.248Z</updated>
+    <updated>2022-04-04T15:19:03.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[봄여름가을겨울 (Still Life) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7442898</id>
+        <link href="https://vibe.naver.com/album/7442898"/>
+        <updated>2022-04-04T15:18:38.881Z</updated>
+        <content type="html"><![CDATA[BIGBANG (빅뱅)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Grey Suit - The 2nd Mini Album 업데이트]]></title>
         <id>https://vibe.naver.com/album/7442544</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7439290"/>
         <updated>2022-04-03T03:24:18.981Z</updated>
         <content type="html"><![CDATA[프루츠 버니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 세상 너의 세상 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7439238</id>
-        <link href="https://vibe.naver.com/album/7439238"/>
-        <updated>2022-04-03T03:24:18.982Z</updated>
-        <content type="html"><![CDATA[마치(MRCH)]]></content>
     </entry>
 </feed>

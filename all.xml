@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-05T12:23:32.677Z</updated>
+    <updated>2022-04-05T13:24:51.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[봄여름가을겨울 (Still Life) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[THE BLSSM]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Oceans 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7443967</id>
+        <link href="https://vibe.naver.com/album/7443967"/>
+        <updated>2022-04-05T13:24:50.771Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443967" class="title"><span data-v-1f47c720="" class="text"> Oceans <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5396727" class="link_artist"><span class="text">ENA.</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Computer Love 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7443966</id>
+        <link href="https://vibe.naver.com/album/7443966"/>
+        <updated>2022-04-05T13:24:50.772Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443966" class="title"><span data-v-1f47c720="" class="text"> Computer Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4078812" class="link_artist"><span class="text">Samjo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Capo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7443965</id>
+        <link href="https://vibe.naver.com/album/7443965"/>
+        <updated>2022-04-05T13:24:50.774Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443965" class="title"><span data-v-1f47c720="" class="text"> Capo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1763558" class="link_artist"><span class="text">Madex</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magic Crystal 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7443964</id>
+        <link href="https://vibe.naver.com/album/7443964"/>
+        <updated>2022-04-05T13:24:50.774Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443964" class="title"><span data-v-1f47c720="" class="text"> Magic Crystal <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5272221" class="link_artist"><span class="text">Tribal God</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Red Flower 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7443910</id>
         <link href="https://vibe.naver.com/album/7443910"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7442833"/>
         <updated>2022-04-05T03:26:40.741Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442833" class="title"><span data-v-1f47c720="" class="text"> 다가오지 말아줘요 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5396123" class="link_artist"><span class="text">김민지</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[For U Vol.7 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7442832</id>
-        <link href="https://vibe.naver.com/album/7442832"/>
-        <updated>2022-04-05T03:26:40.743Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442832" class="title"><span data-v-1f47c720="" class="text"> For U Vol.7 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4033653" class="link_artist"><span class="text">SCVM</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어머니 짬뽕 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7442830</id>
-        <link href="https://vibe.naver.com/album/7442830"/>
-        <updated>2022-04-05T03:26:40.745Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442830" class="title"><span data-v-1f47c720="" class="text"> 어머니 짬뽕 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/307253" class="link_artist"><span class="text">무적기타</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero Sugar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7442827</id>
-        <link href="https://vibe.naver.com/album/7442827"/>
-        <updated>2022-04-05T09:13:49.427Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442827" class="title"><span data-v-1f47c720="" class="text"> Zero Sugar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/466820" class="link_artist"><span class="text">BanggerDope(뱅거돞)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시편4편 (Psalms 4) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7442824</id>
-        <link href="https://vibe.naver.com/album/7442824"/>
-        <updated>2022-04-05T03:26:40.747Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442824" class="title"><span data-v-1f47c720="" class="text"> 시편4편 (Psalms 4) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3769834" class="link_artist"><span class="text">MoWM</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

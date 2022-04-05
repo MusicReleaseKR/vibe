@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-05T06:17:47.847Z</updated>
+    <updated>2022-04-05T07:13:54.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA["U" 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7443706</id>
+        <link href="https://vibe.naver.com/album/7443706"/>
+        <updated>2022-04-05T07:13:54.191Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443706" class="title"><span data-v-1f47c720="" class="text"> "U" <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5396617" class="link_artist"><span class="text">Carli Longoni</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hunter 업데이트]]></title>
         <id>https://vibe.naver.com/album/7443035</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7442796"/>
         <updated>2022-04-05T03:26:40.770Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442796" class="title"><span data-v-1f47c720="" class="text"> 이 노래가 너에게 닿기를 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/383714" class="link_artist"><span class="text">오씨(oc)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람의 유혹 OST Part 1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7442794</id>
-        <link href="https://vibe.naver.com/album/7442794"/>
-        <updated>2022-04-05T03:26:40.780Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442794" class="title"><span data-v-1f47c720="" class="text"> 바람의 유혹 OST Part 1 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/173749" class="link_artist"><span class="text">숙행</span></a><span>, </span></span><span><a href="/artist/2627350" class="link_artist"><span class="text">혜진이</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-05T09:14:09.642Z</updated>
+    <updated>2022-04-05T10:14:49.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Red Flower 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7443910</id>
+        <link href="https://vibe.naver.com/album/7443910"/>
+        <updated>2022-04-05T10:14:48.448Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443910" class="title"><span data-v-1f47c720="" class="text"> Red Flower <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5396696" class="link_artist"><span class="text">Amely Kreiger</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yo No Renuncio (DKV) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7443897</id>
+        <link href="https://vibe.naver.com/album/7443897"/>
+        <updated>2022-04-05T10:14:48.450Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443897" class="title"><span data-v-1f47c720="" class="text"> Yo No Renuncio (DKV) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2401229" class="link_artist"><span class="text">Rozalén</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["U" 업데이트]]></title>
         <id>https://vibe.naver.com/album/7443706</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7442824"/>
         <updated>2022-04-05T03:26:40.747Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442824" class="title"><span data-v-1f47c720="" class="text"> 시편4편 (Psalms 4) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3769834" class="link_artist"><span class="text">MoWM</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Are Blessed 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7442822</id>
-        <link href="https://vibe.naver.com/album/7442822"/>
-        <updated>2022-04-05T03:26:40.748Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442822" class="title"><span data-v-1f47c720="" class="text"> We Are Blessed <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2777546" class="link_artist"><span class="text">Nath The Lions</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[329 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7442819</id>
-        <link href="https://vibe.naver.com/album/7442819"/>
-        <updated>2022-04-05T03:26:40.750Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7442819" class="title"><span data-v-1f47c720="" class="text"> 329 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5348597" class="link_artist"><span class="text">ADAN</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

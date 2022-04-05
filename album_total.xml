@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-05T21:11:48.273Z</updated>
+    <updated>2022-04-05T22:13:11.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Labyrinth 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7445986</id>
+        <link href="https://vibe.naver.com/album/7445986"/>
+        <updated>2022-04-05T22:13:10.484Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7445986" class="title"><span data-v-1f47c720="" class="text"> Labyrinth <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/691051" class="link_artist"><span class="text">Dreamtime</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sacrifices 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7445695</id>
+        <link href="https://vibe.naver.com/album/7445695"/>
+        <updated>2022-04-05T22:13:10.484Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7445695" class="title"><span data-v-1f47c720="" class="text"> Sacrifices <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/762204" class="link_artist"><span class="text">Vax1</span></a><span>, </span></span><span><a href="/artist/4299587" class="link_artist"><span class="text">Cyrious</span></a><span>, </span></span><span><a href="/artist/2491594" class="link_artist"><span class="text">L.TEEZ</span></a><span>, </span></span><span><a href="/artist/898761" class="link_artist"><span class="text">Latitude 45</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cykl Snu 업데이트]]></title>
         <id>https://vibe.naver.com/album/7445407</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7443321"/>
         <updated>2022-04-05T15:17:19.270Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443321" class="title"><span data-v-1f47c720="" class="text"> Salt <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1772013" class="link_artist"><span class="text">Moss</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dep (Raye Simmons Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7443320</id>
-        <link href="https://vibe.naver.com/album/7443320"/>
-        <updated>2022-04-05T15:17:19.271Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443320" class="title"><span data-v-1f47c720="" class="text"> Dep (Raye Simmons Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5396413" class="link_artist"><span class="text">Deep Al Brindle</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10 Toes 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7443319</id>
-        <link href="https://vibe.naver.com/album/7443319"/>
-        <updated>2022-04-05T15:17:19.272Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443319" class="title"><span data-v-1f47c720="" class="text"> 10 Toes <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5391442" class="link_artist"><span class="text">Dash Gwoppo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

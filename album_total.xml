@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-05T16:19:15.319Z</updated>
+    <updated>2022-04-05T17:17:50.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[En liten kylling 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7444217</id>
+        <link href="https://vibe.naver.com/album/7444217"/>
+        <updated>2022-04-05T17:17:49.343Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7444217" class="title"><span data-v-1f47c720="" class="text"> En liten kylling <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3642063" class="link_artist"><span class="text">Ebbe Nebb</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chérie coco 업데이트]]></title>
         <id>https://vibe.naver.com/album/7444028</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7443300"/>
         <updated>2022-04-05T15:17:19.293Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443300" class="title"><span data-v-1f47c720="" class="text"> Nonstop City <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3217973" class="link_artist"><span class="text">Volcanic Legacy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[G-GIRL 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7443299</id>
-        <link href="https://vibe.naver.com/album/7443299"/>
-        <updated>2022-04-05T15:17:19.294Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7443299" class="title"><span data-v-1f47c720="" class="text"> G-GIRL <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2863781" class="link_artist"><span class="text">Claudia Bouvette</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

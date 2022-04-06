@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-06T03:27:47.067Z</updated>
+    <updated>2022-04-06T04:16:59.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Let Me Hold You 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7449000</id>
+        <link href="https://vibe.naver.com/album/7449000"/>
+        <updated>2022-04-06T04:16:58.788Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7449000" class="title"><span data-v-1f47c720="" class="text"> Let Me Hold You <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/803229" class="link_artist"><span class="text">Brandon Mignacca</span></a><span>, </span></span><span><a href="/artist/235019" class="link_artist"><span class="text">Blood Groove &amp; Kikis</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6/4 of love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7448860</id>
+        <link href="https://vibe.naver.com/album/7448860"/>
+        <updated>2022-04-06T04:16:58.788Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7448860" class="title"><span data-v-1f47c720="" class="text"> 6/4 of love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3726431" class="link_artist"><span class="text">Shiva Bakta</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meta 업데이트]]></title>
         <id>https://vibe.naver.com/album/7448659</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7444565"/>
         <updated>2022-04-05T18:16:21.069Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7444565" class="title"><span data-v-1f47c720="" class="text"> We Muve Xperience Podcast Intro (Extended Version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5396957" class="link_artist"><span class="text">We Muve Xperience Podcast</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En liten kylling 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7444217</id>
-        <link href="https://vibe.naver.com/album/7444217"/>
-        <updated>2022-04-05T17:17:49.343Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7444217" class="title"><span data-v-1f47c720="" class="text"> En liten kylling <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3642063" class="link_artist"><span class="text">Ebbe Nebb</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chérie coco 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7444028</id>
-        <link href="https://vibe.naver.com/album/7444028"/>
-        <updated>2022-04-05T16:19:14.438Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7444028" class="title"><span data-v-1f47c720="" class="text"> Chérie coco <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2350587" class="link_artist"><span class="text">Sosey</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T21:13:11.959Z</updated>
+    <updated>2022-04-06T22:14:25.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Viva La Vida 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Joyner Lucas]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tek Notes 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7453298</id>
+        <link href="https://vibe.naver.com/album/7453298"/>
+        <updated>2022-04-06T22:14:24.294Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7453298" class="title"><span data-v-1f47c720="" class="text"> Tek Notes <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5400583" class="link_artist"><span class="text">Chadoe</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bandolero 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7453283</id>
         <link href="https://vibe.naver.com/album/7453283"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7448712"/>
         <updated>2022-04-06T15:19:24.523Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7448712" class="title"><span data-v-1f47c720="" class="text"> Conract <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5398848" class="link_artist"><span class="text">XAWI</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Over Salt Sea (Reykjavík Sessions) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7448310</id>
-        <link href="https://vibe.naver.com/album/7448310"/>
-        <updated>2022-04-06T15:19:24.523Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7448310" class="title"><span data-v-1f47c720="" class="text"> Over Salt Sea (Reykjavík Sessions) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4876107" class="link_artist"><span class="text">Rose Riebl</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

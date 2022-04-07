@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-07T10:18:45.707Z</updated>
+    <updated>2022-04-07T11:15:21.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Something Ain't Right 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7457243</id>
+        <link href="https://vibe.naver.com/album/7457243"/>
+        <updated>2022-04-07T11:15:21.145Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7457243" class="title"><span data-v-1f47c720="" class="text"> Something Ain't Right <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/581110" class="link_artist"><span class="text">Zhr</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Easy Na Lai 업데이트]]></title>
         <id>https://vibe.naver.com/album/7457110</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7451267"/>
         <updated>2022-04-06T15:19:24.484Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7451267" class="title"><span data-v-1f47c720="" class="text"> Kite(Episode From Web series "Paternity appraiser") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2002107" class="link_artist"><span class="text">Nanà</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokyo Sunny Party 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7451266</id>
-        <link href="https://vibe.naver.com/album/7451266"/>
-        <updated>2022-04-06T15:19:24.485Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7451266" class="title"><span data-v-1f47c720="" class="text"> Tokyo Sunny Party <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/540178" class="link_artist"><span class="text">HoneyWorks</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

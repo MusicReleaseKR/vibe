@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-07T08:18:28.474Z</updated>
+    <updated>2022-04-07T09:19:00.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Feel Something 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7447684</id>
+        <link href="https://vibe.naver.com/album/7447684"/>
+        <updated>2022-04-07T09:18:50.488Z</updated>
+        <content type="html"><![CDATA[Fiji Blue]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lunch Money 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7448532</id>
+        <link href="https://vibe.naver.com/album/7448532"/>
+        <updated>2022-04-07T09:18:50.488Z</updated>
+        <content type="html"><![CDATA[BHAVIOR]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Woman I Am 업데이트]]></title>
         <id>https://vibe.naver.com/album/7443192</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7438748"/>
         <updated>2022-04-05T03:26:30.742Z</updated>
         <content type="html"><![CDATA[Lil&nbsp;Tjay]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fallout 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7442685</id>
-        <link href="https://vibe.naver.com/album/7442685"/>
-        <updated>2022-04-05T03:26:30.743Z</updated>
-        <content type="html"><![CDATA[Masked Wolf]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Energy (Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7439343</id>
-        <link href="https://vibe.naver.com/album/7439343"/>
-        <updated>2022-04-05T03:26:30.744Z</updated>
-        <content type="html"><![CDATA[Latto]]></content>
     </entry>
 </feed>

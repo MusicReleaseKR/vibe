@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-08T22:14:31.350Z</updated>
+    <updated>2022-04-08T23:14:18.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thunderstorms Sleep Sounds (Mindfulness & Relaxation) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7458490</id>
+        <link href="https://vibe.naver.com/album/7458490"/>
+        <updated>2022-04-08T23:14:17.510Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7458490" class="title"><span data-v-1f47c720="" class="text"> Thunderstorms Sleep Sounds (Mindfulness &amp; Relaxation) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3981392" class="link_artist"><span class="text">Sleepy John</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dog Music - Sleeping Songs for Dogs and Puppies 업데이트]]></title>
         <id>https://vibe.naver.com/album/7458479</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7457529"/>
         <updated>2022-04-08T15:19:51.254Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7457529" class="title"><span data-v-1f47c720="" class="text"> Hooter <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1764178" class="link_artist"><span class="text">Kitt</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tesla 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7457527</id>
-        <link href="https://vibe.naver.com/album/7457527"/>
-        <updated>2022-04-08T15:19:51.256Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7457527" class="title"><span data-v-1f47c720="" class="text"> Tesla <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1552726" class="link_artist"><span class="text">Chris Angels</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

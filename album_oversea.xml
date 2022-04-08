@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-08T08:21:30.460Z</updated>
+    <updated>2022-04-08T09:18:42.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Crazy 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7456293</id>
+        <link href="https://vibe.naver.com/album/7456293"/>
+        <updated>2022-04-08T09:18:29.538Z</updated>
+        <content type="html"><![CDATA[Doechii]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[miss u 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7454840</id>
+        <link href="https://vibe.naver.com/album/7454840"/>
+        <updated>2022-04-08T09:18:29.538Z</updated>
+        <content type="html"><![CDATA[Sarah Kang]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[April Baby 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7450995</id>
+        <link href="https://vibe.naver.com/album/7450995"/>
+        <updated>2022-04-08T09:18:29.538Z</updated>
+        <content type="html"><![CDATA[Summer Salt]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[That's Hilarious 업데이트]]></title>
         <id>https://vibe.naver.com/album/6958691</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7442382"/>
         <updated>2022-04-07T03:26:18.431Z</updated>
         <content type="html"><![CDATA[Mandy Moore]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before After 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7437798</id>
-        <link href="https://vibe.naver.com/album/7437798"/>
-        <updated>2022-04-07T03:26:18.446Z</updated>
-        <content type="html"><![CDATA[Daryl Hall]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[!!! 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7451093</id>
-        <link href="https://vibe.naver.com/album/7451093"/>
-        <updated>2022-04-07T03:26:18.446Z</updated>
-        <content type="html"><![CDATA[KVSE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Planet Folks 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7434028</id>
-        <link href="https://vibe.naver.com/album/7434028"/>
-        <updated>2022-04-07T03:26:18.447Z</updated>
-        <content type="html"><![CDATA[Asian Kung-Fu Generation]]></content>
     </entry>
 </feed>

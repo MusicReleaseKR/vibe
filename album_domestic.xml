@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-04-10T02:39:55.761Z</updated>
+    <updated>2022-04-10T03:27:46.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어떨 것 같아 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7457019</id>
+        <link href="https://vibe.naver.com/album/7457019"/>
+        <updated>2022-04-10T03:27:24.897Z</updated>
+        <content type="html"><![CDATA[새봄(Saevom)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[kiss my lips 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7457821</id>
+        <link href="https://vibe.naver.com/album/7457821"/>
+        <updated>2022-04-10T03:27:24.903Z</updated>
+        <content type="html"><![CDATA[Jimmy Brown]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YANGSTAR 224 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7457091</id>
+        <link href="https://vibe.naver.com/album/7457091"/>
+        <updated>2022-04-10T03:27:24.908Z</updated>
+        <content type="html"><![CDATA[TOMMY YANG]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Answer 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7456712</id>
+        <link href="https://vibe.naver.com/album/7456712"/>
+        <updated>2022-04-10T03:27:24.913Z</updated>
+        <content type="html"><![CDATA[homezone]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가끔씩 그대가 그리워 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7457084</id>
+        <link href="https://vibe.naver.com/album/7457084"/>
+        <updated>2022-04-10T03:27:24.913Z</updated>
+        <content type="html"><![CDATA[파니니 브런치(PANINI BRUNCH)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멍 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7458111</id>
+        <link href="https://vibe.naver.com/album/7458111"/>
+        <updated>2022-04-10T03:27:24.913Z</updated>
+        <content type="html"><![CDATA[함예찬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너의 목소리가 보여 9 Part 5 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7456340</id>
+        <link href="https://vibe.naver.com/album/7456340"/>
+        <updated>2022-04-10T03:27:24.915Z</updated>
+        <content type="html"><![CDATA[블랙펄]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MDA 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7457780</id>
+        <link href="https://vibe.naver.com/album/7457780"/>
+        <updated>2022-04-10T03:27:24.915Z</updated>
+        <content type="html"><![CDATA[hamzzi]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[i 업데이트]]></title>
         <id>https://vibe.naver.com/album/7458167</id>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/7456925"/>
         <updated>2022-04-08T03:35:00.056Z</updated>
         <content type="html"><![CDATA[다솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별담은 프로젝트 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7448596</id>
-        <link href="https://vibe.naver.com/album/7448596"/>
-        <updated>2022-04-08T03:35:00.056Z</updated>
-        <content type="html"><![CDATA[사훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가가 부른다 Part 7 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7456954</id>
-        <link href="https://vibe.naver.com/album/7456954"/>
-        <updated>2022-04-08T03:35:00.041Z</updated>
-        <content type="html"><![CDATA[<div data-v-1f47c720="" class="" data-v-6dcc41be=""><div data-v-1f47c720="" class="thumb_area"><a data-v-1f47c720="" href="#" class="link"><img data-v-4dcb5b96="" data-v-1f47c720="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="국가가 부른다 Part 7 앨범 커버"><!----></a><a data-v-34a49312="" data-v-1f47c720="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-34a49312="" class="blind">재생하기</span><!----></a><div data-v-1f47c720="" class="more_option only"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/7456954" data-title="국가가 부른다 Part 7" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-1f47c720="" class="info"><!----><a data-v-1f47c720="" href="/album/7456954" class="title"><span data-v-1f47c720="" class="text"> 국가가 부른다 Part 7 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Episode 1: Into the forest 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7448138</id>
-        <link href="https://vibe.naver.com/album/7448138"/>
-        <updated>2022-04-08T03:35:00.056Z</updated>
-        <content type="html"><![CDATA[VAN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[21 Colorful (Remaster) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7457027</id>
-        <link href="https://vibe.naver.com/album/7457027"/>
-        <updated>2022-04-08T03:35:00.057Z</updated>
-        <content type="html"><![CDATA[YELLA(옐라)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7454895</id>
-        <link href="https://vibe.naver.com/album/7454895"/>
-        <updated>2022-04-08T03:35:00.059Z</updated>
-        <content type="html"><![CDATA[션케이(Sean.K)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Overwrite 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7450960</id>
-        <link href="https://vibe.naver.com/album/7450960"/>
-        <updated>2022-04-08T03:35:00.060Z</updated>
-        <content type="html"><![CDATA[장준혁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흔한 사랑 노래 01 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7450985</id>
-        <link href="https://vibe.naver.com/album/7450985"/>
-        <updated>2022-04-08T03:35:00.062Z</updated>
-        <content type="html"><![CDATA[허르만 허세]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후회없이 사랑하는 방법 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7456748</id>
-        <link href="https://vibe.naver.com/album/7456748"/>
-        <updated>2022-04-08T03:35:00.063Z</updated>
-        <content type="html"><![CDATA[유후(U-who)]]></content>
     </entry>
 </feed>

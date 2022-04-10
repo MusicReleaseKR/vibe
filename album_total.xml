@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-10T21:12:02.064Z</updated>
+    <updated>2022-04-10T22:13:52.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bus Da Time 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7478816</id>
+        <link href="https://vibe.naver.com/album/7478816"/>
+        <updated>2022-04-10T22:13:51.544Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7478816" class="title"><span data-v-1f47c720="" class="text"> Bus Da Time <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5191758" class="link_artist"><span class="text">Rehmat saab</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chronostasis 업데이트]]></title>
         <id>https://vibe.naver.com/album/7475576</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7465332"/>
         <updated>2022-04-10T15:14:13.031Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7465332" class="title"><span data-v-1f47c720="" class="text"> Tango Maria (Live On The Ed Sullivan Show, March 25, 1956) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/433750" class="link_artist"><span class="text">Andrés Segovia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance With Me Henry (Live On The Ed Sullivan Show, August 2, 1959) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7465330</id>
-        <link href="https://vibe.naver.com/album/7465330"/>
-        <updated>2022-04-10T15:14:13.032Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7465330" class="title"><span data-v-1f47c720="" class="text"> Dance With Me Henry (Live On The Ed Sullivan Show, August 2, 1959) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/983" class="link_artist"><span class="text">The Platters</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

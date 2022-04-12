@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-12T21:12:52.675Z</updated>
+    <updated>2022-04-12T22:13:38.997Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Surely Goodness 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7488087</id>
+        <link href="https://vibe.naver.com/album/7488087"/>
+        <updated>2022-04-12T22:13:37.941Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7488087" class="title"><span data-v-1f47c720="" class="text"> Surely Goodness <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1467848" class="link_artist"><span class="text">Sbunoah</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[mahaayaan 업데이트]]></title>
         <id>https://vibe.naver.com/album/7487830</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7487782"/>
         <updated>2022-04-12T15:19:34.756Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7487782" class="title"><span data-v-1f47c720="" class="text"> I feel free <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4862" class="link_artist"><span class="text">Michiya Haruhata</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gomakashi (Live at Sony Music AnimeSongs ONLINE 2022) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7487781</id>
-        <link href="https://vibe.naver.com/album/7487781"/>
-        <updated>2022-04-12T15:19:34.757Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7487781" class="title"><span data-v-1f47c720="" class="text"> Gomakashi (Live at Sony Music AnimeSongs ONLINE 2022) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3527439" class="link_artist"><span class="text">TrySail</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

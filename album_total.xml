@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-12T12:27:49.586Z</updated>
+    <updated>2022-04-12T13:29:02.061Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Aankhon Se Batana 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7487644</id>
+        <link href="https://vibe.naver.com/album/7487644"/>
+        <updated>2022-04-12T13:29:01.251Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7487644" class="title"><span data-v-1f47c720="" class="text"> Aankhon Se Batana <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3716683" class="link_artist"><span class="text">Dikshant</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mátame 업데이트]]></title>
         <id>https://vibe.naver.com/album/7487392</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7482109"/>
         <updated>2022-04-11T15:15:43.331Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482109" class="title"><span data-v-1f47c720="" class="text"> Woah <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3360438" class="link_artist"><span class="text">Bedon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In the Meantime... (Live) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7482108</id>
-        <link href="https://vibe.naver.com/album/7482108"/>
-        <updated>2022-04-11T15:15:43.331Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482108" class="title"><span data-v-1f47c720="" class="text"> In the Meantime... (Live) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/379416" class="link_artist"><span class="text">Red City Radio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

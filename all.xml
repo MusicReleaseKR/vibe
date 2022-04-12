@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-12T11:16:33.309Z</updated>
+    <updated>2022-04-12T12:27:49.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[LOVE me 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[amazarashi]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mátame 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7487392</id>
+        <link href="https://vibe.naver.com/album/7487392"/>
+        <updated>2022-04-12T12:27:48.911Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7487392" class="title"><span data-v-1f47c720="" class="text"> Mátame <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4064021" class="link_artist"><span class="text">Khaay</span></a><span>, </span></span><span><a href="/artist/3616556" class="link_artist"><span class="text">La Cantera</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Creep 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7487391</id>
+        <link href="https://vibe.naver.com/album/7487391"/>
+        <updated>2022-04-12T12:27:48.917Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7487391" class="title"><span data-v-1f47c720="" class="text"> Creep <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/45026" class="link_artist"><span class="text">Jo O'Meara</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Feel the Weight 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7486162</id>
         <link href="https://vibe.naver.com/album/7486162"/>
@@ -836,6 +850,13 @@
         <link href="https://vibe.naver.com/album/7482597"/>
         <updated>2022-04-11T20:18:54.317Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482597" class="title"><span data-v-1f47c720="" class="text"> Cementerio <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2411062" class="link_artist"><span class="text">L-Gante</span></a><span>, </span></span><span><a href="/artist/2414014" class="link_artist"><span class="text">Homer El Mero Mero</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Try to be Cool 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7482366</id>
+        <link href="https://vibe.naver.com/album/7482366"/>
+        <updated>2022-04-12T12:27:48.968Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482366" class="title"><span data-v-1f47c720="" class="text"> Try to be Cool <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1059777" class="link_artist"><span class="text">J4</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Joon Tora 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/7482108"/>
         <updated>2022-04-11T15:15:43.331Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482108" class="title"><span data-v-1f47c720="" class="text"> In the Meantime... (Live) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/379416" class="link_artist"><span class="text">Red City Radio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling Out 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7482107</id>
-        <link href="https://vibe.naver.com/album/7482107"/>
-        <updated>2022-04-11T15:15:43.332Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482107" class="title"><span data-v-1f47c720="" class="text"> Falling Out <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/207883" class="link_artist"><span class="text">Secrets</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Green As Ever (Single) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7482106</id>
-        <link href="https://vibe.naver.com/album/7482106"/>
-        <updated>2022-04-11T15:15:43.332Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482106" class="title"><span data-v-1f47c720="" class="text"> Green As Ever (Single) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1719622" class="link_artist"><span class="text">Aubrey Haddard</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grande ivresse 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7482105</id>
-        <link href="https://vibe.naver.com/album/7482105"/>
-        <updated>2022-04-11T15:15:43.333Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482105" class="title"><span data-v-1f47c720="" class="text"> Grande ivresse <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5161629" class="link_artist"><span class="text">1969 Collective</span></a><span>, </span></span><span><a href="/artist/1359870" class="link_artist"><span class="text">Jason Bajada</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-12T10:21:10.420Z</updated>
+    <updated>2022-04-12T11:16:33.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[LOVE me 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -852,6 +852,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482312" class="title"><span data-v-1f47c720="" class="text"> Burberry <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5011878" class="link_artist"><span class="text">MD Chefe</span></a><span>, </span></span><span><a href="/artist/466874" class="link_artist"><span class="text">Kloe</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Happiest Man in the World OST 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7482311</id>
+        <link href="https://vibe.naver.com/album/7482311"/>
+        <updated>2022-04-12T11:16:32.731Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482311" class="title"><span data-v-1f47c720="" class="text"> The Happiest Man in the World OST <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/235516" class="link_artist"><span class="text">Jake Bugg</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Uyumayalım Yalnız 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7482310</id>
         <link href="https://vibe.naver.com/album/7482310"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7482105"/>
         <updated>2022-04-11T15:15:43.333Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482105" class="title"><span data-v-1f47c720="" class="text"> Grande ivresse <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5161629" class="link_artist"><span class="text">1969 Collective</span></a><span>, </span></span><span><a href="/artist/1359870" class="link_artist"><span class="text">Jason Bajada</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ullutamaat 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7482104</id>
-        <link href="https://vibe.naver.com/album/7482104"/>
-        <updated>2022-04-11T15:15:43.334Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482104" class="title"><span data-v-1f47c720="" class="text"> Ullutamaat <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5161629" class="link_artist"><span class="text">1969 Collective</span></a><span>, </span></span><span><a href="/artist/3656011" class="link_artist"><span class="text">Elisapie</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

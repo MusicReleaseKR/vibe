@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-12T07:14:33.295Z</updated>
+    <updated>2022-04-12T08:22:45.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Feel the Weight 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7486162</id>
+        <link href="https://vibe.naver.com/album/7486162"/>
+        <updated>2022-04-12T08:22:45.100Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7486162" class="title"><span data-v-1f47c720="" class="text"> Feel the Weight <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2414592" class="link_artist"><span class="text">Dear Seattle</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bap 업데이트]]></title>
         <id>https://vibe.naver.com/album/7484975</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7482097"/>
         <updated>2022-04-11T15:15:43.339Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482097" class="title"><span data-v-1f47c720="" class="text"> Même les loups versent des larmes de joie <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5161629" class="link_artist"><span class="text">1969 Collective</span></a><span>, </span></span><span><a href="/artist/2848516" class="link_artist"><span class="text">Louis-Jean Cormier</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All the Way Out 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7482096</id>
-        <link href="https://vibe.naver.com/album/7482096"/>
-        <updated>2022-04-12T07:14:32.634Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7482096" class="title"><span data-v-1f47c720="" class="text"> All the Way Out <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4646072" class="link_artist"><span class="text">Midi Memory</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

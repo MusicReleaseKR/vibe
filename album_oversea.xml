@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-12T08:22:45.936Z</updated>
+    <updated>2022-04-12T09:13:59.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Make It Look Easy 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7482073</id>
+        <link href="https://vibe.naver.com/album/7482073"/>
+        <updated>2022-04-12T09:13:49.704Z</updated>
+        <content type="html"><![CDATA[Bobby Saint]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Crazy What Love Can Do 업데이트]]></title>
         <id>https://vibe.naver.com/album/7481381</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7443988"/>
         <updated>2022-04-11T03:40:52.229Z</updated>
         <content type="html"><![CDATA[amazarashi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crazy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7456293</id>
-        <link href="https://vibe.naver.com/album/7456293"/>
-        <updated>2022-04-08T09:18:29.538Z</updated>
-        <content type="html"><![CDATA[Doechii]]></content>
     </entry>
 </feed>

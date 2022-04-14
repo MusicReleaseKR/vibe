@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-14T17:19:10.500Z</updated>
+    <updated>2022-04-14T18:17:26.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[It's my Kinda Day (From "Oh My Dog") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7496278</id>
+        <link href="https://vibe.naver.com/album/7496278"/>
+        <updated>2022-04-14T18:17:26.277Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496278" class="title"><span data-v-1f47c720="" class="text"> It's my Kinda Day (From "Oh My Dog") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1759318" class="link_artist"><span class="text">Nivas K. Prasanna</span></a><span>, </span></span><span><a href="/artist/5425974" class="link_artist"><span class="text">Ajeesh Sivakumar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Herido De Amor 업데이트]]></title>
         <id>https://vibe.naver.com/album/7496200</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7495711"/>
         <updated>2022-04-14T15:19:03.026Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7495711" class="title"><span data-v-1f47c720="" class="text"> Magnólia <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5210203" class="link_artist"><span class="text">You Can't Win, Charlie Brown</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alfabetik Ritüel 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7495709</id>
-        <link href="https://vibe.naver.com/album/7495709"/>
-        <updated>2022-04-14T15:19:03.026Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7495709" class="title"><span data-v-1f47c720="" class="text"> Alfabetik Ritüel <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2125936" class="link_artist"><span class="text">Murat Yılmazyıldırım</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

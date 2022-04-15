@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-04-15T03:06:34.134Z</updated>
+    <updated>2022-04-15T04:33:12.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Darl+ing 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7496492</id>
+        <link href="https://vibe.naver.com/album/7496492"/>
+        <updated>2022-04-15T04:32:45.330Z</updated>
+        <content type="html"><![CDATA[세븐틴]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<퀸덤2> Part.2-1 업데이트]]></title>
         <id>https://vibe.naver.com/album/7490537</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7490709"/>
         <updated>2022-04-14T03:02:15.797Z</updated>
         <content type="html"><![CDATA[이태후]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장 (場) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7486598</id>
-        <link href="https://vibe.naver.com/album/7486598"/>
-        <updated>2022-04-14T03:02:15.798Z</updated>
-        <content type="html"><![CDATA[이희문&amp;허송세월&amp;놈놈(OBSG)]]></content>
     </entry>
 </feed>

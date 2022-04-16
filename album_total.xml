@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-16T19:11:40.676Z</updated>
+    <updated>2022-04-16T20:14:09.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kar Liya Soda 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7497766</id>
+        <link href="https://vibe.naver.com/album/7497766"/>
+        <updated>2022-04-16T20:14:08.679Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7497766" class="title"><span data-v-1f47c720="" class="text"> Kar Liya Soda <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2084201" class="link_artist"><span class="text">Ahmad Hussain</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heaven on Earth 업데이트]]></title>
         <id>https://vibe.naver.com/album/7497622</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7496956"/>
         <updated>2022-04-16T15:13:58.128Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496956" class="title"><span data-v-1f47c720="" class="text"> Clima da Gente <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/441446" class="link_artist"><span class="text">Katulê</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[OLDfriend 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7496955</id>
-        <link href="https://vibe.naver.com/album/7496955"/>
-        <updated>2022-04-16T15:13:58.129Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496955" class="title"><span data-v-1f47c720="" class="text"> OLDfriend <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5426314" class="link_artist"><span class="text">Lispbanhz</span></a><span>, </span></span><span><a href="/artist/70539" class="link_artist"><span class="text">Lunz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

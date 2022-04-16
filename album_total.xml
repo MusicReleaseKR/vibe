@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-16T15:13:58.736Z</updated>
+    <updated>2022-04-16T16:18:20.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ТатоМамо 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7497282</id>
+        <link href="https://vibe.naver.com/album/7497282"/>
+        <updated>2022-04-16T16:18:19.933Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7497282" class="title"><span data-v-1f47c720="" class="text"> ТатоМамо <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2115695" class="link_artist"><span class="text">DIMA LIBRA</span></a><span>, </span></span><span><a href="/artist/5426469" class="link_artist"><span class="text">Роман Меліш</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pure 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7497218</id>
+        <link href="https://vibe.naver.com/album/7497218"/>
+        <updated>2022-04-16T16:18:19.935Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7497218" class="title"><span data-v-1f47c720="" class="text"> Pure <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/760243" class="link_artist"><span class="text">Koer</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Akane Class Activity Log -Team Sheep- 업데이트]]></title>
         <id>https://vibe.naver.com/album/7497085</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7496951"/>
         <updated>2022-04-16T15:13:58.134Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496951" class="title"><span data-v-1f47c720="" class="text"> Tiddim Road <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2126658" class="link_artist"><span class="text">Imphal Talkies &amp; The Howlers</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tripmaster 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7496950</id>
-        <link href="https://vibe.naver.com/album/7496950"/>
-        <updated>2022-04-16T15:13:58.135Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496950" class="title"><span data-v-1f47c720="" class="text"> Tripmaster <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5426311" class="link_artist"><span class="text">Destyl</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prende 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7496949</id>
-        <link href="https://vibe.naver.com/album/7496949"/>
-        <updated>2022-04-16T15:13:58.137Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496949" class="title"><span data-v-1f47c720="" class="text"> Prende <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5426309" class="link_artist"><span class="text">Ab3liko</span></a><span>, </span></span><span><a href="/artist/5426310" class="link_artist"><span class="text">Smoking Films</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

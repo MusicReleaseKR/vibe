@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-17T13:21:22.041Z</updated>
+    <updated>2022-04-17T14:13:05.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[IM HERO 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Marian Hill]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sẽ Như Ánh Mặt Trời (Piano Version) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7498215</id>
+        <link href="https://vibe.naver.com/album/7498215"/>
+        <updated>2022-04-17T14:13:05.210Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7498215" class="title"><span data-v-1f47c720="" class="text"> Sẽ Như Ánh Mặt Trời (Piano Version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3656241" class="link_artist"><span class="text">K-ICM</span></a><span>, </span></span><span><a href="/artist/5426883" class="link_artist"><span class="text">Hồ Tuấn Phúc</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Débordement 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7498213</id>
         <link href="https://vibe.naver.com/album/7498213"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7496959"/>
         <updated>2022-04-16T15:13:58.126Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496959" class="title"><span data-v-1f47c720="" class="text"> Ax Welat <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3922441" class="link_artist"><span class="text">Rozerin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[דף 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7496958</id>
-        <link href="https://vibe.naver.com/album/7496958"/>
-        <updated>2022-04-16T15:13:58.127Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496958" class="title"><span data-v-1f47c720="" class="text"> דף <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3041142" class="link_artist"><span class="text">מאי ספדיה</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-17T12:21:44.553Z</updated>
+    <updated>2022-04-17T13:21:22.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Débordement 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7498213</id>
+        <link href="https://vibe.naver.com/album/7498213"/>
+        <updated>2022-04-17T13:21:21.371Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7498213" class="title"><span data-v-1f47c720="" class="text"> Débordement <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2878748" class="link_artist"><span class="text">Safarel Obiang</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sonny Richards 업데이트]]></title>
         <id>https://vibe.naver.com/album/7498190</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7496958"/>
         <updated>2022-04-16T15:13:58.127Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496958" class="title"><span data-v-1f47c720="" class="text"> דף <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3041142" class="link_artist"><span class="text">מאי ספדיה</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Lança 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7496957</id>
-        <link href="https://vibe.naver.com/album/7496957"/>
-        <updated>2022-04-16T15:13:58.127Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7496957" class="title"><span data-v-1f47c720="" class="text"> Black Lança <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4389802" class="link_artist"><span class="text">Mc Toy</span></a><span>, </span></span><span><a href="/artist/5426317" class="link_artist"><span class="text">DJ JN DO PC</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

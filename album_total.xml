@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-19T05:21:35.380Z</updated>
+    <updated>2022-04-19T06:18:52.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sợ Phiền Đến Em (Vinahouse) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7502662</id>
+        <link href="https://vibe.naver.com/album/7502662"/>
+        <updated>2022-04-19T06:18:51.314Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502662" class="title"><span data-v-1f47c720="" class="text"> Sợ Phiền Đến Em (Vinahouse) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4777624" class="link_artist"><span class="text">Danh Zoram</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MEMORY_FRACTURE 업데이트]]></title>
         <id>https://vibe.naver.com/album/7502338</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7501027"/>
         <updated>2022-04-19T03:21:17.542Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7501027" class="title"><span data-v-1f47c720="" class="text"> My Way (Hiss Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2475763" class="link_artist"><span class="text">히스(Hiss)</span></a><span>, </span></span><span><a href="/artist/5429288" class="link_artist"><span class="text">River'</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다나랜드 인기동요 3 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7501026</id>
-        <link href="https://vibe.naver.com/album/7501026"/>
-        <updated>2022-04-19T03:21:17.543Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7501026" class="title"><span data-v-1f47c720="" class="text"> 다나랜드 인기동요 3 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5388613" class="link_artist"><span class="text">다나랜드</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

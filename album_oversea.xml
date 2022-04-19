@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-19T08:22:33.225Z</updated>
+    <updated>2022-04-19T09:14:54.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fuck Buddies 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7501233</id>
+        <link href="https://vibe.naver.com/album/7501233"/>
+        <updated>2022-04-19T09:14:45.427Z</updated>
+        <content type="html"><![CDATA[Michael Carreon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Underlands 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7498764</id>
+        <link href="https://vibe.naver.com/album/7498764"/>
+        <updated>2022-04-19T09:14:45.428Z</updated>
+        <content type="html"><![CDATA[Andrew Bird]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Masters Of Fun 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7500917</id>
+        <link href="https://vibe.naver.com/album/7500917"/>
+        <updated>2022-04-19T09:14:45.429Z</updated>
+        <content type="html"><![CDATA[KOYOTIE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let Me Down Easy (Lie) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7492415</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7495058"/>
         <updated>2022-04-18T03:12:06.147Z</updated>
         <content type="html"><![CDATA[Cero]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polaroid (Feat. Syd Silvair) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7491753</id>
-        <link href="https://vibe.naver.com/album/7491753"/>
-        <updated>2022-04-15T09:13:57.456Z</updated>
-        <content type="html"><![CDATA[Late June]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Memories 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7494100</id>
-        <link href="https://vibe.naver.com/album/7494100"/>
-        <updated>2022-04-15T03:06:22.014Z</updated>
-        <content type="html"><![CDATA[Conan Gray]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[About Damn Time 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7494898</id>
-        <link href="https://vibe.naver.com/album/7494898"/>
-        <updated>2022-04-15T03:06:22.015Z</updated>
-        <content type="html"><![CDATA[Lizzo]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-19T09:14:54.626Z</updated>
+    <updated>2022-04-19T10:20:09.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mashoor Bani Reel Pe 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7502992</id>
+        <link href="https://vibe.naver.com/album/7502992"/>
+        <updated>2022-04-19T10:20:08.727Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502992" class="title"><span data-v-1f47c720="" class="text"> Mashoor Bani Reel Pe <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5430700" class="link_artist"><span class="text">Nayan Raja</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Desire 업데이트]]></title>
         <id>https://vibe.naver.com/album/7502753</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7501440"/>
         <updated>2022-04-19T09:14:54.056Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7501440" class="title"><span data-v-1f47c720="" class="text"> 그녀는 좋은 여자야 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/227728" class="link_artist"><span class="text">니화(NiiHWA)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Spring 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7501389</id>
-        <link href="https://vibe.naver.com/album/7501389"/>
-        <updated>2022-04-19T03:21:17.537Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7501389" class="title"><span data-v-1f47c720="" class="text"> Your Spring <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4946963" class="link_artist"><span class="text">Kozy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

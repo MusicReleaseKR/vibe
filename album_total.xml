@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-19T17:22:18.702Z</updated>
+    <updated>2022-04-19T18:18:27.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Star 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7503296</id>
+        <link href="https://vibe.naver.com/album/7503296"/>
+        <updated>2022-04-19T18:18:27.166Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503296" class="title"><span data-v-1f47c720="" class="text"> Star <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4716773" class="link_artist"><span class="text">Pari Pandher</span></a><span>, </span></span><span><a href="/artist/1876403" class="link_artist"><span class="text">Bunty Bains</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Change Your Mind 업데이트]]></title>
         <id>https://vibe.naver.com/album/7503060</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7502289"/>
         <updated>2022-04-19T15:15:12.817Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502289" class="title"><span data-v-1f47c720="" class="text"> Unconditional <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5430408" class="link_artist"><span class="text">Yeahwhatever</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bouzouki Walking 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7502288</id>
-        <link href="https://vibe.naver.com/album/7502288"/>
-        <updated>2022-04-19T15:15:12.817Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502288" class="title"><span data-v-1f47c720="" class="text"> Bouzouki Walking <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1902168" class="link_artist"><span class="text">Bouzouki Kings</span></a><span>, </span></span><span><a href="/artist/1973604" class="link_artist"><span class="text">Christos Papadopoulos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

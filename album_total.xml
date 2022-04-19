@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-19T21:17:26.289Z</updated>
+    <updated>2022-04-19T22:16:13.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Weh Sisi 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7503301</id>
+        <link href="https://vibe.naver.com/album/7503301"/>
+        <updated>2022-04-19T22:16:12.235Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503301" class="title"><span data-v-1f47c720="" class="text"> Weh Sisi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1294651" class="link_artist"><span class="text">Tranquillo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Midnight In Sunnyside 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7503300</id>
+        <link href="https://vibe.naver.com/album/7503300"/>
+        <updated>2022-04-19T22:16:12.236Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503300" class="title"><span data-v-1f47c720="" class="text"> Midnight In Sunnyside <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4032679" class="link_artist"><span class="text">Mellow &amp; Sleazy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get High 업데이트]]></title>
         <id>https://vibe.naver.com/album/7503298</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7502302"/>
         <updated>2022-04-19T15:15:12.808Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502302" class="title"><span data-v-1f47c720="" class="text"> Jesus está aqui <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4902738" class="link_artist"><span class="text">Glaucia Silva</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dia de fuga 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7502292</id>
-        <link href="https://vibe.naver.com/album/7502292"/>
-        <updated>2022-04-19T15:15:12.808Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502292" class="title"><span data-v-1f47c720="" class="text"> Dia de fuga <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4224427" class="link_artist"><span class="text">Mc Xerife Soul</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fluzão faz o L 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7502291</id>
-        <link href="https://vibe.naver.com/album/7502291"/>
-        <updated>2022-04-19T15:15:12.810Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502291" class="title"><span data-v-1f47c720="" class="text"> Fluzão faz o L <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5430409" class="link_artist"><span class="text">Mc Gatto Guerreiro</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

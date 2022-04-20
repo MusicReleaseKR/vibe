@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-20T22:14:24.026Z</updated>
+    <updated>2022-04-20T23:16:17.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Seoul 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[amazarashi]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sueño Bonito (Single) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7509123</id>
+        <link href="https://vibe.naver.com/album/7509123"/>
+        <updated>2022-04-20T23:16:16.830Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7509123" class="title"><span data-v-1f47c720="" class="text"> Sueño Bonito (Single) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1739091" class="link_artist"><span class="text">Catarino Leos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ciencias Con Flow 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7509070</id>
         <link href="https://vibe.naver.com/album/7509070"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7503283"/>
         <updated>2022-04-20T15:16:21.434Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503283" class="title"><span data-v-1f47c720="" class="text"> Mania Chata <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4043335" class="link_artist"><span class="text">DJ Matt D</span></a><span>, </span></span><span><a href="/artist/1597940" class="link_artist"><span class="text">Gaab</span></a><span>, </span></span><span><a href="/artist/2147343" class="link_artist"><span class="text">MC G15</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guanica Brass 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7503282</id>
-        <link href="https://vibe.naver.com/album/7503282"/>
-        <updated>2022-04-20T15:16:21.436Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503282" class="title"><span data-v-1f47c720="" class="text"> Guanica Brass <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5430845" class="link_artist"><span class="text">Nelson Feliciano and His Orchestra</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

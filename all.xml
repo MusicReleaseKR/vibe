@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-20T20:16:18.351Z</updated>
+    <updated>2022-04-20T21:12:48.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Seoul 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[amazarashi]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La C 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7508691</id>
+        <link href="https://vibe.naver.com/album/7508691"/>
+        <updated>2022-04-20T21:12:47.805Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7508691" class="title"><span data-v-1f47c720="" class="text"> La C <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5434325" class="link_artist"><span class="text">Beniz</span></a><span>, </span></span><span><a href="/artist/5434326" class="link_artist"><span class="text">Bastio 167</span></a><span>, </span></span><span><a href="/artist/2541652" class="link_artist"><span class="text">Ince</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big, Bad & Brave 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7508643</id>
+        <link href="https://vibe.naver.com/album/7508643"/>
+        <updated>2022-04-20T21:12:47.805Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7508643" class="title"><span data-v-1f47c720="" class="text"> Big, Bad &amp; Brave <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5386627" class="link_artist"><span class="text">Chico Yuhzimi</span></a><span>, </span></span><span><a href="/artist/3583512" class="link_artist"><span class="text">DJ.Silence</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[It's High Time 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7508596</id>
         <link href="https://vibe.naver.com/album/7508596"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7503272"/>
         <updated>2022-04-20T15:16:21.448Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503272" class="title"><span data-v-1f47c720="" class="text"> Heloise <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1783879" class="link_artist"><span class="text">Julia Holter</span></a><span>, </span></span><span><a href="/artist/256537" class="link_artist"><span class="text">Harper Simon</span></a><span>, </span></span><span><a href="/artist/5430840" class="link_artist"><span class="text">Meditations on Crime</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Las 12 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7503271</id>
-        <link href="https://vibe.naver.com/album/7503271"/>
-        <updated>2022-04-20T15:16:21.449Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503271" class="title"><span data-v-1f47c720="" class="text"> Las 12 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3096889" class="link_artist"><span class="text">Soto Asa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dani Song 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7503270</id>
-        <link href="https://vibe.naver.com/album/7503270"/>
-        <updated>2022-04-20T15:16:21.450Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503270" class="title"><span data-v-1f47c720="" class="text"> Dani Song <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3070544" class="link_artist"><span class="text">Mac Wetha</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

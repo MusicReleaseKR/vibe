@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-19T23:12:55.803Z</updated>
+    <updated>2022-04-20T01:13:57.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[나만 알면 돼 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Cero]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Project on Mars 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7503320</id>
+        <link href="https://vibe.naver.com/album/7503320"/>
+        <updated>2022-04-20T01:13:56.400Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503320" class="title"><span data-v-1f47c720="" class="text"> Project on Mars <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4527782" class="link_artist"><span class="text">Arnoub</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[R.S.L.P. (Roll It. Light It. Smoke It. Pass It.) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7503317</id>
+        <link href="https://vibe.naver.com/album/7503317"/>
+        <updated>2022-04-20T01:13:56.401Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503317" class="title"><span data-v-1f47c720="" class="text"> R.S.L.P. (Roll It. Light It. Smoke It. Pass It.) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1029713" class="link_artist"><span class="text">Big Mic</span></a><span>, </span></span><span><a href="/artist/2129410" class="link_artist"><span class="text">Leadpipe</span></a><span>, </span></span><span><a href="/artist/891832" class="link_artist"><span class="text">Teff</span></a><span>, </span></span><span><a href="/artist/5430875" class="link_artist"><span class="text">10erson</span></a><span>, </span></span><span><a href="/artist/2745555" class="link_artist"><span class="text">Crab Soldier</span></a><span>, </span></span><span><a href="/artist/2129415" class="link_artist"><span class="text">Saddis</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming From Moruga Again 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7503316</id>
+        <link href="https://vibe.naver.com/album/7503316"/>
+        <updated>2022-04-20T01:13:56.404Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503316" class="title"><span data-v-1f47c720="" class="text"> Coming From Moruga Again <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2557657" class="link_artist"><span class="text">1st Klase</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endless Waves 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7503314</id>
+        <link href="https://vibe.naver.com/album/7503314"/>
+        <updated>2022-04-20T01:13:56.405Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7503314" class="title"><span data-v-1f47c720="" class="text"> Endless Waves <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2844103" class="link_artist"><span class="text">Inanimate Existence</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Weh Sisi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7503301</id>
         <link href="https://vibe.naver.com/album/7503301"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7502309"/>
         <updated>2022-04-19T15:15:12.804Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502309" class="title"><span data-v-1f47c720="" class="text"> On Lean (Single) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4192252" class="link_artist"><span class="text">Billy Dee Regal</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boligdrømmen 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7502308</id>
-        <link href="https://vibe.naver.com/album/7502308"/>
-        <updated>2022-04-19T15:15:12.805Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502308" class="title"><span data-v-1f47c720="" class="text"> Boligdrømmen <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3086900" class="link_artist"><span class="text">Lamark</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Syrinx (Single Edit) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7502307</id>
-        <link href="https://vibe.naver.com/album/7502307"/>
-        <updated>2022-04-19T15:15:12.807Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502307" class="title"><span data-v-1f47c720="" class="text"> Syrinx (Single Edit) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5389598" class="link_artist"><span class="text">Jonathan Kawchuk</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Found It 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7502305</id>
-        <link href="https://vibe.naver.com/album/7502305"/>
-        <updated>2022-04-19T15:15:12.807Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502305" class="title"><span data-v-1f47c720="" class="text"> Found It <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/430408" class="link_artist"><span class="text">Valdi Sabev</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jesus está aqui 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7502302</id>
-        <link href="https://vibe.naver.com/album/7502302"/>
-        <updated>2022-04-19T15:15:12.808Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502302" class="title"><span data-v-1f47c720="" class="text"> Jesus está aqui <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4902738" class="link_artist"><span class="text">Glaucia Silva</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

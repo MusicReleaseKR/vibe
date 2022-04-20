@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-20T08:25:49.771Z</updated>
+    <updated>2022-04-20T09:19:08.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Take What You Want 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7502513</id>
+        <link href="https://vibe.naver.com/album/7502513"/>
+        <updated>2022-04-20T09:18:55.331Z</updated>
+        <content type="html"><![CDATA[Def Leppard]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Taylor Allderdice 업데이트]]></title>
         <id>https://vibe.naver.com/album/7443288</id>
@@ -263,13 +270,6 @@
         <link href="https://vibe.naver.com/album/7498355"/>
         <updated>2022-04-19T03:21:05.924Z</updated>
         <content type="html"><![CDATA[Of Monsters And Men]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just for Charlie and His Pennies 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7495632</id>
-        <link href="https://vibe.naver.com/album/7495632"/>
-        <updated>2022-04-19T03:21:05.924Z</updated>
-        <content type="html"><![CDATA[Everyone You Know]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fatal Distraction 업데이트]]></title>

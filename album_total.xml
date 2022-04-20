@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-20T04:42:18.221Z</updated>
+    <updated>2022-04-20T05:33:53.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mafakas 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7504530</id>
+        <link href="https://vibe.naver.com/album/7504530"/>
+        <updated>2022-04-20T05:33:53.032Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7504530" class="title"><span data-v-1f47c720="" class="text"> Mafakas <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1681067" class="link_artist"><span class="text">La Banda Baston</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keep Going 업데이트]]></title>
         <id>https://vibe.naver.com/album/7503488</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7502886"/>
         <updated>2022-04-20T03:37:35.873Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502886" class="title"><span data-v-1f47c720="" class="text"> 이러다 정말 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4998835" class="link_artist"><span class="text">육회한놈들</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걷고싶다 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7502878</id>
-        <link href="https://vibe.naver.com/album/7502878"/>
-        <updated>2022-04-20T03:37:35.874Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7502878" class="title"><span data-v-1f47c720="" class="text"> 걷고싶다 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4055776" class="link_artist"><span class="text">연우주</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

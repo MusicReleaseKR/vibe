@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-21T20:16:46.941Z</updated>
+    <updated>2022-04-21T21:13:09.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Next Up - S4-E13 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7510550</id>
+        <link href="https://vibe.naver.com/album/7510550"/>
+        <updated>2022-04-21T21:13:08.646Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510550" class="title"><span data-v-1f47c720="" class="text"> Next Up - S4-E13 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5434930" class="link_artist"><span class="text">Billy Miyagi</span></a><span>, </span></span><span><a href="/artist/2601175" class="link_artist"><span class="text">Mixtape Madness</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[To Believe - EP 업데이트]]></title>
         <id>https://vibe.naver.com/album/7510540</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7510337"/>
         <updated>2022-04-21T15:18:19.810Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510337" class="title"><span data-v-1f47c720="" class="text"> Champagne <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/361696" class="link_artist"><span class="text">Linnea Henriksson</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaikki on hetken sinistä 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7510336</id>
-        <link href="https://vibe.naver.com/album/7510336"/>
-        <updated>2022-04-21T15:18:19.811Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510336" class="title"><span data-v-1f47c720="" class="text"> Kaikki on hetken sinistä <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5248368" class="link_artist"><span class="text">Juhlat</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

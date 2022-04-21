@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-21T16:25:53.522Z</updated>
+    <updated>2022-04-21T17:23:38.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[20 blues 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Michael Carreon]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raya Kita Raya 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7510522</id>
+        <link href="https://vibe.naver.com/album/7510522"/>
+        <updated>2022-04-21T17:23:37.764Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510522" class="title"><span data-v-1f47c720="" class="text"> Raya Kita Raya <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dans ma bulle 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7510520</id>
+        <link href="https://vibe.naver.com/album/7510520"/>
+        <updated>2022-04-21T17:23:37.764Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510520" class="title"><span data-v-1f47c720="" class="text"> Dans ma bulle <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/71614" class="link_artist"><span class="text">Singuila</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Red Cherry Riddim 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7510384</id>
         <link href="https://vibe.naver.com/album/7510384"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7510333"/>
         <updated>2022-04-21T15:18:19.815Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510333" class="title"><span data-v-1f47c720="" class="text"> gidemem <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/432108" class="link_artist"><span class="text">Kayra</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flames 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7510332</id>
-        <link href="https://vibe.naver.com/album/7510332"/>
-        <updated>2022-04-21T15:18:19.816Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510332" class="title"><span data-v-1f47c720="" class="text"> Flames <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2719133" class="link_artist"><span class="text">Yuta Hashimoto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missing One (Live) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7510331</id>
-        <link href="https://vibe.naver.com/album/7510331"/>
-        <updated>2022-04-21T15:18:19.817Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510331" class="title"><span data-v-1f47c720="" class="text"> Missing One (Live) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2560001" class="link_artist"><span class="text">Jameson Rodgers</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

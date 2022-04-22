@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-22T09:19:33.620Z</updated>
+    <updated>2022-04-22T10:18:54.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[노승과 잔나비 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Yoste]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[La Belle Epoque 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7511245</id>
+        <link href="https://vibe.naver.com/album/7511245"/>
+        <updated>2022-04-22T10:18:53.410Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7511245" class="title"><span data-v-1f47c720="" class="text"> La Belle Epoque <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3666" class="link_artist"><span class="text">Andre Rieu</span></a><span>, </span></span><span><a href="/artist/225517" class="link_artist"><span class="text">Maastricht Salon Orchestra</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Samshan 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7511163</id>
         <link href="https://vibe.naver.com/album/7511163"/>
@@ -764,14 +771,14 @@
         <title type="html"><![CDATA[SAVIOR 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7510723</id>
         <link href="https://vibe.naver.com/album/7510723"/>
-        <updated>2022-04-22T09:19:32.945Z</updated>
+        <updated>2022-04-22T09:19:12.869Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510723" class="title"><span data-v-1f47c720="" class="text"> SAVIOR <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/136810" class="link_artist"><span class="text">김성규</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[20/22 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7510715</id>
         <link href="https://vibe.naver.com/album/7510715"/>
-        <updated>2022-04-22T09:19:32.945Z</updated>
+        <updated>2022-04-22T09:19:12.872Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510715" class="title"><span data-v-1f47c720="" class="text"> 20/22 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3696857" class="link_artist"><span class="text">Royal 44</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7510375"/>
         <updated>2022-04-21T15:18:19.749Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510375" class="title"><span data-v-1f47c720="" class="text"> Hoodi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/950537" class="link_artist"><span class="text">gada</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spilt Milk 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7510374</id>
-        <link href="https://vibe.naver.com/album/7510374"/>
-        <updated>2022-04-21T15:18:19.750Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7510374" class="title"><span data-v-1f47c720="" class="text"> Spilt Milk <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/310287" class="link_artist"><span class="text">Benson</span></a><span>, </span></span><span><a href="/artist/1795961" class="link_artist"><span class="text">Tommy Trash</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

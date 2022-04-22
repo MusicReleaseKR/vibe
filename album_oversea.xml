@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-22T08:19:10.819Z</updated>
+    <updated>2022-04-22T09:19:33.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2step (Feat. Lil Baby) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7510638</id>
+        <link href="https://vibe.naver.com/album/7510638"/>
+        <updated>2022-04-22T09:19:22.973Z</updated>
+        <content type="html"><![CDATA[Ed Sheeran]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Please Do Not Lean 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7509597</id>
+        <link href="https://vibe.naver.com/album/7509597"/>
+        <updated>2022-04-22T09:19:22.976Z</updated>
+        <content type="html"><![CDATA[Daniel Caesar]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Slow Ride 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7509717</id>
+        <link href="https://vibe.naver.com/album/7509717"/>
+        <updated>2022-04-22T09:19:22.977Z</updated>
+        <content type="html"><![CDATA[루한 (LUHAN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Postcards From Rome 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7509470</id>
+        <link href="https://vibe.naver.com/album/7509470"/>
+        <updated>2022-04-22T09:19:22.977Z</updated>
+        <content type="html"><![CDATA[Anthony Lazaro]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Words 업데이트]]></title>
         <id>https://vibe.naver.com/album/7508472</id>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/7495723"/>
         <updated>2022-04-21T03:24:08.067Z</updated>
         <content type="html"><![CDATA[Yoste]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weather Report 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7494264</id>
-        <link href="https://vibe.naver.com/album/7494264"/>
-        <updated>2022-04-21T03:24:08.067Z</updated>
-        <content type="html"><![CDATA[Bearcubs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oak Tree 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7502232</id>
-        <link href="https://vibe.naver.com/album/7502232"/>
-        <updated>2022-04-21T03:24:08.068Z</updated>
-        <content type="html"><![CDATA[Tank And The Bangas]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jah-sol 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7506298</id>
-        <link href="https://vibe.naver.com/album/7506298"/>
-        <updated>2022-04-21T03:24:08.069Z</updated>
-        <content type="html"><![CDATA[Jah-Sol]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hiwa Mata Noboru Kara 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7464684</id>
-        <link href="https://vibe.naver.com/album/7464684"/>
-        <updated>2022-04-21T03:24:08.069Z</updated>
-        <content type="html"><![CDATA[Ryokuoushoku Shakai]]></content>
     </entry>
 </feed>

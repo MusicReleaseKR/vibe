@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-26T10:18:10.706Z</updated>
+    <updated>2022-04-26T11:18:02.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LIFE ON MARS 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7514134</id>
+        <link href="https://vibe.naver.com/album/7514134"/>
+        <updated>2022-04-26T11:18:01.374Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514134" class="title"><span data-v-1f47c720="" class="text"> LIFE ON MARS <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4707918" class="link_artist"><span class="text">KANADA THE LOOP</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gaddi Laye Tere Karke 업데이트]]></title>
         <id>https://vibe.naver.com/album/7514133</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7512290"/>
         <updated>2022-04-26T03:20:01.220Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7512290" class="title"><span data-v-1f47c720="" class="text"> Anonymous+ <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3631927" class="link_artist"><span class="text">Windeep</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무쏘의 뿔처럼 한 발 더 앞으로, 용감한 코끼리는 서커스 장 밖으로 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7512289</id>
-        <link href="https://vibe.naver.com/album/7512289"/>
-        <updated>2022-04-26T03:20:01.220Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7512289" class="title"><span data-v-1f47c720="" class="text"> 무쏘의 뿔처럼 한 발 더 앞으로, 용감한 코끼리는 서커스 장 밖으로 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/485419" class="link_artist"><span class="text">엠씨세이모</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

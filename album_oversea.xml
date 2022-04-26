@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-04-26T09:15:21.748Z</updated>
+    <updated>2022-04-26T10:18:10.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ASOBO -English ver.- 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7512062</id>
+        <link href="https://vibe.naver.com/album/7512062"/>
+        <updated>2022-04-26T10:17:59.739Z</updated>
+        <content type="html"><![CDATA[NiziU (니쥬)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7512195</id>
+        <link href="https://vibe.naver.com/album/7512195"/>
+        <updated>2022-04-26T10:17:59.754Z</updated>
+        <content type="html"><![CDATA[Lady&nbsp;Bri]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Don't Wanna Talk (I Just Wanna Dance) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7508241</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7498219"/>
         <updated>2022-04-25T03:43:05.084Z</updated>
         <content type="html"><![CDATA[ReoNa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2step (Feat. Lil Baby) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7510638</id>
-        <link href="https://vibe.naver.com/album/7510638"/>
-        <updated>2022-04-22T09:19:22.973Z</updated>
-        <content type="html"><![CDATA[Ed Sheeran]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Please Do Not Lean 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7509597</id>
-        <link href="https://vibe.naver.com/album/7509597"/>
-        <updated>2022-04-22T09:19:22.976Z</updated>
-        <content type="html"><![CDATA[Daniel Caesar]]></content>
     </entry>
 </feed>

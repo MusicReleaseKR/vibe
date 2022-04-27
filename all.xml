@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T20:16:59.522Z</updated>
+    <updated>2022-04-27T21:14:03.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[미로(薇路) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[KVSE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ми вдома 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7517450</id>
+        <link href="https://vibe.naver.com/album/7517450"/>
+        <updated>2022-04-27T21:14:03.070Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7517450" class="title"><span data-v-1f47c720="" class="text"> Ми вдома <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2564420" class="link_artist"><span class="text">MOROZOVA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tra 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7517346</id>
+        <link href="https://vibe.naver.com/album/7517346"/>
+        <updated>2022-04-27T21:14:03.070Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7517346" class="title"><span data-v-1f47c720="" class="text"> Tra <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/13359" class="link_artist"><span class="text">Dolce</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yo Más Que Tú 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7517345</id>
+        <link href="https://vibe.naver.com/album/7517345"/>
+        <updated>2022-04-27T21:14:03.071Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7517345" class="title"><span data-v-1f47c720="" class="text"> Yo Más Que Tú <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2433851" class="link_artist"><span class="text">Canciona</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THEOI 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7517344</id>
+        <link href="https://vibe.naver.com/album/7517344"/>
+        <updated>2022-04-27T21:14:03.071Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7517344" class="title"><span data-v-1f47c720="" class="text"> THEOI <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/167788" class="link_artist"><span class="text">Penny</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tera Mera Pyar 2.0 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7516549</id>
         <link href="https://vibe.naver.com/album/7516549"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7514446"/>
         <updated>2022-04-27T15:21:59.200Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514446" class="title"><span data-v-1f47c720="" class="text"> #MerciPourLesTravaux Vol. 1 (Instrumental version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4869934" class="link_artist"><span class="text">Daicybel</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Menos Mal 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7514445</id>
-        <link href="https://vibe.naver.com/album/7514445"/>
-        <updated>2022-04-27T15:21:59.201Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514445" class="title"><span data-v-1f47c720="" class="text"> Menos Mal <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/876322" class="link_artist"><span class="text">François</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STB SZN 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7514444</id>
-        <link href="https://vibe.naver.com/album/7514444"/>
-        <updated>2022-04-27T15:21:59.204Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514444" class="title"><span data-v-1f47c720="" class="text"> STB SZN <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4161641" class="link_artist"><span class="text">Louie Kiddo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prece 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7514443</id>
-        <link href="https://vibe.naver.com/album/7514443"/>
-        <updated>2022-04-27T15:21:59.205Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514443" class="title"><span data-v-1f47c720="" class="text"> Prece <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2000987" class="link_artist"><span class="text">MC Léo da Baixada</span></a><span>, </span></span><span><a href="/artist/2226620" class="link_artist"><span class="text">MC Marks</span></a><span>, </span></span><span><a href="/artist/2200600" class="link_artist"><span class="text">Mc Leh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bigger Love 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7514441</id>
-        <link href="https://vibe.naver.com/album/7514441"/>
-        <updated>2022-04-27T15:21:59.205Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514441" class="title"><span data-v-1f47c720="" class="text"> Bigger Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/457870" class="link_artist"><span class="text">Milk &amp; Bone</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

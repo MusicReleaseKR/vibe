@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-27T07:19:28.854Z</updated>
+    <updated>2022-04-27T08:22:56.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Disappear 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7515028</id>
+        <link href="https://vibe.naver.com/album/7515028"/>
+        <updated>2022-04-27T08:22:55.492Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7515028" class="title"><span data-v-1f47c720="" class="text"> Disappear <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5300085" class="link_artist"><span class="text">Chanel Loren</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Open Gate 업데이트]]></title>
         <id>https://vibe.naver.com/album/7514887</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7514064"/>
         <updated>2022-04-27T03:40:07.660Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514064" class="title"><span data-v-1f47c720="" class="text"> Vida <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5436584" class="link_artist"><span class="text">Loko The Kid</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love You Back 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7514063</id>
-        <link href="https://vibe.naver.com/album/7514063"/>
-        <updated>2022-04-26T15:19:57.593Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7514063" class="title"><span data-v-1f47c720="" class="text"> Love You Back <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/228837" class="link_artist"><span class="text">Madeon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-28T17:19:16.441Z</updated>
+    <updated>2022-04-28T18:23:03.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Naa Sasi (From "Kanmani Rambo Khatija") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7519585</id>
+        <link href="https://vibe.naver.com/album/7519585"/>
+        <updated>2022-04-28T18:23:02.407Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519585" class="title"><span data-v-1f47c720="" class="text"> Naa Sasi (From "Kanmani Rambo Khatija") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2535293" class="link_artist"><span class="text">Anırudh Ravichander</span></a><span>, </span></span><span><a href="/artist/539133" class="link_artist"><span class="text">Ravi G</span></a><span>, </span></span><span><a href="/artist/542957" class="link_artist"><span class="text">Manju Sri</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dil Ne 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7519583</id>
+        <link href="https://vibe.naver.com/album/7519583"/>
+        <updated>2022-04-28T18:23:02.407Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519583" class="title"><span data-v-1f47c720="" class="text"> Dil Ne <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4934762" class="link_artist"><span class="text">KASYAP</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skyline 업데이트]]></title>
         <id>https://vibe.naver.com/album/7519552</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7519306"/>
         <updated>2022-04-28T15:15:53.452Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519306" class="title"><span data-v-1f47c720="" class="text"> Sustum <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3911475" class="link_artist"><span class="text">Evdeki Saat</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOYALTY OVER LOVE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7519305</id>
-        <link href="https://vibe.naver.com/album/7519305"/>
-        <updated>2022-04-28T15:15:53.455Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519305" class="title"><span data-v-1f47c720="" class="text"> LOYALTY OVER LOVE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1785982" class="link_artist"><span class="text">Reezy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sorte a minha 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7519304</id>
-        <link href="https://vibe.naver.com/album/7519304"/>
-        <updated>2022-04-28T15:15:53.456Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519304" class="title"><span data-v-1f47c720="" class="text"> Sorte a minha <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/537453" class="link_artist"><span class="text">Ganso</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

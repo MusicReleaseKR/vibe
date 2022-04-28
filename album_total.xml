@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-28T06:20:28.021Z</updated>
+    <updated>2022-04-28T07:17:47.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Terrible 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7518876</id>
+        <link href="https://vibe.naver.com/album/7518876"/>
+        <updated>2022-04-28T07:17:46.458Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7518876" class="title"><span data-v-1f47c720="" class="text"> Terrible <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4470762" class="link_artist"><span class="text">Teenage Joans</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Way Out 업데이트]]></title>
         <id>https://vibe.naver.com/album/7518583</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7515173"/>
         <updated>2022-04-28T04:08:20.909Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7515173" class="title"><span data-v-1f47c720="" class="text"> 키즈뮤즈 신나는 동요모음 Vol.3 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3610481" class="link_artist"><span class="text">키즈뮤즈</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성경낭독 (구약31-오바댜 Obadiah) (개역개정) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7515171</id>
-        <link href="https://vibe.naver.com/album/7515171"/>
-        <updated>2022-04-28T04:08:20.909Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7515171" class="title"><span data-v-1f47c720="" class="text"> 성경낭독 (구약31-오바댜 Obadiah) (개역개정) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2416298" class="link_artist"><span class="text">엄마 자장가(Mother's Lullaby)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

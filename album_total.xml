@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-29T06:18:17.373Z</updated>
+    <updated>2022-04-29T07:15:00.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://vibe.naver.com/album/7520122"/>
         <updated>2022-04-29T05:17:45.864Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520122" class="title"><span data-v-1f47c720="" class="text"> Mafkerdo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1982048" class="link_artist"><span class="text">Kenan Balyemez</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honest 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7520108</id>
-        <link href="https://vibe.naver.com/album/7520108"/>
-        <updated>2022-04-29T04:27:48.092Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520108" class="title"><span data-v-1f47c720="" class="text"> Honest <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/119770" class="link_artist"><span class="text">Justin Bieber</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Drifter 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7519670"/>
         <updated>2022-04-28T22:14:41.399Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519670" class="title"><span data-v-1f47c720="" class="text"> Afrikaner Outlaws <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3637993" class="link_artist"><span class="text">Karel Bester</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give Me Freedom 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7519642</id>
+        <link href="https://vibe.naver.com/album/7519642"/>
+        <updated>2022-04-29T07:14:58.913Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519642" class="title"><span data-v-1f47c720="" class="text"> Give Me Freedom <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3882087" class="link_artist"><span class="text">Tidiane Mario</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

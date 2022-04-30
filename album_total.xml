@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-30T03:14:44.642Z</updated>
+    <updated>2022-04-30T04:20:30.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kalamam Geride 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7520929</id>
+        <link href="https://vibe.naver.com/album/7520929"/>
+        <updated>2022-04-30T04:20:29.841Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520929" class="title"><span data-v-1f47c720="" class="text"> Kalamam Geride <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439189" class="link_artist"><span class="text">Gamzel</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hypnotize 업데이트]]></title>
         <id>https://vibe.naver.com/album/7520861</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7519792"/>
         <updated>2022-04-30T03:14:43.868Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519792" class="title"><span data-v-1f47c720="" class="text"> 언제나 너이고 싶어 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/328852" class="link_artist"><span class="text">이진석</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김일륜 가야금 앙상블 - 서울새울가야금삼중주단/숙명가야금연주단/중앙가야스트라 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7519791</id>
-        <link href="https://vibe.naver.com/album/7519791"/>
-        <updated>2022-04-30T03:14:43.869Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519791" class="title"><span data-v-1f47c720="" class="text"> 김일륜 가야금 앙상블 - 서울새울가야금삼중주단/숙명가야금연주단/중앙가야스트라 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4830" class="link_artist"><span class="text">김일륜</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

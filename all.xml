@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-29T23:14:19.226Z</updated>
+    <updated>2022-04-30T01:12:26.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[싸다9 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Will Jay]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hypnotize 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7520861</id>
+        <link href="https://vibe.naver.com/album/7520861"/>
+        <updated>2022-04-30T01:12:25.758Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520861" class="title"><span data-v-1f47c720="" class="text"> Hypnotize <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439110" class="link_artist"><span class="text">Lindsay Balistreri</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rain Sounds (Sleep & Relaxation) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7520798</id>
         <link href="https://vibe.naver.com/album/7520798"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7519454"/>
         <updated>2022-04-29T15:15:19.911Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519454" class="title"><span data-v-1f47c720="" class="text"> Lovers <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/158937" class="link_artist"><span class="text">Robinson Valentti</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Novo Truque 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7519453</id>
-        <link href="https://vibe.naver.com/album/7519453"/>
-        <updated>2022-04-29T15:15:19.914Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7519453" class="title"><span data-v-1f47c720="" class="text"> Novo Truque <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/298709" class="link_artist"><span class="text">Chicote</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

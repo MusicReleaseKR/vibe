@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-04-30T23:13:46.914Z</updated>
+    <updated>2022-05-01T01:22:26.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Paint the Skies 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7521339</id>
+        <link href="https://vibe.naver.com/album/7521339"/>
+        <updated>2022-05-01T01:22:25.370Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521339" class="title"><span data-v-1f47c720="" class="text"> Paint the Skies <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439329" class="link_artist"><span class="text">Carey Feeney</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Personality Girl 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7521337</id>
+        <link href="https://vibe.naver.com/album/7521337"/>
+        <updated>2022-05-01T01:22:25.370Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521337" class="title"><span data-v-1f47c720="" class="text"> Personality Girl <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439327" class="link_artist"><span class="text">Francesco Heller</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paninindigan Kita 업데이트]]></title>
         <id>https://vibe.naver.com/album/7521010</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7520725"/>
         <updated>2022-04-30T15:14:25.946Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520725" class="title"><span data-v-1f47c720="" class="text"> Caos <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439013" class="link_artist"><span class="text">Junior Secco</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Looped Thought 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7520724</id>
-        <link href="https://vibe.naver.com/album/7520724"/>
-        <updated>2022-04-30T15:14:25.947Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520724" class="title"><span data-v-1f47c720="" class="text"> Looped Thought <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2070489" class="link_artist"><span class="text">House Of ILL Repute</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hodie Christus Natus Est 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7520722</id>
-        <link href="https://vibe.naver.com/album/7520722"/>
-        <updated>2022-04-30T15:14:25.948Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7520722" class="title"><span data-v-1f47c720="" class="text"> Hodie Christus Natus Est <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/237033" class="link_artist"><span class="text">Craig Phillips</span></a><span>, </span></span><span><a href="/artist/5439012" class="link_artist"><span class="text">Beverly Hills All Saints' Church Choir</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

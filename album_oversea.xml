@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-02T14:14:37.161Z</updated>
+    <updated>2022-05-02T15:20:45.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DIMENSION : Senkou 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7523192</id>
+        <link href="https://vibe.naver.com/album/7523192"/>
+        <updated>2022-05-02T15:20:34.484Z</updated>
+        <content type="html"><![CDATA[ENHYPEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Skyline 업데이트]]></title>
         <id>https://vibe.naver.com/album/7519552</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7514161"/>
         <updated>2022-04-29T03:23:18.888Z</updated>
         <content type="html"><![CDATA[Jvck James]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Source Code (EP) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7518939</id>
-        <link href="https://vibe.naver.com/album/7518939"/>
-        <updated>2022-04-29T03:23:18.888Z</updated>
-        <content type="html"><![CDATA[REMNANT.exe]]></content>
     </entry>
 </feed>

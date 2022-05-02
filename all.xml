@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-02T13:37:00.628Z</updated>
+    <updated>2022-05-02T14:14:37.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FEARLESS 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[REMNANT.exe]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[De Krokodil 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523510</id>
+        <link href="https://vibe.naver.com/album/7523510"/>
+        <updated>2022-05-02T14:14:36.307Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523510" class="title"><span data-v-1f47c720="" class="text"> De Krokodil <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3638244" class="link_artist"><span class="text">Juf Roos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kanmani Rambo Khatija (Original Motion Picture Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523501</id>
+        <link href="https://vibe.naver.com/album/7523501"/>
+        <updated>2022-05-02T14:14:36.307Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523501" class="title"><span data-v-1f47c720="" class="text"> Kanmani Rambo Khatija (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2535293" class="link_artist"><span class="text">Anırudh Ravichander</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CP Original 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523486</id>
+        <link href="https://vibe.naver.com/album/7523486"/>
+        <updated>2022-05-02T14:14:36.351Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523486" class="title"><span data-v-1f47c720="" class="text"> CP Original <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5440242" class="link_artist"><span class="text">Tian Boothe</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bức Tranh Trắng Xóa (Piano Version) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523485</id>
+        <link href="https://vibe.naver.com/album/7523485"/>
+        <updated>2022-05-02T14:14:36.351Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523485" class="title"><span data-v-1f47c720="" class="text"> Bức Tranh Trắng Xóa (Piano Version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3656241" class="link_artist"><span class="text">K-ICM</span></a><span>, </span></span><span><a href="/artist/5426883" class="link_artist"><span class="text">Hồ Tuấn Phúc</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I Don't Know Why I Don't Leave You 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7523451</id>
         <link href="https://vibe.naver.com/album/7523451"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7521335"/>
         <updated>2022-05-01T15:15:16.219Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521335" class="title"><span data-v-1f47c720="" class="text"> Never Change <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439323" class="link_artist"><span class="text">DJ REDDOGG</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Time I Saw U 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7521216</id>
-        <link href="https://vibe.naver.com/album/7521216"/>
-        <updated>2022-05-01T15:15:16.220Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521216" class="title"><span data-v-1f47c720="" class="text"> First Time I Saw U <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439291" class="link_artist"><span class="text">ca99</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superman 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7521183</id>
-        <link href="https://vibe.naver.com/album/7521183"/>
-        <updated>2022-05-01T15:15:16.221Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521183" class="title"><span data-v-1f47c720="" class="text"> Superman <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4844596" class="link_artist"><span class="text">ActionST</span></a><span>, </span></span><span><a href="/artist/5439275" class="link_artist"><span class="text">Tsitou</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weva 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7521182</id>
-        <link href="https://vibe.naver.com/album/7521182"/>
-        <updated>2022-05-01T15:15:16.222Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521182" class="title"><span data-v-1f47c720="" class="text"> Weva <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3613522" class="link_artist"><span class="text">DIMARIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best Moment 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7521181</id>
-        <link href="https://vibe.naver.com/album/7521181"/>
-        <updated>2022-05-01T15:15:16.223Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7521181" class="title"><span data-v-1f47c720="" class="text"> The Best Moment <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2693021" class="link_artist"><span class="text">José ramos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-02T22:14:45.192Z</updated>
+    <updated>2022-05-02T23:15:05.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FEARLESS 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Jvck James]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hike 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523775</id>
+        <link href="https://vibe.naver.com/album/7523775"/>
+        <updated>2022-05-02T23:15:04.897Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523775" class="title"><span data-v-1f47c720="" class="text"> Hike <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5435892" class="link_artist"><span class="text">Connor Denton</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Years to Come 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523774</id>
+        <link href="https://vibe.naver.com/album/7523774"/>
+        <updated>2022-05-02T23:15:04.897Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523774" class="title"><span data-v-1f47c720="" class="text"> Years to Come <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5435892" class="link_artist"><span class="text">Connor Denton</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Savage 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523773</id>
+        <link href="https://vibe.naver.com/album/7523773"/>
+        <updated>2022-05-02T23:15:04.898Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523773" class="title"><span data-v-1f47c720="" class="text"> Savage <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4632067" class="link_artist"><span class="text">Luke Heather</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GUNNIN 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7523769</id>
+        <link href="https://vibe.naver.com/album/7523769"/>
+        <updated>2022-05-02T23:15:04.907Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523769" class="title"><span data-v-1f47c720="" class="text"> GUNNIN <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/971518" class="link_artist"><span class="text">Kdg</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Therapy 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7523750</id>
         <link href="https://vibe.naver.com/album/7523750"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7522455"/>
         <updated>2022-05-02T15:20:44.801Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7522455" class="title"><span data-v-1f47c720="" class="text"> Hourglass <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4234333" class="link_artist"><span class="text">Chyna Streetz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[شنشني 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7522454</id>
-        <link href="https://vibe.naver.com/album/7522454"/>
-        <updated>2022-05-02T15:20:44.805Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7522454" class="title"><span data-v-1f47c720="" class="text"> شنشني <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5439828" class="link_artist"><span class="text">شادي</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[p@$ka matka 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7522453</id>
-        <link href="https://vibe.naver.com/album/7522453"/>
-        <updated>2022-05-02T15:20:44.806Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7522453" class="title"><span data-v-1f47c720="" class="text"> p@$ka matka <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5265862" class="link_artist"><span class="text">Cofe</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sudae 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7522452</id>
-        <link href="https://vibe.naver.com/album/7522452"/>
-        <updated>2022-05-02T15:20:44.807Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7522452" class="title"><span data-v-1f47c720="" class="text"> Sudae <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3613522" class="link_artist"><span class="text">DIMARIA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ابيك لي 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7522451</id>
-        <link href="https://vibe.naver.com/album/7522451"/>
-        <updated>2022-05-02T15:20:44.808Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7522451" class="title"><span data-v-1f47c720="" class="text"> ابيك لي <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2167002" class="link_artist"><span class="text">عبدالعزيز الشريف</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

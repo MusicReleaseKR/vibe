@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-03T19:16:47.339Z</updated>
+    <updated>2022-05-03T20:19:38.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -165,13 +165,6 @@
         <link href="https://vibe.naver.com/album/7523906"/>
         <updated>2022-05-03T15:21:16.786Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523906" class="title"><span data-v-1f47c720="" class="text"> Cruel Moon <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1154913" class="link_artist"><span class="text">Jasmyn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New Gen 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7523863</id>
-        <link href="https://vibe.naver.com/album/7523863"/>
-        <updated>2022-05-03T19:16:46.573Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523863" class="title"><span data-v-1f47c720="" class="text"> New Gen <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4894256" class="link_artist"><span class="text">mustbejohn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Raging Ocean Within 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7523689"/>
         <updated>2022-05-03T15:21:16.812Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523689" class="title"><span data-v-1f47c720="" class="text"> ちらばれ！サマーピーポー <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5440415" class="link_artist"><span class="text">ヤバイTシャツ屋さん</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heaven 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7523688</id>
+        <link href="https://vibe.naver.com/album/7523688"/>
+        <updated>2022-05-03T20:19:37.669Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523688" class="title"><span data-v-1f47c720="" class="text"> Heaven <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/71427" class="link_artist"><span class="text">Rossy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

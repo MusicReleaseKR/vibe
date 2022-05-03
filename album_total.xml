@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-03T17:26:22.366Z</updated>
+    <updated>2022-05-03T18:21:50.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Engafado 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7525496</id>
+        <link href="https://vibe.naver.com/album/7525496"/>
+        <updated>2022-05-03T18:21:49.646Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7525496" class="title"><span data-v-1f47c720="" class="text"> Engafado <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2411062" class="link_artist"><span class="text">L-Gante</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coochie Island 업데이트]]></title>
         <id>https://vibe.naver.com/album/7524684</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7523688"/>
         <updated>2022-05-03T15:21:16.814Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523688" class="title"><span data-v-1f47c720="" class="text"> Heaven <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/71427" class="link_artist"><span class="text">Rossy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Olds Mo Williams 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7523687</id>
-        <link href="https://vibe.naver.com/album/7523687"/>
-        <updated>2022-05-03T15:21:16.815Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523687" class="title"><span data-v-1f47c720="" class="text"> Olds Mo Williams <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5430380" class="link_artist"><span class="text">The Babalooneys</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

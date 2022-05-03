@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-03T12:33:50.062Z</updated>
+    <updated>2022-05-03T13:35:40.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thâu Đêm 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7524667</id>
+        <link href="https://vibe.naver.com/album/7524667"/>
+        <updated>2022-05-03T13:35:39.867Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7524667" class="title"><span data-v-1f47c720="" class="text"> Thâu Đêm <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4770" class="link_artist"><span class="text">Isan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chat Cypher (Prod.Chap ) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7524666</id>
+        <link href="https://vibe.naver.com/album/7524666"/>
+        <updated>2022-05-03T13:35:39.868Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7524666" class="title"><span data-v-1f47c720="" class="text"> Chat Cypher (Prod.Chap ) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3200356" class="link_artist"><span class="text">Phao</span></a><span>, </span></span><span><a href="/artist/149865" class="link_artist"><span class="text">Tez</span></a><span>, </span></span><span><a href="/artist/5438972" class="link_artist"><span class="text">GVA</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CHANGIN' Vol. 2 업데이트]]></title>
         <id>https://vibe.naver.com/album/7524590</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7523373"/>
         <updated>2022-05-03T03:21:46.415Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523373" class="title"><span data-v-1f47c720="" class="text"> 비로 채우다 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5351874" class="link_artist"><span class="text">원현준</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Katana [ Beat Tape ] 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7523372</id>
-        <link href="https://vibe.naver.com/album/7523372"/>
-        <updated>2022-05-03T03:21:46.416Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523372" class="title"><span data-v-1f47c720="" class="text"> Katana [ Beat Tape ] <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/313743" class="link_artist"><span class="text">J57</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우분투 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7523371</id>
-        <link href="https://vibe.naver.com/album/7523371"/>
-        <updated>2022-05-03T03:21:46.416Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7523371" class="title"><span data-v-1f47c720="" class="text"> 우분투 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3527041" class="link_artist"><span class="text">한순정</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

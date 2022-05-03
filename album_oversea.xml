@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-03T08:20:34.875Z</updated>
+    <updated>2022-05-03T09:14:49.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hold My Hand (Music From The Motion Picture "Top Gun: Maverick") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7524255</id>
+        <link href="https://vibe.naver.com/album/7524255"/>
+        <updated>2022-05-03T09:14:39.150Z</updated>
+        <content type="html"><![CDATA[Lady Gaga]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Big Big Life 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7523265</id>
+        <link href="https://vibe.naver.com/album/7523265"/>
+        <updated>2022-05-03T09:14:39.150Z</updated>
+        <content type="html"><![CDATA[Oh The Larceny]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If It Feels Right 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7522832</id>
+        <link href="https://vibe.naver.com/album/7522832"/>
+        <updated>2022-05-03T09:14:39.150Z</updated>
+        <content type="html"><![CDATA[AMiR]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DIMENSION : Senkou 업데이트]]></title>
         <id>https://vibe.naver.com/album/7523192</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7519126"/>
         <updated>2022-05-02T03:52:01.970Z</updated>
         <content type="html"><![CDATA[Prince]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rollin' Wit The Homies 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7515330</id>
-        <link href="https://vibe.naver.com/album/7515330"/>
-        <updated>2022-05-02T03:52:01.971Z</updated>
-        <content type="html"><![CDATA[Buddy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Green Green Grass (Sam Feldt Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7519283</id>
-        <link href="https://vibe.naver.com/album/7519283"/>
-        <updated>2022-05-02T03:52:01.986Z</updated>
-        <content type="html"><![CDATA[George Ezra]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Way Out 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7520272</id>
-        <link href="https://vibe.naver.com/album/7520272"/>
-        <updated>2022-05-02T03:52:01.987Z</updated>
-        <content type="html"><![CDATA[FKJ]]></content>
     </entry>
 </feed>

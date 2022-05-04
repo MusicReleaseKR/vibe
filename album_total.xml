@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-04T21:14:41.301Z</updated>
+    <updated>2022-05-04T22:14:33.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bad kongo 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7533258</id>
+        <link href="https://vibe.naver.com/album/7533258"/>
+        <updated>2022-05-04T22:14:32.270Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7533258" class="title"><span data-v-1f47c720="" class="text"> Bad kongo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4007377" class="link_artist"><span class="text">Lamatrix</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rambo 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7533257</id>
+        <link href="https://vibe.naver.com/album/7533257"/>
+        <updated>2022-05-04T22:14:32.277Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7533257" class="title"><span data-v-1f47c720="" class="text"> Rambo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/234933" class="link_artist"><span class="text">Deeper Phil</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fei Niao Xia 업데이트]]></title>
         <id>https://vibe.naver.com/album/7531405</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7524908"/>
         <updated>2022-05-04T15:15:47.826Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7524908" class="title"><span data-v-1f47c720="" class="text"> Freestyle 73 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3007415" class="link_artist"><span class="text">Chucky73</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La montagne 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7524907</id>
-        <link href="https://vibe.naver.com/album/7524907"/>
-        <updated>2022-05-04T15:15:47.826Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7524907" class="title"><span data-v-1f47c720="" class="text"> La montagne <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5433893" class="link_artist"><span class="text">Jean Palau</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miss You When You're There 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7524906</id>
-        <link href="https://vibe.naver.com/album/7524906"/>
-        <updated>2022-05-04T21:14:40.527Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7524906" class="title"><span data-v-1f47c720="" class="text"> Miss You When You're There <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/68945" class="link_artist"><span class="text">Charles</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

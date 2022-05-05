@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-05T12:28:55.459Z</updated>
+    <updated>2022-05-05T13:34:08.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[CLASS IS OVER 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dimitri Vegas &amp; Like Mike]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[See Tình (Speed Up Version) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7533405</id>
+        <link href="https://vibe.naver.com/album/7533405"/>
+        <updated>2022-05-05T13:34:07.653Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7533405" class="title"><span data-v-1f47c720="" class="text"> See Tình (Speed Up Version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3734096" class="link_artist"><span class="text">Hoàng Thùy Linh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Angry Kannamma 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7533378</id>
         <link href="https://vibe.naver.com/album/7533378"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7529997"/>
         <updated>2022-05-05T03:20:58.628Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7529997" class="title"><span data-v-1f47c720="" class="text"> 휴식할 때 듣기 좋은 클래식 피아노 115 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2910830" class="link_artist"><span class="text">박 마르첼리나</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오르골 자장가 듣기 좋은 태교음악 115 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7529995</id>
-        <link href="https://vibe.naver.com/album/7529995"/>
-        <updated>2022-05-05T03:20:58.631Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7529995" class="title"><span data-v-1f47c720="" class="text"> 오르골 자장가 듣기 좋은 태교음악 115 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/213107" class="link_artist"><span class="text">어쿠스틱레인(Acoustic Rain)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-06T08:21:50.462Z</updated>
+    <updated>2022-05-06T09:15:47.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Waiting Days: B-sides 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7529656</id>
+        <link href="https://vibe.naver.com/album/7529656"/>
+        <updated>2022-05-06T09:15:35.566Z</updated>
+        <content type="html"><![CDATA[j. pastel]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Vegas (From the Original Motion Picture Soundtrack ELVIS) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7533548</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7524441"/>
         <updated>2022-05-04T03:22:55.316Z</updated>
         <content type="html"><![CDATA[Gill Chang]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7519351</id>
-        <link href="https://vibe.naver.com/album/7519351"/>
-        <updated>2022-05-04T03:22:55.317Z</updated>
-        <content type="html"><![CDATA[Liz Cass]]></content>
     </entry>
 </feed>

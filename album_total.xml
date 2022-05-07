@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-06T23:14:27.180Z</updated>
+    <updated>2022-05-07T01:00:59.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Overexposure 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7539995</id>
+        <link href="https://vibe.naver.com/album/7539995"/>
+        <updated>2022-05-07T01:00:58.888Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7539995" class="title"><span data-v-1f47c720="" class="text"> Overexposure <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4894660" class="link_artist"><span class="text">Soph Lilly</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Que Pena por Ti 업데이트]]></title>
         <id>https://vibe.naver.com/album/7536460</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7533685"/>
         <updated>2022-05-06T15:15:12.944Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7533685" class="title"><span data-v-1f47c720="" class="text"> Avec Jésus on tape pas poteau <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4628126" class="link_artist"><span class="text">HYAC ' 1TH</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trovador do Camaquã (Ao Vivo) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7533684</id>
-        <link href="https://vibe.naver.com/album/7533684"/>
-        <updated>2022-05-06T15:15:12.945Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7533684" class="title"><span data-v-1f47c720="" class="text"> Trovador do Camaquã (Ao Vivo) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2809798" class="link_artist"><span class="text">Capitão Faustino</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

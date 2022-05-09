@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-09T08:19:23.098Z</updated>
+    <updated>2022-05-09T09:15:31.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Un Verano Sin Ti 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7534962</id>
+        <link href="https://vibe.naver.com/album/7534962"/>
+        <updated>2022-05-09T09:15:21.150Z</updated>
+        <content type="html"><![CDATA[Bad Bunny]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Roadblock 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7523871</id>
+        <link href="https://vibe.naver.com/album/7523871"/>
+        <updated>2022-05-09T09:15:21.160Z</updated>
+        <content type="html"><![CDATA[NSG]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Heart Part 5 업데이트]]></title>
         <id>https://vibe.naver.com/album/7547519</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7519199"/>
         <updated>2022-05-05T03:20:50.073Z</updated>
         <content type="html"><![CDATA[Alan Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[blue water road 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7520344</id>
-        <link href="https://vibe.naver.com/album/7520344"/>
-        <updated>2022-05-05T03:20:50.073Z</updated>
-        <content type="html"><![CDATA[Kehlani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[how could you do this to me? 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7516592</id>
-        <link href="https://vibe.naver.com/album/7516592"/>
-        <updated>2022-05-05T03:20:50.075Z</updated>
-        <content type="html"><![CDATA[Maggie Lindemann]]></content>
     </entry>
 </feed>

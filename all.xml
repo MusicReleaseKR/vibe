@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-08T23:14:20.726Z</updated>
+    <updated>2022-05-09T01:05:58.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[우리들의 블루스 OST Part 6 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Gill Chang]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Raat Rani (From "Modern Love (Mumbai)") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7547447</id>
+        <link href="https://vibe.naver.com/album/7547447"/>
+        <updated>2022-05-09T01:05:57.916Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547447" class="title"><span data-v-1f47c720="" class="text"> Raat Rani (From "Modern Love (Mumbai)") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/552650" class="link_artist"><span class="text">Ram Sampath</span></a><span>, </span></span><span><a href="/artist/538586" class="link_artist"><span class="text">Nikhita Gandhi</span></a><span>, </span></span><span><a href="/artist/4034145" class="link_artist"><span class="text">Ginny Diwan</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The End - uit Liefde Voor Muziek (Live) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7547217</id>
         <link href="https://vibe.naver.com/album/7547217"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7545679"/>
         <updated>2022-05-08T15:14:24.236Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7545679" class="title"><span data-v-1f47c720="" class="text"> Başıma Karlar Yağdı <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5457116" class="link_artist"><span class="text">Ramazan İlter</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RRAK TAK TAK (INDIAN REMIX) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7545678</id>
-        <link href="https://vibe.naver.com/album/7545678"/>
-        <updated>2022-05-08T15:14:24.237Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7545678" class="title"><span data-v-1f47c720="" class="text"> RRAK TAK TAK (INDIAN REMIX) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3525709" class="link_artist"><span class="text">Eri Qerimi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-10T10:16:25.885Z</updated>
+    <updated>2022-05-10T11:13:49.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Already (Instrumental version) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7551186</id>
+        <link href="https://vibe.naver.com/album/7551186"/>
+        <updated>2022-05-10T11:13:48.310Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7551186" class="title"><span data-v-1f47c720="" class="text"> Already (Instrumental version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2309144" class="link_artist"><span class="text">Aundre</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love & War 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7551185</id>
+        <link href="https://vibe.naver.com/album/7551185"/>
+        <updated>2022-05-10T11:13:48.310Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7551185" class="title"><span data-v-1f47c720="" class="text"> Love &amp; War <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5434875" class="link_artist"><span class="text">Deano Monsoon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[This Feeling 업데이트]]></title>
         <id>https://vibe.naver.com/album/7551162</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7547884"/>
         <updated>2022-05-10T03:24:34.574Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547884" class="title"><span data-v-1f47c720="" class="text"> 성령이 충만한 찬송가 연주곡 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/16657" class="link_artist"><span class="text">박인범</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신만 몰라 (Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7547883</id>
-        <link href="https://vibe.naver.com/album/7547883"/>
-        <updated>2022-05-10T03:24:34.593Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547883" class="title"><span data-v-1f47c720="" class="text"> 당신만 몰라 (Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/117146" class="link_artist"><span class="text">이부영</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Way 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7547882</id>
-        <link href="https://vibe.naver.com/album/7547882"/>
-        <updated>2022-05-10T03:24:34.594Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547882" class="title"><span data-v-1f47c720="" class="text"> No Way <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5458345" class="link_artist"><span class="text">오성택</span></a><span>, </span></span><span><a href="/artist/5458346" class="link_artist"><span class="text">이동재</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

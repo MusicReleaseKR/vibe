@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-09T23:14:27.425Z</updated>
+    <updated>2022-05-10T01:00:56.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dichter & Denker 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7548232</id>
+        <link href="https://vibe.naver.com/album/7548232"/>
+        <updated>2022-05-10T01:00:56.241Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7548232" class="title"><span data-v-1f47c720="" class="text"> Dichter &amp; Denker <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4161545" class="link_artist"><span class="text">Abi 91</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kopf oder Zahl 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7548231</id>
+        <link href="https://vibe.naver.com/album/7548231"/>
+        <updated>2022-05-10T01:00:56.242Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7548231" class="title"><span data-v-1f47c720="" class="text"> Kopf oder Zahl <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4312461" class="link_artist"><span class="text">Thias 93er</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bring a Friend 업데이트]]></title>
         <id>https://vibe.naver.com/album/7548198</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7547376"/>
         <updated>2022-05-09T15:20:04.291Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547376" class="title"><span data-v-1f47c720="" class="text"> Gangsta <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/316297" class="link_artist"><span class="text">Diablo</span></a><span>, </span></span><span><a href="/artist/330919" class="link_artist"><span class="text">Jayla</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Got Me 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7547375</id>
-        <link href="https://vibe.naver.com/album/7547375"/>
-        <updated>2022-05-09T15:20:04.293Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547375" class="title"><span data-v-1f47c720="" class="text"> You Got Me <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4929386" class="link_artist"><span class="text">Akiol</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[II 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7547374</id>
-        <link href="https://vibe.naver.com/album/7547374"/>
-        <updated>2022-05-09T15:20:04.297Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7547374" class="title"><span data-v-1f47c720="" class="text"> II <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1936609" class="link_artist"><span class="text">Elli De Mon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

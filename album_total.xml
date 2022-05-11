@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-11T17:32:04.319Z</updated>
+    <updated>2022-05-11T18:21:59.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Modern Love (Mumbai) (Original Series Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7553390</id>
+        <link href="https://vibe.naver.com/album/7553390"/>
+        <updated>2022-05-11T18:21:58.961Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7553390" class="title"><span data-v-1f47c720="" class="text"> Modern Love (Mumbai) (Original Series Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1650729" class="link_artist"><span class="text">Nikhil D'Souza</span></a><span>, </span></span><span><a href="/artist/552650" class="link_artist"><span class="text">Ram Sampath</span></a><span>, </span></span><span><a href="/artist/555944" class="link_artist"><span class="text">Jeet Gannguli</span></a><span>, </span></span><span><a href="/artist/316902" class="link_artist"><span class="text">Shankar Ehsaan Loy</span></a><span>, </span></span><span><a href="/artist/285377" class="link_artist"><span class="text">Vishal Bhardwaj</span></a><span>, </span></span><span><a href="/artist/2702580" class="link_artist"><span class="text">Gaurav Raina</span></a><span>, </span></span><span><a href="/artist/1623400" class="link_artist"><span class="text">Kamakshi Khanna</span></a><span>, </span></span><span><a href="/artist/1200642" class="link_artist"><span class="text">Neel Adhikari</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Go 업데이트]]></title>
         <id>https://vibe.naver.com/album/7552184</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7551432"/>
         <updated>2022-05-11T15:17:37.257Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7551432" class="title"><span data-v-1f47c720="" class="text"> You're Lovin <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5276168" class="link_artist"><span class="text">CRISSY.P</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Esta Mal 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7551431</id>
-        <link href="https://vibe.naver.com/album/7551431"/>
-        <updated>2022-05-11T15:17:37.258Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7551431" class="title"><span data-v-1f47c720="" class="text"> No Esta Mal <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3505040" class="link_artist"><span class="text">Meria</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

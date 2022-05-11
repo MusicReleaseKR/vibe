@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-11T10:22:36.432Z</updated>
+    <updated>2022-05-11T11:13:50.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Where is my Garden! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Soran]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Text Her 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7552110</id>
+        <link href="https://vibe.naver.com/album/7552110"/>
+        <updated>2022-05-11T11:13:49.967Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7552110" class="title"><span data-v-1f47c720="" class="text"> Text Her <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3224856" class="link_artist"><span class="text">Tyler Richardson</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Naked Intentions 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7551817</id>
         <link href="https://vibe.naver.com/album/7551817"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7551049"/>
         <updated>2022-05-11T03:19:03.231Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7551049" class="title"><span data-v-1f47c720="" class="text"> 아침의 광장 (KBS 대구 1라디오) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5458646" class="link_artist"><span class="text">김선우</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Troglodyte 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7551043</id>
-        <link href="https://vibe.naver.com/album/7551043"/>
-        <updated>2022-05-10T15:25:09.546Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7551043" class="title"><span data-v-1f47c720="" class="text"> Troglodyte <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5418668" class="link_artist"><span class="text">Viagra boys</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

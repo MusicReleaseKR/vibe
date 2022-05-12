@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-12T08:22:47.453Z</updated>
+    <updated>2022-05-12T09:24:06.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Overflow 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7551627</id>
+        <link href="https://vibe.naver.com/album/7551627"/>
+        <updated>2022-05-12T09:23:56.792Z</updated>
+        <content type="html"><![CDATA[du0]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Me Myself & I 업데이트]]></title>
         <id>https://vibe.naver.com/album/7555111</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7533602"/>
         <updated>2022-05-11T03:18:52.504Z</updated>
         <content type="html"><![CDATA[Train]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goofy! 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7550843</id>
-        <link href="https://vibe.naver.com/album/7550843"/>
-        <updated>2022-05-11T03:18:52.505Z</updated>
-        <content type="html"><![CDATA[Hadji Gaviota]]></content>
     </entry>
 </feed>

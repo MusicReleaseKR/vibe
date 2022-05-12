@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-12T13:41:54.122Z</updated>
+    <updated>2022-05-12T14:18:37.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[By My Side 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,11 +705,25 @@
         <content type="html"><![CDATA[Train]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sweet 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7555911</id>
+        <link href="https://vibe.naver.com/album/7555911"/>
+        <updated>2022-05-12T14:18:37.293Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7555911" class="title"><span data-v-1f47c720="" class="text"> Sweet <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4830740" class="link_artist"><span class="text">Zury</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[La Gatica 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7555865</id>
         <link href="https://vibe.naver.com/album/7555865"/>
         <updated>2022-05-12T12:29:46.366Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7555865" class="title"><span data-v-1f47c720="" class="text"> La Gatica <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5462942" class="link_artist"><span class="text">The Boy Love "El Gato"</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Will It Ever Feel The Same? 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7555336</id>
+        <link href="https://vibe.naver.com/album/7555336"/>
+        <updated>2022-05-12T14:18:37.295Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7555336" class="title"><span data-v-1f47c720="" class="text"> Will It Ever Feel The Same? <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1889023" class="link_artist"><span class="text">Bazzi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hotline 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7552063"/>
         <updated>2022-05-12T03:12:15.426Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7552063" class="title"><span data-v-1f47c720="" class="text"> Phases <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4159303" class="link_artist"><span class="text">Sleepermane</span></a><span>, </span></span><span><a href="/artist/4393809" class="link_artist"><span class="text">Sling Dilly</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yesterdaze 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7552062</id>
-        <link href="https://vibe.naver.com/album/7552062"/>
-        <updated>2022-05-12T03:12:15.427Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7552062" class="title"><span data-v-1f47c720="" class="text"> Yesterdaze <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4596649" class="link_artist"><span class="text">Septober</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Plant Whisperer 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7552061</id>
-        <link href="https://vibe.naver.com/album/7552061"/>
-        <updated>2022-05-12T03:12:15.428Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7552061" class="title"><span data-v-1f47c720="" class="text"> The Plant Whisperer <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5461642" class="link_artist"><span class="text">Ruth de las Plantas</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-24T07:14:42.322Z</updated>
+    <updated>2022-05-24T08:19:12.693Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,13 +32,6 @@
         <link href="https://vibe.naver.com/album/7568696"/>
         <updated>2022-05-24T03:22:00.810Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7568696" class="title"><span data-v-1f47c720="" class="text"> 뜨거운 씽어즈 part5 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Curse 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7568695</id>
-        <link href="https://vibe.naver.com/album/7568695"/>
-        <updated>2022-05-24T07:14:41.433Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7568695" class="title"><span data-v-1f47c720="" class="text"> The Curse <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/467525" class="link_artist"><span class="text">Vera Blue</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Delante de Mí 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7568479"/>
         <updated>2022-05-24T03:22:00.932Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7568479" class="title"><span data-v-1f47c720="" class="text"> Hilton <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5436582" class="link_artist"><span class="text">DYØN</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eberl: Sonata In E Flat Major For Piano, Clarinet And Cello, Op.36 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7568478</id>
+        <link href="https://vibe.naver.com/album/7568478"/>
+        <updated>2022-05-24T08:19:12.090Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7568478" class="title"><span data-v-1f47c720="" class="text"> Eberl: Sonata In E Flat Major For Piano, Clarinet And Cello, Op.36 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/117827" class="link_artist"><span class="text">아다지오</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-24T09:15:57.875Z</updated>
+    <updated>2022-05-24T10:16:44.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[East 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7569562</id>
+        <link href="https://vibe.naver.com/album/7569562"/>
+        <updated>2022-05-24T10:16:44.018Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7569562" class="title"><span data-v-1f47c720="" class="text"> East <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1139136" class="link_artist"><span class="text">Jess Day</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prison 업데이트]]></title>
         <id>https://vibe.naver.com/album/7569537</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7568492"/>
         <updated>2022-05-24T03:22:00.908Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7568492" class="title"><span data-v-1f47c720="" class="text"> Divine Heart <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1054058" class="link_artist"><span class="text">Michael Martinez(마이클 마르티네즈)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주는 나를 기르시는 목자요 (While The Lord Is My Shepherd) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7568491</id>
-        <link href="https://vibe.naver.com/album/7568491"/>
-        <updated>2022-05-24T03:22:00.910Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7568491" class="title"><span data-v-1f47c720="" class="text"> 주는 나를 기르시는 목자요 (While The Lord Is My Shepherd) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4894077" class="link_artist"><span class="text">진밴드</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

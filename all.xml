@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-25T16:20:36.705Z</updated>
+    <updated>2022-05-25T17:22:57.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[강승원 이집 PART 5 - 널 사랑하니까 (Because I Love You) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -831,6 +831,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7570173" class="title"><span data-v-1f47c720="" class="text"> RS <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4792508" class="link_artist"><span class="text">DelaRua</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Forest in the City 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7570116</id>
+        <link href="https://vibe.naver.com/album/7570116"/>
+        <updated>2022-05-25T17:22:56.548Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7570116" class="title"><span data-v-1f47c720="" class="text"> Forest in the City <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/330819" class="link_artist"><span class="text">UMI</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Following Jesus - The Truth 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7569977</id>
         <link href="https://vibe.naver.com/album/7569977"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7569888"/>
         <updated>2022-05-25T15:16:45.487Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7569888" class="title"><span data-v-1f47c720="" class="text"> Jesus, Won't You Come By Here <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/12716" class="link_artist"><span class="text">Hank Williams Jr.</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SANGUE AZUL 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7569887</id>
-        <link href="https://vibe.naver.com/album/7569887"/>
-        <updated>2022-05-25T15:16:45.489Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7569887" class="title"><span data-v-1f47c720="" class="text"> SANGUE AZUL <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3931910" class="link_artist"><span class="text">Joint One</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

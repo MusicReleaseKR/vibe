@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-26T08:19:45.984Z</updated>
+    <updated>2022-05-26T09:16:15.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Eminem Show (Expanded Edition) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7569917</id>
+        <link href="https://vibe.naver.com/album/7569917"/>
+        <updated>2022-05-26T09:16:04.591Z</updated>
+        <content type="html"><![CDATA[Eminem]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gotta Get Back 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7570109</id>
+        <link href="https://vibe.naver.com/album/7570109"/>
+        <updated>2022-05-26T09:16:04.596Z</updated>
+        <content type="html"><![CDATA[Pink Sweat$]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[blessing me 업데이트]]></title>
         <id>https://vibe.naver.com/album/7569425</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7568170"/>
         <updated>2022-05-24T03:21:51.034Z</updated>
         <content type="html"><![CDATA[JEFFREY OLIVER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Woman 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7566007</id>
-        <link href="https://vibe.naver.com/album/7566007"/>
-        <updated>2022-05-24T03:21:51.037Z</updated>
-        <content type="html"><![CDATA[Omah Lay]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Overthinking 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7563490</id>
-        <link href="https://vibe.naver.com/album/7563490"/>
-        <updated>2022-05-24T03:21:51.038Z</updated>
-        <content type="html"><![CDATA[Mabel]]></content>
     </entry>
 </feed>

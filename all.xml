@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-27T17:19:58.848Z</updated>
+    <updated>2022-05-27T18:19:35.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SEVENTEEN 4th Album 'Face the Sun' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,13 +705,6 @@
         <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Obi-Wan (From "Obi-Wan Kenobi") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7575515</id>
-        <link href="https://vibe.naver.com/album/7575515"/>
-        <updated>2022-05-27T17:19:58.249Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575515" class="title"><span data-v-1f47c720="" class="text"> Obi-Wan (From "Obi-Wan Kenobi") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/777" class="link_artist"><span class="text">John Williams</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Toxic 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7574687</id>
         <link href="https://vibe.naver.com/album/7574687"/>
@@ -1053,5 +1046,12 @@
         <link href="https://vibe.naver.com/album/7574407"/>
         <updated>2022-05-27T15:15:24.791Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7574407" class="title"><span data-v-1f47c720="" class="text"> Bum Bum Bate Palma <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3083142" class="link_artist"><span class="text">Mc Capelinha</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[deja vu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7574406</id>
+        <link href="https://vibe.naver.com/album/7574406"/>
+        <updated>2022-05-27T18:19:34.718Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7574406" class="title"><span data-v-1f47c720="" class="text"> deja vu <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5468278" class="link_artist"><span class="text">Lira Rosa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

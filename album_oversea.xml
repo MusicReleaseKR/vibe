@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-27T08:28:10.453Z</updated>
+    <updated>2022-05-27T09:16:05.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/7574210"/>
         <updated>2022-05-27T03:23:40.803Z</updated>
         <content type="html"><![CDATA[Calvin Harris]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're The Reason 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7573864</id>
+        <link href="https://vibe.naver.com/album/7573864"/>
+        <updated>2022-05-27T09:15:55.658Z</updated>
+        <content type="html"><![CDATA[Etham]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I Just Called 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7569103"/>
         <updated>2022-05-25T03:17:55.103Z</updated>
         <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Who sings? Vol.1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7560263</id>
-        <link href="https://vibe.naver.com/album/7560263"/>
-        <updated>2022-05-25T03:17:55.103Z</updated>
-        <content type="html"><![CDATA[온유 (ONEW)]]></content>
     </entry>
 </feed>

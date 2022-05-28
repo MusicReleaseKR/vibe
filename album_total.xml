@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-28T03:07:23.365Z</updated>
+    <updated>2022-05-28T04:19:26.618Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://vibe.naver.com/album/7575201"/>
         <updated>2022-05-28T03:07:22.678Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575201" class="title"><span data-v-1f47c720="" class="text"> [Vol.137] 유희열의 스케치북 With you : 여든 아홉 번째 목소리 '유스케 X 지소울 (GSoul)' <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/14053" class="link_artist"><span class="text">지소울(GSoul)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[莫愁 (Carefree Life) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7575130</id>
+        <link href="https://vibe.naver.com/album/7575130"/>
+        <updated>2022-05-28T04:19:25.960Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575130" class="title"><span data-v-1f47c720="" class="text"> 莫愁 (Carefree Life) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/537813" class="link_artist"><span class="text">Momo Wu</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SMILE 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7574506"/>
         <updated>2022-05-27T15:15:24.753Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7574506" class="title"><span data-v-1f47c720="" class="text"> 咫尺之遙 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4109959" class="link_artist"><span class="text">After Tales</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blues to the Light 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7574505</id>
-        <link href="https://vibe.naver.com/album/7574505"/>
-        <updated>2022-05-27T15:15:24.754Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7574505" class="title"><span data-v-1f47c720="" class="text"> Blues to the Light <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5457130" class="link_artist"><span class="text">Sustain Flavours</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

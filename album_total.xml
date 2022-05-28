@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-28T15:15:30.268Z</updated>
+    <updated>2022-05-28T16:21:18.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[لو كان بيننا الحبيب 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7575957</id>
+        <link href="https://vibe.naver.com/album/7575957"/>
+        <updated>2022-05-28T16:21:17.944Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575957" class="title"><span data-v-1f47c720="" class="text"> لو كان بيننا الحبيب <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5471932" class="link_artist"><span class="text">صلاح الدين أوشن</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LOVE VS. LOVE 업데이트]]></title>
         <id>https://vibe.naver.com/album/7575938</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7575699"/>
         <updated>2022-05-28T15:15:29.550Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575699" class="title"><span data-v-1f47c720="" class="text"> Jojo in the Sky <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5316441" class="link_artist"><span class="text">Luca S</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gunay 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7575613</id>
-        <link href="https://vibe.naver.com/album/7575613"/>
-        <updated>2022-05-28T15:15:29.551Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575613" class="title"><span data-v-1f47c720="" class="text"> Gunay <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/387583" class="link_artist"><span class="text">Sublim</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

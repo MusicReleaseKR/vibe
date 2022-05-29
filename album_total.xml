@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-29T09:14:22.782Z</updated>
+    <updated>2022-05-29T10:16:04.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Zer dabixu? (Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7577006</id>
+        <link href="https://vibe.naver.com/album/7577006"/>
+        <updated>2022-05-29T10:16:04.150Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577006" class="title"><span data-v-1f47c720="" class="text"> Zer dabixu? (Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2047259" class="link_artist"><span class="text">Eskean Kristö</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trois Cent Trois 업데이트]]></title>
         <id>https://vibe.naver.com/album/7577000</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7575717"/>
         <updated>2022-05-28T15:15:29.536Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575717" class="title"><span data-v-1f47c720="" class="text"> Ey Medet <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/146853" class="link_artist"><span class="text">Guher</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Det e deilig det hær 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7575716</id>
-        <link href="https://vibe.naver.com/album/7575716"/>
-        <updated>2022-05-28T15:15:29.536Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7575716" class="title"><span data-v-1f47c720="" class="text"> Det e deilig det hær <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2728734" class="link_artist"><span class="text">Trond Nilsen</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

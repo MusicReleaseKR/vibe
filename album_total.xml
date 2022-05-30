@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-30T15:17:21.038Z</updated>
+    <updated>2022-05-30T16:20:23.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,13 +53,6 @@
         <link href="https://vibe.naver.com/album/7577598"/>
         <updated>2022-05-30T15:17:20.261Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577598" class="title"><span data-v-1f47c720="" class="text"> Mars Lazuardi Kamila <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5472609" class="link_artist"><span class="text">Lazuardi Kamila</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remindful.Two 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7577295</id>
-        <link href="https://vibe.naver.com/album/7577295"/>
-        <updated>2022-05-30T15:17:20.263Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577295" class="title"><span data-v-1f47c720="" class="text"> Remindful.Two <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2778309" class="link_artist"><span class="text">다즈비(DAZBEE)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Black Heart 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7577181"/>
         <updated>2022-05-30T15:17:20.339Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577181" class="title"><span data-v-1f47c720="" class="text"> Yksinkertainen nainen <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3907650" class="link_artist"><span class="text">Sami Malmberg</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kun vierelläsi oon 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7577180</id>
+        <link href="https://vibe.naver.com/album/7577180"/>
+        <updated>2022-05-30T16:20:22.756Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577180" class="title"><span data-v-1f47c720="" class="text"> Kun vierelläsi oon <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3907650" class="link_artist"><span class="text">Sami Malmberg</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

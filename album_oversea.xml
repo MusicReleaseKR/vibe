@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-05-30T08:20:23.884Z</updated>
+    <updated>2022-05-30T09:16:54.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Greatest 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7575036</id>
+        <link href="https://vibe.naver.com/album/7575036"/>
+        <updated>2022-05-30T09:16:45.259Z</updated>
+        <content type="html"><![CDATA[보아(BoA)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[God's Timing's the Best 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7576242</id>
+        <link href="https://vibe.naver.com/album/7576242"/>
+        <updated>2022-05-30T09:16:45.259Z</updated>
+        <content type="html"><![CDATA[Naira Marley]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[好きだ 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7576093</id>
+        <link href="https://vibe.naver.com/album/7576093"/>
+        <updated>2022-05-30T09:16:45.259Z</updated>
+        <content type="html"><![CDATA[YOASOBI]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mr. Morale & The Big Steppers 업데이트]]></title>
         <id>https://vibe.naver.com/album/7573863</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7568283"/>
         <updated>2022-05-26T03:21:59.113Z</updated>
         <content type="html"><![CDATA[Gareth.T]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Would've 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7565552</id>
-        <link href="https://vibe.naver.com/album/7565552"/>
-        <updated>2022-05-26T03:21:59.114Z</updated>
-        <content type="html"><![CDATA[Jessie Murph]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Someone Who Knows 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7564491</id>
-        <link href="https://vibe.naver.com/album/7564491"/>
-        <updated>2022-05-26T03:21:59.114Z</updated>
-        <content type="html"><![CDATA[Mychelle]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say Yea 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7564016</id>
-        <link href="https://vibe.naver.com/album/7564016"/>
-        <updated>2022-05-26T03:21:59.116Z</updated>
-        <content type="html"><![CDATA[Jacquees]]></content>
     </entry>
 </feed>

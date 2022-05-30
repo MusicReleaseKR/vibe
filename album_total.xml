@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-30T07:16:57.592Z</updated>
+    <updated>2022-05-30T08:20:23.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[دنیای من 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7577608</id>
+        <link href="https://vibe.naver.com/album/7577608"/>
+        <updated>2022-05-30T08:20:23.196Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577608" class="title"><span data-v-1f47c720="" class="text"> دنیای من <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4296551" class="link_artist"><span class="text">Masoud Payenda</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콕 (Cock) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7577257</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7576199"/>
         <updated>2022-05-29T15:14:56.027Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7576199" class="title"><span data-v-1f47c720="" class="text"> Bisuk Karaja <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4867318" class="link_artist"><span class="text">IsoBahTos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Baseeb El Donia 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7576198</id>
-        <link href="https://vibe.naver.com/album/7576198"/>
-        <updated>2022-05-30T04:34:59.524Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7576198" class="title"><span data-v-1f47c720="" class="text"> Baseeb El Donia <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3003980" class="link_artist"><span class="text">Banah</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

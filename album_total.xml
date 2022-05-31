@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-31T16:22:34.721Z</updated>
+    <updated>2022-05-31T17:25:39.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Disco Maghreb 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7579100</id>
-        <link href="https://vibe.naver.com/album/7579100"/>
-        <updated>2022-05-31T16:22:33.994Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7579100" class="title"><span data-v-1f47c720="" class="text"> Disco Maghreb <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/258394" class="link_artist"><span class="text">DJ Snake</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Scorpion 업데이트]]></title>
         <id>https://vibe.naver.com/album/7579052</id>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7578187"/>
         <updated>2022-05-31T15:19:16.731Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7578187" class="title"><span data-v-1f47c720="" class="text"> Tydeligvis E Æ Like Vanlig Som Alle Andre <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1349611" class="link_artist"><span class="text">Lüt</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Water Wings 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7578186</id>
+        <link href="https://vibe.naver.com/album/7578186"/>
+        <updated>2022-05-31T17:25:38.680Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7578186" class="title"><span data-v-1f47c720="" class="text"> Water Wings <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2394393" class="link_artist"><span class="text">Birds In Row</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

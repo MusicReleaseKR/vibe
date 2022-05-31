@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-05-31T11:13:30.130Z</updated>
+    <updated>2022-05-31T12:28:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Someone You Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7579009</id>
+        <link href="https://vibe.naver.com/album/7579009"/>
+        <updated>2022-05-31T12:28:43.132Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7579009" class="title"><span data-v-1f47c720="" class="text"> Someone You Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/371415" class="link_artist"><span class="text">Douwe Bob</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Badle Badle (Rap Extended Version) (From "Vikram (Hindi)") 업데이트]]></title>
         <id>https://vibe.naver.com/album/7579008</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7577647"/>
         <updated>2022-05-31T03:21:20.713Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577647" class="title"><span data-v-1f47c720="" class="text"> 예수 이름을 부르는 자 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5472649" class="link_artist"><span class="text">INST Worship 법환교회</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let You Down 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7577645</id>
-        <link href="https://vibe.naver.com/album/7577645"/>
-        <updated>2022-05-31T03:21:20.714Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7577645" class="title"><span data-v-1f47c720="" class="text"> Let You Down <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1629948" class="link_artist"><span class="text">주엘(Juel)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

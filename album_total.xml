@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-01T10:22:50.587Z</updated>
+    <updated>2022-06-01T11:13:51.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Haryana Ke Paapi 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7579271</id>
+        <link href="https://vibe.naver.com/album/7579271"/>
+        <updated>2022-06-01T11:13:50.664Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7579271" class="title"><span data-v-1f47c720="" class="text"> Haryana Ke Paapi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3689837" class="link_artist"><span class="text">Ashu Twinkle</span></a><span>, </span></span><span><a href="/artist/2803997" class="link_artist"><span class="text">Vipin Mehandipuriya</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kal Se Daaru Band 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7579260</id>
+        <link href="https://vibe.naver.com/album/7579260"/>
+        <updated>2022-06-01T11:13:50.666Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7579260" class="title"><span data-v-1f47c720="" class="text"> Kal Se Daaru Band <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4062622" class="link_artist"><span class="text">Abhishek Chaubey (Shivam)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SWIM 업데이트]]></title>
         <id>https://vibe.naver.com/album/7579226</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7578776"/>
         <updated>2022-06-01T09:16:57.327Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7578776" class="title"><span data-v-1f47c720="" class="text"> SHINE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5473203" class="link_artist"><span class="text">핑프</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노빠꾸 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7578769</id>
-        <link href="https://vibe.naver.com/album/7578769"/>
-        <updated>2022-06-01T09:16:57.338Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7578769" class="title"><span data-v-1f47c720="" class="text"> 노빠꾸 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3957435" class="link_artist"><span class="text">walo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chasing 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7578768</id>
-        <link href="https://vibe.naver.com/album/7578768"/>
-        <updated>2022-06-01T09:16:57.339Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7578768" class="title"><span data-v-1f47c720="" class="text"> Chasing <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5473202" class="link_artist"><span class="text">K1NGBULL</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

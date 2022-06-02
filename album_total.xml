@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-02T04:42:53.169Z</updated>
+    <updated>2022-06-02T05:28:57.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HOOLYWUD 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7581940</id>
+        <link href="https://vibe.naver.com/album/7581940"/>
+        <updated>2022-06-02T05:28:57.015Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7581940" class="title"><span data-v-1f47c720="" class="text"> HOOLYWUD <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/462969" class="link_artist"><span class="text">Sam Tucker</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴식할 때 듣기 좋은 클래식 피아노 135 업데이트]]></title>
         <id>https://vibe.naver.com/album/7581580</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7579315"/>
         <updated>2022-06-01T15:19:09.723Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7579315" class="title"><span data-v-1f47c720="" class="text"> Useless Memories <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/502839" class="link_artist"><span class="text">Milo Meskens</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sä Et Kestä 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7579314</id>
-        <link href="https://vibe.naver.com/album/7579314"/>
-        <updated>2022-06-01T15:19:09.724Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7579314" class="title"><span data-v-1f47c720="" class="text"> Sä Et Kestä <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2196029" class="link_artist"><span class="text">Dj Sweedy</span></a><span>, </span></span><span><a href="/artist/2485992" class="link_artist"><span class="text">Mäkki</span></a><span>, </span></span><span><a href="/artist/539461" class="link_artist"><span class="text">Nick-E Maggz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

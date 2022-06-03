@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-03T01:00:28.810Z</updated>
+    <updated>2022-06-03T02:54:59.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[lost 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -47,7 +47,7 @@
         <content type="html"><![CDATA[초승(CHOSNG)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Mind 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <title type="html"><![CDATA[My Mind (Acoustic) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/7578670</id>
         <link href="https://vibe.naver.com/album/7578670"/>
         <updated>2022-06-02T09:15:00.321Z</updated>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Satoko Shibata]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[i hate u 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7582686</id>
+        <link href="https://vibe.naver.com/album/7582686"/>
+        <updated>2022-06-03T02:54:58.909Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582686" class="title"><span data-v-1f47c720="" class="text"> i hate u <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3783815" class="link_artist"><span class="text">moon tang</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Il ou Elle 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7582611</id>
+        <link href="https://vibe.naver.com/album/7582611"/>
+        <updated>2022-06-03T02:54:58.910Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582611" class="title"><span data-v-1f47c720="" class="text"> Il ou Elle <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1697624" class="link_artist"><span class="text">Bilal Hassani</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[DRAMA COMPILATION 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7582590</id>
         <link href="https://vibe.naver.com/album/7582590"/>
@@ -857,6 +871,13 @@
         <link href="https://vibe.naver.com/album/7582550"/>
         <updated>2022-06-02T22:13:20.926Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582550" class="title"><span data-v-1f47c720="" class="text"> Por Amor <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2229126" class="link_artist"><span class="text">Thalía</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Arisco 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7582548</id>
+        <link href="https://vibe.naver.com/album/7582548"/>
+        <updated>2022-06-03T02:54:58.939Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582548" class="title"><span data-v-1f47c720="" class="text"> Arisco <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5198723" class="link_artist"><span class="text">Abadi Cmg</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Génération 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/7582401"/>
         <updated>2022-06-02T15:16:36.712Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582401" class="title"><span data-v-1f47c720="" class="text"> AUSMACHT <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2721265" class="link_artist"><span class="text">Emílio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hvidt Flag 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7582400</id>
-        <link href="https://vibe.naver.com/album/7582400"/>
-        <updated>2022-06-02T15:16:36.713Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582400" class="title"><span data-v-1f47c720="" class="text"> Hvidt Flag <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/61025" class="link_artist"><span class="text">Thomas Helmig</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gravity Gain 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7582399</id>
-        <link href="https://vibe.naver.com/album/7582399"/>
-        <updated>2022-06-02T15:16:36.713Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582399" class="title"><span data-v-1f47c720="" class="text"> Gravity Gain <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4926908" class="link_artist"><span class="text">Moritz Fasbender</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geceler Şahit 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7582398</id>
-        <link href="https://vibe.naver.com/album/7582398"/>
-        <updated>2022-06-02T15:16:36.714Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582398" class="title"><span data-v-1f47c720="" class="text"> Geceler Şahit <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2718355" class="link_artist"><span class="text">Etki</span></a><span>, </span></span><span><a href="/artist/4779760" class="link_artist"><span class="text">Organize</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

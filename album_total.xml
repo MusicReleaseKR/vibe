@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-04T10:14:13.474Z</updated>
+    <updated>2022-06-04T11:12:44.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/7583233"/>
         <updated>2022-06-04T03:06:19.190Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7583233" class="title"><span data-v-1f47c720="" class="text"> 유명가수전-배틀어게인 Part 7 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<불후의 명곡> - 어린이날 100주년 기념-뉴 키즈 온 더 명곡 특집 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7583222</id>
+        <link href="https://vibe.naver.com/album/7583222"/>
+        <updated>2022-06-04T11:12:44.147Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7583222" class="title"><span data-v-1f47c720="" class="text"> &lt;불후의 명곡&gt; - 어린이날 100주년 기념-뉴 키즈 온 더 명곡 특집 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WSG워너비 12 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7582460"/>
         <updated>2022-06-03T15:14:48.946Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582460" class="title"><span data-v-1f47c720="" class="text"> Innasex <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5474651" class="link_artist"><span class="text">Innasense</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fractal 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7582459</id>
-        <link href="https://vibe.naver.com/album/7582459"/>
-        <updated>2022-06-03T15:14:48.951Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7582459" class="title"><span data-v-1f47c720="" class="text"> Fractal <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4694071" class="link_artist"><span class="text">KallZ</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

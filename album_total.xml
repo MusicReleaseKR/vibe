@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-05T22:12:36.553Z</updated>
+    <updated>2022-06-05T23:13:36.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[! 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7584753</id>
+        <link href="https://vibe.naver.com/album/7584753"/>
+        <updated>2022-06-05T23:13:35.479Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7584753" class="title"><span data-v-1f47c720="" class="text"> ! <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5463683" class="link_artist"><span class="text">fiji water demon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Where Did You Go? 업데이트]]></title>
         <id>https://vibe.naver.com/album/7584615</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7583771"/>
         <updated>2022-06-05T15:13:40.255Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7583771" class="title"><span data-v-1f47c720="" class="text"> Sib Sib <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5475138" class="link_artist"><span class="text">נעם ארנולד-שפירא</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[E Bukra Nones 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7583770</id>
-        <link href="https://vibe.naver.com/album/7583770"/>
-        <updated>2022-06-05T15:13:40.257Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7583770" class="title"><span data-v-1f47c720="" class="text"> E Bukra Nones <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5343105" class="link_artist"><span class="text">Endri Mallkuqi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

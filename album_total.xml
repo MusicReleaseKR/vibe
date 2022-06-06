@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-06T18:19:02.704Z</updated>
+    <updated>2022-06-06T19:14:11.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Make You Feel My Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7585018</id>
+        <link href="https://vibe.naver.com/album/7585018"/>
+        <updated>2022-06-06T19:14:10.486Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7585018" class="title"><span data-v-1f47c720="" class="text"> Make You Feel My Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/814" class="link_artist"><span class="text">The King's Singers</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fogo 업데이트]]></title>
         <id>https://vibe.naver.com/album/7584821</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7584701"/>
         <updated>2022-06-06T15:17:54.499Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7584701" class="title"><span data-v-1f47c720="" class="text"> Morasis <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/169953" class="link_artist"><span class="text">Morales</span></a><span>, </span></span><span><a href="/artist/4923322" class="link_artist"><span class="text">Mateo Morales</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Butterfly Ballet 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7584700</id>
-        <link href="https://vibe.naver.com/album/7584700"/>
-        <updated>2022-06-06T15:17:54.500Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7584700" class="title"><span data-v-1f47c720="" class="text"> Butterfly Ballet <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3074895" class="link_artist"><span class="text">DJ DIVO</span></a><span>, </span></span><span><a href="/artist/964756" class="link_artist"><span class="text">Olio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

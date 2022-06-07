@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-06-07T08:18:32.530Z</updated>
+    <updated>2022-06-07T09:13:45.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Twelve Carat Toothache (Deluxe) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7585624</id>
+        <link href="https://vibe.naver.com/album/7585624"/>
+        <updated>2022-06-07T09:13:35.545Z</updated>
+        <content type="html"><![CDATA[Post Malone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Let Go (20th Anniversary Edition) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7582084</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7577453"/>
         <updated>2022-06-02T03:44:14.361Z</updated>
         <content type="html"><![CDATA[Why Don't We]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[gfy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7574342</id>
-        <link href="https://vibe.naver.com/album/7574342"/>
-        <updated>2022-06-02T03:44:14.361Z</updated>
-        <content type="html"><![CDATA[blackbear]]></content>
     </entry>
 </feed>

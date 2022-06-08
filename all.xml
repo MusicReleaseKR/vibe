@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-08T16:18:31.725Z</updated>
+    <updated>2022-06-08T17:15:54.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[사계 (四季) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -852,6 +852,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7586727" class="title"><span data-v-1f47c720="" class="text"> Berlin <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3674659" class="link_artist"><span class="text">Valentina Ploy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[หนึ่งปีมีครั้ง (Once a year) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7586323</id>
+        <link href="https://vibe.naver.com/album/7586323"/>
+        <updated>2022-06-08T17:15:53.407Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7586323" class="title"><span data-v-1f47c720="" class="text"> หนึ่งปีมีครั้ง (Once a year) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2908007" class="link_artist"><span class="text">TINN</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Simplesmente Forró 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7586239</id>
         <link href="https://vibe.naver.com/album/7586239"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7586187"/>
         <updated>2022-06-08T15:13:52.433Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7586187" class="title"><span data-v-1f47c720="" class="text"> Useless Memories <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/502839" class="link_artist"><span class="text">Milo Meskens</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[9 Giugno 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7586186</id>
-        <link href="https://vibe.naver.com/album/7586186"/>
-        <updated>2022-06-08T15:13:52.434Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7586186" class="title"><span data-v-1f47c720="" class="text"> 9 Giugno <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5475941" class="link_artist"><span class="text">Sarah Toscano</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

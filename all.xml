@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-08T10:15:26.028Z</updated>
+    <updated>2022-06-08T11:11:55.358Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[사계 (四季) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[moon tang]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meharbaniyan 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7586959</id>
+        <link href="https://vibe.naver.com/album/7586959"/>
+        <updated>2022-06-08T11:11:54.609Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7586959" class="title"><span data-v-1f47c720="" class="text"> Meharbaniyan <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5476311" class="link_artist"><span class="text">Paras Bawa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사계 (四季) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7586736</id>
         <link href="https://vibe.naver.com/album/7586736"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7585807"/>
         <updated>2022-06-07T15:24:00.366Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7585807" class="title"><span data-v-1f47c720="" class="text"> WOODY SHAW <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1618900" class="link_artist"><span class="text">Moor Mother</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Genevieve 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7585806</id>
-        <link href="https://vibe.naver.com/album/7585806"/>
-        <updated>2022-06-07T15:24:00.367Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7585806" class="title"><span data-v-1f47c720="" class="text"> Genevieve <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/350456" class="link_artist"><span class="text">Pianos Become The Teeth</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

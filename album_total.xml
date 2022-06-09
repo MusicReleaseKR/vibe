@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-09T20:16:27.270Z</updated>
+    <updated>2022-06-09T21:11:25.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Vitu Vingi 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7590935</id>
+        <link href="https://vibe.naver.com/album/7590935"/>
+        <updated>2022-06-09T21:11:24.813Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590935" class="title"><span data-v-1f47c720="" class="text"> Vitu Vingi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3707880" class="link_artist"><span class="text">Young Lunya</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TE NE VAI 업데이트]]></title>
         <id>https://vibe.naver.com/album/7590931</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7590721"/>
         <updated>2022-06-09T15:13:55.715Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590721" class="title"><span data-v-1f47c720="" class="text"> 1-0 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3722529" class="link_artist"><span class="text">krassasig</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Super Soaker 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7590720</id>
-        <link href="https://vibe.naver.com/album/7590720"/>
-        <updated>2022-06-09T15:13:55.716Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590720" class="title"><span data-v-1f47c720="" class="text"> Super Soaker <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1805" class="link_artist"><span class="text">Maxwell</span></a><span>, </span></span><span><a href="/artist/4024813" class="link_artist"><span class="text">BOUNTY &amp; COCOA</span></a><span>, </span></span><span><a href="/artist/594656" class="link_artist"><span class="text">The Cratez</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

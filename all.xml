@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-09T17:18:18.861Z</updated>
+    <updated>2022-06-09T18:18:20.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Like a Diamond 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Jubel]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Samjhawan (Lofi Flip) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7590884</id>
+        <link href="https://vibe.naver.com/album/7590884"/>
+        <updated>2022-06-09T18:18:19.496Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590884" class="title"><span data-v-1f47c720="" class="text"> Samjhawan (Lofi Flip) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1605773" class="link_artist"><span class="text">KSW</span></a><span>, </span></span><span><a href="/artist/517146" class="link_artist"><span class="text">Arijit Singh</span></a><span>, </span></span><span><a href="/artist/117538" class="link_artist"><span class="text">Shreya Ghoshal</span></a><span>, </span></span><span><a href="/artist/553412" class="link_artist"><span class="text">Sharib Toshi</span></a><span>, </span></span><span><a href="/artist/301452" class="link_artist"><span class="text">Jawad Ahmed</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Shi Jie Yi Tong Wen Wo Er Wo Ge Chang 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7590764</id>
         <link href="https://vibe.naver.com/album/7590764"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7590713"/>
         <updated>2022-06-09T15:13:55.722Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590713" class="title"><span data-v-1f47c720="" class="text"> Casser la baraque <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1518448" class="link_artist"><span class="text">Chily</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human (Night Tales Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7590712</id>
-        <link href="https://vibe.naver.com/album/7590712"/>
-        <updated>2022-06-09T15:13:55.723Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590712" class="title"><span data-v-1f47c720="" class="text"> Human (Night Tales Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2873299" class="link_artist"><span class="text">Liz Cass</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

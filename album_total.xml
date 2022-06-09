@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-09T15:13:56.413Z</updated>
+    <updated>2022-06-09T16:21:17.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shi Jie Yi Tong Wen Wo Er Wo Ge Chang 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7590764</id>
+        <link href="https://vibe.naver.com/album/7590764"/>
+        <updated>2022-06-09T16:21:16.667Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590764" class="title"><span data-v-1f47c720="" class="text"> Shi Jie Yi Tong Wen Wo Er Wo Ge Chang <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2462222" class="link_artist"><span class="text">Cath Wong</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ikatan Kita 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7590762</id>
+        <link href="https://vibe.naver.com/album/7590762"/>
+        <updated>2022-06-09T16:21:16.673Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590762" class="title"><span data-v-1f47c720="" class="text"> Ikatan Kita <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5468425" class="link_artist"><span class="text">Wafahish</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fehlerhaft 업데이트]]></title>
         <id>https://vibe.naver.com/album/7590761</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7590712"/>
         <updated>2022-06-09T15:13:55.723Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590712" class="title"><span data-v-1f47c720="" class="text"> Human (Night Tales Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2873299" class="link_artist"><span class="text">Liz Cass</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shrewsbury 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7590711</id>
-        <link href="https://vibe.naver.com/album/7590711"/>
-        <updated>2022-06-09T15:13:55.724Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590711" class="title"><span data-v-1f47c720="" class="text"> Shrewsbury <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3663355" class="link_artist"><span class="text">Simone Attili</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Air Max (DMA Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7590710</id>
-        <link href="https://vibe.naver.com/album/7590710"/>
-        <updated>2022-06-09T15:13:55.724Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590710" class="title"><span data-v-1f47c720="" class="text"> Air Max (DMA Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2032237" class="link_artist"><span class="text">Alexa Feser</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

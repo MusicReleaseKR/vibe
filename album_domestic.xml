@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-06-10T03:18:21.497Z</updated>
+    <updated>2022-06-10T04:22:07.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Proof 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7591261</id>
+        <link href="https://vibe.naver.com/album/7591261"/>
+        <updated>2022-06-10T04:21:46.896Z</updated>
+        <content type="html"><![CDATA[방탄소년단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유미의 세포들 시즌2 OST Part 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/7590290</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7586741"/>
         <updated>2022-06-09T03:24:14.872Z</updated>
         <content type="html"><![CDATA[레코드벨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[More Fyah 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7586746</id>
-        <link href="https://vibe.naver.com/album/7586746"/>
-        <updated>2022-06-09T03:24:14.882Z</updated>
-        <content type="html"><![CDATA[마르코]]></content>
     </entry>
 </feed>

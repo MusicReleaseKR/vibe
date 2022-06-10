@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-10T05:12:42.371Z</updated>
+    <updated>2022-06-10T06:17:29.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Proof 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -117,7 +117,7 @@
         <content type="html"><![CDATA[이유(YI.U)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Where Is Love 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <title type="html"><![CDATA[Where is love 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/7589862</id>
         <link href="https://vibe.naver.com/album/7589862"/>
         <updated>2022-06-10T03:17:59.411Z</updated>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Heir]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[El Toque de Midas 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7591530</id>
+        <link href="https://vibe.naver.com/album/7591530"/>
+        <updated>2022-06-10T06:17:29.016Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7591530" class="title"><span data-v-1f47c720="" class="text"> El Toque de Midas <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/535639" class="link_artist"><span class="text">J Alvarez</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[As High As I Can Hold It 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7591418</id>
         <link href="https://vibe.naver.com/album/7591418"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7590930"/>
         <updated>2022-06-09T20:16:26.393Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590930" class="title"><span data-v-1f47c720="" class="text"> Cool Dad in a Minivan <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1816506" class="link_artist"><span class="text">Young Folk</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caso Perdío 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7590916</id>
-        <link href="https://vibe.naver.com/album/7590916"/>
-        <updated>2022-06-09T20:16:26.394Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7590916" class="title"><span data-v-1f47c720="" class="text"> Caso Perdío <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/388859" class="link_artist"><span class="text">Manuel Linares</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

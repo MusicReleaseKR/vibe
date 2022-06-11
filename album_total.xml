@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-11T19:11:07.178Z</updated>
+    <updated>2022-06-11T20:14:14.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Paris 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7593433</id>
+        <link href="https://vibe.naver.com/album/7593433"/>
+        <updated>2022-06-11T20:14:13.428Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7593433" class="title"><span data-v-1f47c720="" class="text"> Paris <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1990035" class="link_artist"><span class="text">Valentín</span></a><span>, </span></span><span><a href="/artist/5436745" class="link_artist"><span class="text">MC Leozinho PZS</span></a><span>, </span></span><span><a href="/artist/4048615" class="link_artist"><span class="text">DJ Buiu</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Volverás 업데이트]]></title>
         <id>https://vibe.naver.com/album/7593007</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7591968"/>
         <updated>2022-06-11T15:13:30.892Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7591968" class="title"><span data-v-1f47c720="" class="text"> Painkillers <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5182969" class="link_artist"><span class="text">Mindless Majid</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Triplet 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591967</id>
-        <link href="https://vibe.naver.com/album/7591967"/>
-        <updated>2022-06-11T15:13:30.893Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7591967" class="title"><span data-v-1f47c720="" class="text"> Triplet <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4555258" class="link_artist"><span class="text">SG Production</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

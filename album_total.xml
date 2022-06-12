@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-12T17:12:52.229Z</updated>
+    <updated>2022-06-12T18:15:57.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Suzhal - The Vortex (Original Series Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594005</id>
+        <link href="https://vibe.naver.com/album/7594005"/>
+        <updated>2022-06-12T18:15:56.666Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7594005" class="title"><span data-v-1f47c720="" class="text"> Suzhal - The Vortex (Original Series Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1759337" class="link_artist"><span class="text">Sam C.S.</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zhui Luo (Novel Fergus Remix) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7593669</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7592768"/>
         <updated>2022-06-12T15:13:46.958Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592768" class="title"><span data-v-1f47c720="" class="text"> Monsoon Romance With Payal Dev <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2114641" class="link_artist"><span class="text">Payal Dev</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Caro Quintero 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7592767</id>
-        <link href="https://vibe.naver.com/album/7592767"/>
-        <updated>2022-06-12T15:13:46.959Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592767" class="title"><span data-v-1f47c720="" class="text"> Caro Quintero <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2126533" class="link_artist"><span class="text">Grupo Rebeldia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-13T01:14:11.804Z</updated>
+    <updated>2022-06-13T03:28:52.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴식할 때 듣기 좋은 클래식 피아노 142 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594028</id>
+        <link href="https://vibe.naver.com/album/7594028"/>
+        <updated>2022-06-13T03:28:51.441Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7594028" class="title"><span data-v-1f47c720="" class="text"> 휴식할 때 듣기 좋은 클래식 피아노 142 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2910830" class="link_artist"><span class="text">박 마르첼리나</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오르골 자장가 듣기 좋은 태교음악 142 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594024</id>
+        <link href="https://vibe.naver.com/album/7594024"/>
+        <updated>2022-06-13T03:28:51.446Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7594024" class="title"><span data-v-1f47c720="" class="text"> 오르골 자장가 듣기 좋은 태교음악 142 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/213107" class="link_artist"><span class="text">어쿠스틱레인(Acoustic Rain)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Suzhal - The Vortex (Original Series Soundtrack) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7594005</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7592770"/>
         <updated>2022-06-12T15:13:46.956Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592770" class="title"><span data-v-1f47c720="" class="text"> Monsoon Dance Masti With Sukriti &amp; Prakriti <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/543953" class="link_artist"><span class="text">Sukriti Kakar</span></a><span>, </span></span><span><a href="/artist/546045" class="link_artist"><span class="text">Prakriti Kakar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUDIONARY 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7592769</id>
-        <link href="https://vibe.naver.com/album/7592769"/>
-        <updated>2022-06-12T15:13:46.957Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592769" class="title"><span data-v-1f47c720="" class="text"> AUDIONARY <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4072308" class="link_artist"><span class="text">Opalescent</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monsoon Romance With Payal Dev 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7592768</id>
-        <link href="https://vibe.naver.com/album/7592768"/>
-        <updated>2022-06-12T15:13:46.958Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592768" class="title"><span data-v-1f47c720="" class="text"> Monsoon Romance With Payal Dev <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2114641" class="link_artist"><span class="text">Payal Dev</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

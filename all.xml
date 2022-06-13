@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-13T03:28:52.240Z</updated>
+    <updated>2022-06-13T04:35:52.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[춘천시 '어쩌다 프로젝트' Part 3 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Aimyon]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fleuve 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7594338</id>
+        <link href="https://vibe.naver.com/album/7594338"/>
+        <updated>2022-06-13T04:35:51.822Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7594338" class="title"><span data-v-1f47c720="" class="text"> Fleuve <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5477858" class="link_artist"><span class="text">THOT</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[휴식할 때 듣기 좋은 클래식 피아노 142 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7594028</id>
         <link href="https://vibe.naver.com/album/7594028"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7592771"/>
         <updated>2022-06-12T15:13:46.955Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592771" class="title"><span data-v-1f47c720="" class="text"> Monsoon Romance With Stebin Ben <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3779514" class="link_artist"><span class="text">Stebin Ben</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Monsoon Dance Masti With Sukriti & Prakriti 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7592770</id>
-        <link href="https://vibe.naver.com/album/7592770"/>
-        <updated>2022-06-12T15:13:46.956Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7592770" class="title"><span data-v-1f47c720="" class="text"> Monsoon Dance Masti With Sukriti &amp; Prakriti <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/543953" class="link_artist"><span class="text">Sukriti Kakar</span></a><span>, </span></span><span><a href="/artist/546045" class="link_artist"><span class="text">Prakriti Kakar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-06-14T04:47:49.602Z</updated>
+    <updated>2022-06-14T05:27:57.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Man I Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594708</id>
+        <link href="https://vibe.naver.com/album/7594708"/>
+        <updated>2022-06-14T05:27:37.711Z</updated>
+        <content type="html"><![CDATA[임선혜]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HAAN X Chan : Synergy 업데이트]]></title>
         <id>https://vibe.naver.com/album/7594430</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7591591"/>
         <updated>2022-06-13T03:28:27.973Z</updated>
         <content type="html"><![CDATA[주간믹스테이프 프로젝트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비 오는 수요일에는 어쩐지 널 보고 싶어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591498</id>
-        <link href="https://vibe.naver.com/album/7591498"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[마끼아또]]></content>
     </entry>
 </feed>

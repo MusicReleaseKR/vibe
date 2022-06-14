@@ -2,15 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-06-14T08:20:13.083Z</updated>
+    <updated>2022-06-14T09:15:23.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Star - EP 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7595551</id>
+        <link href="https://vibe.naver.com/album/7595551"/>
+        <updated>2022-06-14T09:15:00.940Z</updated>
+        <content type="html"><![CDATA[폴킴]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE&LOVE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7595112</id>
+        <link href="https://vibe.naver.com/album/7595112"/>
+        <updated>2022-06-14T09:15:00.941Z</updated>
+        <content type="html"><![CDATA[서인국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Man I Love 업데이트]]></title>
         <id>https://vibe.naver.com/album/7594708</id>
         <link href="https://vibe.naver.com/album/7594708"/>
         <updated>2022-06-14T05:27:37.711Z</updated>
         <content type="html"><![CDATA[임선혜]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[링크: 먹고 사랑하라, 죽이게 OST Part 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594797</id>
+        <link href="https://vibe.naver.com/album/7594797"/>
+        <updated>2022-06-14T09:15:00.950Z</updated>
+        <content type="html"><![CDATA[오존 (O3ohn)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아해요 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594771</id>
+        <link href="https://vibe.naver.com/album/7594771"/>
+        <updated>2022-06-14T09:15:00.951Z</updated>
+        <content type="html"><![CDATA[시영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[텔레파시 (상수리나무 아래 X 양요섭 X 은하) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594576</id>
+        <link href="https://vibe.naver.com/album/7594576"/>
+        <updated>2022-06-14T09:15:00.951Z</updated>
+        <content type="html"><![CDATA[양요섭]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땡큐 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594606</id>
+        <link href="https://vibe.naver.com/album/7594606"/>
+        <updated>2022-06-14T09:15:00.951Z</updated>
+        <content type="html"><![CDATA[다민이(DAMINI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAMILY SITCOM 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594514</id>
+        <link href="https://vibe.naver.com/album/7594514"/>
+        <updated>2022-06-14T09:15:00.951Z</updated>
+        <content type="html"><![CDATA[LEGIT GOONS (리짓군즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alone At Night 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594184</id>
+        <link href="https://vibe.naver.com/album/7594184"/>
+        <updated>2022-06-14T09:15:00.954Z</updated>
+        <content type="html"><![CDATA[SIM2]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HAAN X Chan : Synergy 업데이트]]></title>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/7591490"/>
         <updated>2022-06-13T03:28:27.973Z</updated>
         <content type="html"><![CDATA[음율]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[막연한 꿈 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591542</id>
-        <link href="https://vibe.naver.com/album/7591542"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[이영원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[살짝쿵 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591379</id>
-        <link href="https://vibe.naver.com/album/7591379"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[송별이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너의 여름 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591551</id>
-        <link href="https://vibe.naver.com/album/7591551"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[김아름]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌또난 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591617</id>
-        <link href="https://vibe.naver.com/album/7591617"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[분리수거밴드(BLSG)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠이 오지 않게 되었어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591147</id>
-        <link href="https://vibe.naver.com/album/7591147"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[will.note(윌노트)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heart 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7590303</id>
-        <link href="https://vibe.naver.com/album/7590303"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[X_X(투엑스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2S ongs 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591688</id>
-        <link href="https://vibe.naver.com/album/7591688"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[morries]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름 밤 (Summer Night) Feat. Cuddy (Vocal By 윤다빈) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7591591</id>
-        <link href="https://vibe.naver.com/album/7591591"/>
-        <updated>2022-06-13T03:28:27.973Z</updated>
-        <content type="html"><![CDATA[주간믹스테이프 프로젝트]]></content>
     </entry>
 </feed>

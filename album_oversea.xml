@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-06-14T08:20:13.092Z</updated>
+    <updated>2022-06-14T09:15:23.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I'm A Revolution 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7594664</id>
+        <link href="https://vibe.naver.com/album/7594664"/>
+        <updated>2022-06-14T09:15:13.539Z</updated>
+        <content type="html"><![CDATA[City Wolf]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LOOK AT ME: THE ALBUM 업데이트]]></title>
         <id>https://vibe.naver.com/album/7590250</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7588546"/>
         <updated>2022-06-10T03:18:10.784Z</updated>
         <content type="html"><![CDATA[Virginia To Vegas]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blinding Lights 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7585681</id>
-        <link href="https://vibe.naver.com/album/7585681"/>
-        <updated>2022-06-10T03:18:10.786Z</updated>
-        <content type="html"><![CDATA[All Time Low]]></content>
     </entry>
 </feed>

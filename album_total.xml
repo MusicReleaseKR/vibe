@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-15T21:12:58.821Z</updated>
+    <updated>2022-06-15T22:14:22.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KOA II Part 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7596783</id>
+        <link href="https://vibe.naver.com/album/7596783"/>
+        <updated>2022-06-15T22:14:21.848Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596783" class="title"><span data-v-1f47c720="" class="text"> KOA II Part 1 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2486850" class="link_artist"><span class="text">Kabza De Small</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fantômes 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7596782</id>
+        <link href="https://vibe.naver.com/album/7596782"/>
+        <updated>2022-06-15T22:14:21.861Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596782" class="title"><span data-v-1f47c720="" class="text"> Fantômes <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/222184" class="link_artist"><span class="text">Christophe Willem</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C'est géré 업데이트]]></title>
         <id>https://vibe.naver.com/album/7596781</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7596480"/>
         <updated>2022-06-15T15:15:44.835Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596480" class="title"><span data-v-1f47c720="" class="text"> É Hoje Que Você Sai da Minha Vida <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5402160" class="link_artist"><span class="text">Biel Rocha</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loka 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7596479</id>
-        <link href="https://vibe.naver.com/album/7596479"/>
-        <updated>2022-06-15T15:15:44.836Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596479" class="title"><span data-v-1f47c720="" class="text"> Loka <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3081569" class="link_artist"><span class="text">Mia Badgyal</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boom Boom Bap 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7596478</id>
-        <link href="https://vibe.naver.com/album/7596478"/>
-        <updated>2022-06-15T15:15:44.836Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596478" class="title"><span data-v-1f47c720="" class="text"> Boom Boom Bap <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5468319" class="link_artist"><span class="text">Lassi.0</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-16T20:14:41.141Z</updated>
+    <updated>2022-06-16T21:12:10.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[U&I 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7601379</id>
+        <link href="https://vibe.naver.com/album/7601379"/>
+        <updated>2022-06-16T21:12:09.751Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7601379" class="title"><span data-v-1f47c720="" class="text"> U&amp;I <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/509399" class="link_artist"><span class="text">Abigail</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wan Know 업데이트]]></title>
         <id>https://vibe.naver.com/album/7601247</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7601079"/>
         <updated>2022-06-16T18:17:35.602Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7601079" class="title"><span data-v-1f47c720="" class="text"> Cadricolé <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5482437" class="link_artist"><span class="text">Mana Taxa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CHASE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7601032</id>
-        <link href="https://vibe.naver.com/album/7601032"/>
-        <updated>2022-06-16T18:17:35.603Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7601032" class="title"><span data-v-1f47c720="" class="text"> CHASE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5475112" class="link_artist"><span class="text">JDSLVT</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-15T23:14:54.841Z</updated>
+    <updated>2022-06-16T01:09:17.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Signals 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7596794</id>
+        <link href="https://vibe.naver.com/album/7596794"/>
+        <updated>2022-06-16T01:09:16.776Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596794" class="title"><span data-v-1f47c720="" class="text"> Signals <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/125659" class="link_artist"><span class="text">Tritonal</span></a><span>, </span></span><span><a href="/artist/1568537" class="link_artist"><span class="text">Sarah De Warren</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dil Ka Kabootar 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7596784</id>
+        <link href="https://vibe.naver.com/album/7596784"/>
+        <updated>2022-06-16T01:09:16.776Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596784" class="title"><span data-v-1f47c720="" class="text"> Dil Ka Kabootar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/538586" class="link_artist"><span class="text">Nikhita Gandhi</span></a><span>, </span></span><span><a href="/artist/556191" class="link_artist"><span class="text">Mame Khan</span></a><span>, </span></span><span><a href="/artist/5480236" class="link_artist"><span class="text">Shubham-Ana</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KOA II Part 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/7596783</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7596482"/>
         <updated>2022-06-15T15:15:44.833Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596482" class="title"><span data-v-1f47c720="" class="text"> [o] <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2642366" class="link_artist"><span class="text">Riccardo Bianchini</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vidita Mia 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7596481</id>
-        <link href="https://vibe.naver.com/album/7596481"/>
-        <updated>2022-06-15T15:15:44.834Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596481" class="title"><span data-v-1f47c720="" class="text"> Vidita Mia <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3199642" class="link_artist"><span class="text">Los Indomables De Cedral</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[É Hoje Que Você Sai da Minha Vida 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7596480</id>
-        <link href="https://vibe.naver.com/album/7596480"/>
-        <updated>2022-06-15T15:15:44.835Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596480" class="title"><span data-v-1f47c720="" class="text"> É Hoje Que Você Sai da Minha Vida <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5402160" class="link_artist"><span class="text">Biel Rocha</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

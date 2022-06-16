@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-16T12:27:37.375Z</updated>
+    <updated>2022-06-16T13:33:26.689Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Stupid Cool 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Mia Rodriguez]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Catch Flous 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7600179</id>
+        <link href="https://vibe.naver.com/album/7600179"/>
+        <updated>2022-06-16T13:33:25.967Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7600179" class="title"><span data-v-1f47c720="" class="text"> Catch Flous <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4640827" class="link_artist"><span class="text">Rambow</span></a><span>, </span></span><span><a href="/artist/5461543" class="link_artist"><span class="text">ORIO</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold Salute 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7600178</id>
+        <link href="https://vibe.naver.com/album/7600178"/>
+        <updated>2022-06-16T13:33:25.968Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7600178" class="title"><span data-v-1f47c720="" class="text"> Gold Salute <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5123102" class="link_artist"><span class="text">Mc Rapha</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Festival 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7600162</id>
+        <link href="https://vibe.naver.com/album/7600162"/>
+        <updated>2022-06-16T13:33:25.968Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7600162" class="title"><span data-v-1f47c720="" class="text"> Festival <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2714511" class="link_artist"><span class="text">Štefan Štec</span></a><span>, </span></span><span><a href="/artist/3098783" class="link_artist"><span class="text">Fajta</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7600161</id>
+        <link href="https://vibe.naver.com/album/7600161"/>
+        <updated>2022-06-16T13:33:25.971Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7600161" class="title"><span data-v-1f47c720="" class="text"> Zero <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/491495" class="link_artist"><span class="text">Tenor</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Logistis 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7599807</id>
         <link href="https://vibe.naver.com/album/7599807"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7596604"/>
         <updated>2022-06-16T11:11:37.466Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596604" class="title"><span data-v-1f47c720="" class="text"> 사랑을 주세요 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5436537" class="link_artist"><span class="text">조경인</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7596599</id>
-        <link href="https://vibe.naver.com/album/7596599"/>
-        <updated>2022-06-16T11:11:37.467Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596599" class="title"><span data-v-1f47c720="" class="text"> Another <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5480172" class="link_artist"><span class="text">Rovers</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 기도 들으시는 예수 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7596598</id>
-        <link href="https://vibe.naver.com/album/7596598"/>
-        <updated>2022-06-16T11:11:37.467Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596598" class="title"><span data-v-1f47c720="" class="text"> 나의 기도 들으시는 예수 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5436537" class="link_artist"><span class="text">조경인</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Julia 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7596594</id>
-        <link href="https://vibe.naver.com/album/7596594"/>
-        <updated>2022-06-16T11:11:37.468Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596594" class="title"><span data-v-1f47c720="" class="text"> Hey Julia <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1347992" class="link_artist"><span class="text">The 502s</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buttercup 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7596587</id>
-        <link href="https://vibe.naver.com/album/7596587"/>
-        <updated>2022-06-16T11:11:37.468Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7596587" class="title"><span data-v-1f47c720="" class="text"> Buttercup <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5480166" class="link_artist"><span class="text">전율 프로젝트</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

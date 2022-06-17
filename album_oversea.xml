@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-06-17T05:15:54.013Z</updated>
+    <updated>2022-06-17T06:18:26.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Honestly, Nevermind 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7601913</id>
+        <link href="https://vibe.naver.com/album/7601913"/>
+        <updated>2022-06-17T06:18:14.777Z</updated>
+        <content type="html"><![CDATA[Drake]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shut up Kiss Me Feat. Lil Cherry (Japanese Version) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7601505</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7595981"/>
         <updated>2022-06-16T11:11:27.856Z</updated>
         <content type="html"><![CDATA[JO1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Getting Better 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7595044</id>
-        <link href="https://vibe.naver.com/album/7595044"/>
-        <updated>2022-06-16T11:11:27.857Z</updated>
-        <content type="html"><![CDATA[New Hope Club]]></content>
     </entry>
 </feed>

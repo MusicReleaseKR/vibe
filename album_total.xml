@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-18T10:14:10.789Z</updated>
+    <updated>2022-06-18T11:11:27.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/7602484"/>
         <updated>2022-06-17T15:14:14.642Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7602484" class="title"><span data-v-1f47c720="" class="text"> Chuwapane! (Live Version) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2905418" class="link_artist"><span class="text">Girls2</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<불후의 명곡> - 아티스트 이적 편 2부 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7602268</id>
+        <link href="https://vibe.naver.com/album/7602268"/>
+        <updated>2022-06-18T11:11:26.406Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7602268" class="title"><span data-v-1f47c720="" class="text"> &lt;불후의 명곡&gt; - 아티스트 이적 편 2부 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[빛이 나는 사람 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7601047"/>
         <updated>2022-06-17T15:14:14.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7601047" class="title"><span data-v-1f47c720="" class="text"> Nodi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4172479" class="link_artist"><span class="text">Be Out</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quiero 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7600965</id>
-        <link href="https://vibe.naver.com/album/7600965"/>
-        <updated>2022-06-17T15:14:14.648Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7600965" class="title"><span data-v-1f47c720="" class="text"> Quiero <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2370606" class="link_artist"><span class="text">Mariano La Conexion</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-20T10:16:34.357Z</updated>
+    <updated>2022-06-20T11:12:05.171Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Northern Star 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7611303</id>
+        <link href="https://vibe.naver.com/album/7611303"/>
+        <updated>2022-06-20T11:12:04.394Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7611303" class="title"><span data-v-1f47c720="" class="text"> Northern Star <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2296026" class="link_artist"><span class="text">Danny Aridi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sorbet Coco 업데이트]]></title>
         <id>https://vibe.naver.com/album/7611235</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7609803"/>
         <updated>2022-06-19T15:13:15.460Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7609803" class="title"><span data-v-1f47c720="" class="text"> Figurita <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4275502" class="link_artist"><span class="text">Fede Herrera</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Os Mlk Pega Firme 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7609793</id>
-        <link href="https://vibe.naver.com/album/7609793"/>
-        <updated>2022-06-19T15:13:15.464Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7609793" class="title"><span data-v-1f47c720="" class="text"> Os Mlk Pega Firme <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3897600" class="link_artist"><span class="text">MC GODOY</span></a><span>, </span></span><span><a href="/artist/5488626" class="link_artist"><span class="text">DJ João Do Arará</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

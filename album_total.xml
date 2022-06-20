@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-20T11:12:05.171Z</updated>
+    <updated>2022-06-20T12:26:20.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Como Siempre 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7611320</id>
+        <link href="https://vibe.naver.com/album/7611320"/>
+        <updated>2022-06-20T12:26:20.188Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7611320" class="title"><span data-v-1f47c720="" class="text"> Como Siempre <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3799590" class="link_artist"><span class="text">RaulMC</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Northern Star 업데이트]]></title>
         <id>https://vibe.naver.com/album/7611303</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7609834"/>
         <updated>2022-06-19T15:13:15.459Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7609834" class="title"><span data-v-1f47c720="" class="text"> O Homem Que Não Sabia Sorrir <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5488650" class="link_artist"><span class="text">Grupo Tupam</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Figurita 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7609803</id>
-        <link href="https://vibe.naver.com/album/7609803"/>
-        <updated>2022-06-19T15:13:15.460Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7609803" class="title"><span data-v-1f47c720="" class="text"> Figurita <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4275502" class="link_artist"><span class="text">Fede Herrera</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

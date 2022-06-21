@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-21T09:18:34.691Z</updated>
+    <updated>2022-06-21T10:20:46.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Drifted 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7612204</id>
+        <link href="https://vibe.naver.com/album/7612204"/>
+        <updated>2022-06-21T10:20:45.873Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7612204" class="title"><span data-v-1f47c720="" class="text"> Drifted <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2424058" class="link_artist"><span class="text">Happiness is Wealth</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[케이탑스타 (K TOP STAR) (Club Remix) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7611906</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7611253"/>
         <updated>2022-06-21T03:27:50.858Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7611253" class="title"><span data-v-1f47c720="" class="text"> FALLIN(feat. HAKI) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2390091" class="link_artist"><span class="text">ARCX(아르코)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복음아리랑 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7611252</id>
-        <link href="https://vibe.naver.com/album/7611252"/>
-        <updated>2022-06-21T03:27:50.859Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7611252" class="title"><span data-v-1f47c720="" class="text"> 복음아리랑 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4999948" class="link_artist"><span class="text">정상(iNphAsE)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

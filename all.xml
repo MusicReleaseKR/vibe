@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-22T10:17:51.793Z</updated>
+    <updated>2022-06-22T11:12:02.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[CRONICLE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -754,6 +754,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7612614" class="title"><span data-v-1f47c720="" class="text"> CRONICLE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/55507" class="link_artist"><span class="text">성훈</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Emilee: Act I 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7612598</id>
+        <link href="https://vibe.naver.com/album/7612598"/>
+        <updated>2022-06-22T11:12:01.748Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7612598" class="title"><span data-v-1f47c720="" class="text"> Emilee: Act I <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3547643" class="link_artist"><span class="text">Hauskey</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[춘정지란 OST Part 11 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7612560</id>
         <link href="https://vibe.naver.com/album/7612560"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7612132"/>
         <updated>2022-06-22T09:12:56.977Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7612132" class="title"><span data-v-1f47c720="" class="text"> COLDBLUE (Feat. 김미정) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/370294" class="link_artist"><span class="text">윌콕스</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[김정례의 노래 추억 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7612131</id>
-        <link href="https://vibe.naver.com/album/7612131"/>
-        <updated>2022-06-22T03:28:35.447Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7612131" class="title"><span data-v-1f47c720="" class="text"> 김정례의 노래 추억 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5489695" class="link_artist"><span class="text">김정례</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

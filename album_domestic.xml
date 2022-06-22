@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-06-22T09:13:18.042Z</updated>
+    <updated>2022-06-22T10:17:51.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -20,18 +20,25 @@
         <content type="html"><![CDATA[카드(KARD)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[징크스의 연인 OST Part 2 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7612035</id>
-        <link href="https://vibe.naver.com/album/7612035"/>
-        <updated>2022-06-22T09:12:56.972Z</updated>
-        <content type="html"><![CDATA[서현(SEOHYUN)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[underground 업데이트]]></title>
         <id>https://vibe.naver.com/album/7611399</id>
         <link href="https://vibe.naver.com/album/7611399"/>
         <updated>2022-06-22T09:12:56.973Z</updated>
         <content type="html"><![CDATA[basecamp]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그녀는 자꾸 슬퍼 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7612032</id>
+        <link href="https://vibe.naver.com/album/7612032"/>
+        <updated>2022-06-22T09:12:56.978Z</updated>
+        <content type="html"><![CDATA[주시크 (Joosiq)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[징크스의 연인 OST Part 2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7612035</id>
+        <link href="https://vibe.naver.com/album/7612035"/>
+        <updated>2022-06-22T09:12:56.972Z</updated>
+        <content type="html"><![CDATA[서현(SEOHYUN)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[바다가 사는 섬 업데이트]]></title>
@@ -53,13 +60,6 @@
         <link href="https://vibe.naver.com/album/7612132"/>
         <updated>2022-06-22T09:12:56.977Z</updated>
         <content type="html"><![CDATA[윌콕스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그녀는 자꾸 슬퍼 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7612032</id>
-        <link href="https://vibe.naver.com/album/7612032"/>
-        <updated>2022-06-22T09:12:56.978Z</updated>
-        <content type="html"><![CDATA[주시크 (Joosiq)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My Move 업데이트]]></title>

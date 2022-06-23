@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-23T01:03:07.825Z</updated>
+    <updated>2022-06-23T03:28:48.588Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Next Up - S4-E19 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7616370</id>
+        <link href="https://vibe.naver.com/album/7616370"/>
+        <updated>2022-06-23T03:28:47.911Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7616370" class="title"><span data-v-1f47c720="" class="text"> Next Up - S4-E19 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5354191" class="link_artist"><span class="text">Kvlypto</span></a><span>, </span></span><span><a href="/artist/2601175" class="link_artist"><span class="text">Mixtape Madness</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Trackers 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7616104</id>
+        <link href="https://vibe.naver.com/album/7616104"/>
+        <updated>2022-06-23T03:28:47.911Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7616104" class="title"><span data-v-1f47c720="" class="text"> The Trackers <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/486344" class="link_artist"><span class="text">Gary Husband</span></a><span>, </span></span><span><a href="/artist/2879468" class="link_artist"><span class="text">Alf Terje Hana</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blue Sky 업데이트]]></title>
         <id>https://vibe.naver.com/album/7615944</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7613171"/>
         <updated>2022-06-22T15:14:50.090Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7613171" class="title"><span data-v-1f47c720="" class="text"> The Watchmaker (Time on His Side) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/548512" class="link_artist"><span class="text">Ryo Okumoto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Balans (Akustycznie, na harfie) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7613170</id>
-        <link href="https://vibe.naver.com/album/7613170"/>
-        <updated>2022-06-22T15:14:50.091Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7613170" class="title"><span data-v-1f47c720="" class="text"> Balans (Akustycznie, na harfie) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4892641" class="link_artist"><span class="text">Julia Rocka</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No sad ditty 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7613169</id>
-        <link href="https://vibe.naver.com/album/7613169"/>
-        <updated>2022-06-22T15:14:50.093Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7613169" class="title"><span data-v-1f47c720="" class="text"> No sad ditty <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5482298" class="link_artist"><span class="text">ksovii</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-23T03:28:48.588Z</updated>
+    <updated>2022-06-23T04:32:32.716Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[10x Harder 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7616470</id>
+        <link href="https://vibe.naver.com/album/7616470"/>
+        <updated>2022-06-23T04:32:32.060Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7616470" class="title"><span data-v-1f47c720="" class="text"> 10x Harder <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3668653" class="link_artist"><span class="text">2FeetBino</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEJA 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7616469</id>
+        <link href="https://vibe.naver.com/album/7616469"/>
+        <updated>2022-06-23T04:32:32.061Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7616469" class="title"><span data-v-1f47c720="" class="text"> DEJA <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4062653" class="link_artist"><span class="text">Galee Galee</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Next Up - S4-E19 업데이트]]></title>
         <id>https://vibe.naver.com/album/7616370</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7613173"/>
         <updated>2022-06-22T15:14:50.087Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7613173" class="title"><span data-v-1f47c720="" class="text"> In Extremis <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2457746" class="link_artist"><span class="text">Queensrÿche</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tænetid 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7613172</id>
-        <link href="https://vibe.naver.com/album/7613172"/>
-        <updated>2022-06-22T15:14:50.088Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7613172" class="title"><span data-v-1f47c720="" class="text"> Tænetid <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5348818" class="link_artist"><span class="text">Mr Melk</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Watchmaker (Time on His Side) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7613171</id>
-        <link href="https://vibe.naver.com/album/7613171"/>
-        <updated>2022-06-22T15:14:50.090Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7613171" class="title"><span data-v-1f47c720="" class="text"> The Watchmaker (Time on His Side) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/548512" class="link_artist"><span class="text">Ryo Okumoto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

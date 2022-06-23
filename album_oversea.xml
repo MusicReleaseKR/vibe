@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-06-23T08:20:41.070Z</updated>
+    <updated>2022-06-23T09:14:13.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Black Cloud (SD) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7616758</id>
+        <link href="https://vibe.naver.com/album/7616758"/>
+        <updated>2022-06-23T09:14:03.301Z</updated>
+        <content type="html"><![CDATA[merci, mercy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lift 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7612581</id>
+        <link href="https://vibe.naver.com/album/7612581"/>
+        <updated>2022-06-23T09:14:03.301Z</updated>
+        <content type="html"><![CDATA[du0]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keeps On Fallin' 업데이트]]></title>
         <id>https://vibe.naver.com/album/7597719</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7610831"/>
         <updated>2022-06-21T03:27:39.876Z</updated>
         <content type="html"><![CDATA[cleopatrick]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Step 1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7597709</id>
-        <link href="https://vibe.naver.com/album/7597709"/>
-        <updated>2022-06-21T03:27:39.877Z</updated>
-        <content type="html"><![CDATA[SleazyWorld Go]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow Down (James Cole Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7597912</id>
-        <link href="https://vibe.naver.com/album/7597912"/>
-        <updated>2022-06-21T03:27:39.878Z</updated>
-        <content type="html"><![CDATA[Maverick Sabre]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-06-24T03:39:44.247Z</updated>
+    <updated>2022-06-24T04:35:35.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Left and Right (Feat. Jung Kook of BTS) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7616403</id>
+        <link href="https://vibe.naver.com/album/7616403"/>
+        <updated>2022-06-24T04:35:23.842Z</updated>
+        <content type="html"><![CDATA[Charlie Puth]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sharks 업데이트]]></title>
         <id>https://vibe.naver.com/album/7617796</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7597721"/>
         <updated>2022-06-22T03:28:25.600Z</updated>
         <content type="html"><![CDATA[Lil Mosey]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Black Punk 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7611027</id>
-        <link href="https://vibe.naver.com/album/7611027"/>
-        <updated>2022-06-22T03:28:25.600Z</updated>
-        <content type="html"><![CDATA[Rico Nasty]]></content>
     </entry>
 </feed>

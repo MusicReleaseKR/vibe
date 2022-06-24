@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-24T10:17:18.225Z</updated>
+    <updated>2022-06-24T11:12:28.348Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ki Ego San Poli 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7618503</id>
+        <link href="https://vibe.naver.com/album/7618503"/>
+        <updated>2022-06-24T11:12:27.493Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7618503" class="title"><span data-v-1f47c720="" class="text"> Ki Ego San Poli <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/442461" class="link_artist"><span class="text">Manos Loizos</span></a><span>, </span></span><span><a href="/artist/5492297" class="link_artist"><span class="text">Maria Alamani Nathanailidou</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Damgo 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7618502</id>
+        <link href="https://vibe.naver.com/album/7618502"/>
+        <updated>2022-06-24T11:12:27.493Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7618502" class="title"><span data-v-1f47c720="" class="text"> Damgo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5492294" class="link_artist"><span class="text">JM1</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[My Voice 업데이트]]></title>
         <id>https://vibe.naver.com/album/7618501</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7617857"/>
         <updated>2022-06-24T01:07:31.061Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7617857" class="title"><span data-v-1f47c720="" class="text"> PARDON <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3843914" class="link_artist"><span class="text">giovane miska</span></a><span>, </span></span><span><a href="/artist/5482359" class="link_artist"><span class="text">Ex∧</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MARE BLU 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7617855</id>
-        <link href="https://vibe.naver.com/album/7617855"/>
-        <updated>2022-06-24T01:07:31.067Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7617855" class="title"><span data-v-1f47c720="" class="text"> MARE BLU <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2817162" class="link_artist"><span class="text">Gabriele Troisi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Un altro sogno 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7617854</id>
-        <link href="https://vibe.naver.com/album/7617854"/>
-        <updated>2022-06-24T01:07:31.069Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7617854" class="title"><span data-v-1f47c720="" class="text"> Un altro sogno <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4058451" class="link_artist"><span class="text">GIO MONTANA</span></a><span>, </span></span><span><a href="/artist/5482445" class="link_artist"><span class="text">AtlasDiable</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

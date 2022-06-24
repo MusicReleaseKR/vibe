@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-24T12:27:18.494Z</updated>
+    <updated>2022-06-24T13:36:03.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Disque d'or 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7618522</id>
+        <link href="https://vibe.naver.com/album/7618522"/>
+        <updated>2022-06-24T13:36:03.225Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7618522" class="title"><span data-v-1f47c720="" class="text"> Disque d'or <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5492304" class="link_artist"><span class="text">Mathématik  de Petit Pays</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tamtam 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7618521</id>
+        <link href="https://vibe.naver.com/album/7618521"/>
+        <updated>2022-06-24T13:36:03.227Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7618521" class="title"><span data-v-1f47c720="" class="text"> Tamtam <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/337148" class="link_artist"><span class="text">LEO</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['k Ben Al Zo Lang Op Weg Geweest 업데이트]]></title>
         <id>https://vibe.naver.com/album/7618506</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7617862"/>
         <updated>2022-06-24T01:07:31.059Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7617862" class="title"><span data-v-1f47c720="" class="text"> Occhiali da sole <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/296416" class="link_artist"><span class="text">Samuel</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giornate vuote (Goedi Rmx) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7617859</id>
-        <link href="https://vibe.naver.com/album/7617859"/>
-        <updated>2022-06-24T01:07:31.059Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7617859" class="title"><span data-v-1f47c720="" class="text"> Giornate vuote (Goedi Rmx) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4184844" class="link_artist"><span class="text">Goedi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7617858</id>
-        <link href="https://vibe.naver.com/album/7617858"/>
-        <updated>2022-06-24T01:07:31.060Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7617858" class="title"><span data-v-1f47c720="" class="text"> AWE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2821104" class="link_artist"><span class="text">Uzi Lvke</span></a><span>, </span></span><span><a href="/artist/4343372" class="link_artist"><span class="text">Timongothekeys</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

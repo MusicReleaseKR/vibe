@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-27T12:29:48.137Z</updated>
+    <updated>2022-06-27T13:39:41.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[from our Memento Box 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Babyface]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Dark Sky 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7623028</id>
+        <link href="https://vibe.naver.com/album/7623028"/>
+        <updated>2022-06-27T13:39:41.205Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7623028" class="title"><span data-v-1f47c720="" class="text"> The Dark Sky <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4951425" class="link_artist"><span class="text">Peaceful Meditation</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[space cowboy 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7622331</id>
         <link href="https://vibe.naver.com/album/7622331"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7618938"/>
         <updated>2022-06-26T15:13:51.208Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7618938" class="title"><span data-v-1f47c720="" class="text"> Positive Talk : Amanah Dalam Bekerja <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5492758" class="link_artist"><span class="text">Syamsul Debat</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Déšť 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7618937</id>
-        <link href="https://vibe.naver.com/album/7618937"/>
-        <updated>2022-06-26T15:13:51.217Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7618937" class="title"><span data-v-1f47c720="" class="text"> Déšť <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/336482" class="link_artist"><span class="text">Lipo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-28T11:13:40.690Z</updated>
+    <updated>2022-06-28T12:28:15.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Feel the Rhythm of Korea (2022) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Imagine Dragons]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OPEN DAT SHIT 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7633885</id>
+        <link href="https://vibe.naver.com/album/7633885"/>
+        <updated>2022-06-28T12:28:15.210Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7633885" class="title"><span data-v-1f47c720="" class="text"> OPEN DAT SHIT <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4730407" class="link_artist"><span class="text">VCC Left Hand</span></a><span>, </span></span><span><a href="/artist/3761669" class="link_artist"><span class="text">da/md</span></a><span>, </span></span><span><a href="/artist/5501027" class="link_artist"><span class="text">Limitlxss</span></a><span>, </span></span><span><a href="/artist/3815330" class="link_artist"><span class="text">Ccmk</span></a><span>, </span></span><span><a href="/artist/5501028" class="link_artist"><span class="text">VCC G Rose</span></a><span>, </span></span><span><a href="/artist/3744724" class="link_artist"><span class="text">Dustin NGO 春風</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bangkit 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7632746</id>
         <link href="https://vibe.naver.com/album/7632746"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7623956"/>
         <updated>2022-06-27T16:20:28.580Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7623956" class="title"><span data-v-1f47c720="" class="text"> It's You <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5489487" class="link_artist"><span class="text">Chenxi Chu</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Desert 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7622894</id>
-        <link href="https://vibe.naver.com/album/7622894"/>
-        <updated>2022-06-27T16:20:28.581Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7622894" class="title"><span data-v-1f47c720="" class="text"> The Desert <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4951335" class="link_artist"><span class="text">OM Meditation Music</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

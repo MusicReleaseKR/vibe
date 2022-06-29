@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-29T09:13:51.107Z</updated>
+    <updated>2022-06-29T10:15:52.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Assassino 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7639834</id>
+        <link href="https://vibe.naver.com/album/7639834"/>
+        <updated>2022-06-29T10:15:51.716Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639834" class="title"><span data-v-1f47c720="" class="text"> Assassino <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/371878" class="link_artist"><span class="text">Mirai</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Antartide Freestyle 업데이트]]></title>
         <id>https://vibe.naver.com/album/7639743</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7631897"/>
         <updated>2022-06-29T03:45:58.231Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631897" class="title"><span data-v-1f47c720="" class="text"> Grow Old With Us <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2415772" class="link_artist"><span class="text">The Songbards</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[None Of Your Business 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7631896</id>
-        <link href="https://vibe.naver.com/album/7631896"/>
-        <updated>2022-06-29T03:45:58.231Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631896" class="title"><span data-v-1f47c720="" class="text"> None Of Your Business <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3999749" class="link_artist"><span class="text">Foxxi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

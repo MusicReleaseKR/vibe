@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T09:13:51.110Z</updated>
+    <updated>2022-06-29T10:15:52.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[열이올라요 (Heart Burn) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dimitri Vegas]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Assassino 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7639834</id>
+        <link href="https://vibe.naver.com/album/7639834"/>
+        <updated>2022-06-29T10:15:51.716Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639834" class="title"><span data-v-1f47c720="" class="text"> Assassino <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/371878" class="link_artist"><span class="text">Mirai</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Antartide Freestyle 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7639743</id>
         <link href="https://vibe.naver.com/album/7639743"/>
@@ -736,7 +743,7 @@
         <title type="html"><![CDATA[열이올라요 (Heart Burn) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7638708</id>
         <link href="https://vibe.naver.com/album/7638708"/>
-        <updated>2022-06-29T09:13:50.467Z</updated>
+        <updated>2022-06-29T09:13:30.425Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7638708" class="title"><span data-v-1f47c720="" class="text"> 열이올라요 (Heart Burn) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/34647" class="link_artist"><span class="text">선미</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -757,7 +764,7 @@
         <title type="html"><![CDATA[하늘품 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7637126</id>
         <link href="https://vibe.naver.com/album/7637126"/>
-        <updated>2022-06-29T09:13:50.467Z</updated>
+        <updated>2022-06-29T09:13:30.449Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7637126" class="title"><span data-v-1f47c720="" class="text"> 하늘품 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3581156" class="link_artist"><span class="text">밴디지(Bandage)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7631897"/>
         <updated>2022-06-29T03:45:47.569Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631897" class="title"><span data-v-1f47c720="" class="text"> Grow Old With Us <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2415772" class="link_artist"><span class="text">The Songbards</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[None Of Your Business 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7631896</id>
-        <link href="https://vibe.naver.com/album/7631896"/>
-        <updated>2022-06-29T03:45:58.231Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631896" class="title"><span data-v-1f47c720="" class="text"> None Of Your Business <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3999749" class="link_artist"><span class="text">Foxxi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

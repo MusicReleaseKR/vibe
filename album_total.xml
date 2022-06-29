@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-29T17:39:17.530Z</updated>
+    <updated>2022-06-29T18:21:01.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Main Jee Raha 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7643688</id>
+        <link href="https://vibe.naver.com/album/7643688"/>
+        <updated>2022-06-29T18:21:00.673Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7643688" class="title"><span data-v-1f47c720="" class="text"> Main Jee Raha <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/526198" class="link_artist"><span class="text">Shilpa Rao</span></a><span>, </span></span><span><a href="/artist/478797" class="link_artist"><span class="text">Jazim Sharma</span></a><span>, </span></span><span><a href="/artist/5474671" class="link_artist"><span class="text">Ana Rehman</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rose Says 업데이트]]></title>
         <id>https://vibe.naver.com/album/7642449</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7634787"/>
         <updated>2022-06-29T15:45:24.806Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7634787" class="title"><span data-v-1f47c720="" class="text"> Mantan Aman? <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3946867" class="link_artist"><span class="text">Rahmat Tahalu</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wkwk Mantan 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7634786</id>
-        <link href="https://vibe.naver.com/album/7634786"/>
-        <updated>2022-06-29T15:45:24.807Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7634786" class="title"><span data-v-1f47c720="" class="text"> Wkwk Mantan <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5501983" class="link_artist"><span class="text">DJ Surya Studio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

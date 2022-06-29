@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-29T11:13:20.316Z</updated>
+    <updated>2022-06-29T12:27:36.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://vibe.naver.com/album/7640791"/>
         <updated>2022-06-29T11:13:19.664Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7640791" class="title"><span data-v-1f47c720="" class="text"> Colors of Earth <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4542354" class="link_artist"><span class="text">Yash chavda</span></a><span>, </span></span><span><a href="/artist/5239397" class="link_artist"><span class="text">Aditya Ghaghat</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Assassino 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7639834</id>
-        <link href="https://vibe.naver.com/album/7639834"/>
-        <updated>2022-06-29T10:15:51.716Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639834" class="title"><span data-v-1f47c720="" class="text"> Assassino <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/371878" class="link_artist"><span class="text">Mirai</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Antartide Freestyle 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7631899"/>
         <updated>2022-06-29T03:45:58.229Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631899" class="title"><span data-v-1f47c720="" class="text"> An Ever Present Sense Of Abundance <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5499653" class="link_artist"><span class="text">Only Ruin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Beautiful 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7631898</id>
+        <link href="https://vibe.naver.com/album/7631898"/>
+        <updated>2022-06-29T12:27:35.599Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631898" class="title"><span data-v-1f47c720="" class="text"> Hello Beautiful <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3999749" class="link_artist"><span class="text">Foxxi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

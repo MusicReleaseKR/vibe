@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T15:45:25.384Z</updated>
+    <updated>2022-06-29T16:39:47.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[열이올라요 (Heart Burn) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dimitri Vegas]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rose Says 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7642449</id>
+        <link href="https://vibe.naver.com/album/7642449"/>
+        <updated>2022-06-29T16:39:46.236Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7642449" class="title"><span data-v-1f47c720="" class="text"> Rose Says <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Covers 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7642199</id>
         <link href="https://vibe.naver.com/album/7642199"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7634786"/>
         <updated>2022-06-29T15:45:24.807Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7634786" class="title"><span data-v-1f47c720="" class="text"> Wkwk Mantan <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5501983" class="link_artist"><span class="text">DJ Surya Studio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teman Kok Gitu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7634785</id>
-        <link href="https://vibe.naver.com/album/7634785"/>
-        <updated>2022-06-29T15:45:24.810Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7634785" class="title"><span data-v-1f47c720="" class="text"> Teman Kok Gitu <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5462111" class="link_artist"><span class="text">DJ Ganteng</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

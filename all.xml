@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-29T12:27:36.386Z</updated>
+    <updated>2022-06-29T13:35:17.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[열이올라요 (Heart Burn) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dimitri Vegas]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Born Sinner Riddim 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7641442</id>
+        <link href="https://vibe.naver.com/album/7641442"/>
+        <updated>2022-06-29T13:35:16.310Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7641442" class="title"><span data-v-1f47c720="" class="text"> Born Sinner Riddim <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Water Coming 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7640792</id>
         <link href="https://vibe.naver.com/album/7640792"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7631899"/>
         <updated>2022-06-29T03:45:58.229Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631899" class="title"><span data-v-1f47c720="" class="text"> An Ever Present Sense Of Abundance <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5499653" class="link_artist"><span class="text">Only Ruin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Beautiful 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7631898</id>
-        <link href="https://vibe.naver.com/album/7631898"/>
-        <updated>2022-06-29T12:27:35.599Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631898" class="title"><span data-v-1f47c720="" class="text"> Hello Beautiful <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3999749" class="link_artist"><span class="text">Foxxi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

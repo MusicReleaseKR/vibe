@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-29T03:45:58.781Z</updated>
+    <updated>2022-06-29T04:42:11.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bad Habit 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7637466</id>
+        <link href="https://vibe.naver.com/album/7637466"/>
+        <updated>2022-06-29T04:42:11.109Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7637466" class="title"><span data-v-1f47c720="" class="text"> Bad Habit <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2296023" class="link_artist"><span class="text">Steve Lacy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cancion De Entretiempo 업데이트]]></title>
         <id>https://vibe.naver.com/album/7637144</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7631734"/>
         <updated>2022-06-29T03:45:58.235Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631734" class="title"><span data-v-1f47c720="" class="text"> 마음의 짐 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5499500" class="link_artist"><span class="text">윤하빈</span></a><span>, </span></span><span><a href="/artist/5499502" class="link_artist"><span class="text">최승현</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 삶의 주인되신 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7631733</id>
-        <link href="https://vibe.naver.com/album/7631733"/>
-        <updated>2022-06-29T03:45:58.236Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7631733" class="title"><span data-v-1f47c720="" class="text"> 내 삶의 주인되신 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5499500" class="link_artist"><span class="text">윤하빈</span></a><span>, </span></span><span><a href="/artist/5499502" class="link_artist"><span class="text">최승현</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-06-30T08:20:52.938Z</updated>
+    <updated>2022-06-30T09:13:58.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hellraisers, Part 2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7638208</id>
+        <link href="https://vibe.naver.com/album/7638208"/>
+        <updated>2022-06-30T09:13:47.568Z</updated>
+        <content type="html"><![CDATA[Cheat Codes]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[deep in the woods 업데이트]]></title>
         <id>https://vibe.naver.com/album/7619441</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7614691"/>
         <updated>2022-06-28T03:40:38.979Z</updated>
         <content type="html"><![CDATA[YG]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRILL MUSIC IN ZION 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7595754</id>
-        <link href="https://vibe.naver.com/album/7595754"/>
-        <updated>2022-06-28T03:40:38.979Z</updated>
-        <content type="html"><![CDATA[Lupe Fiasco]]></content>
     </entry>
 </feed>

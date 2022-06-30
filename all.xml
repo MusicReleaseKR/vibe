@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-30T07:11:52.704Z</updated>
+    <updated>2022-06-30T08:20:52.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Yellow Fever 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Lupe Fiasco]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Shringaar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7648015</id>
+        <link href="https://vibe.naver.com/album/7648015"/>
+        <updated>2022-06-30T08:20:52.356Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7648015" class="title"><span data-v-1f47c720="" class="text"> Shringaar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/640662" class="link_artist"><span class="text">Vayu</span></a><span>, </span></span><span><a href="/artist/545647" class="link_artist"><span class="text">Raftaar</span></a><span>, </span></span><span><a href="/artist/546480" class="link_artist"><span class="text">Aastha Gill</span></a><span>, </span></span><span><a href="/artist/1363647" class="link_artist"><span class="text">Akasa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mi Abrigo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7647744</id>
         <link href="https://vibe.naver.com/album/7647744"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7639513"/>
         <updated>2022-06-30T03:39:32.843Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639513" class="title"><span data-v-1f47c720="" class="text"> 여호와 보시기에 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4038021" class="link_artist"><span class="text">RHEMA MINISTRY</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ナルシスト(Narcissist) (Van Paugam 2022 mix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7639460</id>
-        <link href="https://vibe.naver.com/album/7639460"/>
-        <updated>2022-06-30T03:39:32.844Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639460" class="title"><span data-v-1f47c720="" class="text"> ナルシスト(Narcissist) (Van Paugam 2022 mix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2404196" class="link_artist"><span class="text">Kaoru Akimoto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

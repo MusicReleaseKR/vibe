@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-06-30T06:17:56.660Z</updated>
+    <updated>2022-06-30T07:11:52.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mi Abrigo 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7647744</id>
+        <link href="https://vibe.naver.com/album/7647744"/>
+        <updated>2022-06-30T07:11:52.007Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7647744" class="title"><span data-v-1f47c720="" class="text"> Mi Abrigo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1794635" class="link_artist"><span class="text">Malcom</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Church Groove 업데이트]]></title>
         <id>https://vibe.naver.com/album/7646256</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7639460"/>
         <updated>2022-06-30T03:39:32.844Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639460" class="title"><span data-v-1f47c720="" class="text"> ナルシスト(Narcissist) (Van Paugam 2022 mix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2404196" class="link_artist"><span class="text">Kaoru Akimoto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pota: Escape (EP) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7639360</id>
-        <link href="https://vibe.naver.com/album/7639360"/>
-        <updated>2022-06-30T05:23:01.710Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7639360" class="title"><span data-v-1f47c720="" class="text"> Pota: Escape (EP) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4000114" class="link_artist"><span class="text">SONSO</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

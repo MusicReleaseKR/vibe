@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-30T15:15:16.377Z</updated>
+    <updated>2022-06-30T16:21:38.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Undo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[YG]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vai vêm, vamos baforar (Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7650470</id>
+        <link href="https://vibe.naver.com/album/7650470"/>
+        <updated>2022-06-30T16:21:37.580Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650470" class="title"><span data-v-1f47c720="" class="text"> Vai vêm, vamos baforar (Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4361068" class="link_artist"><span class="text">Mc Cacique Ventania</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lembranças 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7650469</id>
+        <link href="https://vibe.naver.com/album/7650469"/>
+        <updated>2022-06-30T16:21:37.583Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650469" class="title"><span data-v-1f47c720="" class="text"> Lembranças <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4894353" class="link_artist"><span class="text">Mc Philippi</span></a><span>, </span></span><span><a href="/artist/943338" class="link_artist"><span class="text">Rz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunset 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7650468</id>
+        <link href="https://vibe.naver.com/album/7650468"/>
+        <updated>2022-06-30T16:21:37.588Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650468" class="title"><span data-v-1f47c720="" class="text"> Sunset <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4935879" class="link_artist"><span class="text">Kellec</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Halaman Asmara 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7650465</id>
+        <link href="https://vibe.naver.com/album/7650465"/>
+        <updated>2022-06-30T16:21:37.589Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650465" class="title"><span data-v-1f47c720="" class="text"> Halaman Asmara <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4060519" class="link_artist"><span class="text">Vanessa Reynauld</span></a><span>, </span></span><span><a href="/artist/2768450" class="link_artist"><span class="text">Pasya</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vacaciones con Encanto (Colección Oficial) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7650455</id>
         <link href="https://vibe.naver.com/album/7650455"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7650407"/>
         <updated>2022-06-30T15:15:15.753Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650407" class="title"><span data-v-1f47c720="" class="text"> Tech Fleece <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1808878" class="link_artist"><span class="text">Gatti</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lieber kein Problem 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7650406</id>
-        <link href="https://vibe.naver.com/album/7650406"/>
-        <updated>2022-06-30T15:15:15.753Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650406" class="title"><span data-v-1f47c720="" class="text"> Lieber kein Problem <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/200836" class="link_artist"><span class="text">Ness</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sextended versions 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7650405</id>
-        <link href="https://vibe.naver.com/album/7650405"/>
-        <updated>2022-06-30T15:15:15.754Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650405" class="title"><span data-v-1f47c720="" class="text"> Sextended versions <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1905220" class="link_artist"><span class="text">Vendredi sur mer</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melrakki 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7650404</id>
-        <link href="https://vibe.naver.com/album/7650404"/>
-        <updated>2022-06-30T15:15:15.755Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650404" class="title"><span data-v-1f47c720="" class="text"> Melrakki <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5393605" class="link_artist"><span class="text">Ari Árelíus</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[low down (Pola & Bryson Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7650403</id>
-        <link href="https://vibe.naver.com/album/7650403"/>
-        <updated>2022-06-30T15:15:15.755Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7650403" class="title"><span data-v-1f47c720="" class="text"> low down (Pola &amp; Bryson Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5468542" class="link_artist"><span class="text">venbee</span></a><span>, </span></span><span><a href="/artist/710773" class="link_artist"><span class="text">Dan Fable</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-01T08:19:36.937Z</updated>
+    <updated>2022-07-01T09:14:12.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/7650923"/>
         <updated>2022-07-01T08:19:26.127Z</updated>
         <content type="html"><![CDATA[Cardi B]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7650849</id>
+        <link href="https://vibe.naver.com/album/7650849"/>
+        <updated>2022-07-01T09:14:03.682Z</updated>
+        <content type="html"><![CDATA[City Girls]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Simmer 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7619577</id>
+        <link href="https://vibe.naver.com/album/7619577"/>
+        <updated>2022-07-01T09:14:03.682Z</updated>
+        <content type="html"><![CDATA[Closet Yi]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mercury - Acts 1 & 2 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7630945"/>
         <updated>2022-06-29T03:45:47.548Z</updated>
         <content type="html"><![CDATA[RayNay]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hate Me 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7617404</id>
-        <link href="https://vibe.naver.com/album/7617404"/>
-        <updated>2022-06-29T03:45:47.548Z</updated>
-        <content type="html"><![CDATA[Sam Feldt]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i'm too pretty for this 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7624587</id>
-        <link href="https://vibe.naver.com/album/7624587"/>
-        <updated>2022-06-29T03:45:47.556Z</updated>
-        <content type="html"><![CDATA[Claire Rosinkranz]]></content>
     </entry>
 </feed>

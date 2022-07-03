@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-03T21:11:52.369Z</updated>
+    <updated>2022-07-03T22:12:56.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tour Du Monde 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7658327</id>
+        <link href="https://vibe.naver.com/album/7658327"/>
+        <updated>2022-07-03T22:12:56.152Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7658327" class="title"><span data-v-1f47c720="" class="text"> Tour Du Monde <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4997026" class="link_artist"><span class="text">Samy Lrzo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pra Sempre (Forever) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7655447</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7652556"/>
         <updated>2022-07-03T15:13:55.940Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7652556" class="title"><span data-v-1f47c720="" class="text"> 2022-04-28 Academy of Music, Northampton, Ma (Live) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/718" class="link_artist"><span class="text">Hot Tuna</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tu Si (Jesus Fernandez Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7652533</id>
-        <link href="https://vibe.naver.com/album/7652533"/>
-        <updated>2022-07-03T15:13:55.940Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7652533" class="title"><span data-v-1f47c720="" class="text"> Tu Si (Jesus Fernandez Remix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2761749" class="link_artist"><span class="text">Edyn Carvajal</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

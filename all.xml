@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-03T07:13:14.940Z</updated>
+    <updated>2022-07-03T08:16:00.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Summer Ocean 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[RayNay]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fake News 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7654035</id>
+        <link href="https://vibe.naver.com/album/7654035"/>
+        <updated>2022-07-03T08:15:59.673Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7654035" class="title"><span data-v-1f47c720="" class="text"> Fake News <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5516366" class="link_artist"><span class="text">Miya Guggs</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Crime Time 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7654034</id>
+        <link href="https://vibe.naver.com/album/7654034"/>
+        <updated>2022-07-03T08:15:59.677Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7654034" class="title"><span data-v-1f47c720="" class="text"> Crime Time <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4309179" class="link_artist"><span class="text">Block 93</span></a><span>, </span></span><span><a href="/artist/5516361" class="link_artist"><span class="text">Pameca</span></a><span>, </span></span><span><a href="/artist/5394216" class="link_artist"><span class="text">Tr4cer</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Silencio 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7654030</id>
         <link href="https://vibe.naver.com/album/7654030"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7652183"/>
         <updated>2022-07-02T15:13:38.458Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7652183" class="title"><span data-v-1f47c720="" class="text"> Blow Your Mind <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5490899" class="link_artist"><span class="text">Gorilla Apocalypse</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bambezela 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7652181</id>
-        <link href="https://vibe.naver.com/album/7652181"/>
-        <updated>2022-07-02T15:13:38.459Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7652181" class="title"><span data-v-1f47c720="" class="text"> Bambezela <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2406427" class="link_artist"><span class="text">Nthabi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Espigas 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7652179</id>
-        <link href="https://vibe.naver.com/album/7652179"/>
-        <updated>2022-07-02T15:13:38.463Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7652179" class="title"><span data-v-1f47c720="" class="text"> Espigas <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5435543" class="link_artist"><span class="text">Zurdo VSK</span></a><span>, </span></span><span><a href="/artist/4937621" class="link_artist"><span class="text">Martin Rid</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

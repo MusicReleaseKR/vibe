@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-04T21:12:50.990Z</updated>
+    <updated>2022-07-04T22:13:31.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MANIFESTO : DAY 1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dove Cameron]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wehdi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7667626</id>
+        <link href="https://vibe.naver.com/album/7667626"/>
+        <updated>2022-07-04T22:13:31.176Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7667626" class="title"><span data-v-1f47c720="" class="text"> Wehdi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5286194" class="link_artist"><span class="text">FAYV</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[There's No One At All (Another Version) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7666135</id>
         <link href="https://vibe.naver.com/album/7666135"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7655857"/>
         <updated>2022-07-04T19:12:58.260Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7655857" class="title"><span data-v-1f47c720="" class="text"> Lugar Secreto Versão R&amp;B (Playback) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4997610" class="link_artist"><span class="text">Lacqueline Aires</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jeena Jeena (Lofi) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7655856</id>
-        <link href="https://vibe.naver.com/album/7655856"/>
-        <updated>2022-07-04T19:12:58.261Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7655856" class="title"><span data-v-1f47c720="" class="text"> Jeena Jeena (Lofi) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5516032" class="link_artist"><span class="text">Lofilab</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

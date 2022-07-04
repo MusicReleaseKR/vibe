@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-04T05:25:50.626Z</updated>
+    <updated>2022-07-04T06:21:20.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Khu Tôi Không Sống 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7661412</id>
+        <link href="https://vibe.naver.com/album/7661412"/>
+        <updated>2022-07-04T06:21:19.558Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7661412" class="title"><span data-v-1f47c720="" class="text"> Khu Tôi Không Sống <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3806990" class="link_artist"><span class="text">WOWY</span></a><span>, </span></span><span><a href="/artist/3073115" class="link_artist"><span class="text">Thịnh Suy</span></a><span>, </span></span><span><a href="/artist/2787350" class="link_artist"><span class="text">Pham Hai Au</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LOVE GAZE 업데이트]]></title>
         <id>https://vibe.naver.com/album/7660030</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7653077"/>
         <updated>2022-07-03T15:13:55.929Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7653077" class="title"><span data-v-1f47c720="" class="text"> Havaye To <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/828364" class="link_artist"><span class="text">Hadi</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[En Sang Fra Jylland 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7652860</id>
-        <link href="https://vibe.naver.com/album/7652860"/>
-        <updated>2022-07-04T05:25:49.896Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7652860" class="title"><span data-v-1f47c720="" class="text"> En Sang Fra Jylland <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1810608" class="link_artist"><span class="text">Jakobsen</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

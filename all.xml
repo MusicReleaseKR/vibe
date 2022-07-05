@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T16:20:34.541Z</updated>
+    <updated>2022-07-05T17:21:39.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOLIDAY 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -852,6 +852,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7670765" class="title"><span data-v-1f47c720="" class="text"> I Don't Wanna Dance In This Squall <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4688082" class="link_artist"><span class="text">Soushi Sakiyama</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[OTT 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7669297</id>
+        <link href="https://vibe.naver.com/album/7669297"/>
+        <updated>2022-07-05T17:21:38.385Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7669297" class="title"><span data-v-1f47c720="" class="text"> OTT <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/269128" class="link_artist"><span class="text">easy life</span></a><span>, </span></span><span><a href="/artist/330813" class="link_artist"><span class="text">BENEE</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[wednesday 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7669242</id>
         <link href="https://vibe.naver.com/album/7669242"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7665190"/>
         <updated>2022-07-05T15:17:45.221Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7665190" class="title"><span data-v-1f47c720="" class="text"> broken <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4078478" class="link_artist"><span class="text">Midwxst</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scooter 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7665189</id>
-        <link href="https://vibe.naver.com/album/7665189"/>
-        <updated>2022-07-05T15:17:45.238Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7665189" class="title"><span data-v-1f47c720="" class="text"> Scooter <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2761703" class="link_artist"><span class="text">Sandeep Surila</span></a><span>, </span></span><span><a href="/artist/2893293" class="link_artist"><span class="text">Kanchan Nagar</span></a><span>, </span></span><span><a href="/artist/3801466" class="link_artist"><span class="text">Ajay Hooda</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

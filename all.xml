@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-05T11:17:17.645Z</updated>
+    <updated>2022-07-05T12:28:50.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HOLIDAY 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Klan]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[mess 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7670676</id>
+        <link href="https://vibe.naver.com/album/7670676"/>
+        <updated>2022-07-05T12:28:49.263Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7670676" class="title"><span data-v-1f47c720="" class="text"> mess <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4777848" class="link_artist"><span class="text">ioakim</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Here to Stay 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7670655</id>
         <link href="https://vibe.naver.com/album/7670655"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7662216"/>
         <updated>2022-07-05T03:40:45.897Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7662216" class="title"><span data-v-1f47c720="" class="text"> 위춘옥의 감성 충전 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5522431" class="link_artist"><span class="text">위춘옥</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람에 꽃잎이 나부끼듯 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7662215</id>
-        <link href="https://vibe.naver.com/album/7662215"/>
-        <updated>2022-07-05T03:40:45.897Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7662215" class="title"><span data-v-1f47c720="" class="text"> 바람에 꽃잎이 나부끼듯 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/16657" class="link_artist"><span class="text">박인범</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

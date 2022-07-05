@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-05T21:13:05.373Z</updated>
+    <updated>2022-07-05T22:13:28.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tupac 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7673185</id>
+        <link href="https://vibe.naver.com/album/7673185"/>
+        <updated>2022-07-05T22:13:27.755Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7673185" class="title"><span data-v-1f47c720="" class="text"> Tupac <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5027045" class="link_artist"><span class="text">Kai Du M</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Så Er Der Bong (Middelalderbongsangen) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7673184</id>
+        <link href="https://vibe.naver.com/album/7673184"/>
+        <updated>2022-07-05T22:13:27.764Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7673184" class="title"><span data-v-1f47c720="" class="text"> Så Er Der Bong (Middelalderbongsangen) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5529591" class="link_artist"><span class="text">Så Er Der Bong</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No Andamos Tumbados (Studio) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7672292</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7665192"/>
         <updated>2022-07-05T15:17:45.220Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7665192" class="title"><span data-v-1f47c720="" class="text"> 夢物語 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3515266" class="link_artist"><span class="text">Shounanno Kaze</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mickey Mouse Funhouse (As Músicas da Série do Disney Junior) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7665191</id>
-        <link href="https://vibe.naver.com/album/7665191"/>
-        <updated>2022-07-05T15:17:45.220Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7665191" class="title"><span data-v-1f47c720="" class="text"> Mickey Mouse Funhouse (As Músicas da Série do Disney Junior) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4921317" class="link_artist"><span class="text">Elenco de Mickey Mouse Funhouse</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[broken 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7665190</id>
-        <link href="https://vibe.naver.com/album/7665190"/>
-        <updated>2022-07-05T15:17:45.221Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7665190" class="title"><span data-v-1f47c720="" class="text"> broken <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4078478" class="link_artist"><span class="text">Midwxst</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

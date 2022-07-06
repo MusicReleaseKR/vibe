@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-06T21:13:05.767Z</updated>
+    <updated>2022-07-06T22:14:49.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Messiah 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7676614</id>
+        <link href="https://vibe.naver.com/album/7676614"/>
+        <updated>2022-07-06T22:14:48.996Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7676614" class="title"><span data-v-1f47c720="" class="text"> Messiah <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2914747" class="link_artist"><span class="text">Madumane</span></a><span>, </span></span><span><a href="/artist/5531969" class="link_artist"><span class="text">031 Choppa</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CETTE NUIT 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7676613</id>
+        <link href="https://vibe.naver.com/album/7676613"/>
+        <updated>2022-07-06T22:14:48.999Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7676613" class="title"><span data-v-1f47c720="" class="text"> CETTE NUIT <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2235606" class="link_artist"><span class="text">Edge</span></a><span>, </span></span><span><a href="/artist/4038970" class="link_artist"><span class="text">Ratu$</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phireya 업데이트]]></title>
         <id>https://vibe.naver.com/album/7676612</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7671236"/>
         <updated>2022-07-06T15:16:36.169Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7671236" class="title"><span data-v-1f47c720="" class="text"> For Tha Shot <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2620348" class="link_artist"><span class="text">Skin on skin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Record Store 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7671234</id>
-        <link href="https://vibe.naver.com/album/7671234"/>
-        <updated>2022-07-06T15:16:36.170Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7671234" class="title"><span data-v-1f47c720="" class="text"> Record Store <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5475390" class="link_artist"><span class="text">Vixen77</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Morning 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7671233</id>
-        <link href="https://vibe.naver.com/album/7671233"/>
-        <updated>2022-07-06T15:16:36.171Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7671233" class="title"><span data-v-1f47c720="" class="text"> Beautiful Morning <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4845464" class="link_artist"><span class="text">22simba</span></a><span>, </span></span><span><a href="/artist/3694552" class="link_artist"><span class="text">Praci</span></a><span>, </span></span><span><a href="/artist/5527476" class="link_artist"><span class="text">Nevia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-06T03:46:34.204Z</updated>
+    <updated>2022-07-06T04:44:32.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/7642193"/>
         <updated>2022-07-06T03:46:24.420Z</updated>
         <content type="html"><![CDATA[Benicio Bryant]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[キリサイテ　風(Kirisaite Kaze) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7670643</id>
+        <link href="https://vibe.naver.com/album/7670643"/>
+        <updated>2022-07-06T04:44:22.478Z</updated>
+        <content type="html"><![CDATA[ORANGE RANGE(오렌지 렌지)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[American Pie 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7629224"/>
         <updated>2022-07-04T03:47:10.532Z</updated>
         <content type="html"><![CDATA[Emotional Oranges]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without A Trace 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7651705</id>
-        <link href="https://vibe.naver.com/album/7651705"/>
-        <updated>2022-07-04T03:47:10.534Z</updated>
-        <content type="html"><![CDATA[Tyler Shamy]]></content>
     </entry>
 </feed>

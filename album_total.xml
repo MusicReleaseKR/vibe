@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-07T04:43:58.359Z</updated>
+    <updated>2022-07-07T05:23:01.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ur eld och aska 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7678285</id>
+        <link href="https://vibe.naver.com/album/7678285"/>
+        <updated>2022-07-07T05:23:00.675Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7678285" class="title"><span data-v-1f47c720="" class="text"> Ur eld och aska <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3090367" class="link_artist"><span class="text">Golgata</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[اللى قال 업데이트]]></title>
         <id>https://vibe.naver.com/album/7676853</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7676552"/>
         <updated>2022-07-07T03:45:36.965Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7676552" class="title"><span data-v-1f47c720="" class="text"> My life has been your grace <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3975717" class="link_artist"><span class="text">김찬양</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이봐요 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7676551</id>
-        <link href="https://vibe.naver.com/album/7676551"/>
-        <updated>2022-07-07T03:45:36.967Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7676551" class="title"><span data-v-1f47c720="" class="text"> 이봐요 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3223078" class="link_artist"><span class="text">이재이</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

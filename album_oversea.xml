@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-07T08:19:01.142Z</updated>
+    <updated>2022-07-07T09:14:09.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Departure 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7676334</id>
+        <link href="https://vibe.naver.com/album/7676334"/>
+        <updated>2022-07-07T09:13:59.206Z</updated>
+        <content type="html"><![CDATA[Abroad]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Miss America 업데이트]]></title>
         <id>https://vibe.naver.com/album/7639990</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7639991"/>
         <updated>2022-07-07T07:13:38.376Z</updated>
         <content type="html"><![CDATA[Kara Chenoa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thinkin' Bout Your Smile 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7642850</id>
-        <link href="https://vibe.naver.com/album/7642850"/>
-        <updated>2022-07-07T07:13:38.377Z</updated>
-        <content type="html"><![CDATA[KaixAaron]]></content>
     </entry>
 </feed>

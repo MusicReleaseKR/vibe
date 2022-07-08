@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-08T08:20:37.188Z</updated>
+    <updated>2022-07-08T09:15:32.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1990something 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7679104</id>
+        <link href="https://vibe.naver.com/album/7679104"/>
+        <updated>2022-07-08T09:15:20.995Z</updated>
+        <content type="html"><![CDATA[Sub-Radio]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Got Me Good 업데이트]]></title>
         <id>https://vibe.naver.com/album/7678918</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7670643"/>
         <updated>2022-07-07T07:13:38.325Z</updated>
         <content type="html"><![CDATA[ORANGE RANGE(오렌지 렌지)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[American Pie 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7644267</id>
-        <link href="https://vibe.naver.com/album/7644267"/>
-        <updated>2022-07-07T07:13:38.326Z</updated>
-        <content type="html"><![CDATA[Jade Bird]]></content>
     </entry>
 </feed>

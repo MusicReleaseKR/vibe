@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-08T04:36:30.813Z</updated>
+    <updated>2022-07-08T05:21:10.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Girls - The 2nd Mini Album 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Jade Bird]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Katane 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7690357</id>
+        <link href="https://vibe.naver.com/album/7690357"/>
+        <updated>2022-07-08T05:21:09.283Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7690357" class="title"><span data-v-1f47c720="" class="text"> Katane <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/426433" class="link_artist"><span class="text">Mindset</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Batticuore 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7690356</id>
+        <link href="https://vibe.naver.com/album/7690356"/>
+        <updated>2022-07-08T05:21:09.285Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7690356" class="title"><span data-v-1f47c720="" class="text"> Batticuore <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2521244" class="link_artist"><span class="text">Ardo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Imizi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7689629</id>
         <link href="https://vibe.naver.com/album/7689629"/>
@@ -838,11 +852,11 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7687918" class="title"><span data-v-1f47c720="" class="text"> Die <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5538407" class="link_artist"><span class="text">G.W.A.P</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GAME L-OVER 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <title type="html"><![CDATA[GAME L-OVER #Lesson IV 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7687917</id>
         <link href="https://vibe.naver.com/album/7687917"/>
         <updated>2022-07-08T01:18:22.471Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7687917" class="title"><span data-v-1f47c720="" class="text"> GAME L-OVER <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5265866" class="link_artist"><span class="text">DOBLENNE</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7687917" class="title"><span data-v-1f47c720="" class="text"> GAME L-OVER #Lesson IV <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5265866" class="link_artist"><span class="text">DOBLENNE</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Me Hace Tanto Bien 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7686285"/>
         <updated>2022-07-07T22:14:29.418Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7686285" class="title"><span data-v-1f47c720="" class="text"> Аргентина <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3691890" class="link_artist"><span class="text">PereNats</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tsohang 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7685598</id>
-        <link href="https://vibe.naver.com/album/7685598"/>
-        <updated>2022-07-07T20:15:07.189Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7685598" class="title"><span data-v-1f47c720="" class="text"> Tsohang <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5537163" class="link_artist"><span class="text">Squaredeye Bars</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nami Ngiyamkhonza 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7685592</id>
-        <link href="https://vibe.naver.com/album/7685592"/>
-        <updated>2022-07-07T20:15:07.189Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7685592" class="title"><span data-v-1f47c720="" class="text"> Nami Ngiyamkhonza <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5537162" class="link_artist"><span class="text">Mkhushuli</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

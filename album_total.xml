@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-09T21:12:52.600Z</updated>
+    <updated>2022-07-09T22:12:45.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Run 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7701082</id>
+        <link href="https://vibe.naver.com/album/7701082"/>
+        <updated>2022-07-09T22:12:45.014Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7701082" class="title"><span data-v-1f47c720="" class="text"> Run <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5426318" class="link_artist"><span class="text">DJ Puddu</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello, My Name is Lofi Man 업데이트]]></title>
         <id>https://vibe.naver.com/album/7700582</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7695522"/>
         <updated>2022-07-09T17:13:31.671Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7695522" class="title"><span data-v-1f47c720="" class="text"> Holy <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5471968" class="link_artist"><span class="text">Angene</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love In The Dark 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7695521</id>
-        <link href="https://vibe.naver.com/album/7695521"/>
-        <updated>2022-07-09T17:13:31.672Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7695521" class="title"><span data-v-1f47c720="" class="text"> Love In The Dark <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5466185" class="link_artist"><span class="text">LYNS</span></a><span>, </span></span><span><a href="/artist/5473894" class="link_artist"><span class="text">Ariross</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

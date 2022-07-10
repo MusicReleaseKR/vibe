@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-09T23:12:43.076Z</updated>
+    <updated>2022-07-10T01:20:44.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Marya Verga 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7701432</id>
+        <link href="https://vibe.naver.com/album/7701432"/>
+        <updated>2022-07-10T01:20:43.861Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7701432" class="title"><span data-v-1f47c720="" class="text"> Marya Verga <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5544705" class="link_artist"><span class="text">Sehbaaz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run 업데이트]]></title>
         <id>https://vibe.naver.com/album/7701082</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7695523"/>
         <updated>2022-07-09T17:13:31.668Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7695523" class="title"><span data-v-1f47c720="" class="text"> The Remembrance <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5155016" class="link_artist"><span class="text">Shyamal Jyoti</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7695522</id>
-        <link href="https://vibe.naver.com/album/7695522"/>
-        <updated>2022-07-09T17:13:31.671Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7695522" class="title"><span data-v-1f47c720="" class="text"> Holy <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5471968" class="link_artist"><span class="text">Angene</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

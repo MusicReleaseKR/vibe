@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-10T01:20:44.472Z</updated>
+    <updated>2022-07-10T03:29:11.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Moshi Moshi 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7689164</id>
+        <link href="https://vibe.naver.com/album/7689164"/>
+        <updated>2022-07-10T03:29:00.291Z</updated>
+        <content type="html"><![CDATA[Spyro]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1990something 업데이트]]></title>
         <id>https://vibe.naver.com/album/7679104</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7642193"/>
         <updated>2022-07-09T17:13:21.616Z</updated>
         <content type="html"><![CDATA[Benicio Bryant]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[キリサイテ　風(Kirisaite Kaze) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7670643</id>
-        <link href="https://vibe.naver.com/album/7670643"/>
-        <updated>2022-07-09T17:13:21.617Z</updated>
-        <content type="html"><![CDATA[ORANGE RANGE(오렌지 렌지)]]></content>
     </entry>
 </feed>

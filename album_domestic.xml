@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-07-10T08:16:25.699Z</updated>
+    <updated>2022-07-10T09:13:09.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[환혼 OST Part 3 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7690411</id>
+        <link href="https://vibe.naver.com/album/7690411"/>
+        <updated>2022-07-10T09:12:48.240Z</updated>
+        <content type="html"><![CDATA[정세운]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ride 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7678676</id>
+        <link href="https://vibe.naver.com/album/7678676"/>
+        <updated>2022-07-10T09:12:48.240Z</updated>
+        <content type="html"><![CDATA[안병웅]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애의 참견 2022 OST - Part 15 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7690527</id>
+        <link href="https://vibe.naver.com/album/7690527"/>
+        <updated>2022-07-10T09:12:48.244Z</updated>
+        <content type="html"><![CDATA[오왠(O.WHEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엄마 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7691657</id>
+        <link href="https://vibe.naver.com/album/7691657"/>
+        <updated>2022-07-10T09:12:48.245Z</updated>
+        <content type="html"><![CDATA[DOKO(도코)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비가 오면 (Feat. 유연) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7676838</id>
+        <link href="https://vibe.naver.com/album/7676838"/>
+        <updated>2022-07-10T09:12:48.247Z</updated>
+        <content type="html"><![CDATA[로키드(Lokid)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별보다 니가… 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7691602</id>
+        <link href="https://vibe.naver.com/album/7691602"/>
+        <updated>2022-07-10T09:12:48.253Z</updated>
+        <content type="html"><![CDATA[세현]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[re-Jection 업데이트]]></title>
         <id>https://vibe.naver.com/album/7678672</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/7676425"/>
         <updated>2022-07-10T04:24:36.153Z</updated>
         <content type="html"><![CDATA[정재일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낭만 도시 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7677836</id>
-        <link href="https://vibe.naver.com/album/7677836"/>
-        <updated>2022-07-10T04:24:36.154Z</updated>
-        <content type="html"><![CDATA[신사빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MAKEUMINE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7679982</id>
-        <link href="https://vibe.naver.com/album/7679982"/>
-        <updated>2022-07-10T04:24:36.155Z</updated>
-        <content type="html"><![CDATA[MUMW]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Life 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7675589</id>
-        <link href="https://vibe.naver.com/album/7675589"/>
-        <updated>2022-07-10T04:24:36.156Z</updated>
-        <content type="html"><![CDATA[EPTEND(에피텐드)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seaside Hotel 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7676529</id>
-        <link href="https://vibe.naver.com/album/7676529"/>
-        <updated>2022-07-10T04:24:36.157Z</updated>
-        <content type="html"><![CDATA[태윤(Tae Yoon)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Light 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7677070</id>
-        <link href="https://vibe.naver.com/album/7677070"/>
-        <updated>2022-07-10T04:24:36.158Z</updated>
-        <content type="html"><![CDATA[현진주(Hyun Jinju)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑 없이 사는게 왜 그렇게 어려울까요 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7677254</id>
-        <link href="https://vibe.naver.com/album/7677254"/>
-        <updated>2022-07-10T04:24:36.162Z</updated>
-        <content type="html"><![CDATA[겸(GYE0M)]]></content>
     </entry>
 </feed>

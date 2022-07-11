@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-11T04:33:57.611Z</updated>
+    <updated>2022-07-11T05:21:56.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[01/06 Se Supone 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7701841</id>
+        <link href="https://vibe.naver.com/album/7701841"/>
+        <updated>2022-07-11T05:21:55.734Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7701841" class="title"><span data-v-1f47c720="" class="text"> 01/06 Se Supone <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4944726" class="link_artist"><span class="text">Kavvo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여름방학 업데이트]]></title>
         <id>https://vibe.naver.com/album/7701664</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7700092"/>
         <updated>2022-07-10T15:14:33.006Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7700092" class="title"><span data-v-1f47c720="" class="text"> Vida Cara <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5489791" class="link_artist"><span class="text">MC Pedro2S</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vaasta 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7700091</id>
-        <link href="https://vibe.naver.com/album/7700091"/>
-        <updated>2022-07-10T15:14:33.007Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7700091" class="title"><span data-v-1f47c720="" class="text"> Vaasta <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4696157" class="link_artist"><span class="text">Samyak Prasana</span></a><span>, </span></span><span><a href="/artist/5205135" class="link_artist"><span class="text">Sireesha Bhagavatula</span></a><span>, </span></span><span><a href="/artist/127228" class="link_artist"><span class="text">Himesh Reshammiya</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

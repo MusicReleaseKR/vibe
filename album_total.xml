@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-11T07:15:46.174Z</updated>
+    <updated>2022-07-11T08:18:53.554Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[거북이와 플라스틱 (리믹스) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7702403</id>
+        <link href="https://vibe.naver.com/album/7702403"/>
+        <updated>2022-07-11T08:18:52.897Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7702403" class="title"><span data-v-1f47c720="" class="text"> 거북이와 플라스틱 (리믹스) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/485138" class="link_artist"><span class="text">The Lucy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[01/06 Se Supone 업데이트]]></title>
         <id>https://vibe.naver.com/album/7701841</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7700093"/>
         <updated>2022-07-10T15:14:33.005Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7700093" class="title"><span data-v-1f47c720="" class="text"> Eu Vou Acelerar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4795960" class="link_artist"><span class="text">Raycco</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vida Cara 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7700092</id>
-        <link href="https://vibe.naver.com/album/7700092"/>
-        <updated>2022-07-10T15:14:33.006Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7700092" class="title"><span data-v-1f47c720="" class="text"> Vida Cara <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5489791" class="link_artist"><span class="text">MC Pedro2S</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

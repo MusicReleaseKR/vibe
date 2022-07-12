@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-12T03:56:22.600Z</updated>
+    <updated>2022-07-12T04:59:10.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nasty 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7711976</id>
+        <link href="https://vibe.naver.com/album/7711976"/>
+        <updated>2022-07-12T04:59:10.009Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7711976" class="title"><span data-v-1f47c720="" class="text"> Nasty <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5467008" class="link_artist"><span class="text">1-800-TOMMY</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Action 업데이트]]></title>
         <id>https://vibe.naver.com/album/7711547</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7701997"/>
         <updated>2022-07-12T03:56:21.899Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7701997" class="title"><span data-v-1f47c720="" class="text"> 하나님은 얼마나 크신지요 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/14825" class="link_artist"><span class="text">김정선</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기쁨으로 주를 노래하자 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7701946</id>
-        <link href="https://vibe.naver.com/album/7701946"/>
-        <updated>2022-07-12T03:56:21.903Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7701946" class="title"><span data-v-1f47c720="" class="text"> 기쁨으로 주를 노래하자 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2226981" class="link_artist"><span class="text">신소아</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

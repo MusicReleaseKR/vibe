@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-12T11:23:15.267Z</updated>
+    <updated>2022-07-12T12:30:28.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Road : Keep on Going - The 11th Album Vol.1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Rachel Chinouriri]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Onu Bağışlamaq Olarmı 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7716616</id>
+        <link href="https://vibe.naver.com/album/7716616"/>
+        <updated>2022-07-12T12:30:27.640Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7716616" class="title"><span data-v-1f47c720="" class="text"> Onu Bağışlamaq Olarmı <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3421532" class="link_artist"><span class="text">Şöhret Memmedov</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Better Life 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7715008</id>
         <link href="https://vibe.naver.com/album/7715008"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7702514"/>
         <updated>2022-07-12T03:56:21.880Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7702514" class="title"><span data-v-1f47c720="" class="text"> Go Up To The Mountain <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5545504" class="link_artist"><span class="text">백민아</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skate Home 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7702513</id>
-        <link href="https://vibe.naver.com/album/7702513"/>
-        <updated>2022-07-12T03:56:21.881Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7702513" class="title"><span data-v-1f47c720="" class="text"> Skate Home <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4568016" class="link_artist"><span class="text">Lomme</span></a><span>, </span></span><span><a href="/artist/4782332" class="link_artist"><span class="text">Kayba</span></a><span>, </span></span><span><a href="/artist/5440660" class="link_artist"><span class="text">Elk Beats</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

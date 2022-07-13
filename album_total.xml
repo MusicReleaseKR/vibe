@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-13T15:15:48.734Z</updated>
+    <updated>2022-07-13T16:22:30.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Já Andei 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7731313</id>
+        <link href="https://vibe.naver.com/album/7731313"/>
+        <updated>2022-07-13T16:22:29.664Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7731313" class="title"><span data-v-1f47c720="" class="text"> Já Andei <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5566617" class="link_artist"><span class="text">Gustavo Cypher</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tra La Lá 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7731306</id>
+        <link href="https://vibe.naver.com/album/7731306"/>
+        <updated>2022-07-13T16:22:29.669Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7731306" class="title"><span data-v-1f47c720="" class="text"> Tra La Lá <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3072924" class="link_artist"><span class="text">Sabrina Custódio</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[El Día Que Te Fuiste 업데이트]]></title>
         <id>https://vibe.naver.com/album/7730809</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7718740"/>
         <updated>2022-07-13T15:15:48.163Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7718740" class="title"><span data-v-1f47c720="" class="text"> Thôi Em Đừng Lo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3611869" class="link_artist"><span class="text">Nhật Hoàng</span></a><span>, </span></span><span><a href="/artist/1038117" class="link_artist"><span class="text">Hennessy</span></a><span>, </span></span><span><a href="/artist/5557555" class="link_artist"><span class="text">MT Boizz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Say My Name (Hard Edit) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7718739</id>
-        <link href="https://vibe.naver.com/album/7718739"/>
-        <updated>2022-07-13T15:15:48.163Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7718739" class="title"><span data-v-1f47c720="" class="text"> Say My Name (Hard Edit) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/145966" class="link_artist"><span class="text">Alyssa</span></a><span>, </span></span><span><a href="/artist/5557554" class="link_artist"><span class="text">Colin Hennerz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jhooti Si 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7718738</id>
-        <link href="https://vibe.naver.com/album/7718738"/>
-        <updated>2022-07-13T15:15:48.164Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7718738" class="title"><span data-v-1f47c720="" class="text"> Jhooti Si <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4313063" class="link_artist"><span class="text">Harjas Harjaayi</span></a><span>, </span></span><span><a href="/artist/3889185" class="link_artist"><span class="text">Rishi Roy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

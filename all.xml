@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-13T11:12:36.076Z</updated>
+    <updated>2022-07-13T12:28:24.789Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[THE WAVE OF9 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Sydney Rose]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nếu Như Anh Đến 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7729158</id>
+        <link href="https://vibe.naver.com/album/7729158"/>
+        <updated>2022-07-13T12:28:23.928Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7729158" class="title"><span data-v-1f47c720="" class="text"> Nếu Như Anh Đến <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2480471" class="link_artist"><span class="text">Văn Mai Hương</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TILBAGE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7728667</id>
         <link href="https://vibe.naver.com/album/7728667"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7714963"/>
         <updated>2022-07-13T03:37:36.998Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714963" class="title"><span data-v-1f47c720="" class="text"> Lost It <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1696687" class="link_artist"><span class="text">Layto</span></a><span>, </span></span><span><a href="/artist/5554827" class="link_artist"><span class="text">Jaymmac</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Defeat 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7714960</id>
-        <link href="https://vibe.naver.com/album/7714960"/>
-        <updated>2022-07-13T03:37:36.999Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714960" class="title"><span data-v-1f47c720="" class="text"> No Defeat <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2812743" class="link_artist"><span class="text">Konata Small</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

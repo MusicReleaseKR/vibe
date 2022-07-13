@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-12T23:15:02.433Z</updated>
+    <updated>2022-07-13T01:13:04.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Piranha 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7722713</id>
+        <link href="https://vibe.naver.com/album/7722713"/>
+        <updated>2022-07-13T01:13:04.050Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7722713" class="title"><span data-v-1f47c720="" class="text"> Piranha <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3120491" class="link_artist"><span class="text">BRICIO</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DO 업데이트]]></title>
         <id>https://vibe.naver.com/album/7718080</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7706066"/>
         <updated>2022-07-12T15:25:58.975Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7706066" class="title"><span data-v-1f47c720="" class="text"> Monochrome <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5478515" class="link_artist"><span class="text">Trent Madison</span></a><span>, </span></span><span><a href="/artist/319882" class="link_artist"><span class="text">Shadows</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slowly We Rot - Live and Rotting 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7706064</id>
-        <link href="https://vibe.naver.com/album/7706064"/>
-        <updated>2022-07-12T15:25:58.977Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7706064" class="title"><span data-v-1f47c720="" class="text"> Slowly We Rot - Live and Rotting <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2116" class="link_artist"><span class="text">Obituary</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

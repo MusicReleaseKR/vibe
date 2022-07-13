@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-13T03:37:37.610Z</updated>
+    <updated>2022-07-13T04:33:23.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Summer Festa 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Sydney Rose]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[No Face 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7724592</id>
+        <link href="https://vibe.naver.com/album/7724592"/>
+        <updated>2022-07-13T04:33:23.047Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7724592" class="title"><span data-v-1f47c720="" class="text"> No Face <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2914975" class="link_artist"><span class="text">Flo Milli</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sunshine 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7724591</id>
+        <link href="https://vibe.naver.com/album/7724591"/>
+        <updated>2022-07-13T04:33:23.047Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7724591" class="title"><span data-v-1f47c720="" class="text"> Sunshine <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1969339" class="link_artist"><span class="text">Steve Lacy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Traviesa 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7724193</id>
         <link href="https://vibe.naver.com/album/7724193"/>
@@ -904,7 +918,7 @@
         <title type="html"><![CDATA[뉴페스타 EPISODE.6 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7714978</id>
         <link href="https://vibe.naver.com/album/7714978"/>
-        <updated>2022-07-13T03:37:36.993Z</updated>
+        <updated>2022-07-13T03:37:15.353Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714978" class="title"><span data-v-1f47c720="" class="text"> 뉴페스타 EPISODE.6 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1023,7 +1037,7 @@
         <title type="html"><![CDATA[Summer Festa 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7714939</id>
         <link href="https://vibe.naver.com/album/7714939"/>
-        <updated>2022-07-13T03:37:37.013Z</updated>
+        <updated>2022-07-13T03:37:15.353Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714939" class="title"><span data-v-1f47c720="" class="text"> Summer Festa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4301085" class="link_artist"><span class="text">네이비쿼카(NavyQuokka)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7714937"/>
         <updated>2022-07-13T03:37:37.015Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714937" class="title"><span data-v-1f47c720="" class="text"> Color Me (feat. マヒトゥ・ザ・ピーポー(MahiToThePeople)) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/63063" class="link_artist"><span class="text">Kimura Kaela</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름밤의 사색 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7714936</id>
-        <link href="https://vibe.naver.com/album/7714936"/>
-        <updated>2022-07-13T03:37:37.016Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714936" class="title"><span data-v-1f47c720="" class="text"> 여름밤의 사색 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3023028" class="link_artist"><span class="text">July Moon(주아)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotion Collection#35 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7714935</id>
-        <link href="https://vibe.naver.com/album/7714935"/>
-        <updated>2022-07-13T03:37:37.018Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7714935" class="title"><span data-v-1f47c720="" class="text"> Emotion Collection#35 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4261775" class="link_artist"><span class="text">jenimami</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

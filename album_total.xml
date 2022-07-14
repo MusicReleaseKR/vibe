@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-14T18:17:53.897Z</updated>
+    <updated>2022-07-14T19:12:02.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Taste 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7745092</id>
+        <link href="https://vibe.naver.com/album/7745092"/>
+        <updated>2022-07-14T19:12:01.378Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7745092" class="title"><span data-v-1f47c720="" class="text"> Taste <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5474170" class="link_artist"><span class="text">Zainhy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teri Yaadon Se (Lofi Flip) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7745091</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7743580"/>
         <updated>2022-07-14T16:24:48.380Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7743580" class="title"><span data-v-1f47c720="" class="text"> 50 Songs 50 Towns, Vol. 3 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/72151" class="link_artist"><span class="text">Troy Cassar-Daley</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boys Do Cry 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7743579</id>
-        <link href="https://vibe.naver.com/album/7743579"/>
-        <updated>2022-07-14T16:24:48.384Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7743579" class="title"><span data-v-1f47c720="" class="text"> Boys Do Cry <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/204984" class="link_artist"><span class="text">Rin</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

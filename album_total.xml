@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-14T09:15:18.444Z</updated>
+    <updated>2022-07-14T10:17:07.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Phad Mera Hath 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7740842</id>
+        <link href="https://vibe.naver.com/album/7740842"/>
+        <updated>2022-07-14T10:17:06.636Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7740842" class="title"><span data-v-1f47c720="" class="text"> Phad Mera Hath <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/533763" class="link_artist"><span class="text">Akriti Kakar</span></a><span>, </span></span><span><a href="/artist/900250" class="link_artist"><span class="text">Shashwat Singh</span></a><span>, </span></span><span><a href="/artist/3708063" class="link_artist"><span class="text">Bhanu Singh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Miracle Maker 업데이트]]></title>
         <id>https://vibe.naver.com/album/7739342</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7733381"/>
         <updated>2022-07-13T23:15:52.768Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7733381" class="title"><span data-v-1f47c720="" class="text"> Devadas (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1784536" class="link_artist"><span class="text">Chakri</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lokanathan IAS (Original Motion Picture Soundtrack) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7733380</id>
-        <link href="https://vibe.naver.com/album/7733380"/>
-        <updated>2022-07-13T23:15:52.769Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7733380" class="title"><span data-v-1f47c720="" class="text"> Lokanathan IAS (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1757075" class="link_artist"><span class="text">M. Jayachandran</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

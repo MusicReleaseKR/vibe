@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-14T11:13:03.318Z</updated>
+    <updated>2022-07-14T12:28:49.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hương 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7741827</id>
+        <link href="https://vibe.naver.com/album/7741827"/>
+        <updated>2022-07-14T12:28:48.673Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7741827" class="title"><span data-v-1f47c720="" class="text"> Hương <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2480471" class="link_artist"><span class="text">Văn Mai Hương</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shuruaat 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7741549</id>
+        <link href="https://vibe.naver.com/album/7741549"/>
+        <updated>2022-07-14T12:28:48.673Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7741549" class="title"><span data-v-1f47c720="" class="text"> Shuruaat <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tedenovela 업데이트]]></title>
         <id>https://vibe.naver.com/album/7741239</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7733384"/>
         <updated>2022-07-13T23:15:52.765Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7733384" class="title"><span data-v-1f47c720="" class="text"> Daddy (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/534282" class="link_artist"><span class="text">S.P. Venkatesh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guru (Original Motion Picture Soundtrack) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7733383</id>
-        <link href="https://vibe.naver.com/album/7733383"/>
-        <updated>2022-07-13T23:15:52.766Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7733383" class="title"><span data-v-1f47c720="" class="text"> Guru (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/218251" class="link_artist"><span class="text">Ilaiyaraaja</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anubhoothi (Original Motion Picture Soundtrack) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7733382</id>
-        <link href="https://vibe.naver.com/album/7733382"/>
-        <updated>2022-07-13T23:15:52.767Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7733382" class="title"><span data-v-1f47c720="" class="text"> Anubhoothi (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1486163" class="link_artist"><span class="text">Shyam</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

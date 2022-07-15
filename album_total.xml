@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-15T05:45:38.446Z</updated>
+    <updated>2022-07-15T06:17:49.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[INEVITABLE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7751128</id>
+        <link href="https://vibe.naver.com/album/7751128"/>
+        <updated>2022-07-15T06:17:48.721Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7751128" class="title"><span data-v-1f47c720="" class="text"> INEVITABLE <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/481447" class="link_artist"><span class="text">Kye</span></a><span>, </span></span><span><a href="/artist/5578400" class="link_artist"><span class="text">Prod CHM</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Summertime Blues 업데이트]]></title>
         <id>https://vibe.naver.com/album/7750884</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7746637"/>
         <updated>2022-07-14T22:16:00.655Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7746637" class="title"><span data-v-1f47c720="" class="text"> Violin <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2689296" class="link_artist"><span class="text">Fero47</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Likundu 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7745614</id>
-        <link href="https://vibe.naver.com/album/7745614"/>
-        <updated>2022-07-14T20:16:57.648Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7745614" class="title"><span data-v-1f47c720="" class="text"> Likundu <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2784059" class="link_artist"><span class="text">Kevin Mbouandé</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

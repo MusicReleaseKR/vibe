@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-07-15T03:54:09.299Z</updated>
+    <updated>2022-07-15T05:01:18.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jack In The Box 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7748801</id>
+        <link href="https://vibe.naver.com/album/7748801"/>
+        <updated>2022-07-15T05:00:53.582Z</updated>
+        <content type="html"><![CDATA[j-hope]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CHECKMATE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7738801</id>
+        <link href="https://vibe.naver.com/album/7738801"/>
+        <updated>2022-07-15T05:00:53.625Z</updated>
+        <content type="html"><![CDATA[ITZY(있지)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유미의 세포들 시즌2 OST Part 7 업데이트]]></title>
         <id>https://vibe.naver.com/album/7739815</id>
@@ -262,7 +276,7 @@
         <id>https://vibe.naver.com/album/7726991</id>
         <link href="https://vibe.naver.com/album/7726991"/>
         <updated>2022-07-14T09:14:55.339Z</updated>
-        <content type="html"><![CDATA[Aden(에이든)]]></content>
+        <content type="html"><![CDATA[Mainvow]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Stay Home 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7725883"/>
         <updated>2022-07-14T03:50:01.244Z</updated>
         <content type="html"><![CDATA[선과영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wind 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7725308</id>
-        <link href="https://vibe.naver.com/album/7725308"/>
-        <updated>2022-07-14T03:50:01.245Z</updated>
-        <content type="html"><![CDATA[미어스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dazzling 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7724524</id>
-        <link href="https://vibe.naver.com/album/7724524"/>
-        <updated>2022-07-14T03:50:01.247Z</updated>
-        <content type="html"><![CDATA[Nooma]]></content>
     </entry>
 </feed>

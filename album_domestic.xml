@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-07-15T12:29:21.605Z</updated>
+    <updated>2022-07-15T13:42:47.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[하고 싶던 말 업데이트]]></title>
-        <id>https://vibe.naver.com/album/6162091</id>
-        <link href="https://vibe.naver.com/album/6162091"/>
-        <updated>2022-07-15T12:28:59.303Z</updated>
-        <content type="html"><![CDATA[윤한솔]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Jack In The Box 업데이트]]></title>
         <id>https://vibe.naver.com/album/7748801</id>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/7724182"/>
         <updated>2022-07-14T09:14:55.342Z</updated>
         <content type="html"><![CDATA[G.&nbsp;Nine]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별거 아닌걸로 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7726092</id>
+        <link href="https://vibe.naver.com/album/7726092"/>
+        <updated>2022-07-15T13:42:27.420Z</updated>
+        <content type="html"><![CDATA[Shemu]]></content>
     </entry>
 </feed>

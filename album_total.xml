@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-18T11:12:47.115Z</updated>
+    <updated>2022-07-18T12:27:20.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Adheeraa (Telugu) (From "Cobra (Telugu)") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7774964</id>
+        <link href="https://vibe.naver.com/album/7774964"/>
+        <updated>2022-07-18T12:27:20.040Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7774964" class="title"><span data-v-1f47c720="" class="text"> Adheeraa (Telugu) (From "Cobra (Telugu)") <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/116795" class="link_artist"><span class="text">A.R. Rahman</span></a><span>, </span></span><span><a href="/artist/543966" class="link_artist"><span class="text">Haripriya</span></a><span>, </span></span><span><a href="/artist/2133374" class="link_artist"><span class="text">Nakul Abhyankar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tiếc Cho Anh 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7774959</id>
+        <link href="https://vibe.naver.com/album/7774959"/>
+        <updated>2022-07-18T12:27:20.046Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7774959" class="title"><span data-v-1f47c720="" class="text"> Tiếc Cho Anh <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5356344" class="link_artist"><span class="text">BAE Khanh Huyen</span></a><span>, </span></span><span><a href="/artist/5356345" class="link_artist"><span class="text">BAE quynhanh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CAMPFIRE 업데이트]]></title>
         <id>https://vibe.naver.com/album/7774747</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7768169"/>
         <updated>2022-07-17T20:16:12.123Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7768169" class="title"><span data-v-1f47c720="" class="text"> Jogiyaa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Quality 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7768168</id>
-        <link href="https://vibe.naver.com/album/7768168"/>
-        <updated>2022-07-17T20:16:12.126Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7768168" class="title"><span data-v-1f47c720="" class="text"> Quality <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/514764" class="link_artist"><span class="text">Sapo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O Brasil Pede Paz 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7768167</id>
-        <link href="https://vibe.naver.com/album/7768167"/>
-        <updated>2022-07-17T20:16:12.127Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7768167" class="title"><span data-v-1f47c720="" class="text"> O Brasil Pede Paz <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5017302" class="link_artist"><span class="text">MC menor Da VJ</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

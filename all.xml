@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-19T16:20:27.277Z</updated>
+    <updated>2022-07-19T17:25:46.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Grown Ass Kid 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[ILune]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mundão Girou 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7776254</id>
+        <link href="https://vibe.naver.com/album/7776254"/>
+        <updated>2022-07-19T17:25:45.256Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776254" class="title"><span data-v-1f47c720="" class="text"> Mundão Girou <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2195975" class="link_artist"><span class="text">MC Guto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Billy Joel - Moods 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7776048</id>
         <link href="https://vibe.naver.com/album/7776048"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7775198"/>
         <updated>2022-07-19T15:20:19.545Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7775198" class="title"><span data-v-1f47c720="" class="text"> Bandung <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/271299" class="link_artist"><span class="text">Portland</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maybe 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7775197</id>
-        <link href="https://vibe.naver.com/album/7775197"/>
-        <updated>2022-07-19T15:20:19.546Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7775197" class="title"><span data-v-1f47c720="" class="text"> Maybe <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3386242" class="link_artist"><span class="text">Jøase</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

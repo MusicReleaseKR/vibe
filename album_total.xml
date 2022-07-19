@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-19T03:56:25.490Z</updated>
+    <updated>2022-07-19T05:06:48.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le Meilleur Reste A Venir (Bande Originale Du Film) (베스트 이즈 옛 투 컴 OST) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7775552</id>
+        <link href="https://vibe.naver.com/album/7775552"/>
+        <updated>2022-07-19T05:06:47.671Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7775552" class="title"><span data-v-1f47c720="" class="text"> Le Meilleur Reste A Venir (Bande Originale Du Film) (베스트 이즈 옛 투 컴 OST) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/117515" class="link_artist"><span class="text">Jerome Rebotier</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sweet Home 업데이트]]></title>
         <id>https://vibe.naver.com/album/7775232</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7774776"/>
         <updated>2022-07-19T03:56:24.758Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7774776" class="title"><span data-v-1f47c720="" class="text"> パーティー・イズ・オーバー +2(Party Is Over +2) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/269438" class="link_artist"><span class="text">Sakurada Junko</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel Something 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7774746</id>
-        <link href="https://vibe.naver.com/album/7774746"/>
-        <updated>2022-07-19T03:56:24.761Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7774746" class="title"><span data-v-1f47c720="" class="text"> Feel Something <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5245604" class="link_artist"><span class="text">레몬시티(Lemon City)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

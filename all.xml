@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-21T03:38:44.838Z</updated>
+    <updated>2022-07-21T04:40:35.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[나의 매일에게 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Ali Bakgor]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mudança de Hábito 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7779495</id>
+        <link href="https://vibe.naver.com/album/7779495"/>
+        <updated>2022-07-21T04:40:34.818Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7779495" class="title"><span data-v-1f47c720="" class="text"> Mudança de Hábito <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5440945" class="link_artist"><span class="text">Tio Nando</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Eman Basê 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7779388</id>
         <link href="https://vibe.naver.com/album/7779388"/>
@@ -729,14 +736,14 @@
         <title type="html"><![CDATA[아직 널 사랑해 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7779199</id>
         <link href="https://vibe.naver.com/album/7779199"/>
-        <updated>2022-07-21T03:38:44.121Z</updated>
+        <updated>2022-07-21T03:38:19.370Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7779199" class="title"><span data-v-1f47c720="" class="text"> 아직 널 사랑해 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3898372" class="link_artist"><span class="text">새벽창문</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나의 매일에게 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7779185</id>
         <link href="https://vibe.naver.com/album/7779185"/>
-        <updated>2022-07-21T03:38:44.123Z</updated>
+        <updated>2022-07-21T03:38:19.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7779185" class="title"><span data-v-1f47c720="" class="text"> 나의 매일에게 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/155416" class="link_artist"><span class="text">안녕하신가영</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1023,7 +1030,7 @@
         <title type="html"><![CDATA[See You Soon 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7776929</id>
         <link href="https://vibe.naver.com/album/7776929"/>
-        <updated>2022-07-21T03:38:44.175Z</updated>
+        <updated>2022-07-21T03:38:33.236Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776929" class="title"><span data-v-1f47c720="" class="text"> See You Soon <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/318294" class="link_artist"><span class="text">Tyler Shamy</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7776847"/>
         <updated>2022-07-21T03:38:44.179Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776847" class="title"><span data-v-1f47c720="" class="text"> Dear Soulmate <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4094940" class="link_artist"><span class="text">Laufey</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카트라이더 OST : KartRider X MapleStory 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7776839</id>
-        <link href="https://vibe.naver.com/album/7776839"/>
-        <updated>2022-07-21T03:38:44.180Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776839" class="title"><span data-v-1f47c720="" class="text"> 카트라이더 OST : KartRider X MapleStory <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3075203" class="link_artist"><span class="text">NEXON Sound Team</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

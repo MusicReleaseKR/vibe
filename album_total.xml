@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-21T12:29:36.515Z</updated>
+    <updated>2022-07-21T13:37:21.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Người Anh Chưa Từng Quên 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7783373</id>
+        <link href="https://vibe.naver.com/album/7783373"/>
+        <updated>2022-07-21T13:37:20.243Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7783373" class="title"><span data-v-1f47c720="" class="text"> Người Anh Chưa Từng Quên <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2465226" class="link_artist"><span class="text">Trung Quân</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Khói 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7783372</id>
+        <link href="https://vibe.naver.com/album/7783372"/>
+        <updated>2022-07-21T13:37:20.243Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7783372" class="title"><span data-v-1f47c720="" class="text"> Khói <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2469728" class="link_artist"><span class="text">Hà Lê</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Le Gulê 업데이트]]></title>
         <id>https://vibe.naver.com/album/7781822</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7776959"/>
         <updated>2022-07-21T03:38:44.166Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776959" class="title"><span data-v-1f47c720="" class="text"> 이별아리랑 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1651165" class="link_artist"><span class="text">성민지</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번호 따기 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7776956</id>
-        <link href="https://vibe.naver.com/album/7776956"/>
-        <updated>2022-07-21T03:38:44.167Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776956" class="title"><span data-v-1f47c720="" class="text"> 번호 따기 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/311210" class="link_artist"><span class="text">김태신(Eliot K)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lines 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7776951</id>
-        <link href="https://vibe.naver.com/album/7776951"/>
-        <updated>2022-07-21T03:38:44.168Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776951" class="title"><span data-v-1f47c720="" class="text"> Lines <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4601139" class="link_artist"><span class="text">Nother</span></a><span>, </span></span><span><a href="/artist/4675469" class="link_artist"><span class="text">Moon Leap</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

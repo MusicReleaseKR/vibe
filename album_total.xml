@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-21T05:26:21.304Z</updated>
+    <updated>2022-07-21T06:18:52.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dou (Feat. cehryl) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7779657</id>
+        <link href="https://vibe.naver.com/album/7779657"/>
+        <updated>2022-07-21T06:18:51.361Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7779657" class="title"><span data-v-1f47c720="" class="text"> Dou (Feat. cehryl) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5612328" class="link_artist"><span class="text">Pong Nan feat. cehryl</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mudança de Hábito 업데이트]]></title>
         <id>https://vibe.naver.com/album/7779495</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7776887"/>
         <updated>2022-07-21T03:38:44.178Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776887" class="title"><span data-v-1f47c720="" class="text"> トップ・オブ・ザ・ワースト(TOP OF THE WORST) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4094179" class="link_artist"><span class="text">su-xing-cyu(스신추/四星球)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dear Soulmate 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7776847</id>
-        <link href="https://vibe.naver.com/album/7776847"/>
-        <updated>2022-07-21T03:38:44.179Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7776847" class="title"><span data-v-1f47c720="" class="text"> Dear Soulmate <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4094940" class="link_artist"><span class="text">Laufey</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

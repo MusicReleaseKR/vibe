@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-24T17:16:51.990Z</updated>
+    <updated>2022-07-24T18:17:41.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[달빛바다 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Omar Apollo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Rangrez 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7821615</id>
+        <link href="https://vibe.naver.com/album/7821615"/>
+        <updated>2022-07-24T18:17:40.814Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7821615" class="title"><span data-v-1f47c720="" class="text"> Rangrez <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/537541" class="link_artist"><span class="text">Arjun Kanungo</span></a><span>, </span></span><span><a href="/artist/3565771" class="link_artist"><span class="text">Anurag Saikia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Escape Plan 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7819943</id>
         <link href="https://vibe.naver.com/album/7819943"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7808861"/>
         <updated>2022-07-24T15:14:34.325Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7808861" class="title"><span data-v-1f47c720="" class="text"> Efyges <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3593147" class="link_artist"><span class="text">Daphne Lawrence</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Won't See Me Crying 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7808860</id>
-        <link href="https://vibe.naver.com/album/7808860"/>
-        <updated>2022-07-24T15:14:34.326Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7808860" class="title"><span data-v-1f47c720="" class="text"> You Won't See Me Crying <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2464038" class="link_artist"><span class="text">Elise Huang</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

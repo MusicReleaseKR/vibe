@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-26T09:14:38.025Z</updated>
+    <updated>2022-07-26T10:17:29.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Themesong 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7833259</id>
+        <link href="https://vibe.naver.com/album/7833259"/>
+        <updated>2022-07-26T10:17:29.116Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7833259" class="title"><span data-v-1f47c720="" class="text"> Themesong <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3940592" class="link_artist"><span class="text">PEI</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Faz Carão 업데이트]]></title>
         <id>https://vibe.naver.com/album/7832814</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7828340"/>
         <updated>2022-07-26T04:02:56.080Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828340" class="title"><span data-v-1f47c720="" class="text"> 오랜 시간 지친 우리 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5659056" class="link_artist"><span class="text">한달(Handal)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누가 내 머리에 똥 쌌어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7828338</id>
-        <link href="https://vibe.naver.com/album/7828338"/>
-        <updated>2022-07-26T04:02:56.081Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828338" class="title"><span data-v-1f47c720="" class="text"> 누가 내 머리에 똥 쌌어 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5479634" class="link_artist"><span class="text">포크시인</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

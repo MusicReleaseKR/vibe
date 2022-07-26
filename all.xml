@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T12:28:58.021Z</updated>
+    <updated>2022-07-26T13:38:03.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Genuine] 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Sally Boy]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Una Vez Más 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7834738</id>
+        <link href="https://vibe.naver.com/album/7834738"/>
+        <updated>2022-07-26T13:38:02.266Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7834738" class="title"><span data-v-1f47c720="" class="text"> Una Vez Más <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/363555" class="link_artist"><span class="text">Abel Pintos</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Themesong 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7833259</id>
         <link href="https://vibe.naver.com/album/7833259"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7828341"/>
         <updated>2022-07-26T04:02:34.910Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828341" class="title"><span data-v-1f47c720="" class="text"> ALL DAY Project Part.1 : SAT.2PM <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2294511" class="link_artist"><span class="text">모나 (MONA)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜 시간 지친 우리 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7828340</id>
-        <link href="https://vibe.naver.com/album/7828340"/>
-        <updated>2022-07-26T04:02:56.080Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828340" class="title"><span data-v-1f47c720="" class="text"> 오랜 시간 지친 우리 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5659056" class="link_artist"><span class="text">한달(Handal)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-26T04:02:56.810Z</updated>
+    <updated>2022-07-26T05:37:54.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Churup! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -73,6 +73,13 @@
         <link href="https://vibe.naver.com/album/7828549"/>
         <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[이츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 해 여름밤 (Feat. Tracy) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/7826929</id>
+        <link href="https://vibe.naver.com/album/7826929"/>
+        <updated>2022-07-26T05:37:33.953Z</updated>
+        <content type="html"><![CDATA[제이플랜]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Tuna Factory] Product 6 - 금 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/7792948"/>
         <updated>2022-07-25T08:19:48.661Z</updated>
         <content type="html"><![CDATA[지기아이스(Jiggy ice)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 눈으로 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/7791432</id>
-        <link href="https://vibe.naver.com/album/7791432"/>
-        <updated>2022-07-25T08:19:48.661Z</updated>
-        <content type="html"><![CDATA[더 브릿지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kill Or Be Killed 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -722,7 +722,7 @@
         <title type="html"><![CDATA[[Tuna Factory] Product 6 - 금 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7832309</id>
         <link href="https://vibe.naver.com/album/7832309"/>
-        <updated>2022-07-26T04:02:56.025Z</updated>
+        <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7832309" class="title"><span data-v-1f47c720="" class="text"> [Tuna Factory] Product 6 - 금 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3630698" class="link_artist"><span class="text">손참치</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -869,7 +869,7 @@
         <title type="html"><![CDATA[Forever My Baby 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828549</id>
         <link href="https://vibe.naver.com/album/7828549"/>
-        <updated>2022-07-26T04:02:56.063Z</updated>
+        <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828549" class="title"><span data-v-1f47c720="" class="text"> Forever My Baby <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/313750" class="link_artist"><span class="text">이츠</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -883,7 +883,7 @@
         <title type="html"><![CDATA[Sink in 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828546</id>
         <link href="https://vibe.naver.com/album/7828546"/>
-        <updated>2022-07-26T04:02:56.068Z</updated>
+        <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828546" class="title"><span data-v-1f47c720="" class="text"> Sink in <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/477958" class="link_artist"><span class="text">데일로그(Dailog)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -918,7 +918,7 @@
         <title type="html"><![CDATA[Some Sounds Of Love (EP) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828541</id>
         <link href="https://vibe.naver.com/album/7828541"/>
-        <updated>2022-07-26T04:02:56.072Z</updated>
+        <updated>2022-07-26T04:02:45.828Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828541" class="title"><span data-v-1f47c720="" class="text"> Some Sounds Of Love (EP) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5554411" class="link_artist"><span class="text">LeToon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -946,14 +946,14 @@
         <title type="html"><![CDATA[Churup! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828489</id>
         <link href="https://vibe.naver.com/album/7828489"/>
-        <updated>2022-07-26T04:02:56.076Z</updated>
+        <updated>2022-07-26T04:02:34.908Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828489" class="title"><span data-v-1f47c720="" class="text"> Churup! <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/366943" class="link_artist"><span class="text">Hezz(홍의진)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Boar's Life 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828443</id>
         <link href="https://vibe.naver.com/album/7828443"/>
-        <updated>2022-07-26T04:02:56.077Z</updated>
+        <updated>2022-07-26T04:02:34.908Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828443" class="title"><span data-v-1f47c720="" class="text"> Boar's Life <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2953188" class="link_artist"><span class="text">멧돼지</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -967,7 +967,7 @@
         <title type="html"><![CDATA[ALL DAY Project Part.1 : SAT.2PM 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828341</id>
         <link href="https://vibe.naver.com/album/7828341"/>
-        <updated>2022-07-26T04:02:56.079Z</updated>
+        <updated>2022-07-26T04:02:34.910Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828341" class="title"><span data-v-1f47c720="" class="text"> ALL DAY Project Part.1 : SAT.2PM <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2294511" class="link_artist"><span class="text">모나 (MONA)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -995,14 +995,14 @@
         <title type="html"><![CDATA[안녕 (Prod. DASU) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828275</id>
         <link href="https://vibe.naver.com/album/7828275"/>
-        <updated>2022-07-26T04:02:56.083Z</updated>
+        <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828275" class="title"><span data-v-1f47c720="" class="text"> 안녕 (Prod. DASU) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4375362" class="link_artist"><span class="text">Earn</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SPORTS 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7828223</id>
         <link href="https://vibe.naver.com/album/7828223"/>
-        <updated>2022-07-26T04:02:56.083Z</updated>
+        <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7828223" class="title"><span data-v-1f47c720="" class="text"> SPORTS <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1813283" class="link_artist"><span class="text">태인(TAIN)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>

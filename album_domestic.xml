@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-07-26T04:02:56.805Z</updated>
+    <updated>2022-07-26T05:37:54.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://vibe.naver.com/album/7828549"/>
         <updated>2022-07-26T04:02:34.920Z</updated>
         <content type="html"><![CDATA[이츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 해 여름밤 (Feat. Tracy) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7826929</id>
+        <link href="https://vibe.naver.com/album/7826929"/>
+        <updated>2022-07-26T05:37:33.953Z</updated>
+        <content type="html"><![CDATA[제이플랜]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[Tuna Factory] Product 6 - 금 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7792948"/>
         <updated>2022-07-25T08:19:48.661Z</updated>
         <content type="html"><![CDATA[지기아이스(Jiggy ice)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 눈으로 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7791432</id>
-        <link href="https://vibe.naver.com/album/7791432"/>
-        <updated>2022-07-25T08:19:48.661Z</updated>
-        <content type="html"><![CDATA[더 브릿지]]></content>
     </entry>
 </feed>

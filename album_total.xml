@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-27T17:23:06.392Z</updated>
+    <updated>2022-07-27T18:17:25.222Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lutt Lai Giya 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7838566</id>
+        <link href="https://vibe.naver.com/album/7838566"/>
+        <updated>2022-07-27T18:17:24.355Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7838566" class="title"><span data-v-1f47c720="" class="text"> Lutt Lai Giya <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1756383" class="link_artist"><span class="text">Ranjit Bawa</span></a><span>, </span></span><span><a href="/artist/1876403" class="link_artist"><span class="text">Bunty Bains</span></a><span>, </span></span><span><a href="/artist/3193222" class="link_artist"><span class="text">Chet Singh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Don't Wanna Fall Asleep Yet 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7838276</id>
+        <link href="https://vibe.naver.com/album/7838276"/>
+        <updated>2022-07-27T18:17:24.357Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7838276" class="title"><span data-v-1f47c720="" class="text"> I Don't Wanna Fall Asleep Yet <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1292747" class="link_artist"><span class="text">Shaun Farrugia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Doe Het Nou Gewoon 업데이트]]></title>
         <id>https://vibe.naver.com/album/7837397</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7836334"/>
         <updated>2022-07-27T16:21:21.957Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7836334" class="title"><span data-v-1f47c720="" class="text"> 女神時代:「和」而不同 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3934684" class="link_artist"><span class="text">陳慧嫻</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Longe 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7836333</id>
-        <link href="https://vibe.naver.com/album/7836333"/>
-        <updated>2022-07-27T16:21:21.957Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7836333" class="title"><span data-v-1f47c720="" class="text"> Longe <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2951494" class="link_artist"><span class="text">Lójico</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[女神時代: 冠軍開庫 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7836332</id>
-        <link href="https://vibe.naver.com/album/7836332"/>
-        <updated>2022-07-27T16:21:21.959Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7836332" class="title"><span data-v-1f47c720="" class="text"> 女神時代: 冠軍開庫 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3934684" class="link_artist"><span class="text">陳慧嫻</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

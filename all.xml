@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-28T06:18:09.241Z</updated>
+    <updated>2022-07-28T07:13:29.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Let's Take a Walk 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -404,6 +404,13 @@
         <content type="html"><![CDATA[India Shawn]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hold The Girl 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/7832312</id>
+        <link href="https://vibe.naver.com/album/7832312"/>
+        <updated>2022-07-28T07:13:18.994Z</updated>
+        <content type="html"><![CDATA[Rina Sawayama]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Brazindia 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/7836199</id>
         <link href="https://vibe.naver.com/album/7836199"/>
@@ -696,13 +703,6 @@
         <link href="https://vibe.naver.com/album/7776098"/>
         <updated>2022-07-27T08:17:26.097Z</updated>
         <content type="html"><![CDATA[Isabella&nbsp;LoveStory]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Emotional Creature 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/7779200</id>
-        <link href="https://vibe.naver.com/album/7779200"/>
-        <updated>2022-07-28T05:23:52.694Z</updated>
-        <content type="html"><![CDATA[Beach Bunny]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Don't Stop 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

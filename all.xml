@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-28T05:24:02.518Z</updated>
+    <updated>2022-07-28T06:18:09.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Let's Take a Walk 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Beach Bunny]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Don't Stop 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7840936</id>
+        <link href="https://vibe.naver.com/album/7840936"/>
+        <updated>2022-07-28T06:18:08.420Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7840936" class="title"><span data-v-1f47c720="" class="text"> Don't Stop <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1160834" class="link_artist"><span class="text">Pat Nice</span></a><span>, </span></span><span><a href="/artist/449306" class="link_artist"><span class="text">Matthew Brian</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pathinalin Pirapole, Vol. 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7840701</id>
         <link href="https://vibe.naver.com/album/7840701"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7837008"/>
         <updated>2022-07-28T03:41:31.643Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7837008" class="title"><span data-v-1f47c720="" class="text"> Puppy Love <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5664628" class="link_artist"><span class="text">시경</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lights In The Sky 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7837002</id>
-        <link href="https://vibe.naver.com/album/7837002"/>
-        <updated>2022-07-28T03:41:22.206Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7837002" class="title"><span data-v-1f47c720="" class="text"> Lights In The Sky <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/402685" class="link_artist"><span class="text">Nick Havsen</span></a><span>, </span></span><span><a href="/artist/2772161" class="link_artist"><span class="text">Aki-Hiro</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

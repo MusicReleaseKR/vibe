@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-28T08:20:33.886Z</updated>
+    <updated>2022-07-28T09:14:33.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[In Valley 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7836993</id>
+        <link href="https://vibe.naver.com/album/7836993"/>
+        <updated>2022-07-28T09:14:22.939Z</updated>
+        <content type="html"><![CDATA[Ricewine]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mon amour 업데이트]]></title>
         <id>https://vibe.naver.com/album/7838568</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7825613"/>
         <updated>2022-07-27T08:17:26.095Z</updated>
         <content type="html"><![CDATA[Rico Nasty]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fashion Freak 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7776098</id>
-        <link href="https://vibe.naver.com/album/7776098"/>
-        <updated>2022-07-27T08:17:26.097Z</updated>
-        <content type="html"><![CDATA[Isabella&nbsp;LoveStory]]></content>
     </entry>
 </feed>

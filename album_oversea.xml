@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-29T03:49:28.771Z</updated>
+    <updated>2022-07-29T04:46:33.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Break My Heart Myself (Feat. YEJI & RYUJIN of ITZY) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7841108</id>
+        <link href="https://vibe.naver.com/album/7841108"/>
+        <updated>2022-07-29T04:46:21.967Z</updated>
+        <content type="html"><![CDATA[Bebe Rexha]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RENAISSANCE 업데이트]]></title>
         <id>https://vibe.naver.com/album/7841163</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7790616"/>
         <updated>2022-07-29T03:49:17.293Z</updated>
         <content type="html"><![CDATA[Flipp Dinero]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Madame (Feat. Alec Chambers) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7780747</id>
-        <link href="https://vibe.naver.com/album/7780747"/>
-        <updated>2022-07-29T03:49:17.294Z</updated>
-        <content type="html"><![CDATA[22Bullets]]></content>
     </entry>
 </feed>

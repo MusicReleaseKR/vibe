@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-07-29T03:49:28.774Z</updated>
+    <updated>2022-07-29T04:46:32.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE WORLD EP.1 : MOVEMENT 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7840929</id>
+        <link href="https://vibe.naver.com/album/7840929"/>
+        <updated>2022-07-29T04:46:10.648Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환승연애2 OST Part 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/7841157</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7837009"/>
         <updated>2022-07-28T22:13:44.053Z</updated>
         <content type="html"><![CDATA[MC민지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[337 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7836930</id>
-        <link href="https://vibe.naver.com/album/7836930"/>
-        <updated>2022-07-28T22:13:44.053Z</updated>
-        <content type="html"><![CDATA[달수빈]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-29T12:30:11.935Z</updated>
+    <updated>2022-07-29T13:36:52.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Anh Ơi Ở Lại 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7842556</id>
+        <link href="https://vibe.naver.com/album/7842556"/>
+        <updated>2022-07-29T13:36:51.845Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7842556" class="title"><span data-v-1f47c720="" class="text"> Anh Ơi Ở Lại <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4742155" class="link_artist"><span class="text">Gala Nhạc Việt</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7842554</id>
+        <link href="https://vibe.naver.com/album/7842554"/>
+        <updated>2022-07-29T13:36:51.851Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7842554" class="title"><span data-v-1f47c720="" class="text"> Where <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/666282" class="link_artist"><span class="text">Deribb</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Softer Side (Casually Here Remix) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7842553</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7841684"/>
         <updated>2022-07-29T11:12:29.835Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7841684" class="title"><span data-v-1f47c720="" class="text"> Look For More <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4929013" class="link_artist"><span class="text">Thee Exit Band</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bulleya (Lofi Flip) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7841646</id>
-        <link href="https://vibe.naver.com/album/7841646"/>
-        <updated>2022-07-29T11:12:29.837Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7841646" class="title"><span data-v-1f47c720="" class="text"> Bulleya (Lofi Flip) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1580716" class="link_artist"><span class="text">Kedrock</span></a><span>, </span></span><span><a href="/artist/5465170" class="link_artist"><span class="text">SD Style</span></a><span>, </span></span><span><a href="/artist/1777162" class="link_artist"><span class="text">Amit Mishra</span></a><span>, </span></span><span><a href="/artist/526198" class="link_artist"><span class="text">Shilpa Rao</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panandalian / Good For A Time 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7841462</id>
-        <link href="https://vibe.naver.com/album/7841462"/>
-        <updated>2022-07-29T11:12:29.837Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7841462" class="title"><span data-v-1f47c720="" class="text"> Panandalian / Good For A Time <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2392069" class="link_artist"><span class="text">Benjamin Kheng</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

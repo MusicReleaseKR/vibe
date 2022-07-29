@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-29T06:18:57.512Z</updated>
+    <updated>2022-07-29T07:13:50.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ephemory 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7842340</id>
+        <link href="https://vibe.naver.com/album/7842340"/>
+        <updated>2022-07-29T07:13:50.034Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7842340" class="title"><span data-v-1f47c720="" class="text"> Ephemory <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5666814" class="link_artist"><span class="text">Churen Li</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Never Sleep 업데이트]]></title>
         <id>https://vibe.naver.com/album/7842170</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7841451"/>
         <updated>2022-07-29T03:49:28.202Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7841451" class="title"><span data-v-1f47c720="" class="text"> 2021 Promo <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3085601" class="link_artist"><span class="text">Vomit Forth</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAP 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7841450</id>
-        <link href="https://vibe.naver.com/album/7841450"/>
-        <updated>2022-07-29T05:26:29.161Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7841450" class="title"><span data-v-1f47c720="" class="text"> BAP <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/306607" class="link_artist"><span class="text">Broiler</span></a><span>, </span></span><span><a href="/artist/2103400" class="link_artist"><span class="text">Kamelen</span></a><span>, </span></span><span><a href="/artist/2559698" class="link_artist"><span class="text">Emma Steinbakken</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

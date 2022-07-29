@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-29T08:18:14.317Z</updated>
+    <updated>2022-07-29T09:14:53.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,27 @@
         <link href="https://vibe.naver.com/album/7841163"/>
         <updated>2022-07-29T03:49:17.231Z</updated>
         <content type="html"><![CDATA[Beyonce]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sing Me a Lullaby, My Sweet Temptation 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7837673</id>
+        <link href="https://vibe.naver.com/album/7837673"/>
+        <updated>2022-07-29T09:14:44.183Z</updated>
+        <content type="html"><![CDATA[$uicideboy$]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Closure 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7840885</id>
+        <link href="https://vibe.naver.com/album/7840885"/>
+        <updated>2022-07-29T09:14:44.184Z</updated>
+        <content type="html"><![CDATA[Ryan Innes]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Disposable 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7837776</id>
+        <link href="https://vibe.naver.com/album/7837776"/>
+        <updated>2022-07-29T09:14:44.210Z</updated>
+        <content type="html"><![CDATA[Cindy Zhang]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I Won't 업데이트]]></title>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7784534"/>
         <updated>2022-07-29T03:49:17.291Z</updated>
         <content type="html"><![CDATA[Kane Brown]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Seen You Dance 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7832146</id>
-        <link href="https://vibe.naver.com/album/7832146"/>
-        <updated>2022-07-29T03:49:17.292Z</updated>
-        <content type="html"><![CDATA[Totally Enormous Extinct Dinosaurs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Melt Away: A Tribute To Brian Wilson 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7779030</id>
-        <link href="https://vibe.naver.com/album/7779030"/>
-        <updated>2022-07-29T03:49:17.292Z</updated>
-        <content type="html"><![CDATA[She &amp; Him]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ain't My Dog 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7790616</id>
-        <link href="https://vibe.naver.com/album/7790616"/>
-        <updated>2022-07-29T03:49:17.293Z</updated>
-        <content type="html"><![CDATA[Flipp Dinero]]></content>
     </entry>
 </feed>

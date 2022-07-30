@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-07-30T14:12:55.773Z</updated>
+    <updated>2022-07-30T15:13:52.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UTSUROI 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7840987</id>
+        <link href="https://vibe.naver.com/album/7840987"/>
+        <updated>2022-07-30T15:13:41.000Z</updated>
+        <content type="html"><![CDATA[동방신기 (TVXQ!)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Break My Heart Myself (Feat. YEJI & RYUJIN of ITZY) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7841108</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7778902"/>
         <updated>2022-07-30T13:23:46.348Z</updated>
         <content type="html"><![CDATA[Polo &amp; Pan]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Grand 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7784534</id>
-        <link href="https://vibe.naver.com/album/7784534"/>
-        <updated>2022-07-30T13:23:46.348Z</updated>
-        <content type="html"><![CDATA[Kane Brown]]></content>
     </entry>
 </feed>

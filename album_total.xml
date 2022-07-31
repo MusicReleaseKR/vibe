@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-07-31T17:14:12.452Z</updated>
+    <updated>2022-07-31T18:16:14.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Feelings (DJ Akhil Talreja Lofi Flip) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7843848</id>
+        <link href="https://vibe.naver.com/album/7843848"/>
+        <updated>2022-07-31T18:16:14.083Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7843848" class="title"><span data-v-1f47c720="" class="text"> Feelings (DJ Akhil Talreja Lofi Flip) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2708081" class="link_artist"><span class="text">Sumit Goswami</span></a><span>, </span></span><span><a href="/artist/4289889" class="link_artist"><span class="text">DJ Akhil Talreja</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Album Mishurokushu (50th Anniversary Remastered) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7843837</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7842978"/>
         <updated>2022-07-31T15:14:04.217Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7842978" class="title"><span data-v-1f47c720="" class="text"> Greater Place <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/924788" class="link_artist"><span class="text">Sister Wives</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Funky All-Stars (Feat. Bobby J from Rockaway) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7842977</id>
-        <link href="https://vibe.naver.com/album/7842977"/>
-        <updated>2022-07-31T15:14:04.218Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7842977" class="title"><span data-v-1f47c720="" class="text"> Funky All-Stars (Feat. Bobby J from Rockaway) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/133886" class="link_artist"><span class="text">The Good People</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

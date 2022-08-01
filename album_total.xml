@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-01T15:18:38.402Z</updated>
+    <updated>2022-08-01T16:20:48.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Neriman (Oyun Havası) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7844569</id>
+        <link href="https://vibe.naver.com/album/7844569"/>
+        <updated>2022-08-01T16:20:47.531Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7844569" class="title"><span data-v-1f47c720="" class="text"> Neriman (Oyun Havası) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1762115" class="link_artist"><span class="text">Kızılcahamamlı Ahmet</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WASP 업데이트]]></title>
         <id>https://vibe.naver.com/album/7844532</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7844358"/>
         <updated>2022-08-01T15:18:37.820Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7844358" class="title"><span data-v-1f47c720="" class="text"> Pain Not Peace <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/208290" class="link_artist"><span class="text">Spark</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Throwback 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7844357</id>
-        <link href="https://vibe.naver.com/album/7844357"/>
-        <updated>2022-08-01T15:18:37.821Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7844357" class="title"><span data-v-1f47c720="" class="text"> Throwback <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2503258" class="link_artist"><span class="text">Roy Shakked</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

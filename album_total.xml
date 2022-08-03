@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-03T13:37:29.497Z</updated>
+    <updated>2022-08-03T14:13:22.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kadar 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7846420</id>
+        <link href="https://vibe.naver.com/album/7846420"/>
+        <updated>2022-08-03T14:13:21.552Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7846420" class="title"><span data-v-1f47c720="" class="text"> Kadar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4813585" class="link_artist"><span class="text">Preet Retgarh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kurabiye Hırsızı (Çocuk Masalları) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7846389</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7845374"/>
         <updated>2022-08-03T12:29:39.415Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7845374" class="title"><span data-v-1f47c720="" class="text"> Love Trap or Die <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5475507" class="link_artist"><span class="text">Nino Andretti</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unmade 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7845373</id>
-        <link href="https://vibe.naver.com/album/7845373"/>
-        <updated>2022-08-03T12:29:39.417Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7845373" class="title"><span data-v-1f47c720="" class="text"> Unmade <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3848588" class="link_artist"><span class="text">Noiscity</span></a><span>, </span></span><span><a href="/artist/5668065" class="link_artist"><span class="text">jazzy Groover</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

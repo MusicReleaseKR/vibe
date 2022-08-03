@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-03T22:13:55.648Z</updated>
+    <updated>2022-08-03T23:15:57.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Regina del Block 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7847155</id>
+        <link href="https://vibe.naver.com/album/7847155"/>
+        <updated>2022-08-03T23:15:56.337Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7847155" class="title"><span data-v-1f47c720="" class="text"> Regina del Block <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/312483" class="link_artist"><span class="text">Shiva</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Maimane EP 업데이트]]></title>
         <id>https://vibe.naver.com/album/7847139</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7845573"/>
         <updated>2022-08-03T15:16:34.338Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7845573" class="title"><span data-v-1f47c720="" class="text"> No Juego Más <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2160566" class="link_artist"><span class="text">Martes 13</span></a><span>, </span></span><span><a href="/artist/2297393" class="link_artist"><span class="text">Martín Buscaglia</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Worry 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7845572</id>
-        <link href="https://vibe.naver.com/album/7845572"/>
-        <updated>2022-08-03T15:16:34.340Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7845572" class="title"><span data-v-1f47c720="" class="text"> Worry <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4937702" class="link_artist"><span class="text">Rizzaw The Nomad King</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-05T04:42:14.443Z</updated>
+    <updated>2022-08-05T05:30:09.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bad Decisions 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7850930</id>
+        <link href="https://vibe.naver.com/album/7850930"/>
+        <updated>2022-08-05T05:30:00.857Z</updated>
+        <content type="html"><![CDATA[Benny Blanco]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[All 4 Nothing 업데이트]]></title>
         <id>https://vibe.naver.com/album/7847888</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7844620"/>
         <updated>2022-08-04T16:21:24.062Z</updated>
         <content type="html"><![CDATA[CASUAL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SICK 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7839152</id>
-        <link href="https://vibe.naver.com/album/7839152"/>
-        <updated>2022-08-04T16:21:24.070Z</updated>
-        <content type="html"><![CDATA[Lucas &amp; Steve]]></content>
     </entry>
 </feed>

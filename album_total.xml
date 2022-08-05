@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-05T12:28:01.942Z</updated>
+    <updated>2022-08-05T13:39:07.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Like This (Music from the Original TV Series) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7851423</id>
+        <link href="https://vibe.naver.com/album/7851423"/>
+        <updated>2022-08-05T13:39:06.716Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7851423" class="title"><span data-v-1f47c720="" class="text"> Like This (Music from the Original TV Series) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/998286" class="link_artist"><span class="text">Hz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Wish (Every Don) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7851409</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7850498"/>
         <updated>2022-08-04T22:17:58.155Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7850498" class="title"><span data-v-1f47c720="" class="text"> Ningalali Emakhaya <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3564006" class="link_artist"><span class="text">Mr JazziQ</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wahrani 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7850497</id>
-        <link href="https://vibe.naver.com/album/7850497"/>
-        <updated>2022-08-04T22:17:58.156Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7850497" class="title"><span data-v-1f47c720="" class="text"> Wahrani <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3054846" class="link_artist"><span class="text">Anas</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

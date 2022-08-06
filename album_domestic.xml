@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-08-06T08:17:20.048Z</updated>
+    <updated>2022-08-06T09:13:37.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[눈을 감으면 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7851176</id>
+        <link href="https://vibe.naver.com/album/7851176"/>
+        <updated>2022-08-06T09:13:18.268Z</updated>
+        <content type="html"><![CDATA[WSG워너비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PARTY STARTER 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7847668</id>
+        <link href="https://vibe.naver.com/album/7847668"/>
+        <updated>2022-08-06T09:13:18.268Z</updated>
+        <content type="html"><![CDATA[토이고(toigo)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파란만장 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7847535</id>
+        <link href="https://vibe.naver.com/album/7847535"/>
+        <updated>2022-08-06T09:13:18.276Z</updated>
+        <content type="html"><![CDATA[구만(9.10000)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Listen-Up(리슨업) EP.2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7851010</id>
+        <link href="https://vibe.naver.com/album/7851010"/>
+        <updated>2022-08-06T09:13:18.276Z</updated>
+        <content type="html"><![CDATA[신용재 (2F)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 모든 순간이 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7850782</id>
+        <link href="https://vibe.naver.com/album/7850782"/>
+        <updated>2022-08-06T09:13:18.281Z</updated>
+        <content type="html"><![CDATA[란(RAN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모범형사2 OST Part 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7846349</id>
+        <link href="https://vibe.naver.com/album/7846349"/>
+        <updated>2022-08-06T09:13:18.281Z</updated>
+        <content type="html"><![CDATA[Davey Nate]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[멀리 반짝 깜빡 업데이트]]></title>
         <id>https://vibe.naver.com/album/7847424</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/7845887"/>
         <updated>2022-08-05T19:13:28.736Z</updated>
         <content type="html"><![CDATA[YunB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7846295</id>
-        <link href="https://vibe.naver.com/album/7846295"/>
-        <updated>2022-08-05T19:13:28.736Z</updated>
-        <content type="html"><![CDATA[현성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beautiful Night 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7847219</id>
-        <link href="https://vibe.naver.com/album/7847219"/>
-        <updated>2022-08-05T19:13:28.738Z</updated>
-        <content type="html"><![CDATA[가호 (Gaho)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아다마스 OST Part 2 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7845882</id>
-        <link href="https://vibe.naver.com/album/7845882"/>
-        <updated>2022-08-05T19:13:28.738Z</updated>
-        <content type="html"><![CDATA[찰리빈웍스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIVE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7845870</id>
-        <link href="https://vibe.naver.com/album/7845870"/>
-        <updated>2022-08-05T19:13:28.739Z</updated>
-        <content type="html"><![CDATA[eunoo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[maybe you can fix me 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7845860</id>
-        <link href="https://vibe.naver.com/album/7845860"/>
-        <updated>2022-08-05T19:13:28.739Z</updated>
-        <content type="html"><![CDATA[G.&nbsp;Nine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MY RIDE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7844959</id>
-        <link href="https://vibe.naver.com/album/7844959"/>
-        <updated>2022-08-05T19:13:28.740Z</updated>
-        <content type="html"><![CDATA[Jasmine]]></content>
     </entry>
 </feed>

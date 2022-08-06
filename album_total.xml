@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-06T03:17:24.677Z</updated>
+    <updated>2022-08-06T04:20:44.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Show off 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7856972</id>
+        <link href="https://vibe.naver.com/album/7856972"/>
+        <updated>2022-08-06T04:20:43.807Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7856972" class="title"><span data-v-1f47c720="" class="text"> Show off <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3099104" class="link_artist"><span class="text">PSY.P</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aafat (From "Liger") 업데이트]]></title>
         <id>https://vibe.naver.com/album/7856671</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7850982"/>
         <updated>2022-08-06T03:17:24.099Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7850982" class="title"><span data-v-1f47c720="" class="text"> 거리두기 (Feat. JONI) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/8809" class="link_artist"><span class="text">타프카 부다(TAFKA Buddah)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Livin' The ODM 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7850981</id>
-        <link href="https://vibe.naver.com/album/7850981"/>
-        <updated>2022-08-06T03:17:24.100Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7850981" class="title"><span data-v-1f47c720="" class="text"> Livin' The ODM <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2648348" class="link_artist"><span class="text">To2di(토이디)</span></a><span>, </span></span><span><a href="/artist/3512639" class="link_artist"><span class="text">910MONTH</span></a><span>, </span></span><span><a href="/artist/5670209" class="link_artist"><span class="text">Zmo</span></a><span>, </span></span><span><a href="/artist/4086213" class="link_artist"><span class="text">Gammo</span></a><span>, </span></span><span><a href="/artist/3665253" class="link_artist"><span class="text">Y.coldie</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

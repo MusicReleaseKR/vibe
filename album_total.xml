@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-07T16:17:43.298Z</updated>
+    <updated>2022-08-07T17:14:14.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Passei de 1200 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7875994</id>
+        <link href="https://vibe.naver.com/album/7875994"/>
+        <updated>2022-08-07T17:14:13.534Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7875994" class="title"><span data-v-1f47c720="" class="text"> Passei de 1200 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5677590" class="link_artist"><span class="text">MC Marreta</span></a><span>, </span></span><span><a href="/artist/5435487" class="link_artist"><span class="text">DJ Nino Bala</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nature (Original Mix) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7875094</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7851380"/>
         <updated>2022-08-07T15:13:55.340Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7851380" class="title"><span data-v-1f47c720="" class="text"> Lounge Collective <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2822967" class="link_artist"><span class="text">Lounge Collective</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bullet 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7851379</id>
-        <link href="https://vibe.naver.com/album/7851379"/>
-        <updated>2022-08-07T15:13:55.341Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7851379" class="title"><span data-v-1f47c720="" class="text"> Bullet <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5670434" class="link_artist"><span class="text">Gunslinger Deringer</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

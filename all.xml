@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-07T18:17:42.914Z</updated>
+    <updated>2022-08-07T19:11:45.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[마음이 마음대로 (공짜:공기타짜 X 정인) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,27 @@
         <content type="html"><![CDATA[Golser]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Vuslat 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7876643</id>
+        <link href="https://vibe.naver.com/album/7876643"/>
+        <updated>2022-08-07T19:11:44.616Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7876643" class="title"><span data-v-1f47c720="" class="text"> Vuslat <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5677867" class="link_artist"><span class="text">Mehmet Karabudak</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[זה הזמן 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7876642</id>
+        <link href="https://vibe.naver.com/album/7876642"/>
+        <updated>2022-08-07T19:11:44.618Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7876642" class="title"><span data-v-1f47c720="" class="text"> זה הזמן <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2434164" class="link_artist"><span class="text">איציק אורלב</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rebolando 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7876542</id>
+        <link href="https://vibe.naver.com/album/7876542"/>
+        <updated>2022-08-07T19:11:44.627Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7876542" class="title"><span data-v-1f47c720="" class="text"> Rebolando <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5307269" class="link_artist"><span class="text">Mc Moreninha</span></a><span>, </span></span><span><a href="/artist/4844527" class="link_artist"><span class="text">DJ LD De Realengo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Live Today 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7876492</id>
         <link href="https://vibe.naver.com/album/7876492"/>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/7863317"/>
         <updated>2022-08-07T15:13:55.332Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7863317" class="title"><span data-v-1f47c720="" class="text"> Tersingkir (Acoustic) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5670449" class="link_artist"><span class="text">Rovie Melati</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Demo 2 - Before I Lose My (Demo 2) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7863316</id>
-        <link href="https://vibe.naver.com/album/7863316"/>
-        <updated>2022-08-07T15:13:55.333Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7863316" class="title"><span data-v-1f47c720="" class="text"> Demo 2 - Before I Lose My (Demo 2) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5666410" class="link_artist"><span class="text">googly eyes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bico Verde, Bala Roxa 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7863315</id>
-        <link href="https://vibe.naver.com/album/7863315"/>
-        <updated>2022-08-07T15:13:55.334Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7863315" class="title"><span data-v-1f47c720="" class="text"> Bico Verde, Bala Roxa <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5674346" class="link_artist"><span class="text">Mc Wallace G</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Consequences 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7861503</id>
-        <link href="https://vibe.naver.com/album/7861503"/>
-        <updated>2022-08-07T15:13:55.334Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7861503" class="title"><span data-v-1f47c720="" class="text"> Consequences <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5507020" class="link_artist"><span class="text">Sigooma</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-08T07:13:49.721Z</updated>
+    <updated>2022-08-08T08:21:15.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Just Keep Going 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7884065</id>
+        <link href="https://vibe.naver.com/album/7884065"/>
+        <updated>2022-08-08T08:21:14.504Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7884065" class="title"><span data-v-1f47c720="" class="text"> Just Keep Going <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5681002" class="link_artist"><span class="text">Macaw Mynx</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Save Us 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7883567</id>
+        <link href="https://vibe.naver.com/album/7883567"/>
+        <updated>2022-08-08T08:21:14.504Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7883567" class="title"><span data-v-1f47c720="" class="text"> Save Us <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1411879" class="link_artist"><span class="text">Xmark</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Air Condition 업데이트]]></title>
         <id>https://vibe.naver.com/album/7883412</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7870794"/>
         <updated>2022-08-07T15:13:55.292Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7870794" class="title"><span data-v-1f47c720="" class="text"> Ravetech <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5412552" class="link_artist"><span class="text">Voter</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Just Me and You 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7870668</id>
-        <link href="https://vibe.naver.com/album/7870668"/>
-        <updated>2022-08-07T15:13:55.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7870668" class="title"><span data-v-1f47c720="" class="text"> Just Me and You <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4518827" class="link_artist"><span class="text">Ivan Summer</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heaven on Earth 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7870560</id>
-        <link href="https://vibe.naver.com/album/7870560"/>
-        <updated>2022-08-07T15:13:55.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7870560" class="title"><span data-v-1f47c720="" class="text"> Heaven on Earth <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4247409" class="link_artist"><span class="text">Suraj Rajbhar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

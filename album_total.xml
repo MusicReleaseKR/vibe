@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-08T15:15:45.765Z</updated>
+    <updated>2022-08-08T16:20:30.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -151,6 +151,13 @@
         <link href="https://vibe.naver.com/album/7881242"/>
         <updated>2022-08-08T15:15:45.109Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7881242" class="title"><span data-v-1f47c720="" class="text"> I'll Fight You <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/354747" class="link_artist"><span class="text">Open Mike Eagle</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Community D**k 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7880925</id>
+        <link href="https://vibe.naver.com/album/7880925"/>
+        <updated>2022-08-08T16:20:29.597Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7880925" class="title"><span data-v-1f47c720="" class="text"> Community D**k <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/334077" class="link_artist"><span class="text">Rae Sremmurd</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mr. Sightseer 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7875423"/>
         <updated>2022-08-08T15:15:45.137Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7875423" class="title"><span data-v-1f47c720="" class="text"> Bass Music <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/380400" class="link_artist"><span class="text">Griz</span></a><span>, </span></span><span><a href="/artist/3067686" class="link_artist"><span class="text">TVBOO</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ocean Bay 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7875420</id>
-        <link href="https://vibe.naver.com/album/7875420"/>
-        <updated>2022-08-08T15:15:45.138Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7875420" class="title"><span data-v-1f47c720="" class="text"> Ocean Bay <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/481119" class="link_artist"><span class="text">Lazypojke</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

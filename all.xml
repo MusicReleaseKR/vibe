@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-08T06:19:34.439Z</updated>
+    <updated>2022-08-08T07:13:49.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Summer End 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Sailor &amp; I]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Air Condition 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7883412</id>
+        <link href="https://vibe.naver.com/album/7883412"/>
+        <updated>2022-08-08T07:13:49.076Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7883412" class="title"><span data-v-1f47c720="" class="text"> Air Condition <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5619569" class="link_artist"><span class="text">Osoku</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No War 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7883155</id>
+        <link href="https://vibe.naver.com/album/7883155"/>
+        <updated>2022-08-08T07:13:49.078Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7883155" class="title"><span data-v-1f47c720="" class="text"> No War <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/343237" class="link_artist"><span class="text">Findike</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[We Are The People 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7883099</id>
+        <link href="https://vibe.naver.com/album/7883099"/>
+        <updated>2022-08-08T07:13:49.080Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7883099" class="title"><span data-v-1f47c720="" class="text"> We Are The People <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4009403" class="link_artist"><span class="text">Fm45</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Replay of lover songs 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7883039</id>
+        <link href="https://vibe.naver.com/album/7883039"/>
+        <updated>2022-08-08T07:13:49.082Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7883039" class="title"><span data-v-1f47c720="" class="text"> Replay of lover songs <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4921611" class="link_artist"><span class="text">Thomas Padilla</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Inspiring Sports Rock 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7882776</id>
         <link href="https://vibe.naver.com/album/7882776"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/7870560"/>
         <updated>2022-08-07T15:13:55.292Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7870560" class="title"><span data-v-1f47c720="" class="text"> Heaven on Earth <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4247409" class="link_artist"><span class="text">Suraj Rajbhar</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Wheels Of The Bus 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7870498</id>
-        <link href="https://vibe.naver.com/album/7870498"/>
-        <updated>2022-08-07T15:13:55.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7870498" class="title"><span data-v-1f47c720="" class="text"> The Wheels Of The Bus <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4210186" class="link_artist"><span class="text">Vuggeviser</span></a><span>, </span></span><span><a href="/artist/5562924" class="link_artist"><span class="text">Barnsånger På Svenska</span></a><span>, </span></span><span><a href="/artist/5562926" class="link_artist"><span class="text">Vuggesanger</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As rodas do camião 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7870456</id>
-        <link href="https://vibe.naver.com/album/7870456"/>
-        <updated>2022-08-07T15:13:55.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7870456" class="title"><span data-v-1f47c720="" class="text"> As rodas do camião <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4210181" class="link_artist"><span class="text">Música de Ninar</span></a><span>, </span></span><span><a href="/artist/5240985" class="link_artist"><span class="text">Música Clássica Para Crianças</span></a><span>, </span></span><span><a href="/artist/5240984" class="link_artist"><span class="text">Yoga infantil</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Path 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7869457</id>
-        <link href="https://vibe.naver.com/album/7869457"/>
-        <updated>2022-08-07T15:13:55.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7869457" class="title"><span data-v-1f47c720="" class="text"> The Path <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5556777" class="link_artist"><span class="text">Durward Moon</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleepy Eyes 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7869436</id>
-        <link href="https://vibe.naver.com/album/7869436"/>
-        <updated>2022-08-07T15:13:55.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7869436" class="title"><span data-v-1f47c720="" class="text"> Sleepy Eyes <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5556758" class="link_artist"><span class="text">Wright Priestley</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

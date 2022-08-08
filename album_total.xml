@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-08T12:27:31.114Z</updated>
+    <updated>2022-08-08T13:39:35.808Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Gala Nhạc Việt Tập 5: Hòa Minzy 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7886214</id>
+        <link href="https://vibe.naver.com/album/7886214"/>
+        <updated>2022-08-08T13:39:35.076Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7886214" class="title"><span data-v-1f47c720="" class="text"> Gala Nhạc Việt Tập 5: Hòa Minzy <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4742155" class="link_artist"><span class="text">Gala Nhạc Việt</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chhatriya Lete Aiha Rajau 업데이트]]></title>
         <id>https://vibe.naver.com/album/7885721</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7874853"/>
         <updated>2022-08-07T15:13:55.291Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7874853" class="title"><span data-v-1f47c720="" class="text"> Catcat Heaven <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3562799" class="link_artist"><span class="text">THE LETHAL WEAPONS</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NidomenoHanabi 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7874852</id>
-        <link href="https://vibe.naver.com/album/7874852"/>
-        <updated>2022-08-07T15:13:55.291Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7874852" class="title"><span data-v-1f47c720="" class="text"> NidomenoHanabi <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2462282" class="link_artist"><span class="text">Akari Nanawo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

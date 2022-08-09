@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-09T22:14:02.412Z</updated>
+    <updated>2022-08-09T23:14:55.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[POSE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Elliot Kings]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BADDEST 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7903560</id>
+        <link href="https://vibe.naver.com/album/7903560"/>
+        <updated>2022-08-09T23:14:55.176Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7903560" class="title"><span data-v-1f47c720="" class="text"> BADDEST <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3723518" class="link_artist"><span class="text">DJ Shawn</span></a><span>, </span></span><span><a href="/artist/1528540" class="link_artist"><span class="text">L.A.X</span></a><span>, </span></span><span><a href="/artist/1374764" class="link_artist"><span class="text">Reekado Banks</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vices 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7903538</id>
+        <link href="https://vibe.naver.com/album/7903538"/>
+        <updated>2022-08-09T23:14:55.205Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7903538" class="title"><span data-v-1f47c720="" class="text"> Vices <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5692728" class="link_artist"><span class="text">how c</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Perreo Bonito 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7902964</id>
         <link href="https://vibe.naver.com/album/7902964"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/7887918"/>
         <updated>2022-08-09T15:16:17.191Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7887918" class="title"><span data-v-1f47c720="" class="text"> Moonflowers (Best Friend) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2706058" class="link_artist"><span class="text">Tommy Ashby</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love of Her Life 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7887917</id>
-        <link href="https://vibe.naver.com/album/7887917"/>
-        <updated>2022-08-09T15:16:17.193Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7887917" class="title"><span data-v-1f47c720="" class="text"> Love of Her Life <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3915732" class="link_artist"><span class="text">Lizzie Reid</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lost in a Country Song 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7887916</id>
-        <link href="https://vibe.naver.com/album/7887916"/>
-        <updated>2022-08-09T15:16:17.193Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7887916" class="title"><span data-v-1f47c720="" class="text"> Lost in a Country Song <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/915518" class="link_artist"><span class="text">Adam Warner</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-10T04:17:35.631Z</updated>
+    <updated>2022-08-10T05:13:35.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thâu Đêm 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7903983</id>
+        <link href="https://vibe.naver.com/album/7903983"/>
+        <updated>2022-08-10T05:13:35.269Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7903983" class="title"><span data-v-1f47c720="" class="text"> Thâu Đêm <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5692960" class="link_artist"><span class="text">Ace.B</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In My Dream 업데이트]]></title>
         <id>https://vibe.naver.com/album/7903826</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7896440"/>
         <updated>2022-08-10T03:02:59.099Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7896440" class="title"><span data-v-1f47c720="" class="text"> Less U Know <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1696687" class="link_artist"><span class="text">Layto</span></a><span>, </span></span><span><a href="/artist/1651180" class="link_artist"><span class="text">Ryan Oakes</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Come Alive 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7896439</id>
-        <link href="https://vibe.naver.com/album/7896439"/>
-        <updated>2022-08-10T03:02:59.100Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7896439" class="title"><span data-v-1f47c720="" class="text"> Come Alive <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4302397" class="link_artist"><span class="text">Ely Eira</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

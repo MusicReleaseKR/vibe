@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-10T05:13:35.870Z</updated>
+    <updated>2022-08-10T06:19:22.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/7847138"/>
         <updated>2022-08-10T03:02:48.205Z</updated>
         <content type="html"><![CDATA[Trippie Redd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bullet Train (Original Motion Picture Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7847851</id>
+        <link href="https://vibe.naver.com/album/7847851"/>
+        <updated>2022-08-10T06:19:12.493Z</updated>
+        <content type="html"><![CDATA[<div data-v-1f47c720="" class="" data-v-6dcc41be=""><div data-v-1f47c720="" class="thumb_area"><a data-v-1f47c720="" href="#" class="link"><img data-v-4dcb5b96="" data-v-1f47c720="" src="https://musicmeta-phinf.pstatic.net/album/007/847/7847851.jpg?type=r360Fll&amp;v=20220806025209" class="thumb v-lazy-image v-lazy-image-loaded" alt="Bullet Train (Original Motion Picture Soundtrack) 앨범 커버"><!----></a><a data-v-100a6273="" data-v-1f47c720="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-1f47c720="" class="more_option only"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>보관함에 추가</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/7847851" data-title="Bullet Train (Original Motion Picture Soundtrack)" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-1f47c720="" class="info"><!----><a data-v-1f47c720="" href="/album/7847851" class="title"><span data-v-1f47c720="" class="text"> Bullet Train (Original Motion Picture Soundtrack) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Me Without Us (with Justin Jesso) 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7850959"/>
         <updated>2022-08-08T03:37:46.378Z</updated>
         <content type="html"><![CDATA[Little Winter]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Literally Never Think About You 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7847202</id>
-        <link href="https://vibe.naver.com/album/7847202"/>
-        <updated>2022-08-08T03:37:46.380Z</updated>
-        <content type="html"><![CDATA[KYLE]]></content>
     </entry>
 </feed>

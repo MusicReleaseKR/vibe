@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-10T23:13:59.611Z</updated>
+    <updated>2022-08-11T01:07:58.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ando En La Movida 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7906472</id>
+        <link href="https://vibe.naver.com/album/7906472"/>
+        <updated>2022-08-11T01:07:57.569Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7906472" class="title"><span data-v-1f47c720="" class="text"> Ando En La Movida <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3181904" class="link_artist"><span class="text">Brian Muñoz</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Living To Die 업데이트]]></title>
         <id>https://vibe.naver.com/album/7906440</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7900315"/>
         <updated>2022-08-10T15:14:50.845Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7900315" class="title"><span data-v-1f47c720="" class="text"> Actitud del Hood <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5690752" class="link_artist"><span class="text">ALEX SStyle</span></a><span>, </span></span><span><a href="/artist/3697031" class="link_artist"><span class="text">IAM NAVE</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vericoco 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7900314</id>
-        <link href="https://vibe.naver.com/album/7900314"/>
-        <updated>2022-08-10T15:14:50.846Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7900314" class="title"><span data-v-1f47c720="" class="text"> Vericoco <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5394886" class="link_artist"><span class="text">Palme JHN</span></a><span>, </span></span><span><a href="/artist/5446846" class="link_artist"><span class="text">MOB 151</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

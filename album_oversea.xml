@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-12T08:18:15.531Z</updated>
+    <updated>2022-08-12T09:14:23.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/7907104"/>
         <updated>2022-08-12T06:17:55.536Z</updated>
         <content type="html"><![CDATA[CRAVITY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stranger Things Theme (Felix Cartal's After Dark Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7880951</id>
+        <link href="https://vibe.naver.com/album/7880951"/>
+        <updated>2022-08-12T09:14:12.536Z</updated>
+        <content type="html"><![CDATA[Felix Cartal]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Coming Home (House Edit) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7906607</id>
+        <link href="https://vibe.naver.com/album/7906607"/>
+        <updated>2022-08-12T09:14:12.537Z</updated>
+        <content type="html"><![CDATA[LILO]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BREAK MY SOUL (THE QUEENS REMIX) 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7847910"/>
         <updated>2022-08-11T18:17:18.561Z</updated>
         <content type="html"><![CDATA[Olivia O'Brien]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Umbrella 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7895065</id>
-        <link href="https://vibe.naver.com/album/7895065"/>
-        <updated>2022-08-11T18:17:18.568Z</updated>
-        <content type="html"><![CDATA[AB6IX (에이비식스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High School in Jakarta 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7880917</id>
-        <link href="https://vibe.naver.com/album/7880917"/>
-        <updated>2022-08-11T18:17:18.573Z</updated>
-        <content type="html"><![CDATA[NIKI]]></content>
     </entry>
 </feed>

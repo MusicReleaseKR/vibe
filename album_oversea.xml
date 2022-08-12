@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-12T05:15:50.232Z</updated>
+    <updated>2022-08-12T06:18:05.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Boogie Woogie 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7907104</id>
+        <link href="https://vibe.naver.com/album/7907104"/>
+        <updated>2022-08-12T06:17:55.536Z</updated>
+        <content type="html"><![CDATA[CRAVITY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BREAK MY SOUL (THE QUEENS REMIX) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7857373</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7880917"/>
         <updated>2022-08-11T18:17:18.573Z</updated>
         <content type="html"><![CDATA[NIKI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Comes Back to You (acoustic) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7847357</id>
-        <link href="https://vibe.naver.com/album/7847357"/>
-        <updated>2022-08-11T18:17:18.574Z</updated>
-        <content type="html"><![CDATA[R3hab]]></content>
     </entry>
 </feed>

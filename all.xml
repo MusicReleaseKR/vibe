@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-15T12:29:13.754Z</updated>
+    <updated>2022-08-15T13:38:23.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[BYE (feat. 휘인) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[OhNothing]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gala Nhạc Việt Tập 6: Thanh Ngọc 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7910574</id>
+        <link href="https://vibe.naver.com/album/7910574"/>
+        <updated>2022-08-15T13:38:22.396Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910574" class="title"><span data-v-1f47c720="" class="text"> Gala Nhạc Việt Tập 6: Thanh Ngọc <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4742155" class="link_artist"><span class="text">Gala Nhạc Việt</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tomorrow's Goodbye ("MAMA BOY" Movie Theme Song) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7910289</id>
         <link href="https://vibe.naver.com/album/7910289"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7910100"/>
         <updated>2022-08-15T03:54:48.352Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910100" class="title"><span data-v-1f47c720="" class="text"> Fora do Normal <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5677929" class="link_artist"><span class="text">MC Nego Two</span></a><span>, </span></span><span><a href="/artist/5211136" class="link_artist"><span class="text">DJ MT</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alle Elder Brenner Ut 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7910099</id>
-        <link href="https://vibe.naver.com/album/7910099"/>
-        <updated>2022-08-15T03:54:48.354Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910099" class="title"><span data-v-1f47c720="" class="text"> Alle Elder Brenner Ut <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2781885" class="link_artist"><span class="text">Herborg Kråkevik</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

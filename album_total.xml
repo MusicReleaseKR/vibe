@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-16T13:28:54.798Z</updated>
+    <updated>2022-08-16T14:14:34.919Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jannat 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7911357</id>
+        <link href="https://vibe.naver.com/album/7911357"/>
+        <updated>2022-08-16T14:14:34.120Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7911357" class="title"><span data-v-1f47c720="" class="text"> Jannat <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/313345" class="link_artist"><span class="text">Blossom</span></a><span>, </span></span><span><a href="/artist/2076248" class="link_artist"><span class="text">Jaggi Singh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Call Saul, Vol. 3 (Original Score from the TV Series) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7911356</id>
+        <link href="https://vibe.naver.com/album/7911356"/>
+        <updated>2022-08-16T14:14:34.124Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7911356" class="title"><span data-v-1f47c720="" class="text"> Better Call Saul, Vol. 3 (Original Score from the TV Series) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/470135" class="link_artist"><span class="text">Dave Porter</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Nee (From "Mike") 업데이트]]></title>
         <id>https://vibe.naver.com/album/7911355</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7910432"/>
         <updated>2022-08-16T04:37:13.454Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910432" class="title"><span data-v-1f47c720="" class="text"> Dil Vil Pyaar Shyar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[תרקדי איתו 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7910425</id>
-        <link href="https://vibe.naver.com/album/7910425"/>
-        <updated>2022-08-16T04:37:13.455Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910425" class="title"><span data-v-1f47c720="" class="text"> תרקדי איתו <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5473266" class="link_artist"><span class="text">Ilay Elmakys</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Biggie 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7910424</id>
-        <link href="https://vibe.naver.com/album/7910424"/>
-        <updated>2022-08-16T04:37:13.456Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910424" class="title"><span data-v-1f47c720="" class="text"> No Biggie <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2479417" class="link_artist"><span class="text">Pap Chanel</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

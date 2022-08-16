@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-16T04:37:14.031Z</updated>
+    <updated>2022-08-16T05:17:12.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[New Edition 43 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -327,7 +327,7 @@
         <content type="html"><![CDATA[트리키(TRICKY)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Copy Cat 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <title type="html"><![CDATA[CopyCat 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/7907667</id>
         <link href="https://vibe.naver.com/album/7907667"/>
         <updated>2022-08-14T18:16:07.223Z</updated>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Tieks]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Up Bihar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7911050</id>
+        <link href="https://vibe.naver.com/album/7911050"/>
+        <updated>2022-08-16T05:17:11.881Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7911050" class="title"><span data-v-1f47c720="" class="text"> Up Bihar <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1757565" class="link_artist"><span class="text">Khesari Lal Yadav</span></a><span>, </span></span><span><a href="/artist/1763971" class="link_artist"><span class="text">Priyanka Singh</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[원지혜 성가곡집_예수의 뒷 모습 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7910864</id>
         <link href="https://vibe.naver.com/album/7910864"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7910413"/>
         <updated>2022-08-16T04:37:13.462Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910413" class="title"><span data-v-1f47c720="" class="text"> Súper B <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2433851" class="link_artist"><span class="text">Canciona</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Destino 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7910412</id>
-        <link href="https://vibe.naver.com/album/7910412"/>
-        <updated>2022-08-16T04:37:13.463Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7910412" class="title"><span data-v-1f47c720="" class="text"> Destino <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2433851" class="link_artist"><span class="text">Canciona</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

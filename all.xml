@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-17T16:21:24.652Z</updated>
+    <updated>2022-08-17T17:21:54.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[HIGH RISK HIGH RETURN 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -789,6 +789,13 @@
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7916013" class="title"><span data-v-1f47c720="" class="text"> Borsa Pesante <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4947228" class="link_artist"><span class="text">Matarazzo</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[เกือบดี (Almost) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7912172</id>
+        <link href="https://vibe.naver.com/album/7912172"/>
+        <updated>2022-08-17T17:21:54.237Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7912172" class="title"><span data-v-1f47c720="" class="text"> เกือบดี (Almost) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5696041" class="link_artist"><span class="text">JustmineNika</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Can't Connect (Original Soundtrack "The Lake บึงกาฬ") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7912164</id>
         <link href="https://vibe.naver.com/album/7912164"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7911542"/>
         <updated>2022-08-17T15:16:00.930Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7911542" class="title"><span data-v-1f47c720="" class="text"> You're Not Alone <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3024890" class="link_artist"><span class="text">Allison Russell</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's True (Remastered 2022) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7911541</id>
-        <link href="https://vibe.naver.com/album/7911541"/>
-        <updated>2022-08-17T15:16:00.930Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7911541" class="title"><span data-v-1f47c720="" class="text"> It's True (Remastered 2022) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/235516" class="link_artist"><span class="text">Jake Bugg</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-18T20:16:46.871Z</updated>
+    <updated>2022-08-18T21:13:19.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Forever Only - SM STATION : NCT LAB 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Billen Ted]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Closer 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7929870</id>
+        <link href="https://vibe.naver.com/album/7929870"/>
+        <updated>2022-08-18T21:13:18.742Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7929870" class="title"><span data-v-1f47c720="" class="text"> Closer <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5705495" class="link_artist"><span class="text">Abigail Chams</span></a><span>, </span></span><span><a href="/artist/139694" class="link_artist"><span class="text">Harmonize</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Second Coming 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7928834</id>
         <link href="https://vibe.naver.com/album/7928834"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7927387"/>
         <updated>2022-08-18T16:34:40.978Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7927387" class="title"><span data-v-1f47c720="" class="text"> De Atlanta a Cali <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2129987" class="link_artist"><span class="text">Young Lord</span></a><span>, </span></span><span><a href="/artist/3478282" class="link_artist"><span class="text">Lalo Serratos</span></a><span>, </span></span><span><a href="/artist/401416" class="link_artist"><span class="text">Kap G</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hadi Uyan 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7927381</id>
-        <link href="https://vibe.naver.com/album/7927381"/>
-        <updated>2022-08-18T16:34:40.979Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7927381" class="title"><span data-v-1f47c720="" class="text"> Hadi Uyan <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5704198" class="link_artist"><span class="text">Elvan Lapis</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

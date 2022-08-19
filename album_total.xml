@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-19T11:13:22.084Z</updated>
+    <updated>2022-08-19T12:27:57.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[New York Sessions 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7938001</id>
+        <link href="https://vibe.naver.com/album/7938001"/>
+        <updated>2022-08-19T12:27:56.323Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7938001" class="title"><span data-v-1f47c720="" class="text"> New York Sessions <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3096343" class="link_artist"><span class="text">Gummi Tóta</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kalyug 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7937953</id>
+        <link href="https://vibe.naver.com/album/7937953"/>
+        <updated>2022-08-19T12:27:56.324Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7937953" class="title"><span data-v-1f47c720="" class="text"> Kalyug <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3626171" class="link_artist"><span class="text">Sukh Shergill</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Daytona 업데이트]]></title>
         <id>https://vibe.naver.com/album/7936326</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7930468"/>
         <updated>2022-08-19T03:48:04.559Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7930468" class="title"><span data-v-1f47c720="" class="text"> nadie más <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3773063" class="link_artist"><span class="text">daniel sabater</span></a><span>, </span></span><span><a href="/artist/271080" class="link_artist"><span class="text">Gus</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H2Oë 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7930467</id>
-        <link href="https://vibe.naver.com/album/7930467"/>
-        <updated>2022-08-19T03:48:04.560Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7930467" class="title"><span data-v-1f47c720="" class="text"> H2Oë <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1616416" class="link_artist"><span class="text">Barto</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skoloto 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7930466</id>
-        <link href="https://vibe.naver.com/album/7930466"/>
-        <updated>2022-08-19T03:48:04.560Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7930466" class="title"><span data-v-1f47c720="" class="text"> Skoloto <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5389072" class="link_artist"><span class="text">G-Master &amp; Sisco</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

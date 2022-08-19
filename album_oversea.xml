@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-19T08:18:11.896Z</updated>
+    <updated>2022-08-19T09:15:00.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Super Happy 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7921180</id>
+        <link href="https://vibe.naver.com/album/7921180"/>
+        <updated>2022-08-19T09:14:50.590Z</updated>
+        <content type="html"><![CDATA[Su Lee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Falling In Love Is For (Lonely in the Rain Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7922226</id>
+        <link href="https://vibe.naver.com/album/7922226"/>
+        <updated>2022-08-19T09:14:50.590Z</updated>
+        <content type="html"><![CDATA[Emmit Fenn]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOU AGAINST YOURSELF 업데이트]]></title>
         <id>https://vibe.naver.com/album/7919845</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7907004"/>
         <updated>2022-08-19T03:47:54.100Z</updated>
         <content type="html"><![CDATA[Kasabian]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mask Off 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7882133</id>
-        <link href="https://vibe.naver.com/album/7882133"/>
-        <updated>2022-08-19T03:47:54.102Z</updated>
-        <content type="html"><![CDATA[HVME]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hammersmith (UK Bonus Track) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7906143</id>
-        <link href="https://vibe.naver.com/album/7906143"/>
-        <updated>2022-08-19T03:47:54.103Z</updated>
-        <content type="html"><![CDATA[Scorpions]]></content>
     </entry>
 </feed>

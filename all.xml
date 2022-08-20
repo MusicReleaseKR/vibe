@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-20T09:14:27.341Z</updated>
+    <updated>2022-08-20T10:15:02.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[TIDE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -38,6 +38,13 @@
         <link href="https://vibe.naver.com/album/7933023"/>
         <updated>2022-08-20T09:14:07.151Z</updated>
         <content type="html"><![CDATA[코드쿤스트]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUMMER COLOURS 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/7725410</id>
+        <link href="https://vibe.naver.com/album/7725410"/>
+        <updated>2022-08-20T10:14:43.192Z</updated>
+        <content type="html"><![CDATA[JIDA (지다)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[디카페인 (Decaffeine) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/7922740"/>
         <updated>2022-08-20T07:13:10.136Z</updated>
         <content type="html"><![CDATA[서영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지구 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/7922293</id>
-        <link href="https://vibe.naver.com/album/7922293"/>
-        <updated>2022-08-20T07:13:10.137Z</updated>
-        <content type="html"><![CDATA[고우원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Super Happy 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -736,7 +736,7 @@
         <title type="html"><![CDATA[2022 강변가요제 뉴챌린지 Top20 리메이크 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7936235</id>
         <link href="https://vibe.naver.com/album/7936235"/>
-        <updated>2022-08-20T09:14:26.594Z</updated>
+        <updated>2022-08-20T09:14:07.147Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7936235" class="title"><span data-v-1f47c720="" class="text"> 2022 강변가요제 뉴챌린지 Top20 리메이크 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -757,7 +757,7 @@
         <title type="html"><![CDATA[외로아 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7935474</id>
         <link href="https://vibe.naver.com/album/7935474"/>
-        <updated>2022-08-20T09:14:26.594Z</updated>
+        <updated>2022-08-20T09:14:07.151Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7935474" class="title"><span data-v-1f47c720="" class="text"> 외로아 <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/15586" class="link_artist"><span class="text">염따</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -897,7 +897,7 @@
         <title type="html"><![CDATA[The Ball Is Round (공은 둥글어) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7933023</id>
         <link href="https://vibe.naver.com/album/7933023"/>
-        <updated>2022-08-20T09:14:26.609Z</updated>
+        <updated>2022-08-20T09:14:07.151Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7933023" class="title"><span data-v-1f47c720="" class="text"> The Ball Is Round (공은 둥글어) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/271941" class="link_artist"><span class="text">코드쿤스트</span></a><span>, </span></span><span><a href="/artist/1749383" class="link_artist"><span class="text">우원재</span></a><span>, </span></span><span><a href="/artist/499410" class="link_artist"><span class="text">전소연</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -925,7 +925,7 @@
         <title type="html"><![CDATA[ECHO 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7932987</id>
         <link href="https://vibe.naver.com/album/7932987"/>
-        <updated>2022-08-20T09:14:26.616Z</updated>
+        <updated>2022-08-20T09:14:07.151Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7932987" class="title"><span data-v-1f47c720="" class="text"> ECHO <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/11217" class="link_artist"><span class="text">장우혁</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -974,7 +974,7 @@
         <title type="html"><![CDATA[디카페인 (Decaffeine) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7932472</id>
         <link href="https://vibe.naver.com/album/7932472"/>
-        <updated>2022-08-20T09:14:26.623Z</updated>
+        <updated>2022-08-20T09:14:07.160Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7932472" class="title"><span data-v-1f47c720="" class="text"> 디카페인 (Decaffeine) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2488225" class="link_artist"><span class="text">Option</span></a><span>, </span></span><span><a href="/artist/486140" class="link_artist"><span class="text">비비(BB)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>

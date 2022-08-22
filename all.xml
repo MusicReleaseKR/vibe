@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-22T05:08:39.414Z</updated>
+    <updated>2022-08-22T06:21:48.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Life Is Good 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Maggie Lindemann]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Memu Aagamu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7969352</id>
+        <link href="https://vibe.naver.com/album/7969352"/>
+        <updated>2022-08-22T06:21:48.001Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7969352" class="title"><span data-v-1f47c720="" class="text"> Memu Aagamu <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/433553" class="link_artist"><span class="text">Armaan Malik</span></a><span>, </span></span><span><a href="/artist/4072303" class="link_artist"><span class="text">트라이비(TRI.BE)</span></a><span>, </span></span><span><a href="/artist/116763" class="link_artist"><span class="text">Lost Stories</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Believe 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7969007</id>
         <link href="https://vibe.naver.com/album/7969007"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7951972"/>
         <updated>2022-08-21T23:13:54.024Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7951972" class="title"><span data-v-1f47c720="" class="text"> Dinheiro da Roleta <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/5315923" class="link_artist"><span class="text">Mc Naath</span></a><span>, </span></span><span><a href="/artist/5695233" class="link_artist"><span class="text">Mc Madruga JJ</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hola 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7951971</id>
-        <link href="https://vibe.naver.com/album/7951971"/>
-        <updated>2022-08-21T23:13:54.024Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7951971" class="title"><span data-v-1f47c720="" class="text"> Hola <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4794080" class="link_artist"><span class="text">Gandre</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

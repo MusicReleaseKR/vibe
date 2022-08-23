@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-23T14:13:46.056Z</updated>
+    <updated>2022-08-23T15:14:50.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ring 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7972077</id>
+        <link href="https://vibe.naver.com/album/7972077"/>
+        <updated>2022-08-23T15:14:39.123Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wish You Were Here (Feat. Khalid) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7969100</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7912054"/>
         <updated>2022-08-23T13:35:58.358Z</updated>
         <content type="html"><![CDATA[chloe moriondo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alpha Zulu (Remixes) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7908038</id>
-        <link href="https://vibe.naver.com/album/7908038"/>
-        <updated>2022-08-23T13:35:58.358Z</updated>
-        <content type="html"><![CDATA[Phoenix]]></content>
     </entry>
 </feed>

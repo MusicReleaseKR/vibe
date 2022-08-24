@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-24T09:14:24.727Z</updated>
+    <updated>2022-08-24T10:16:36.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Don't Mind the Rain (Remixes) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7983881</id>
+        <link href="https://vibe.naver.com/album/7983881"/>
+        <updated>2022-08-24T10:16:35.646Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7983881" class="title"><span data-v-1f47c720="" class="text"> Don't Mind the Rain (Remixes) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1160737" class="link_artist"><span class="text">Josh Savage</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Balam Kalkatiya 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7983877</id>
+        <link href="https://vibe.naver.com/album/7983877"/>
+        <updated>2022-08-24T10:16:35.646Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7983877" class="title"><span data-v-1f47c720="" class="text"> Balam Kalkatiya <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/2547266" class="link_artist"><span class="text">Kavita Yadav</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다시 만나 업데이트]]></title>
         <id>https://vibe.naver.com/album/7982348</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7976840"/>
         <updated>2022-08-24T08:18:38.176Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7976840" class="title"><span data-v-1f47c720="" class="text"> Summer Time <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3515536" class="link_artist"><span class="text">Yoh Kamiyama</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENOUGH 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7976839</id>
-        <link href="https://vibe.naver.com/album/7976839"/>
-        <updated>2022-08-24T08:18:38.176Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7976839" class="title"><span data-v-1f47c720="" class="text"> ENOUGH <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4789763" class="link_artist"><span class="text">of Mercury</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[150 Bars 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7976635</id>
-        <link href="https://vibe.naver.com/album/7976635"/>
-        <updated>2022-08-24T08:18:38.181Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7976635" class="title"><span data-v-1f47c720="" class="text"> 150 Bars <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/1773990" class="link_artist"><span class="text">Big Zulu</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

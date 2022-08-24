@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-24T05:41:04.777Z</updated>
+    <updated>2022-08-24T06:20:15.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/7982282"/>
         <updated>2022-08-24T04:05:45.182Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7982282" class="title"><span data-v-1f47c720="" class="text"> Show Me <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3823478" class="link_artist"><span class="text">GEMI</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[0310 (Sleep Mix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7982000</id>
+        <link href="https://vibe.naver.com/album/7982000"/>
+        <updated>2022-08-24T06:20:15.157Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7982000" class="title"><span data-v-1f47c720="" class="text"> 0310 (Sleep Mix) <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/234253" class="link_artist"><span class="text">백예린(Yerin Baek)</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴페스타 Special 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7973816"/>
         <updated>2022-08-24T04:05:45.250Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7973816" class="title"><span data-v-1f47c720="" class="text"> Undefeated <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/3411673" class="link_artist"><span class="text">Tia P.</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['S Wonderful 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7973815</id>
-        <link href="https://vibe.naver.com/album/7973815"/>
-        <updated>2022-08-24T04:05:45.251Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-1f47c720="" href="/album/7973815" class="title"><span data-v-1f47c720="" class="text"> 'S Wonderful <span data-v-1f47c720="" class="item"><span data-v-1f47c720="" class="blind">업데이트</span></span></span><span data-v-1f47c720="" class="blind">페이지로 이동</span></a><div data-v-1f47c720="" class="artist"><span data-v-1f47c720=""><span><a href="/artist/4945110" class="link_artist"><span class="text">Prim &amp; Proper</span></a><!----></span></span><span data-v-1f47c720="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

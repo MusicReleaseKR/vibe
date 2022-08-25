@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-25T08:20:11.854Z</updated>
+    <updated>2022-08-25T09:14:35.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Mean Business 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7982780</id>
+        <link href="https://vibe.naver.com/album/7982780"/>
+        <updated>2022-08-25T09:14:25.230Z</updated>
+        <content type="html"><![CDATA[The Truest]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lose Me (Feat. LA WOMEN) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7982335</id>
+        <link href="https://vibe.naver.com/album/7982335"/>
+        <updated>2022-08-25T09:14:25.232Z</updated>
+        <content type="html"><![CDATA[33 Below]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Heaven 업데이트]]></title>
         <id>https://vibe.naver.com/album/7922738</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/7969571"/>
         <updated>2022-08-24T19:13:44.358Z</updated>
         <content type="html"><![CDATA[pisceze]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wish We Were Strangers 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7921690</id>
-        <link href="https://vibe.naver.com/album/7921690"/>
-        <updated>2022-08-24T19:13:44.361Z</updated>
-        <content type="html"><![CDATA[Andi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weight Of The World 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7968906</id>
-        <link href="https://vibe.naver.com/album/7968906"/>
-        <updated>2022-08-24T19:13:44.362Z</updated>
-        <content type="html"><![CDATA[Oomloud]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-26T05:57:25.503Z</updated>
+    <updated>2022-08-26T06:35:55.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bloody II 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988305</id>
+        <link href="https://vibe.naver.com/album/7988305"/>
+        <updated>2022-08-26T06:35:54.573Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7988305" class="title"><span data-v-6295d4f0="" class="text"> Bloody II <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3659907" class="link_artist"><span class="text">Yeruza</span></a><span>, </span></span><span><a href="/artist/4757244" class="link_artist"><span class="text">YOVNGCHIMI</span></a><span>, </span></span><span><a href="/artist/237623" class="link_artist"><span class="text">Hydro</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Avestruz 업데이트]]></title>
         <id>https://vibe.naver.com/album/7988148</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7987700"/>
         <updated>2022-08-25T19:12:32.334Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7987700" class="title"><span data-v-6295d4f0="" class="text"> verlierer <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1241545" class="link_artist"><span class="text">Lüna</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Hate Phone Calls (Long Distance Sucks) & Risk (Feat. Jonathan Hutcherson) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7987699</id>
-        <link href="https://vibe.naver.com/album/7987699"/>
-        <updated>2022-08-25T19:12:32.334Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7987699" class="title"><span data-v-6295d4f0="" class="text"> I Hate Phone Calls (Long Distance Sucks) &amp; Risk (Feat. Jonathan Hutcherson) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4021431" class="link_artist"><span class="text">Georgia Webster</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

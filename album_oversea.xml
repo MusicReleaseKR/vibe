@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-26T08:20:01.113Z</updated>
+    <updated>2022-08-26T09:14:48.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Queen Radio: Volume 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7985616</id>
+        <link href="https://vibe.naver.com/album/7985616"/>
+        <updated>2022-08-26T09:14:37.085Z</updated>
+        <content type="html"><![CDATA[Nicki Minaj]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GOD DID 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7987953</id>
+        <link href="https://vibe.naver.com/album/7987953"/>
+        <updated>2022-08-26T09:14:37.085Z</updated>
+        <content type="html"><![CDATA[DJ Khaled]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the other side 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7986731</id>
+        <link href="https://vibe.naver.com/album/7986731"/>
+        <updated>2022-08-26T09:14:37.086Z</updated>
+        <content type="html"><![CDATA[마크 (GOT7)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lies About The War 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7969089</id>
+        <link href="https://vibe.naver.com/album/7969089"/>
+        <updated>2022-08-26T09:14:37.086Z</updated>
+        <content type="html"><![CDATA[Jacob Banks]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Woulda Coulda Shoulda 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7986971</id>
+        <link href="https://vibe.naver.com/album/7986971"/>
+        <updated>2022-08-26T09:14:37.087Z</updated>
+        <content type="html"><![CDATA[Anthony Watts]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[No Rain 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7986707</id>
+        <link href="https://vibe.naver.com/album/7986707"/>
+        <updated>2022-08-26T09:14:37.088Z</updated>
+        <content type="html"><![CDATA[Rolipso]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Will Of The People 업데이트]]></title>
         <id>https://vibe.naver.com/album/7987060</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/7932996"/>
         <updated>2022-08-25T19:12:21.890Z</updated>
         <content type="html"><![CDATA[Anitta]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[don't sleep, repeat 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7927043</id>
-        <link href="https://vibe.naver.com/album/7927043"/>
-        <updated>2022-08-25T19:12:21.891Z</updated>
-        <content type="html"><![CDATA[44phantom]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Easy On My Eyes 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7918240</id>
-        <link href="https://vibe.naver.com/album/7918240"/>
-        <updated>2022-08-25T19:12:21.892Z</updated>
-        <content type="html"><![CDATA[Stephen Sanchez]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MANIAC (Feat. Windser) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7969101</id>
-        <link href="https://vibe.naver.com/album/7969101"/>
-        <updated>2022-08-25T19:12:21.892Z</updated>
-        <content type="html"><![CDATA[Macklemore]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wish You Well 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7927034</id>
-        <link href="https://vibe.naver.com/album/7927034"/>
-        <updated>2022-08-25T19:12:21.893Z</updated>
-        <content type="html"><![CDATA[Jack Kays]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All You Do 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7924047</id>
-        <link href="https://vibe.naver.com/album/7924047"/>
-        <updated>2022-08-25T19:12:21.893Z</updated>
-        <content type="html"><![CDATA[Magdalena Bay]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Missing You / Something About Your Love (Remixes) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7918073</id>
-        <link href="https://vibe.naver.com/album/7918073"/>
-        <updated>2022-08-25T19:12:21.894Z</updated>
-        <content type="html"><![CDATA[SG Lewis]]></content>
     </entry>
 </feed>

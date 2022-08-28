@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-28T01:19:52.648Z</updated>
+    <updated>2022-08-28T03:54:55.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Everyday Feels Like Sunday 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988270</id>
+        <link href="https://vibe.naver.com/album/7988270"/>
+        <updated>2022-08-28T03:54:44.678Z</updated>
+        <content type="html"><![CDATA[Jesse Barrera]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Queen Radio: Volume 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/7985616</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7970272"/>
         <updated>2022-08-26T12:28:52.228Z</updated>
         <content type="html"><![CDATA[LANY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lobby 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7932996</id>
-        <link href="https://vibe.naver.com/album/7932996"/>
-        <updated>2022-08-26T12:28:52.229Z</updated>
-        <content type="html"><![CDATA[Anitta]]></content>
     </entry>
 </feed>

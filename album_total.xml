@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-29T11:13:49.634Z</updated>
+    <updated>2022-08-29T12:30:17.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[如果分開對我們都好（ feat.黃威爾 Will Ng） 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991384</id>
+        <link href="https://vibe.naver.com/album/7991384"/>
+        <updated>2022-08-29T12:30:16.845Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7991384" class="title"><span data-v-6295d4f0="" class="text"> 如果分開對我們都好（ feat.黃威爾 Will Ng） <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5466054" class="link_artist"><span class="text">猫头小雀信</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chandigarh 업데이트]]></title>
         <id>https://vibe.naver.com/album/7991307</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7990306"/>
         <updated>2022-08-29T11:13:49.073Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7990306" class="title"><span data-v-6295d4f0="" class="text"> Kihavn 4 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3774472" class="link_artist"><span class="text">Uge 14</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pumping Iron 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7990305</id>
-        <link href="https://vibe.naver.com/album/7990305"/>
-        <updated>2022-08-29T11:13:49.074Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7990305" class="title"><span data-v-6295d4f0="" class="text"> Pumping Iron <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

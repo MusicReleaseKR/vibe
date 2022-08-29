@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-08-29T08:18:49.790Z</updated>
+    <updated>2022-08-29T09:15:10.360Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FLASH 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991207</id>
+        <link href="https://vibe.naver.com/album/7991207"/>
+        <updated>2022-08-29T09:14:48.455Z</updated>
+        <content type="html"><![CDATA[로켓펀치(Rocket Punch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SHINING UP 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7982347</id>
+        <link href="https://vibe.naver.com/album/7982347"/>
+        <updated>2022-08-29T09:14:48.456Z</updated>
+        <content type="html"><![CDATA[TEMPEST(템페스트)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 월간 윤종신 8월호 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991242</id>
+        <link href="https://vibe.naver.com/album/7991242"/>
+        <updated>2022-08-29T09:14:48.501Z</updated>
+        <content type="html"><![CDATA[윤종신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃3.jpg 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988338</id>
+        <link href="https://vibe.naver.com/album/7988338"/>
+        <updated>2022-08-29T09:14:48.501Z</updated>
+        <content type="html"><![CDATA[그리즐리(Grizzly)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5ight 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991170</id>
+        <link href="https://vibe.naver.com/album/7991170"/>
+        <updated>2022-08-29T09:14:48.515Z</updated>
+        <content type="html"><![CDATA[이진혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Session.2 'L' 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991227</id>
+        <link href="https://vibe.naver.com/album/7991227"/>
+        <updated>2022-08-29T09:14:48.515Z</updated>
+        <content type="html"><![CDATA[울랄라세션]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Just Can't Control My Feet! 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988103</id>
+        <link href="https://vibe.naver.com/album/7988103"/>
+        <updated>2022-08-29T09:14:48.515Z</updated>
+        <content type="html"><![CDATA[신세하(Xin Seha)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바다야 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991201</id>
+        <link href="https://vibe.naver.com/album/7991201"/>
+        <updated>2022-08-29T09:14:48.515Z</updated>
+        <content type="html"><![CDATA[김소연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer Breeze (Feat. Taeb2) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7991237</id>
+        <link href="https://vibe.naver.com/album/7991237"/>
+        <updated>2022-08-29T09:14:48.516Z</updated>
+        <content type="html"><![CDATA[블랙쉽(BLSP)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑이었어 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988316</id>
+        <link href="https://vibe.naver.com/album/7988316"/>
+        <updated>2022-08-29T09:14:48.516Z</updated>
+        <content type="html"><![CDATA[버블 시스터즈(Bubble Sisters)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소나기 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988426</id>
+        <link href="https://vibe.naver.com/album/7988426"/>
+        <updated>2022-08-29T09:14:48.530Z</updated>
+        <content type="html"><![CDATA[OoOo(오넷)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방구석아티스트 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7988117</id>
+        <link href="https://vibe.naver.com/album/7988117"/>
+        <updated>2022-08-29T09:14:48.531Z</updated>
+        <content type="html"><![CDATA[이주형]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[100년 업데이트]]></title>
         <id>https://vibe.naver.com/album/7988289</id>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/7986919"/>
         <updated>2022-08-28T03:54:33.540Z</updated>
         <content type="html"><![CDATA[바미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S.M.I.L.E 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7970602</id>
-        <link href="https://vibe.naver.com/album/7970602"/>
-        <updated>2022-08-28T03:54:33.540Z</updated>
-        <content type="html"><![CDATA[EL RUNE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every complicated night 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7987977</id>
-        <link href="https://vibe.naver.com/album/7987977"/>
-        <updated>2022-08-28T03:54:33.544Z</updated>
-        <content type="html"><![CDATA[큐 더 트럼펫(Q the trumpet)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너에게 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7983691</id>
-        <link href="https://vibe.naver.com/album/7983691"/>
-        <updated>2022-08-28T03:54:33.544Z</updated>
-        <content type="html"><![CDATA[Brick(브릭)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장르는 여름밤 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7987368</id>
-        <link href="https://vibe.naver.com/album/7987368"/>
-        <updated>2022-08-28T03:54:33.544Z</updated>
-        <content type="html"><![CDATA[몬구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[껴안자 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7982312</id>
-        <link href="https://vibe.naver.com/album/7982312"/>
-        <updated>2022-08-27T09:13:46.742Z</updated>
-        <content type="html"><![CDATA[수민(SUMIN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Django Tape 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7987164</id>
-        <link href="https://vibe.naver.com/album/7987164"/>
-        <updated>2022-08-27T09:13:46.742Z</updated>
-        <content type="html"><![CDATA[루피(Loopy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개미가 타고 있어요 OST Part 2 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7987393</id>
-        <link href="https://vibe.naver.com/album/7987393"/>
-        <updated>2022-08-27T09:13:46.742Z</updated>
-        <content type="html"><![CDATA[LUCY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그댄 내게 봄과 같아서 (웹툰 '연애의 발견' X 김기태) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7988157</id>
-        <link href="https://vibe.naver.com/album/7988157"/>
-        <updated>2022-08-27T09:13:46.742Z</updated>
-        <content type="html"><![CDATA[김기태]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 웹툰 OST Part 4 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7987990</id>
-        <link href="https://vibe.naver.com/album/7987990"/>
-        <updated>2022-08-27T09:13:46.742Z</updated>
-        <content type="html"><![CDATA[김태우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[monochrome 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7982309</id>
-        <link href="https://vibe.naver.com/album/7982309"/>
-        <updated>2022-08-27T09:13:46.743Z</updated>
-        <content type="html"><![CDATA[키스누(Kisnue)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[black&white 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7983699</id>
-        <link href="https://vibe.naver.com/album/7983699"/>
-        <updated>2022-08-27T09:13:46.743Z</updated>
-        <content type="html"><![CDATA[kenessi(케네시)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Listen-Up(리슨업) EP.5 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7988170</id>
-        <link href="https://vibe.naver.com/album/7988170"/>
-        <updated>2022-08-27T09:13:46.743Z</updated>
-        <content type="html"><![CDATA[GHOST9(고스트나인)]]></content>
     </entry>
 </feed>

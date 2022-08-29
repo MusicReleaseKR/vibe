@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-29T08:18:49.786Z</updated>
+    <updated>2022-08-29T09:15:10.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I'm Good (Blue) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7990864</id>
+        <link href="https://vibe.naver.com/album/7990864"/>
+        <updated>2022-08-29T09:15:00.525Z</updated>
+        <content type="html"><![CDATA[David Guetta]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Versions of Me (Deluxe) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7990861</id>
+        <link href="https://vibe.naver.com/album/7990861"/>
+        <updated>2022-08-29T09:15:00.525Z</updated>
+        <content type="html"><![CDATA[Anitta]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[W13 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7990852</id>
+        <link href="https://vibe.naver.com/album/7990852"/>
+        <updated>2022-08-29T09:15:00.525Z</updated>
+        <content type="html"><![CDATA[IDK]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[in loving memory 업데이트]]></title>
         <id>https://vibe.naver.com/album/7983692</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/7922738"/>
         <updated>2022-08-26T12:28:52.208Z</updated>
         <content type="html"><![CDATA[Bazzi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[54321 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7932697</id>
-        <link href="https://vibe.naver.com/album/7932697"/>
-        <updated>2022-08-26T12:28:52.208Z</updated>
-        <content type="html"><![CDATA[Offset]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[music 2 crash 2 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7970709</id>
-        <link href="https://vibe.naver.com/album/7970709"/>
-        <updated>2022-08-26T12:28:52.209Z</updated>
-        <content type="html"><![CDATA[Sally Boy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mind Games (Feat. Jackson Wang) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7934396</id>
-        <link href="https://vibe.naver.com/album/7934396"/>
-        <updated>2022-08-26T12:28:52.210Z</updated>
-        <content type="html"><![CDATA[88rising]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-08-30T14:15:28.845Z</updated>
+    <updated>2022-08-30T15:16:15.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GOOD BOY GONE BAD 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7992772</id>
+        <link href="https://vibe.naver.com/album/7992772"/>
+        <updated>2022-08-30T15:16:04.229Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful Love (Free Fire) 업데이트]]></title>
         <id>https://vibe.naver.com/album/7990631</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7985313"/>
         <updated>2022-08-30T14:15:18.374Z</updated>
         <content type="html"><![CDATA[Andy Grammer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ultimate (ft. Snow Tha Product) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7969088</id>
-        <link href="https://vibe.naver.com/album/7969088"/>
-        <updated>2022-08-30T14:15:18.376Z</updated>
-        <content type="html"><![CDATA[Steve Aoki]]></content>
     </entry>
 </feed>

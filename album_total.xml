@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-30T11:13:46.611Z</updated>
+    <updated>2022-08-30T12:30:49.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lehnga 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7993088</id>
+        <link href="https://vibe.naver.com/album/7993088"/>
+        <updated>2022-08-30T12:30:49.313Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7993088" class="title"><span data-v-6295d4f0="" class="text"> Lehnga <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1868237" class="link_artist"><span class="text">Vishal Sachdeva</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tu Jismo Jaan 업데이트]]></title>
         <id>https://vibe.naver.com/album/7993071</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7991260"/>
         <updated>2022-08-30T09:14:53.677Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7991260" class="title"><span data-v-6295d4f0="" class="text"> 둥둥 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4155059" class="link_artist"><span class="text">홍다연</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Visions (Ela Minus Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7991259</id>
-        <link href="https://vibe.naver.com/album/7991259"/>
-        <updated>2022-08-30T09:14:53.678Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7991259" class="title"><span data-v-6295d4f0="" class="text"> Visions (Ela Minus Remix) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/107494" class="link_artist"><span class="text">Jose Gonzalez</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

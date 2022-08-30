@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-30T17:23:03.469Z</updated>
+    <updated>2022-08-30T18:18:44.756Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sundari Gardens (Original Motion Picture Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7993404</id>
+        <link href="https://vibe.naver.com/album/7993404"/>
+        <updated>2022-08-30T18:18:44.016Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7993404" class="title"><span data-v-6295d4f0="" class="text"> Sundari Gardens (Original Motion Picture Soundtrack) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1870786" class="link_artist"><span class="text">Alphons Joseph</span></a><span>, </span></span><span><a href="/artist/78989" class="link_artist"><span class="text">Lowell Mason</span></a><span>, </span></span><span><a href="/artist/95552" class="link_artist"><span class="text">Arthur Sullivan</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zor Yaşıyorum 업데이트]]></title>
         <id>https://vibe.naver.com/album/7993141</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7992427"/>
         <updated>2022-08-30T15:16:15.364Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7992427" class="title"><span data-v-6295d4f0="" class="text"> I Came By (Soundtrack From the Netflix Film) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2916919" class="link_artist"><span class="text">Isobel Waller-Bridge</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tears Are In Your Eyes 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7992426</id>
-        <link href="https://vibe.naver.com/album/7992426"/>
-        <updated>2022-08-30T15:16:15.365Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7992426" class="title"><span data-v-6295d4f0="" class="text"> Tears Are In Your Eyes <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/138538" class="link_artist"><span class="text">The Tallest Man On Earth</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

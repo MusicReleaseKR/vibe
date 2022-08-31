@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-08-31T19:12:34.851Z</updated>
+    <updated>2022-08-31T20:16:17.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Herschel Walker 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7994755</id>
+        <link href="https://vibe.naver.com/album/7994755"/>
+        <updated>2022-08-31T20:16:16.743Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7994755" class="title"><span data-v-6295d4f0="" class="text"> Herschel Walker <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3611325" class="link_artist"><span class="text">Big Yavo</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meethe Ras - 1 Min Music 업데이트]]></title>
         <id>https://vibe.naver.com/album/7994329</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7993384"/>
         <updated>2022-08-31T18:18:54.447Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7993384" class="title"><span data-v-6295d4f0="" class="text"> Décadas <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1600315" class="link_artist"><span class="text">Estereobeat</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hände Halten 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7993383</id>
-        <link href="https://vibe.naver.com/album/7993383"/>
-        <updated>2022-08-31T18:18:54.449Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7993383" class="title"><span data-v-6295d4f0="" class="text"> Hände Halten <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3578761" class="link_artist"><span class="text">Caesar Legion</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-31T23:15:06.943Z</updated>
+    <updated>2022-09-01T01:15:03.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[어쩔 수가 없나 봐 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Alan Feik]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Redes 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7994816</id>
+        <link href="https://vibe.naver.com/album/7994816"/>
+        <updated>2022-09-01T01:15:03.212Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7994816" class="title"><span data-v-6295d4f0="" class="text"> Redes <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5462434" class="link_artist"><span class="text">Leandri Martin</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hallo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7994783</id>
         <link href="https://vibe.naver.com/album/7994783"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7993387"/>
         <updated>2022-08-31T18:18:54.441Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7993387" class="title"><span data-v-6295d4f0="" class="text"> Funeral <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4919635" class="link_artist"><span class="text">Dolores Forever</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teleskopter 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7993386</id>
-        <link href="https://vibe.naver.com/album/7993386"/>
-        <updated>2022-08-31T18:18:54.443Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7993386" class="title"><span data-v-6295d4f0="" class="text"> Teleskopter <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2728702" class="link_artist"><span class="text">Aslak Brimi</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

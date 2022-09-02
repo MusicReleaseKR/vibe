@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-09-02T08:18:31.332Z</updated>
+    <updated>2022-09-02T09:15:25.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Detox 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7995677</id>
+        <link href="https://vibe.naver.com/album/7995677"/>
+        <updated>2022-09-02T09:15:12.673Z</updated>
+        <content type="html"><![CDATA[Lil Baby]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Smells Like Me 업데이트]]></title>
         <id>https://vibe.naver.com/album/6958691</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7992432"/>
         <updated>2022-09-01T12:27:49.272Z</updated>
         <content type="html"><![CDATA[YUNGBLUD]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abandonment Issues 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7991136</id>
-        <link href="https://vibe.naver.com/album/7991136"/>
-        <updated>2022-09-01T12:27:49.272Z</updated>
-        <content type="html"><![CDATA[Rowan Drake]]></content>
     </entry>
 </feed>

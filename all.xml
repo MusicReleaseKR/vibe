@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-02T09:15:25.259Z</updated>
+    <updated>2022-09-02T10:16:46.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[환승연애2 OST Part 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[YUNGBLUD]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ganpati Bappa Ki Bhakt Hai Mai 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/7998145</id>
+        <link href="https://vibe.naver.com/album/7998145"/>
+        <updated>2022-09-02T10:16:45.464Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7998145" class="title"><span data-v-6295d4f0="" class="text"> Ganpati Bappa Ki Bhakt Hai Mai <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2434309" class="link_artist"><span class="text">Khushbu Tiwari KT</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Face of the What 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7997924</id>
         <link href="https://vibe.naver.com/album/7997924"/>
@@ -743,7 +750,7 @@
         <title type="html"><![CDATA[라이언 일병 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/7997694</id>
         <link href="https://vibe.naver.com/album/7997694"/>
-        <updated>2022-09-02T09:15:24.445Z</updated>
+        <updated>2022-09-02T09:15:00.672Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7997694" class="title"><span data-v-6295d4f0="" class="text"> 라이언 일병 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2709516" class="link_artist"><span class="text">래원(Layone)</span></a><span>, </span></span><span><a href="/artist/2933338" class="link_artist"><span class="text">조광일</span></a><span>, </span></span><span><a href="/artist/2905409" class="link_artist"><span class="text">안병웅</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/7997516"/>
         <updated>2022-09-02T04:12:44.748Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7997516" class="title"><span data-v-6295d4f0="" class="text"> Daño Colateral <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4771187" class="link_artist"><span class="text">Joonti</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Juntos (Ao Vivo) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/7997515</id>
-        <link href="https://vibe.naver.com/album/7997515"/>
-        <updated>2022-09-02T04:12:44.749Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/7997515" class="title"><span data-v-6295d4f0="" class="text"> Juntos (Ao Vivo) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2481831" class="link_artist"><span class="text">Tiee</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

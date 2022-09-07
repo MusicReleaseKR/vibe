@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-07T22:14:53.837Z</updated>
+    <updated>2022-09-07T23:17:48.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tierra Incógnita (Banda Sonora Original) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8006549</id>
+        <link href="https://vibe.naver.com/album/8006549"/>
+        <updated>2022-09-07T23:17:47.331Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8006549" class="title"><span data-v-6295d4f0="" class="text"> Tierra Incógnita (Banda Sonora Original) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shooter #5 업데이트]]></title>
         <id>https://vibe.naver.com/album/8006547</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8003622"/>
         <updated>2022-09-07T16:22:29.656Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003622" class="title"><span data-v-6295d4f0="" class="text"> Money to Make <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3848706" class="link_artist"><span class="text">Zacchae'us Paul</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solitary Life 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8003621</id>
-        <link href="https://vibe.naver.com/album/8003621"/>
-        <updated>2022-09-07T16:22:29.658Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003621" class="title"><span data-v-6295d4f0="" class="text"> Solitary Life <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4426731" class="link_artist"><span class="text">Muscle Vest</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

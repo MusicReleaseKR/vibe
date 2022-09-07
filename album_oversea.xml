@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-09-07T08:21:14.354Z</updated>
+    <updated>2022-09-07T09:15:45.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Opening Credits 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8002795</id>
+        <link href="https://vibe.naver.com/album/8002795"/>
+        <updated>2022-09-07T09:15:34.779Z</updated>
+        <content type="html"><![CDATA[Nimino]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Detroit 업데이트]]></title>
         <id>https://vibe.naver.com/album/8000317</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7995941"/>
         <updated>2022-09-07T04:22:44.175Z</updated>
         <content type="html"><![CDATA[Sigala]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hot Mess 업데이트]]></title>
-        <id>https://vibe.naver.com/album/7993019</id>
-        <link href="https://vibe.naver.com/album/7993019"/>
-        <updated>2022-09-07T04:22:44.176Z</updated>
-        <content type="html"><![CDATA[dodie]]></content>
     </entry>
 </feed>

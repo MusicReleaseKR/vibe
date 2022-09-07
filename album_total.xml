@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-07T18:29:06.629Z</updated>
+    <updated>2022-09-07T19:13:34.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[شفت الصدف 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8005766</id>
+        <link href="https://vibe.naver.com/album/8005766"/>
+        <updated>2022-09-07T19:13:33.942Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8005766" class="title"><span data-v-6295d4f0="" class="text"> شفت الصدف <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5746899" class="link_artist"><span class="text">Kadejah Moaath خديجة معاذ</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GOOD TO ME (WATERWALK Sessions Version) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8004603</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8003620"/>
         <updated>2022-09-07T16:22:29.664Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003620" class="title"><span data-v-6295d4f0="" class="text"> Tempus Fugit <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2033520" class="link_artist"><span class="text">Jérôme Chassagnard</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Como Loko 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8003619</id>
-        <link href="https://vibe.naver.com/album/8003619"/>
-        <updated>2022-09-07T16:22:29.666Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003619" class="title"><span data-v-6295d4f0="" class="text"> Como Loko <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3085902" class="link_artist"><span class="text">Jota Daniel</span></a><span>, </span></span><span><a href="/artist/659851" class="link_artist"><span class="text">Elio Mafiaboy</span></a><span>, </span></span><span><a href="/artist/5618301" class="link_artist"><span class="text">Vivete La Music</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

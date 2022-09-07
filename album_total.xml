@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-07T04:22:55.130Z</updated>
+    <updated>2022-09-07T06:13:44.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Darshan Dekh Jeeva Gur Tera 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8004017</id>
+        <link href="https://vibe.naver.com/album/8004017"/>
+        <updated>2022-09-07T06:13:44.362Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8004017" class="title"><span data-v-6295d4f0="" class="text"> Darshan Dekh Jeeva Gur Tera <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3853003" class="link_artist"><span class="text">Bhai Sarabjit Singh Ji</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 Minutes of Pain 업데이트]]></title>
         <id>https://vibe.naver.com/album/8003879</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8003117"/>
         <updated>2022-09-07T04:22:54.328Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003117" class="title"><span data-v-6295d4f0="" class="text"> Congrats!! (with Friends) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2393599" class="link_artist"><span class="text">Uchida Yuma</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Coffee Blues -Wataru Takada wo Utau- 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8003114</id>
-        <link href="https://vibe.naver.com/album/8003114"/>
-        <updated>2022-09-07T04:22:54.330Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003114" class="title"><span data-v-6295d4f0="" class="text"> Coffee Blues -Wataru Takada wo Utau- <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/162009" class="link_artist"><span class="text">Takada Ren</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-08T18:18:10.485Z</updated>
+    <updated>2022-09-08T19:14:04.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Go the Distance 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8012979</id>
+        <link href="https://vibe.naver.com/album/8012979"/>
+        <updated>2022-09-08T19:14:03.876Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8012979" class="title"><span data-v-6295d4f0="" class="text"> Go the Distance <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4592964" class="link_artist"><span class="text">Reimagine Tomorrow</span></a><span>, </span></span><span><a href="/artist/2982411" class="link_artist"><span class="text">Disney</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[fa male 업데이트]]></title>
         <id>https://vibe.naver.com/album/8012781</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8011343"/>
         <updated>2022-09-08T15:16:28.977Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8011343" class="title"><span data-v-6295d4f0="" class="text"> Cane (Remix) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3894406" class="link_artist"><span class="text">Enes Kaçmaz</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glühwein & Party 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8011337</id>
-        <link href="https://vibe.naver.com/album/8011337"/>
-        <updated>2022-09-08T15:16:28.978Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8011337" class="title"><span data-v-6295d4f0="" class="text"> Glühwein &amp; Party <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-07T23:17:48.105Z</updated>
+    <updated>2022-09-08T01:22:01.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Taka Lage (From "Kacher Manush") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8006551</id>
+        <link href="https://vibe.naver.com/album/8006551"/>
+        <updated>2022-09-08T01:22:00.665Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8006551" class="title"><span data-v-6295d4f0="" class="text"> Taka Lage (From "Kacher Manush") <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3971779" class="link_artist"><span class="text">Nilayan Chatterjee</span></a><span>, </span></span><span><a href="/artist/5747195" class="link_artist"><span class="text">Pranjal Biswas</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tierra Incógnita (Banda Sonora Original) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8006549</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8003623"/>
         <updated>2022-09-07T16:22:29.651Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003623" class="title"><span data-v-6295d4f0="" class="text"> Symphony <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4946020" class="link_artist"><span class="text">KarBeats</span></a><span>, </span></span><span><a href="/artist/2830162" class="link_artist"><span class="text">Yan Block</span></a><span>, </span></span><span><a href="/artist/3085646" class="link_artist"><span class="text">Kevvo</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Money to Make 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8003622</id>
-        <link href="https://vibe.naver.com/album/8003622"/>
-        <updated>2022-09-07T16:22:29.656Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8003622" class="title"><span data-v-6295d4f0="" class="text"> Money to Make <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3848706" class="link_artist"><span class="text">Zacchae'us Paul</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

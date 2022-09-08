@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-08T06:49:12.713Z</updated>
+    <updated>2022-09-08T07:29:26.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ill Manor 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8007449</id>
+        <link href="https://vibe.naver.com/album/8007449"/>
+        <updated>2022-09-08T07:29:25.847Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8007449" class="title"><span data-v-6295d4f0="" class="text"> Ill Manor <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5683787" class="link_artist"><span class="text">Crooked Royals</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wadi Rum 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8007438</id>
+        <link href="https://vibe.naver.com/album/8007438"/>
+        <updated>2022-09-08T07:29:25.847Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8007438" class="title"><span data-v-6295d4f0="" class="text"> Wadi Rum <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2235708" class="link_artist"><span class="text">Yeahman</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good Morning (Bass Boost) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8007292</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8004178"/>
         <updated>2022-09-08T04:05:52.051Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8004178" class="title"><span data-v-6295d4f0="" class="text"> Caught In A Shape <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2386075" class="link_artist"><span class="text">Robert Sotelo</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leave My Bones 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8004177</id>
-        <link href="https://vibe.naver.com/album/8004177"/>
-        <updated>2022-09-08T04:05:52.052Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8004177" class="title"><span data-v-6295d4f0="" class="text"> Leave My Bones <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1323259" class="link_artist"><span class="text">Me And My Friends</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Sunshine Makers 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8004176</id>
-        <link href="https://vibe.naver.com/album/8004176"/>
-        <updated>2022-09-08T04:05:52.054Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8004176" class="title"><span data-v-6295d4f0="" class="text"> The Sunshine Makers <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/233998" class="link_artist"><span class="text">The Heliocentrics</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

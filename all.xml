@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-10T22:14:34.089Z</updated>
+    <updated>2022-09-10T23:15:50.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[City Lights 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Snbrn]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Nazitoka (Drill) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8038937</id>
+        <link href="https://vibe.naver.com/album/8038937"/>
+        <updated>2022-09-10T23:15:50.069Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8038937" class="title"><span data-v-6295d4f0="" class="text"> Nazitoka (Drill) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5489347" class="link_artist"><span class="text">Randyyy</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Toppen Af Poppen 2022 Synger Kira Skov 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8034946</id>
         <link href="https://vibe.naver.com/album/8034946"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8008042"/>
         <updated>2022-09-10T15:15:46.483Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8008042" class="title"><span data-v-6295d4f0="" class="text"> Riot <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4836894" class="link_artist"><span class="text">Madatracker</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVE TONIGHT 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8007955</id>
-        <link href="https://vibe.naver.com/album/8007955"/>
-        <updated>2022-09-10T15:15:46.484Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8007955" class="title"><span data-v-6295d4f0="" class="text"> LOVE TONIGHT <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

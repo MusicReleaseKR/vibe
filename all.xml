@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-10T06:22:45.613Z</updated>
+    <updated>2022-09-10T07:16:10.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[보고싶어, 집 앞이야 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Snbrn]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Lugar Incrível 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8030996</id>
+        <link href="https://vibe.naver.com/album/8030996"/>
+        <updated>2022-09-10T07:16:10.005Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8030996" class="title"><span data-v-6295d4f0="" class="text"> Lugar Incrível <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5069287" class="link_artist"><span class="text">Leo Guima</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Black Liquid Gold 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8029993</id>
         <link href="https://vibe.naver.com/album/8029993"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8011783"/>
         <updated>2022-09-10T04:12:09.842Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8011783" class="title"><span data-v-6295d4f0="" class="text"> Amon <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4267193" class="link_artist"><span class="text">Atenza</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Rose for My Darling - The El Dorados 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8011423</id>
-        <link href="https://vibe.naver.com/album/8011423"/>
-        <updated>2022-09-10T04:12:09.843Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8011423" class="title"><span data-v-6295d4f0="" class="text"> A Rose for My Darling - The El Dorados <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1990993" class="link_artist"><span class="text">The El Dorados</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-11T11:13:42.898Z</updated>
+    <updated>2022-09-11T12:28:49.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Pop It Remix (Feat. 쿠기, Hash Swan, 우원재) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Snbrn]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fujo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8045861</id>
+        <link href="https://vibe.naver.com/album/8045861"/>
+        <updated>2022-09-11T12:28:49.076Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8045861" class="title"><span data-v-6295d4f0="" class="text"> Fujo <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5768452" class="link_artist"><span class="text">Candle Tz</span></a><span>, </span></span><span><a href="/artist/3886367" class="link_artist"><span class="text">Baddest 47</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[No Money Today 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8044743</id>
         <link href="https://vibe.naver.com/album/8044743"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8009101"/>
         <updated>2022-09-10T15:15:46.476Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8009101" class="title"><span data-v-6295d4f0="" class="text"> Minhas canções de bebê favoritas <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4210181" class="link_artist"><span class="text">Música de Ninar</span></a><span>, </span></span><span><a href="/artist/5240985" class="link_artist"><span class="text">Música Clássica Para Crianças</span></a><span>, </span></span><span><a href="/artist/5240984" class="link_artist"><span class="text">Yoga infantil</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[জাদুকরী মুহূর্ত 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8009091</id>
-        <link href="https://vibe.naver.com/album/8009091"/>
-        <updated>2022-09-10T15:15:46.477Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8009091" class="title"><span data-v-6295d4f0="" class="text"> জাদুকরী মুহূর্ত <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5237179" class="link_artist"><span class="text">ঘুমের জন্য স্পেস সঙ্গীত</span></a><span>, </span></span><span><a href="/artist/5237180" class="link_artist"><span class="text">ঘুমের সঙ্গীত</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

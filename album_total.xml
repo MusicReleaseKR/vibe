@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-11T09:14:41.669Z</updated>
+    <updated>2022-09-11T10:16:26.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/8038937"/>
         <updated>2022-09-10T23:15:50.069Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8038937" class="title"><span data-v-6295d4f0="" class="text"> Nazitoka (Drill) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5489347" class="link_artist"><span class="text">Randyyy</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zapach ziemi 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8037758</id>
+        <link href="https://vibe.naver.com/album/8037758"/>
+        <updated>2022-09-11T10:16:25.504Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8037758" class="title"><span data-v-6295d4f0="" class="text"> Zapach ziemi <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4415132" class="link_artist"><span class="text">Agnieszka Banaś</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Toppen Af Poppen 2022 Synger Kira Skov 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8009056"/>
         <updated>2022-09-10T15:15:46.479Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8009056" class="title"><span data-v-6295d4f0="" class="text"> Rastaban <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/387583" class="link_artist"><span class="text">Sublim</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kashmakash (Glorify Christ 7) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8009015</id>
-        <link href="https://vibe.naver.com/album/8009015"/>
-        <updated>2022-09-10T15:15:46.480Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8009015" class="title"><span data-v-6295d4f0="" class="text"> Kashmakash (Glorify Christ 7) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3712816" class="link_artist"><span class="text">Dr Amit Kamle</span></a><span>, </span></span><span><a href="/artist/536131" class="link_artist"><span class="text">Abhay Jodhpurkar</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

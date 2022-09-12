@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-12T07:37:17.818Z</updated>
+    <updated>2022-09-12T08:21:01.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[THE REDSTRING Vol.1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Dimitri Vegas &amp; Like Mike]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Detuna 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8055403</id>
+        <link href="https://vibe.naver.com/album/8055403"/>
+        <updated>2022-09-12T08:21:00.980Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8055403" class="title"><span data-v-6295d4f0="" class="text"> Detuna <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1588415" class="link_artist"><span class="text">Cambium</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Safe or Alone 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8055210</id>
         <link href="https://vibe.naver.com/album/8055210"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8035517"/>
         <updated>2022-09-11T18:20:15.010Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8035517" class="title"><span data-v-6295d4f0="" class="text"> Kalde Dem for Du <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2423884" class="link_artist"><span class="text">Malte Ebert</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ravel: Piano Concerto for the Left Hand, Boléro, Ma mère l'Oye, Le Tombeau de Couperin 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8035515</id>
-        <link href="https://vibe.naver.com/album/8035515"/>
-        <updated>2022-09-11T18:20:15.011Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8035515" class="title"><span data-v-6295d4f0="" class="text"> Ravel: Piano Concerto for the Left Hand, Boléro, Ma mère l'Oye, Le Tombeau de Couperin <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2558" class="link_artist"><span class="text">정명훈</span></a><span>, </span></span><span><a href="/artist/103218" class="link_artist"><span class="text">Orchestre Philharmonique de Radio France</span></a><span>, </span></span><span><a href="/artist/160863" class="link_artist"><span class="text">Roger Muraro</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

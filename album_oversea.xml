@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-09-13T08:20:11.495Z</updated>
+    <updated>2022-09-13T09:17:32.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Lucky (Feat. Noa Kirel) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8003779</id>
-        <link href="https://vibe.naver.com/album/8003779"/>
-        <updated>2022-09-13T04:17:22.709Z</updated>
-        <content type="html"><![CDATA[Jubel]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Don't I Make It Look Easy 업데이트]]></title>
         <id>https://vibe.naver.com/album/8011142</id>
@@ -27,13 +20,6 @@
         <content type="html"><![CDATA[Mura Masa]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Checkmate 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8006615</id>
-        <link href="https://vibe.naver.com/album/8006615"/>
-        <updated>2022-09-13T04:17:22.719Z</updated>
-        <content type="html"><![CDATA[Cordae]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Story 업데이트]]></title>
         <id>https://vibe.naver.com/album/8011296</id>
         <link href="https://vibe.naver.com/album/8011296"/>
@@ -46,6 +32,27 @@
         <link href="https://vibe.naver.com/album/8006245"/>
         <updated>2022-09-13T04:17:22.731Z</updated>
         <content type="html"><![CDATA[Jenevieve]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Steam 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8006556</id>
+        <link href="https://vibe.naver.com/album/8006556"/>
+        <updated>2022-09-13T09:17:22.843Z</updated>
+        <content type="html"><![CDATA[Lofi City]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lucky (Feat. Noa Kirel) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8003779</id>
+        <link href="https://vibe.naver.com/album/8003779"/>
+        <updated>2022-09-13T04:17:22.709Z</updated>
+        <content type="html"><![CDATA[Jubel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Checkmate 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8006615</id>
+        <link href="https://vibe.naver.com/album/8006615"/>
+        <updated>2022-09-13T04:17:22.719Z</updated>
+        <content type="html"><![CDATA[Cordae]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[When the Lights Go 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/7994487"/>
         <updated>2022-09-12T21:14:49.192Z</updated>
         <content type="html"><![CDATA[JESSIA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember (Feat. Stevie Appleton) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8003876</id>
-        <link href="https://vibe.naver.com/album/8003876"/>
-        <updated>2022-09-12T21:14:49.193Z</updated>
-        <content type="html"><![CDATA[Sonny Fodera]]></content>
     </entry>
 </feed>

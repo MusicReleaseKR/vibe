@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-14T18:19:18.309Z</updated>
+    <updated>2022-09-14T19:14:58.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Sunflower 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,13 +705,6 @@
         <content type="html"><![CDATA[Phoenix]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ANTIFREEZE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8062314</id>
-        <link href="https://vibe.naver.com/album/8062314"/>
-        <updated>2022-09-14T18:19:17.591Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8062314" class="title"><span data-v-6295d4f0="" class="text"> ANTIFREEZE <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/269128" class="link_artist"><span class="text">easy life</span></a><span>, </span></span><span><a href="/artist/1826659" class="link_artist"><span class="text">Gus Dapperton</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Soothe the Soul 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8061318</id>
         <link href="https://vibe.naver.com/album/8061318"/>
@@ -1053,5 +1046,12 @@
         <link href="https://vibe.naver.com/album/8060004"/>
         <updated>2022-09-14T15:17:36.661Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8060004" class="title"><span data-v-6295d4f0="" class="text"> Season of the Damned <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1699868" class="link_artist"><span class="text">Get the Shot</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Keep It Simple 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8060003</id>
+        <link href="https://vibe.naver.com/album/8060003"/>
+        <updated>2022-09-14T19:14:58.081Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8060003" class="title"><span data-v-6295d4f0="" class="text"> Keep It Simple <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/40583" class="link_artist"><span class="text">Tab</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

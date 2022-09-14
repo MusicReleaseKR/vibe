@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-14T10:18:07.624Z</updated>
+    <updated>2022-09-14T11:14:18.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cube 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8061226</id>
+        <link href="https://vibe.naver.com/album/8061226"/>
+        <updated>2022-09-14T11:14:17.553Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8061226" class="title"><span data-v-6295d4f0="" class="text"> Cube <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/549195" class="link_artist"><span class="text">Monotone Cube</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Longshot 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8061225</id>
+        <link href="https://vibe.naver.com/album/8061225"/>
+        <updated>2022-09-14T11:14:17.554Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8061225" class="title"><span data-v-6295d4f0="" class="text"> Longshot <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1441468" class="link_artist"><span class="text">Slowly Slowly</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tailler la route 업데이트]]></title>
         <id>https://vibe.naver.com/album/8061126</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8059206"/>
         <updated>2022-09-14T10:18:07.051Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8059206" class="title"><span data-v-6295d4f0="" class="text"> Monte Adentro <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3667706" class="link_artist"><span class="text">SamuW</span></a><span>, </span></span><span><a href="/artist/4406176" class="link_artist"><span class="text">Mendeville</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warmth Of The Rain 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8059205</id>
-        <link href="https://vibe.naver.com/album/8059205"/>
-        <updated>2022-09-14T10:18:07.052Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8059205" class="title"><span data-v-6295d4f0="" class="text"> Warmth Of The Rain <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3671581" class="link_artist"><span class="text">Nogymx</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dahlia & Hibiscus 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8059204</id>
-        <link href="https://vibe.naver.com/album/8059204"/>
-        <updated>2022-09-14T10:18:07.055Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8059204" class="title"><span data-v-6295d4f0="" class="text"> Dahlia &amp; Hibiscus <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/455758" class="link_artist"><span class="text">Epifania</span></a><span>, </span></span><span><a href="/artist/3762769" class="link_artist"><span class="text">Linearwave</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

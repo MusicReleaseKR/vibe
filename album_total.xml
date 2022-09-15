@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-15T13:46:44.513Z</updated>
+    <updated>2022-09-15T14:22:39.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Labhar Hve Paswan Ji 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8067893</id>
+        <link href="https://vibe.naver.com/album/8067893"/>
+        <updated>2022-09-15T14:22:38.591Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8067893" class="title"><span data-v-6295d4f0="" class="text"> Labhar Hve Paswan Ji <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5779990" class="link_artist"><span class="text">Dharmjeet Dhadkan</span></a><span>, </span></span><span><a href="/artist/4414638" class="link_artist"><span class="text">Srishti Bharti</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuhk ja tolm 업데이트]]></title>
         <id>https://vibe.naver.com/album/8067222</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8061078"/>
         <updated>2022-09-15T09:18:00.388Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8061078" class="title"><span data-v-6295d4f0="" class="text"> BUT FOR NOW LEAVE ME ALONE <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/476014" class="link_artist"><span class="text">pH-1</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[swing slow (2021 mix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8061073</id>
-        <link href="https://vibe.naver.com/album/8061073"/>
-        <updated>2022-09-15T04:21:51.321Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8061073" class="title"><span data-v-6295d4f0="" class="text"> swing slow (2021 mix) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5776760" class="link_artist"><span class="text">swing slow</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

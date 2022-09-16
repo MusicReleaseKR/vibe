@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-09-16T08:20:02.595Z</updated>
+    <updated>2022-09-16T09:16:39.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HiROQUEST: Genesis 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8058985</id>
+        <link href="https://vibe.naver.com/album/8058985"/>
+        <updated>2022-09-16T09:16:28.517Z</updated>
+        <content type="html"><![CDATA[Steve Aoki]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Don't Think That I Like Her 업데이트]]></title>
         <id>https://vibe.naver.com/album/6958691</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8007307"/>
         <updated>2022-09-15T23:18:26.969Z</updated>
         <content type="html"><![CDATA[EDEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As Above, So Below 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8006124</id>
-        <link href="https://vibe.naver.com/album/8006124"/>
-        <updated>2022-09-15T23:18:26.970Z</updated>
-        <content type="html"><![CDATA[Sampa The Great]]></content>
     </entry>
 </feed>

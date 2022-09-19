@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-19T12:33:48.015Z</updated>
+    <updated>2022-09-19T13:47:09.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Free Falling 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Aurora]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tịch Liêu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8089621</id>
+        <link href="https://vibe.naver.com/album/8089621"/>
+        <updated>2022-09-19T13:47:08.823Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8089621" class="title"><span data-v-6295d4f0="" class="text"> Tịch Liêu <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5356344" class="link_artist"><span class="text">BAE Khanh Huyen</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Der Mané Song 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8089614</id>
         <link href="https://vibe.naver.com/album/8089614"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8087084"/>
         <updated>2022-09-19T04:25:16.447Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8087084" class="title"><span data-v-6295d4f0="" class="text"> Mil Vidas Contigo <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2433851" class="link_artist"><span class="text">Canciona</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ME IEM 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8087057</id>
-        <link href="https://vibe.naver.com/album/8087057"/>
-        <updated>2022-09-19T04:25:16.448Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8087057" class="title"><span data-v-6295d4f0="" class="text"> ME IEM <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/466840" class="link_artist"><span class="text">Dolee</span></a><span>, </span></span><span><a href="/artist/5792160" class="link_artist"><span class="text">Hoàng Trực</span></a><span>, </span></span><span><a href="/artist/5792162" class="link_artist"><span class="text">J-WonD</span></a><span>, </span></span><span><a href="/artist/2858997" class="link_artist"><span class="text">Lú</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

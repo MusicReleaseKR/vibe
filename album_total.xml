@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-09-19T09:20:46.311Z</updated>
+    <updated>2022-09-19T10:18:36.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Der Mané Song 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8089614</id>
+        <link href="https://vibe.naver.com/album/8089614"/>
+        <updated>2022-09-19T10:18:35.841Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8089614" class="title"><span data-v-6295d4f0="" class="text"> Der Mané Song <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4064488" class="link_artist"><span class="text">WUMMS</span></a><span>, </span></span><span><a href="/artist/4064487" class="link_artist"><span class="text">Dennis &amp; Jesko</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flowers - A COLORS SHOW 업데이트]]></title>
         <id>https://vibe.naver.com/album/8089307</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8087057"/>
         <updated>2022-09-19T04:25:16.448Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8087057" class="title"><span data-v-6295d4f0="" class="text"> ME IEM <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/466840" class="link_artist"><span class="text">Dolee</span></a><span>, </span></span><span><a href="/artist/5792160" class="link_artist"><span class="text">Hoàng Trực</span></a><span>, </span></span><span><a href="/artist/5792162" class="link_artist"><span class="text">J-WonD</span></a><span>, </span></span><span><a href="/artist/2858997" class="link_artist"><span class="text">Lú</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only Slip Ups 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8087055</id>
-        <link href="https://vibe.naver.com/album/8087055"/>
-        <updated>2022-09-19T04:25:16.450Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8087055" class="title"><span data-v-6295d4f0="" class="text"> Only Slip Ups <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1910847" class="link_artist"><span class="text">Splitz</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

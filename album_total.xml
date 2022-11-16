@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-16T17:26:47.859Z</updated>
+    <updated>2022-11-16T18:29:33.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Madhubala (Tamil) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8341909</id>
+        <link href="https://vibe.naver.com/album/8341909"/>
+        <updated>2022-11-16T18:29:32.587Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8341909" class="title"><span data-v-6295d4f0="" class="text"> Madhubala (Tamil) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4283731" class="link_artist"><span class="text">Vijai Bulganin</span></a><span>, </span></span><span><a href="/artist/4477925" class="link_artist"><span class="text">Adithya RK</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Madhubala (Telugu) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8341907</id>
+        <link href="https://vibe.naver.com/album/8341907"/>
+        <updated>2022-11-16T18:29:32.597Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8341907" class="title"><span data-v-6295d4f0="" class="text"> Madhubala (Telugu) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4283731" class="link_artist"><span class="text">Vijai Bulganin</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sinterklaas hits Kinderkoor Alles Kids 업데이트]]></title>
         <id>https://vibe.naver.com/album/8341387</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8339875"/>
         <updated>2022-11-16T17:26:47.146Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8339875" class="title"><span data-v-6295d4f0="" class="text"> Dois de Fevereiro <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2404851" class="link_artist"><span class="text">Luciano Candemil</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conversation Street (Radio Edit) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8339874</id>
-        <link href="https://vibe.naver.com/album/8339874"/>
-        <updated>2022-11-16T17:26:47.147Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8339874" class="title"><span data-v-6295d4f0="" class="text"> Conversation Street (Radio Edit) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4417604" class="link_artist"><span class="text">Tusky</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cu ce am greșit? 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8339872</id>
-        <link href="https://vibe.naver.com/album/8339872"/>
-        <updated>2022-11-16T17:26:47.149Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8339872" class="title"><span data-v-6295d4f0="" class="text"> Cu ce am greșit? <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1154660" class="link_artist"><span class="text">Baboi</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

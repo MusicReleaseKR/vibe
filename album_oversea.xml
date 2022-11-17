@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-11-17T04:17:28.452Z</updated>
+    <updated>2022-11-17T05:15:21.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VIVID 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8340823</id>
+        <link href="https://vibe.naver.com/album/8340823"/>
+        <updated>2022-11-17T05:15:08.835Z</updated>
+        <content type="html"><![CDATA[Rich Brian]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tell The Truth 업데이트]]></title>
         <id>https://vibe.naver.com/album/8331769</id>
@@ -34,11 +41,11 @@
         <content type="html"><![CDATA[King Isis]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Gold Rush Kid (Christmas Edition) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8324973</id>
-        <link href="https://vibe.naver.com/album/8324973"/>
-        <updated>2022-11-17T04:17:16.234Z</updated>
-        <content type="html"><![CDATA[George Ezra]]></content>
+        <title type="html"><![CDATA[Give You What You Want 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8325036</id>
+        <link href="https://vibe.naver.com/album/8325036"/>
+        <updated>2022-11-17T04:17:16.235Z</updated>
+        <content type="html"><![CDATA[Lil&nbsp;Tjay]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sweet Caroline 업데이트]]></title>
@@ -48,11 +55,11 @@
         <content type="html"><![CDATA[Dimitri Vegas &amp; Like Mike]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Give You What You Want 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8325036</id>
-        <link href="https://vibe.naver.com/album/8325036"/>
-        <updated>2022-11-17T04:17:16.235Z</updated>
-        <content type="html"><![CDATA[Lil&nbsp;Tjay]]></content>
+        <title type="html"><![CDATA[Gold Rush Kid (Christmas Edition) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8324973</id>
+        <link href="https://vibe.naver.com/album/8324973"/>
+        <updated>2022-11-17T04:17:16.234Z</updated>
+        <content type="html"><![CDATA[George Ezra]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Call Me Manny (Music from the Motion Picture "Babylon") 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8325795"/>
         <updated>2022-11-17T04:17:16.341Z</updated>
         <content type="html"><![CDATA[Ava Max]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Men On The Moon 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8325292</id>
-        <link href="https://vibe.naver.com/album/8325292"/>
-        <updated>2022-11-17T04:17:16.342Z</updated>
-        <content type="html"><![CDATA[Chelsea Cutler]]></content>
     </entry>
 </feed>

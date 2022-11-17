@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-17T05:15:21.857Z</updated>
+    <updated>2022-11-17T06:18:36.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[초보운전 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Ava Max]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Avengers en el Juego 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8343716</id>
+        <link href="https://vibe.naver.com/album/8343716"/>
+        <updated>2022-11-17T06:18:36.139Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8343716" class="title"><span data-v-6295d4f0="" class="text"> Avengers en el Juego <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3667559" class="link_artist"><span class="text">TIRO LOKO</span></a><span>, </span></span><span><a href="/artist/2018494" class="link_artist"><span class="text">Kodigo</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Take Me Away 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8343630</id>
         <link href="https://vibe.naver.com/album/8343630"/>
@@ -995,7 +1002,7 @@
         <title type="html"><![CDATA[VIVID 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8340823</id>
         <link href="https://vibe.naver.com/album/8340823"/>
-        <updated>2022-11-17T05:15:21.284Z</updated>
+        <updated>2022-11-17T05:15:08.835Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8340823" class="title"><span data-v-6295d4f0="" class="text"> VIVID <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/501997" class="link_artist"><span class="text">Rich Brian</span></a><span>, </span></span><span><a href="/artist/2755624" class="link_artist"><span class="text">$NOT</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8340790"/>
         <updated>2022-11-17T04:17:27.870Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8340790" class="title"><span data-v-6295d4f0="" class="text"> 내 신을 벗고 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/169430" class="link_artist"><span class="text">이호석</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄 여름 가을 겨울 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8340789</id>
-        <link href="https://vibe.naver.com/album/8340789"/>
-        <updated>2022-11-17T04:17:27.870Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8340789" class="title"><span data-v-6295d4f0="" class="text"> 봄 여름 가을 겨울 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5880756" class="link_artist"><span class="text">예흔</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

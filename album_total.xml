@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-19T22:13:34.070Z</updated>
+    <updated>2022-11-19T23:13:42.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NAY NAY NAY 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8350948</id>
+        <link href="https://vibe.naver.com/album/8350948"/>
+        <updated>2022-11-19T23:13:41.775Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8350948" class="title"><span data-v-6295d4f0="" class="text"> NAY NAY NAY <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/114870" class="link_artist"><span class="text">GMK</span></a><span>, </span></span><span><a href="/artist/5885181" class="link_artist"><span class="text">Shrug Official</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Caminos Malditos 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8350922</id>
+        <link href="https://vibe.naver.com/album/8350922"/>
+        <updated>2022-11-19T23:13:41.776Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8350922" class="title"><span data-v-6295d4f0="" class="text"> Caminos Malditos <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5885164" class="link_artist"><span class="text">PÁRROCKOS</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Intet Varer Evigt 업데이트]]></title>
         <id>https://vibe.naver.com/album/8350867</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8347080"/>
         <updated>2022-11-19T15:13:39.157Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8347080" class="title"><span data-v-6295d4f0="" class="text"> Homenagem a Luiz Gama - O Poeta da Carapinha <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/550276" class="link_artist"><span class="text">Geovana</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ale Rogetxs! (Versió Himne Del Pego C.F. 1923-2023) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8347078</id>
-        <link href="https://vibe.naver.com/album/8347078"/>
-        <updated>2022-11-19T15:13:39.158Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8347078" class="title"><span data-v-6295d4f0="" class="text"> Ale Rogetxs! (Versió Himne Del Pego C.F. 1923-2023) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2075964" class="link_artist"><span class="text">Smoking Souls</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maleskien 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8347077</id>
-        <link href="https://vibe.naver.com/album/8347077"/>
-        <updated>2022-11-19T15:13:39.159Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8347077" class="title"><span data-v-6295d4f0="" class="text"> Maleskien <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4705961" class="link_artist"><span class="text">Virbio</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

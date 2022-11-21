@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-21T12:27:23.636Z</updated>
+    <updated>2022-11-21T13:38:03.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Femme traditionnelle 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8361091</id>
+        <link href="https://vibe.naver.com/album/8361091"/>
+        <updated>2022-11-21T13:38:03.010Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8361091" class="title"><span data-v-6295d4f0="" class="text"> Femme traditionnelle <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1687322" class="link_artist"><span class="text">Yvano</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Musaafir 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8361007</id>
+        <link href="https://vibe.naver.com/album/8361007"/>
+        <updated>2022-11-21T13:38:03.011Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8361007" class="title"><span data-v-6295d4f0="" class="text"> Musaafir <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2890776" class="link_artist"><span class="text">Mukku</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Today (Telugu) (Original Motion Picture Soundtrack) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8360619</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8359042"/>
         <updated>2022-11-21T10:15:47.517Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8359042" class="title"><span data-v-6295d4f0="" class="text"> Người Ơi Hãy Về&nbsp;&nbsp; <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5415761" class="link_artist"><span class="text">Tuan Hoang</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neo Đậu Bến Quê 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8359041</id>
-        <link href="https://vibe.naver.com/album/8359041"/>
-        <updated>2022-11-21T10:15:47.518Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8359041" class="title"><span data-v-6295d4f0="" class="text"> Neo Đậu Bến Quê <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5415761" class="link_artist"><span class="text">Tuan Hoang</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lời Ru 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8359040</id>
-        <link href="https://vibe.naver.com/album/8359040"/>
-        <updated>2022-11-21T10:15:47.519Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8359040" class="title"><span data-v-6295d4f0="" class="text"> Lời Ru <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5415761" class="link_artist"><span class="text">Tuan Hoang</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

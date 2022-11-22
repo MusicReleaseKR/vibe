@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-22T18:17:48.895Z</updated>
+    <updated>2022-11-22T19:12:31.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Unholy 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8373372</id>
+        <link href="https://vibe.naver.com/album/8373372"/>
+        <updated>2022-11-22T19:12:30.581Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8373372" class="title"><span data-v-6295d4f0="" class="text"> Unholy <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/259942" class="link_artist"><span class="text">Sam Smith</span></a><span>, </span></span><span><a href="/artist/1254642" class="link_artist"><span class="text">Kim Petras</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chandni Raat 업데이트]]></title>
         <id>https://vibe.naver.com/album/8372758</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8362583"/>
         <updated>2022-11-22T15:15:42.576Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8362583" class="title"><span data-v-6295d4f0="" class="text"> Pitch Perfect: Bumper In Berlin (Music From The Peacock Original Series) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APTC 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8362582</id>
-        <link href="https://vibe.naver.com/album/8362582"/>
-        <updated>2022-11-22T15:15:42.577Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8362582" class="title"><span data-v-6295d4f0="" class="text"> APTC <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/116593" class="link_artist"><span class="text">Colet</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

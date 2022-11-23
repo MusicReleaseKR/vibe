@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-23T10:14:38.890Z</updated>
+    <updated>2022-11-23T11:11:58.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jaad Ke Dawai Raja Aur Rajaai 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8380951</id>
+        <link href="https://vibe.naver.com/album/8380951"/>
+        <updated>2022-11-23T11:11:58.185Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8380951" class="title"><span data-v-6295d4f0="" class="text"> Jaad Ke Dawai Raja Aur Rajaai <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3454931" class="link_artist"><span class="text">Sona Singh</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pitch Perfect: Bumper In Berlin (Music From The Peacock Original Series) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8378641</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8369394"/>
         <updated>2022-11-23T03:01:07.976Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8369394" class="title"><span data-v-6295d4f0="" class="text"> 잊어버렸네 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5850637" class="link_artist"><span class="text">이진희</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[깊은 밤하늘의 아름다운 별이 되어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8369392</id>
-        <link href="https://vibe.naver.com/album/8369392"/>
-        <updated>2022-11-23T03:01:07.977Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8369392" class="title"><span data-v-6295d4f0="" class="text"> 깊은 밤하늘의 아름다운 별이 되어 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/310682" class="link_artist"><span class="text">Haze Moon</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-23T05:12:39.907Z</updated>
+    <updated>2022-11-23T06:16:55.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Next on Mars Vol.5 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Skoop on Somebody]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Pitch Perfect: Bumper In Berlin (Music From The Peacock Original Series) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8378641</id>
+        <link href="https://vibe.naver.com/album/8378641"/>
+        <updated>2022-11-23T06:16:54.760Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8378641" class="title"><span data-v-6295d4f0="" class="text"> Pitch Perfect: Bumper In Berlin (Music From The Peacock Original Series) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lullaby Memories Part 3 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8376944</id>
         <link href="https://vibe.naver.com/album/8376944"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8369286"/>
         <updated>2022-11-23T03:01:07.987Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8369286" class="title"><span data-v-6295d4f0="" class="text"> The Manger <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1524429" class="link_artist"><span class="text">키노트(Key Note)</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 답은 너 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8369285</id>
-        <link href="https://vibe.naver.com/album/8369285"/>
-        <updated>2022-11-23T03:01:07.989Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8369285" class="title"><span data-v-6295d4f0="" class="text"> 내 답은 너 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/30976" class="link_artist"><span class="text">송희란</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

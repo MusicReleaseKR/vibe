@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-23T13:27:28.848Z</updated>
+    <updated>2022-11-23T14:12:47.770Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Resonance of the Rainy Forest 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8382090</id>
+        <link href="https://vibe.naver.com/album/8382090"/>
+        <updated>2022-11-23T14:12:47.128Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8382090" class="title"><span data-v-6295d4f0="" class="text"> Resonance of the Rainy Forest <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/144224" class="link_artist"><span class="text">Colibri</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jaad Ke Dawai Raja Aur Rajaai 업데이트]]></title>
         <id>https://vibe.naver.com/album/8380951</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8369417"/>
         <updated>2022-11-23T03:01:07.975Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8369417" class="title"><span data-v-6295d4f0="" class="text"> 파장 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4700216" class="link_artist"><span class="text">The ASIANIC</span></a><span>, </span></span><span><a href="/artist/5892434" class="link_artist"><span class="text">이지</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잊어버렸네 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8369394</id>
-        <link href="https://vibe.naver.com/album/8369394"/>
-        <updated>2022-11-23T03:01:07.976Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8369394" class="title"><span data-v-6295d4f0="" class="text"> 잊어버렸네 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5850637" class="link_artist"><span class="text">이진희</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

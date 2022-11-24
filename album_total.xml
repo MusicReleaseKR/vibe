@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-24T07:13:16.603Z</updated>
+    <updated>2022-11-24T08:18:15.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sotto Voce 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8389871</id>
+        <link href="https://vibe.naver.com/album/8389871"/>
+        <updated>2022-11-24T08:18:14.123Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8389871" class="title"><span data-v-6295d4f0="" class="text"> Sotto Voce <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/478520" class="link_artist"><span class="text">Shari</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Haunted 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8389827</id>
+        <link href="https://vibe.naver.com/album/8389827"/>
+        <updated>2022-11-24T08:18:14.129Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8389827" class="title"><span data-v-6295d4f0="" class="text"> Haunted <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2904180" class="link_artist"><span class="text">The Vanns</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Optimus 업데이트]]></title>
         <id>https://vibe.naver.com/album/8389236</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8384785"/>
         <updated>2022-11-23T21:12:10.259Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8384785" class="title"><span data-v-6295d4f0="" class="text"> First Off <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5898308" class="link_artist"><span class="text">Wiz Binki</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time (Remixes) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8384735</id>
-        <link href="https://vibe.naver.com/album/8384735"/>
-        <updated>2022-11-23T21:12:10.260Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8384735" class="title"><span data-v-6295d4f0="" class="text"> Time (Remixes) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3551866" class="link_artist"><span class="text">Marc Frey</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Love You Take for Granted 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8384601</id>
-        <link href="https://vibe.naver.com/album/8384601"/>
-        <updated>2022-11-23T21:12:10.260Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8384601" class="title"><span data-v-6295d4f0="" class="text"> The Love You Take for Granted <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2314142" class="link_artist"><span class="text">Claudio Souza Mattos</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

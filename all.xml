@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-25T01:05:55.520Z</updated>
+    <updated>2022-11-25T02:59:38.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Story : RETOLD 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Cautious Clay]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Popcorn 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8397194</id>
+        <link href="https://vibe.naver.com/album/8397194"/>
+        <updated>2022-11-25T02:59:38.164Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8397194" class="title"><span data-v-6295d4f0="" class="text"> Popcorn <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5465707" class="link_artist"><span class="text">Kat Zhao</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[4 MANI 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8396482</id>
         <link href="https://vibe.naver.com/album/8396482"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8394733"/>
         <updated>2022-11-24T22:12:44.075Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8394733" class="title"><span data-v-6295d4f0="" class="text"> Sabaare Aami Pronam Kore Jaai <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/620439" class="link_artist"><span class="text">Batuk Nandy</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mahashakti Jago 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8394732</id>
-        <link href="https://vibe.naver.com/album/8394732"/>
-        <updated>2022-11-24T22:12:44.075Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8394732" class="title"><span data-v-6295d4f0="" class="text"> Mahashakti Jago <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5905537" class="link_artist"><span class="text">Dipankar Bhattacharjee</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

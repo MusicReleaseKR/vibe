@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-25T17:12:30.885Z</updated>
+    <updated>2022-11-25T18:17:19.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[dünya verəcək badə məni 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8402807</id>
+        <link href="https://vibe.naver.com/album/8402807"/>
+        <updated>2022-11-25T18:17:18.436Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8402807" class="title"><span data-v-6295d4f0="" class="text"> dünya verəcək badə məni <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5828184" class="link_artist"><span class="text">Umut INC.</span></a><span>, </span></span><span><a href="/artist/256456" class="link_artist"><span class="text">Eja</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ぷれしゃすはーと/b.a.b.y 업데이트]]></title>
         <id>https://vibe.naver.com/album/8392670</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8392509"/>
         <updated>2022-11-25T16:17:42.738Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8392509" class="title"><span data-v-6295d4f0="" class="text"> Blah Blah Blah <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5739532" class="link_artist"><span class="text">Marc Kleen</span></a><span>, </span></span><span><a href="/artist/5543882" class="link_artist"><span class="text">Celestina Saffron</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cidades Sonoras (Ao Vivo) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8392508</id>
-        <link href="https://vibe.naver.com/album/8392508"/>
-        <updated>2022-11-25T16:17:42.743Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8392508" class="title"><span data-v-6295d4f0="" class="text"> Cidades Sonoras (Ao Vivo) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5904104" class="link_artist"><span class="text">Thâmara Mazur</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

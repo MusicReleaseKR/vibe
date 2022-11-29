@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-29T18:16:23.111Z</updated>
+    <updated>2022-11-29T19:11:50.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MOVE AGAIN 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Sam Fender]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[A Dosé 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8410306</id>
+        <link href="https://vibe.naver.com/album/8410306"/>
+        <updated>2022-11-29T19:11:49.884Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8410306" class="title"><span data-v-6295d4f0="" class="text"> A Dosé <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/1753231" class="link_artist"><span class="text">Sidiki Diabaté</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kotha Dilam Tokey (From "Doctor Bakshi") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8409869</id>
         <link href="https://vibe.naver.com/album/8409869"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8409786"/>
         <updated>2022-11-29T15:14:03.823Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8409786" class="title"><span data-v-6295d4f0="" class="text"> Silent <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2302813" class="link_artist"><span class="text">Ami Sakaguchi</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Lost Star 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8409770</id>
-        <link href="https://vibe.naver.com/album/8409770"/>
-        <updated>2022-11-29T15:14:03.824Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8409770" class="title"><span data-v-6295d4f0="" class="text"> The Lost Star <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5828990" class="link_artist"><span class="text">Arman Bahadori</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

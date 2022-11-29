@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-29T22:12:40.586Z</updated>
+    <updated>2022-11-29T23:14:02.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Los Días Raros (Directo Estadio Metropolitano) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8410363</id>
+        <link href="https://vibe.naver.com/album/8410363"/>
+        <updated>2022-11-29T23:14:01.392Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8410363" class="title"><span data-v-6295d4f0="" class="text"> Los Días Raros (Directo Estadio Metropolitano) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/356859" class="link_artist"><span class="text">Vetusta Morla</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aprendeste Aonde ? 업데이트]]></title>
         <id>https://vibe.naver.com/album/8410341</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8409789"/>
         <updated>2022-11-29T15:14:03.820Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8409789" class="title"><span data-v-6295d4f0="" class="text"> Hitamuki <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/218582" class="link_artist"><span class="text">Super Beaver</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Augmented Grandfather 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8409788</id>
-        <link href="https://vibe.naver.com/album/8409788"/>
-        <updated>2022-11-29T15:14:03.822Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8409788" class="title"><span data-v-6295d4f0="" class="text"> Augmented Grandfather <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4774288" class="link_artist"><span class="text">Dempagumi.inc</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

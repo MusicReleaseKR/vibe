@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-11-30T01:05:56.804Z</updated>
+    <updated>2022-11-30T02:48:17.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Moon 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8410450</id>
+        <link href="https://vibe.naver.com/album/8410450"/>
+        <updated>2022-11-30T02:48:16.264Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8410450" class="title"><span data-v-6295d4f0="" class="text"> Moon <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3558960" class="link_artist"><span class="text">刘人语(Reyi)</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ave de paso (con Ana Mena) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8410372</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8409793"/>
         <updated>2022-11-29T15:14:03.807Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8409793" class="title"><span data-v-6295d4f0="" class="text"> Rosas <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4932618" class="link_artist"><span class="text">Baet Alcantara</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallelujah 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8409792</id>
-        <link href="https://vibe.naver.com/album/8409792"/>
-        <updated>2022-11-29T15:14:03.808Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8409792" class="title"><span data-v-6295d4f0="" class="text"> Hallelujah <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5843631" class="link_artist"><span class="text">Leonald</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

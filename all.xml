@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T10:15:31.284Z</updated>
+    <updated>2022-12-01T11:12:02.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[웃어주었어 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Two Another]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Remember (Feat. Clemens Christian Poetzsch) (Piano Version) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8415288</id>
+        <link href="https://vibe.naver.com/album/8415288"/>
+        <updated>2022-12-01T11:12:01.918Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415288" class="title"><span data-v-6295d4f0="" class="text"> Remember (Feat. Clemens Christian Poetzsch) (Piano Version) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4389248" class="link_artist"><span class="text">Mondëna Quartet</span></a><span>, </span></span><span><a href="/artist/1454029" class="link_artist"><span class="text">Shir-Ran Yinon</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Christmas for Cowboys II 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8415236</id>
         <link href="https://vibe.naver.com/album/8415236"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8413062"/>
         <updated>2022-11-30T18:19:09.403Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8413062" class="title"><span data-v-6295d4f0="" class="text"> Starlight Christmas <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/37251" class="link_artist"><span class="text">Jamie Oliver</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alt Remote 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8413037</id>
-        <link href="https://vibe.naver.com/album/8413037"/>
-        <updated>2022-11-30T18:19:09.414Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8413037" class="title"><span data-v-6295d4f0="" class="text"> Alt Remote <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5915254" class="link_artist"><span class="text">Frank Bowe</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

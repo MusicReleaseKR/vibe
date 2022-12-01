@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-01T18:24:17.101Z</updated>
+    <updated>2022-12-01T19:11:56.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[웃어주었어 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Two Another]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[STORIE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8415611</id>
+        <link href="https://vibe.naver.com/album/8415611"/>
+        <updated>2022-12-01T19:11:55.489Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415611" class="title"><span data-v-6295d4f0="" class="text"> STORIE <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5916323" class="link_artist"><span class="text">Livia Gloria De Angelis</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2022 Top Hits (Tamil) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8415572</id>
         <link href="https://vibe.naver.com/album/8415572"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8415486"/>
         <updated>2022-12-01T15:14:59.453Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415486" class="title"><span data-v-6295d4f0="" class="text"> Twists &amp; Turns Music for Preschoolers VBS 2023 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3562857" class="link_artist"><span class="text">Lifeway Kids Worship</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[İnadı Bırak 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8415485</id>
-        <link href="https://vibe.naver.com/album/8415485"/>
-        <updated>2022-12-01T15:14:59.455Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415485" class="title"><span data-v-6295d4f0="" class="text"> İnadı Bırak <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2537412" class="link_artist"><span class="text">Erman</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

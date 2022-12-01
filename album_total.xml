@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-01T22:12:29.251Z</updated>
+    <updated>2022-12-01T23:13:51.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nuestro Mundo 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8415651</id>
+        <link href="https://vibe.naver.com/album/8415651"/>
+        <updated>2022-12-01T23:13:50.847Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415651" class="title"><span data-v-6295d4f0="" class="text"> Nuestro Mundo <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2045113" class="link_artist"><span class="text">India Martínez</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[On Y Va (Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8415642</id>
+        <link href="https://vibe.naver.com/album/8415642"/>
+        <updated>2022-12-01T23:13:50.848Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415642" class="title"><span data-v-6295d4f0="" class="text"> On Y Va (Remix) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5419238" class="link_artist"><span class="text">Jo2S</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mdali Singabakho 업데이트]]></title>
         <id>https://vibe.naver.com/album/8415629</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8415497"/>
         <updated>2022-12-01T15:14:59.430Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415497" class="title"><span data-v-6295d4f0="" class="text"> Gel Yanıma <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5916217" class="link_artist"><span class="text">Ceyz</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[abyssal 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8415496</id>
-        <link href="https://vibe.naver.com/album/8415496"/>
-        <updated>2022-12-01T15:14:59.432Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415496" class="title"><span data-v-6295d4f0="" class="text"> abyssal <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/154317" class="link_artist"><span class="text">Loner</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shinin' 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8415495</id>
-        <link href="https://vibe.naver.com/album/8415495"/>
-        <updated>2022-12-01T15:14:59.434Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415495" class="title"><span data-v-6295d4f0="" class="text"> Shinin' <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3010725" class="link_artist"><span class="text">Ethan Healy</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

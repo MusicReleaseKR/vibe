@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-02T04:15:40.282Z</updated>
+    <updated>2022-12-02T05:12:15.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Indigo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8415971</id>
+        <link href="https://vibe.naver.com/album/8415971"/>
+        <updated>2022-12-02T05:11:51.190Z</updated>
+        <content type="html"><![CDATA[RM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왜 떠나 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/8415189</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/8411940"/>
         <updated>2022-12-01T03:06:57.482Z</updated>
         <content type="html"><![CDATA[뎁인뎁쇼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애스컴시티나잇 (Ascom City Night) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8411647</id>
-        <link href="https://vibe.naver.com/album/8411647"/>
-        <updated>2022-12-01T03:06:57.484Z</updated>
-        <content type="html"><![CDATA[정유천]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SMS 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Morrissey]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[a tu manera 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8416442</id>
+        <link href="https://vibe.naver.com/album/8416442"/>
+        <updated>2022-12-02T05:12:15.213Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8416442" class="title"><span data-v-6295d4f0="" class="text"> a tu manera <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/404256" class="link_artist"><span class="text">Paula Cendejas</span></a><span>, </span></span><span><a href="/artist/4021565" class="link_artist"><span class="text">Marc Seguí</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IO SONO SOLO 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8416438</id>
+        <link href="https://vibe.naver.com/album/8416438"/>
+        <updated>2022-12-02T05:12:15.217Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8416438" class="title"><span data-v-6295d4f0="" class="text"> IO SONO SOLO <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3696973" class="link_artist"><span class="text">Il Ghost</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buenos Días (Rock) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8416437</id>
+        <link href="https://vibe.naver.com/album/8416437"/>
+        <updated>2022-12-02T05:12:15.220Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8416437" class="title"><span data-v-6295d4f0="" class="text"> Buenos Días (Rock) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3907198" class="link_artist"><span class="text">LUNA KI</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wash My Sorrows Away / My Name (Mahogany Sessions) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8416416</id>
+        <link href="https://vibe.naver.com/album/8416416"/>
+        <updated>2022-12-02T05:12:15.220Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8416416" class="title"><span data-v-6295d4f0="" class="text"> Wash My Sorrows Away / My Name (Mahogany Sessions) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3985657" class="link_artist"><span class="text">Budjerah</span></a><span>, </span></span><span><a href="/artist/7185" class="link_artist"><span class="text">Mahogany</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Must Be Nice 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8416301</id>
         <link href="https://vibe.naver.com/album/8416301"/>
@@ -738,6 +766,13 @@
         <link href="https://vibe.naver.com/album/8415973"/>
         <updated>2022-12-02T03:18:11.683Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415973" class="title"><span data-v-6295d4f0="" class="text"> Fica Ligeiro (Feat. Caju Clã) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5491319" class="link_artist"><span class="text">Vesk</span></a><span>, </span></span><span><a href="/artist/2758996" class="link_artist"><span class="text">Sinopoli</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Indigo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8415971</id>
+        <link href="https://vibe.naver.com/album/8415971"/>
+        <updated>2022-12-02T05:12:15.231Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415971" class="title"><span data-v-6295d4f0="" class="text"> Indigo <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/274317" class="link_artist"><span class="text">RM</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sola en los Bares 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1018,40 +1053,5 @@
         <link href="https://vibe.naver.com/album/8415528"/>
         <updated>2022-12-01T15:14:59.364Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415528" class="title"><span data-v-6295d4f0="" class="text"> Exitos Pop en Español de los 2010 <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[La Mejor Música Navideña 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8415527</id>
-        <link href="https://vibe.naver.com/album/8415527"/>
-        <updated>2022-12-01T15:14:59.366Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415527" class="title"><span data-v-6295d4f0="" class="text"> La Mejor Música Navideña <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desire For Happiness 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8415526</id>
-        <link href="https://vibe.naver.com/album/8415526"/>
-        <updated>2022-12-01T15:14:59.367Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415526" class="title"><span data-v-6295d4f0="" class="text"> Desire For Happiness <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4035487" class="link_artist"><span class="text">RuoFan Chang</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VGDS 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8415525</id>
-        <link href="https://vibe.naver.com/album/8415525"/>
-        <updated>2022-12-01T15:14:59.367Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415525" class="title"><span data-v-6295d4f0="" class="text"> VGDS <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4112382" class="link_artist"><span class="text">Grizzly 942</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cargando Piedras 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8415524</id>
-        <link href="https://vibe.naver.com/album/8415524"/>
-        <updated>2022-12-01T15:14:59.368Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415524" class="title"><span data-v-6295d4f0="" class="text"> Cargando Piedras <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3586329" class="link_artist"><span class="text">Victor Cibrian</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nur 72 Stunden - Abenteuer in Rio 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8415523</id>
-        <link href="https://vibe.naver.com/album/8415523"/>
-        <updated>2022-12-01T15:14:59.368Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8415523" class="title"><span data-v-6295d4f0="" class="text"> Nur 72 Stunden - Abenteuer in Rio <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4933282" class="link_artist"><span class="text">Clemens Fiedler</span></a><span>, </span></span><span><a href="/artist/1749637" class="link_artist"><span class="text">Johannes Steck</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

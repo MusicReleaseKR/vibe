@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-12-02T03:18:12.401Z</updated>
+    <updated>2022-12-02T04:15:40.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Paper Crown 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8410472</id>
-        <link href="https://vibe.naver.com/album/8410472"/>
-        <updated>2022-12-02T03:18:00.908Z</updated>
-        <content type="html"><![CDATA[Alec Benjamin]]></content>
+        <title type="html"><![CDATA[SMS 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8416225</id>
+        <link href="https://vibe.naver.com/album/8416225"/>
+        <updated>2022-12-02T04:15:28.239Z</updated>
+        <content type="html"><![CDATA[Aya Nakamura]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pointless 업데이트]]></title>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/8411833"/>
         <updated>2022-12-02T03:18:00.935Z</updated>
         <content type="html"><![CDATA[Lewis Capaldi]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paper Crown 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8410472</id>
+        <link href="https://vibe.naver.com/album/8410472"/>
+        <updated>2022-12-02T03:18:00.908Z</updated>
+        <content type="html"><![CDATA[Alec Benjamin]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[songs written for piano 업데이트]]></title>
@@ -74,6 +81,13 @@
         <link href="https://vibe.naver.com/album/8412756"/>
         <updated>2022-12-02T03:18:00.946Z</updated>
         <content type="html"><![CDATA[Russ Millions]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yao 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8408673</id>
+        <link href="https://vibe.naver.com/album/8408673"/>
+        <updated>2022-12-01T03:07:07.887Z</updated>
+        <content type="html"><![CDATA[Darkovibes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Collide 업데이트]]></title>
@@ -165,13 +179,6 @@
         <link href="https://vibe.naver.com/album/8409796"/>
         <updated>2022-12-01T03:07:07.887Z</updated>
         <content type="html"><![CDATA[Saucy Santana]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yao 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8408673</id>
-        <link href="https://vibe.naver.com/album/8408673"/>
-        <updated>2022-12-01T03:07:07.887Z</updated>
-        <content type="html"><![CDATA[Darkovibes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Not OK 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8384450"/>
         <updated>2022-11-30T03:21:12.058Z</updated>
         <content type="html"><![CDATA[Morrissey]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fenty 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8409399</id>
-        <link href="https://vibe.naver.com/album/8409399"/>
-        <updated>2022-11-30T03:21:12.059Z</updated>
-        <content type="html"><![CDATA[French Montana]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-03T17:10:45.634Z</updated>
+    <updated>2022-12-03T18:14:34.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Part Of Her 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Morrissey]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tu Gato Bellaco 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8419401</id>
+        <link href="https://vibe.naver.com/album/8419401"/>
+        <updated>2022-12-03T18:14:33.354Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8419401" class="title"><span data-v-6295d4f0="" class="text"> Tu Gato Bellaco <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3673364" class="link_artist"><span class="text">Milo Mae</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meer Sinterklaasliedjes 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8419291</id>
         <link href="https://vibe.naver.com/album/8419291"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8410486"/>
         <updated>2022-12-03T15:12:14.267Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8410486" class="title"><span data-v-6295d4f0="" class="text"> Mobile Suit Gundam The Witch From Mercury (Original Motion Picture Soundtrack) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3774635" class="link_artist"><span class="text">Takashi Ohmama</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No Puedo Olvidarte (Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8418405</id>
-        <link href="https://vibe.naver.com/album/8418405"/>
-        <updated>2022-12-02T16:17:20.653Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8418405" class="title"><span data-v-6295d4f0="" class="text"> No Puedo Olvidarte (Remix) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/895552" class="link_artist"><span class="text">Xyron</span></a><span>, </span></span><span><a href="/artist/158879" class="link_artist"><span class="text">Kele</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-05T13:23:43.663Z</updated>
+    <updated>2022-12-05T14:12:47.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ngày Xa Em 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8422303</id>
+        <link href="https://vibe.naver.com/album/8422303"/>
+        <updated>2022-12-05T14:12:46.514Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8422303" class="title"><span data-v-6295d4f0="" class="text"> Ngày Xa Em <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5918938" class="link_artist"><span class="text">Trần Đình Thăng</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Điều ước thành duyên 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8422301</id>
+        <link href="https://vibe.naver.com/album/8422301"/>
+        <updated>2022-12-05T14:12:46.518Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8422301" class="title"><span data-v-6295d4f0="" class="text"> Điều ước thành duyên <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5918938" class="link_artist"><span class="text">Trần Đình Thăng</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tutde Star (From "CAT") 업데이트]]></title>
         <id>https://vibe.naver.com/album/8422101</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8421577"/>
         <updated>2022-12-05T06:16:18.330Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421577" class="title"><span data-v-6295d4f0="" class="text"> SHE LIES <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5918533" class="link_artist"><span class="text">KPL AyeG</span></a><span>, </span></span><span><a href="/artist/5918534" class="link_artist"><span class="text">WET Rye</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High School (Streaming Ver.) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421492</id>
-        <link href="https://vibe.naver.com/album/8421492"/>
-        <updated>2022-12-05T05:13:11.540Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421492" class="title"><span data-v-6295d4f0="" class="text"> High School (Streaming Ver.) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3563049" class="link_artist"><span class="text">Julian Never</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amajitha 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421491</id>
-        <link href="https://vibe.naver.com/album/8421491"/>
-        <updated>2022-12-05T05:13:11.541Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421491" class="title"><span data-v-6295d4f0="" class="text"> Amajitha <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2123651" class="link_artist"><span class="text">Igcokama elisha</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-12-05T00:59:49.228Z</updated>
+    <updated>2022-12-05T02:19:45.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://vibe.naver.com/album/8416522"/>
         <updated>2022-12-04T09:12:26.778Z</updated>
         <content type="html"><![CDATA[손동운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스에는 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8416554</id>
-        <link href="https://vibe.naver.com/album/8416554"/>
-        <updated>2022-12-05T00:59:28.990Z</updated>
-        <content type="html"><![CDATA[이보람(씨야)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[계절을 돌고 돌아 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/8416501"/>
         <updated>2022-12-02T09:12:28.504Z</updated>
         <content type="html"><![CDATA[홍진영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해가 지지 않는 밤 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8415747</id>
+        <link href="https://vibe.naver.com/album/8415747"/>
+        <updated>2022-12-05T02:19:23.590Z</updated>
+        <content type="html"><![CDATA[분리수거밴드(BLSG)]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-05T11:11:35.208Z</updated>
+    <updated>2022-12-05T12:24:19.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tutde Star (From "CAT") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8422101</id>
+        <link href="https://vibe.naver.com/album/8422101"/>
+        <updated>2022-12-05T12:24:18.937Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8422101" class="title"><span data-v-6295d4f0="" class="text"> Tutde Star (From "CAT") <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5615004" class="link_artist"><span class="text">V Rakx Music</span></a><span>, </span></span><span><a href="/artist/5387484" class="link_artist"><span class="text">Toofan Singh Gill</span></a><span>, </span></span><span><a href="/artist/2410515" class="link_artist"><span class="text">Swarjit Singh</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kanha Aaja 업데이트]]></title>
         <id>https://vibe.naver.com/album/8422095</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8421491"/>
         <updated>2022-12-05T05:13:11.541Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421491" class="title"><span data-v-6295d4f0="" class="text"> Amajitha <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2123651" class="link_artist"><span class="text">Igcokama elisha</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exitos De Rogelio Gutierrez 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421488</id>
-        <link href="https://vibe.naver.com/album/8421488"/>
-        <updated>2022-12-05T04:16:06.574Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421488" class="title"><span data-v-6295d4f0="" class="text"> Exitos De Rogelio Gutierrez <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2806687" class="link_artist"><span class="text">Rogelio Gutierrez</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

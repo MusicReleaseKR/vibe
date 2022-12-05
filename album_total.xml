@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-05T04:16:07.187Z</updated>
+    <updated>2022-12-05T05:13:12.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[High School (Streaming Ver.) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8421492</id>
+        <link href="https://vibe.naver.com/album/8421492"/>
+        <updated>2022-12-05T05:13:11.540Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421492" class="title"><span data-v-6295d4f0="" class="text"> High School (Streaming Ver.) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3563049" class="link_artist"><span class="text">Julian Never</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amajitha 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8421491</id>
+        <link href="https://vibe.naver.com/album/8421491"/>
+        <updated>2022-12-05T05:13:11.541Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421491" class="title"><span data-v-6295d4f0="" class="text"> Amajitha <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2123651" class="link_artist"><span class="text">Igcokama elisha</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Exitos De Rogelio Gutierrez 업데이트]]></title>
         <id>https://vibe.naver.com/album/8421488</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8421186"/>
         <updated>2022-12-05T04:16:06.625Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421186" class="title"><span data-v-6295d4f0="" class="text"> Pyar Ho Gael - Single <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2173838" class="link_artist"><span class="text">Tripti Shakya</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vádia Sim 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421184</id>
-        <link href="https://vibe.naver.com/album/8421184"/>
-        <updated>2022-12-05T04:16:06.626Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421184" class="title"><span data-v-6295d4f0="" class="text"> Vádia Sim <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4844527" class="link_artist"><span class="text">DJ LD De Realengo</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sögulok 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421053</id>
-        <link href="https://vibe.naver.com/album/8421053"/>
-        <updated>2022-12-05T03:14:30.775Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421053" class="title"><span data-v-6295d4f0="" class="text"> Sögulok <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/5483079" class="link_artist"><span class="text">Afkvæmi guðanna</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

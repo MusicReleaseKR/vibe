@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-05T16:17:23.960Z</updated>
+    <updated>2022-12-05T18:15:43.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lângă brad (2022) feat. Macanache 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8422636</id>
+        <link href="https://vibe.naver.com/album/8422636"/>
+        <updated>2022-12-05T18:15:42.513Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8422636" class="title"><span data-v-6295d4f0="" class="text"> Lângă brad (2022) feat. Macanache <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/330403" class="link_artist"><span class="text">Coma</span></a><span>, </span></span><span><a href="/artist/2707475" class="link_artist"><span class="text">Macanache</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lângă brad (2022) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8422602</id>
+        <link href="https://vibe.naver.com/album/8422602"/>
+        <updated>2022-12-05T18:15:42.514Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8422602" class="title"><span data-v-6295d4f0="" class="text"> Lângă brad (2022) <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/330403" class="link_artist"><span class="text">Coma</span></a><span>, </span></span><span><a href="/artist/2707475" class="link_artist"><span class="text">Macanache</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dil Disco Karein (DJ Aqeel Mix) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8422325</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8421155"/>
         <updated>2022-12-05T15:14:18.608Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421155" class="title"><span data-v-6295d4f0="" class="text"> Angel <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/4079100" class="link_artist"><span class="text">Stella Rose</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Noite 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421154</id>
-        <link href="https://vibe.naver.com/album/8421154"/>
-        <updated>2022-12-05T15:14:18.610Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421154" class="title"><span data-v-6295d4f0="" class="text"> A Noite <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/3078109" class="link_artist"><span class="text">MC Lynne</span></a><span>, </span></span><span><a href="/artist/5509884" class="link_artist"><span class="text">White No Beat</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CABULOSA 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8421153</id>
-        <link href="https://vibe.naver.com/album/8421153"/>
-        <updated>2022-12-05T15:14:18.613Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6295d4f0="" href="/album/8421153" class="title"><span data-v-6295d4f0="" class="text"> CABULOSA <span data-v-6295d4f0="" class="item"><span data-v-6295d4f0="" class="blind">업데이트</span></span></span><span data-v-6295d4f0="" class="blind">페이지로 이동</span></a><div data-v-6295d4f0="" class="artist"><span data-v-6295d4f0=""><span><a href="/artist/2431480" class="link_artist"><span class="text">Luiz Kingsman</span></a><!----></span></span><span data-v-6295d4f0="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

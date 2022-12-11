@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-11T17:10:59.328Z</updated>
+    <updated>2022-12-11T18:15:18.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pappi Jhappi (From "Govinda Naam Mera") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8437151</id>
+        <link href="https://vibe.naver.com/album/8437151"/>
+        <updated>2022-12-11T18:15:17.711Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8437151" class="title"><span data-v-142135d5="" class="text"> Pappi Jhappi (From "Govinda Naam Mera") <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5926907" class="link_artist"><span class="text">Meet Bros.</span></a><span>, </span></span><span><a href="/artist/4543106" class="link_artist"><span class="text">Harry Arora</span></a><span>, </span></span><span><a href="/artist/1776291" class="link_artist"><span class="text">Kumaar</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Qua òi, dzui ik 업데이트]]></title>
         <id>https://vibe.naver.com/album/8437142</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8436659"/>
         <updated>2022-12-11T15:12:21.197Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436659" class="title"><span data-v-142135d5="" class="text"> Life Before Fame <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5926568" class="link_artist"><span class="text">Bandzo 187</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Matchy Matchy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8436658</id>
-        <link href="https://vibe.naver.com/album/8436658"/>
-        <updated>2022-12-11T15:12:21.198Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436658" class="title"><span data-v-142135d5="" class="text"> Matchy Matchy <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1296994" class="link_artist"><span class="text">Gameboy</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

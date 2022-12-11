@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-11T15:12:21.874Z</updated>
+    <updated>2022-12-11T16:16:30.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[추억 일기 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Patrick Lite]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[TooClose 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8436966</id>
+        <link href="https://vibe.naver.com/album/8436966"/>
+        <updated>2022-12-11T16:16:29.319Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436966" class="title"><span data-v-142135d5="" class="text"> TooClose <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/397091" class="link_artist"><span class="text">Shawn Berry</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lagu Untuk Mu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8436964</id>
+        <link href="https://vibe.naver.com/album/8436964"/>
+        <updated>2022-12-11T16:16:29.321Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436964" class="title"><span data-v-142135d5="" class="text"> Lagu Untuk Mu <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5926826" class="link_artist"><span class="text">Dhalan Zainuddin</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Rolling Thunder 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8436946</id>
         <link href="https://vibe.naver.com/album/8436946"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/8436657"/>
         <updated>2022-12-11T15:12:21.205Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436657" class="title"><span data-v-142135d5="" class="text"> Charcha Parcha <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/2418521" class="link_artist"><span class="text">NAALAYAK</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Imizamo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8436653</id>
-        <link href="https://vibe.naver.com/album/8436653"/>
-        <updated>2022-12-11T15:12:21.210Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436653" class="title"><span data-v-142135d5="" class="text"> Imizamo <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3182700" class="link_artist"><span class="text">De Mthuda</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NO THANK YOU 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8436652</id>
-        <link href="https://vibe.naver.com/album/8436652"/>
-        <updated>2022-12-11T15:12:21.213Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436652" class="title"><span data-v-142135d5="" class="text"> NO THANK YOU <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/378312" class="link_artist"><span class="text">Little Simz</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

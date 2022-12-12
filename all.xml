@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-12T15:14:01.019Z</updated>
+    <updated>2022-12-12T16:17:51.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[서울체크인 OST Part 12 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Noah Cyrus]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Addiction 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8437869</id>
+        <link href="https://vibe.naver.com/album/8437869"/>
+        <updated>2022-12-12T16:17:50.555Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8437869" class="title"><span data-v-142135d5="" class="text"> Addiction <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4637043" class="link_artist"><span class="text">Kunwarr</span></a><span>, </span></span><span><a href="/artist/4431753" class="link_artist"><span class="text">DJ Prodiigy</span></a><span>, </span></span><span><a href="/artist/5015286" class="link_artist"><span class="text">Arsh Heer</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Juf Roos Kerstliedjes voor kinderen 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8437854</id>
         <link href="https://vibe.naver.com/album/8437854"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8437056"/>
         <updated>2022-12-12T15:14:00.463Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8437056" class="title"><span data-v-142135d5="" class="text"> Dindin Dondon <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5926866" class="link_artist"><span class="text">Kika Malk</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blowing in the Wind 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8437055</id>
-        <link href="https://vibe.naver.com/album/8437055"/>
-        <updated>2022-12-12T15:14:00.464Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8437055" class="title"><span data-v-142135d5="" class="text"> Blowing in the Wind <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/120310" class="link_artist"><span class="text">Glen Ricks</span></a><span>, </span></span><span><a href="/artist/1505354" class="link_artist"><span class="text">Papa Kojak</span></a><span>, </span></span><span><a href="/artist/4483738" class="link_artist"><span class="text">Heartical Sound</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

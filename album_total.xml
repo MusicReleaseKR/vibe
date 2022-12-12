@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-12T07:16:42.031Z</updated>
+    <updated>2022-12-12T08:17:12.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -244,6 +244,13 @@
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436696" class="title"><span data-v-142135d5="" class="text"> V (2022 Remaster) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/745112" class="link_artist"><span class="text">Dimitry</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[The Old Time 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8436694</id>
+        <link href="https://vibe.naver.com/album/8436694"/>
+        <updated>2022-12-12T08:17:12.068Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436694" class="title"><span data-v-142135d5="" class="text"> The Old Time <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4469109" class="link_artist"><span class="text">Peter Brocks</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Procedure Room 업데이트]]></title>
         <id>https://vibe.naver.com/album/8436693</id>
         <link href="https://vibe.naver.com/album/8436693"/>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8436673"/>
         <updated>2022-12-11T15:12:21.178Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436673" class="title"><span data-v-142135d5="" class="text"> Tension Rock <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/528376" class="link_artist"><span class="text">PPM</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kráska a Dealer 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8436672</id>
-        <link href="https://vibe.naver.com/album/8436672"/>
-        <updated>2022-12-11T15:12:21.180Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8436672" class="title"><span data-v-142135d5="" class="text"> Kráska a Dealer <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/2446167" class="link_artist"><span class="text">Koukr</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

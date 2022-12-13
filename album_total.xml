@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-13T13:21:44.010Z</updated>
+    <updated>2022-12-13T14:12:48.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rentouttavaa pianomusiikkia 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8441101</id>
+        <link href="https://vibe.naver.com/album/8441101"/>
+        <updated>2022-12-13T14:12:47.390Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8441101" class="title"><span data-v-142135d5="" class="text"> Rentouttavaa pianomusiikkia <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5707890" class="link_artist"><span class="text">Tuutulauluja</span></a><span>, </span></span><span><a href="/artist/5707891" class="link_artist"><span class="text">Klassista musiikkia vauvoille ja pikkulapsille</span></a><span>, </span></span><span><a href="/artist/5707894" class="link_artist"><span class="text">Joogamusiikkia lapsille</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Teri Yaad Mein 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8441045</id>
+        <link href="https://vibe.naver.com/album/8441045"/>
+        <updated>2022-12-13T14:12:47.391Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8441045" class="title"><span data-v-142135d5="" class="text"> Teri Yaad Mein <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3544275" class="link_artist"><span class="text">Salman Ali</span></a><span>, </span></span><span><a href="/artist/127228" class="link_artist"><span class="text">Himesh Reshammiya</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Warum bist du weg 업데이트]]></title>
         <id>https://vibe.naver.com/album/8440610</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8439800"/>
         <updated>2022-12-13T12:24:04.900Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8439800" class="title"><span data-v-142135d5="" class="text"> Raghuvar Bhajan <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3733864" class="link_artist"><span class="text">Manjit Dhyani</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Om Jai Saraswati Mata Aarti 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8439799</id>
-        <link href="https://vibe.naver.com/album/8439799"/>
-        <updated>2022-12-13T12:24:04.911Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8439799" class="title"><span data-v-142135d5="" class="text"> Om Jai Saraswati Mata Aarti <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5928119" class="link_artist"><span class="text">Swar Lata</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Santoshi Mata Aarti 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8439798</id>
-        <link href="https://vibe.naver.com/album/8439798"/>
-        <updated>2022-12-13T12:24:04.912Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8439798" class="title"><span data-v-142135d5="" class="text"> Santoshi Mata Aarti <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5928118" class="link_artist"><span class="text">Pawan Behal</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

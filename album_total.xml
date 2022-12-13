@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-13T20:13:56.639Z</updated>
+    <updated>2022-12-13T21:12:01.134Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lord Of Death 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8443729</id>
+        <link href="https://vibe.naver.com/album/8443729"/>
+        <updated>2022-12-13T21:12:00.428Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8443729" class="title"><span data-v-142135d5="" class="text"> Lord Of Death <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5718145" class="link_artist"><span class="text">stackdiamonds</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[00s Piano Covers 업데이트]]></title>
         <id>https://vibe.naver.com/album/8443230</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8441337"/>
         <updated>2022-12-13T15:16:29.419Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8441337" class="title"><span data-v-142135d5="" class="text"> Good or Bad (ดีหรือเลว) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3686093" class="link_artist"><span class="text">T!Ne</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exposed 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8441336</id>
-        <link href="https://vibe.naver.com/album/8441336"/>
-        <updated>2022-12-13T15:16:29.420Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8441336" class="title"><span data-v-142135d5="" class="text"> Exposed <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4758170" class="link_artist"><span class="text">JMB Juvie</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

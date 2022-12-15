@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-12-15T08:17:05.239Z</updated>
+    <updated>2022-12-15T09:13:39.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Matter Of Time (Feat. Alex Maher) (Never Dull Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8447152</id>
+        <link href="https://vibe.naver.com/album/8447152"/>
+        <updated>2022-12-15T09:13:26.602Z</updated>
+        <content type="html"><![CDATA[Vandelux]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FEARLESS (Japanese ver.) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8457823</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8421627"/>
         <updated>2022-12-13T03:20:59.567Z</updated>
         <content type="html"><![CDATA[Martin Jensen]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The D.O.A. Tape (Care Package) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8431506</id>
-        <link href="https://vibe.naver.com/album/8431506"/>
-        <updated>2022-12-13T03:20:59.567Z</updated>
-        <content type="html"><![CDATA[Kay Flock]]></content>
     </entry>
 </feed>

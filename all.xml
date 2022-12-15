@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-15T13:22:33.247Z</updated>
+    <updated>2022-12-15T14:12:40.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Road : Celebration - The 11th Album Vol.2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Martin Jensen]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chill Cùng Tây Bắc 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8466907</id>
+        <link href="https://vibe.naver.com/album/8466907"/>
+        <updated>2022-12-15T14:12:40.241Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8466907" class="title"><span data-v-142135d5="" class="text"> Chill Cùng Tây Bắc <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5940000" class="link_artist"><span class="text">Nguyễn Thu Hằng</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Alone 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8466507</id>
         <link href="https://vibe.naver.com/album/8466507"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8462658"/>
         <updated>2022-12-15T10:14:39.079Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8462658" class="title"><span data-v-142135d5="" class="text"> Dhodhi Me 64 GB Ram Ba <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5937931" class="link_artist"><span class="text">Priyanshu Kumar Singh</span></a><span>, </span></span><span><a href="/artist/2709977" class="link_artist"><span class="text">Khushbu Raj</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saasu Aankh Kahe Lage 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8462657</id>
-        <link href="https://vibe.naver.com/album/8462657"/>
-        <updated>2022-12-15T10:14:39.081Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8462657" class="title"><span data-v-142135d5="" class="text"> Saasu Aankh Kahe Lage <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3726070" class="link_artist"><span class="text">Shivani Singh</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

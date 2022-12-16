@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2022-12-16T04:14:50.460Z</updated>
+    <updated>2022-12-16T05:12:02.512Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nxde (Steve Aoki Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8461100</id>
+        <link href="https://vibe.naver.com/album/8461100"/>
+        <updated>2022-12-16T05:11:41.586Z</updated>
+        <content type="html"><![CDATA[(여자) 아이들]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rainbow 업데이트]]></title>
         <id>https://vibe.naver.com/album/8460595</id>
@@ -69,7 +76,7 @@
         <content type="html"><![CDATA[김은비]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Carol of the bells (메이트리스마스) 업데이트]]></title>
+        <title type="html"><![CDATA[Carol of the bells 업데이트]]></title>
         <id>https://vibe.naver.com/album/8458468</id>
         <link href="https://vibe.naver.com/album/8458468"/>
         <updated>2022-12-16T03:13:11.108Z</updated>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8449087"/>
         <updated>2022-12-15T03:17:46.991Z</updated>
         <content type="html"><![CDATA[서하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOSTALGIA 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8446745</id>
-        <link href="https://vibe.naver.com/album/8446745"/>
-        <updated>2022-12-15T03:17:46.992Z</updated>
-        <content type="html"><![CDATA[FLUFFY SNOW(플러피스노우)]]></content>
     </entry>
 </feed>

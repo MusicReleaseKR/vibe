@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-16T05:12:02.510Z</updated>
+    <updated>2022-12-16T06:15:40.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ho Ho Ho 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8482495</id>
+        <link href="https://vibe.naver.com/album/8482495"/>
+        <updated>2022-12-16T06:15:40.142Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8482495" class="title"><span data-v-142135d5="" class="text"> Ho Ho Ho <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5683155" class="link_artist"><span class="text">Marc Nasty</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Los Rebeldes Del Rock 업데이트]]></title>
         <id>https://vibe.naver.com/album/8482315</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8474944"/>
         <updated>2022-12-15T22:12:24.978Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8474944" class="title"><span data-v-142135d5="" class="text"> Amasango <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4032679" class="link_artist"><span class="text">Mellow &amp; Sleazy</span></a><span>, </span></span><span><a href="/artist/4032634" class="link_artist"><span class="text">Tman Express</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bra God 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8474936</id>
-        <link href="https://vibe.naver.com/album/8474936"/>
-        <updated>2022-12-15T22:12:24.980Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8474936" class="title"><span data-v-142135d5="" class="text"> Bra God <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/201516" class="link_artist"><span class="text">Tete</span></a><span>, </span></span><span><a href="/artist/2478399" class="link_artist"><span class="text">Thakzin</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-12-16T08:15:31.753Z</updated>
+    <updated>2022-12-16T09:12:27.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[World Is Mine 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8462520</id>
+        <link href="https://vibe.naver.com/album/8462520"/>
+        <updated>2022-12-16T09:12:14.820Z</updated>
+        <content type="html"><![CDATA[Lady&nbsp;Bri]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1990something (Desert Star Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8449296</id>
+        <link href="https://vibe.naver.com/album/8449296"/>
+        <updated>2022-12-16T09:12:14.831Z</updated>
+        <content type="html"><![CDATA[Sub-Radio]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ordinary World 업데이트]]></title>
         <id>https://vibe.naver.com/album/8439709</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8431456"/>
         <updated>2022-12-14T03:17:04.505Z</updated>
         <content type="html"><![CDATA[Olly Murs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Girl Like Me 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8433198</id>
-        <link href="https://vibe.naver.com/album/8433198"/>
-        <updated>2022-12-14T03:17:04.507Z</updated>
-        <content type="html"><![CDATA[Dove Cameron]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Runaway 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8434320</id>
-        <link href="https://vibe.naver.com/album/8434320"/>
-        <updated>2022-12-14T03:17:04.509Z</updated>
-        <content type="html"><![CDATA[Daniel Seavey]]></content>
     </entry>
 </feed>

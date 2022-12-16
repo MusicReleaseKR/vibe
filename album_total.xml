@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-16T18:15:28.751Z</updated>
+    <updated>2022-12-16T19:10:21.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Dont Care 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8495188</id>
+        <link href="https://vibe.naver.com/album/8495188"/>
+        <updated>2022-12-16T19:10:20.925Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8495188" class="title"><span data-v-142135d5="" class="text"> I Dont Care <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4787941" class="link_artist"><span class="text">LesQuia</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Her kommer jula 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8495187</id>
+        <link href="https://vibe.naver.com/album/8495187"/>
+        <updated>2022-12-16T19:10:20.927Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8495187" class="title"><span data-v-142135d5="" class="text"> Her kommer jula <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4043777" class="link_artist"><span class="text">Alexander Juul</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Two Chants From Greece 업데이트]]></title>
         <id>https://vibe.naver.com/album/8494800</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8469386"/>
         <updated>2022-12-16T15:14:24.147Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8469386" class="title"><span data-v-142135d5="" class="text"> Temas <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5883535" class="link_artist"><span class="text">Mayo Lopez</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vi Är Alla Olika Därför Är Vi Inte Olika 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8469385</id>
-        <link href="https://vibe.naver.com/album/8469385"/>
-        <updated>2022-12-16T15:14:24.148Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8469385" class="title"><span data-v-142135d5="" class="text"> Vi Är Alla Olika Därför Är Vi Inte Olika <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5940981" class="link_artist"><span class="text">Yellow Branda</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heartbeat 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8469384</id>
-        <link href="https://vibe.naver.com/album/8469384"/>
-        <updated>2022-12-16T15:14:24.150Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8469384" class="title"><span data-v-142135d5="" class="text"> Heartbeat <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5940982" class="link_artist"><span class="text">Emiwise</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-17T12:20:18.416Z</updated>
+    <updated>2022-12-17T13:14:14.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ngàn Năm Sau 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8497529</id>
+        <link href="https://vibe.naver.com/album/8497529"/>
+        <updated>2022-12-17T13:14:14.146Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8497529" class="title"><span data-v-142135d5="" class="text"> Ngàn Năm Sau <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4564039" class="link_artist"><span class="text">TConk</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Abel Visconti: Dúos Que Llevo En El Alma Y El Corazón (Volumen II) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8497366</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8482590"/>
         <updated>2022-12-17T03:13:14.189Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8482590" class="title"><span data-v-142135d5="" class="text"> 서툰사랑 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1200833" class="link_artist"><span class="text">PIANOid</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEATHER REPORT Instrumentals 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8482494</id>
-        <link href="https://vibe.naver.com/album/8482494"/>
-        <updated>2022-12-17T09:11:41.972Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8482494" class="title"><span data-v-142135d5="" class="text"> WEATHER REPORT Instrumentals <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/464423" class="link_artist"><span class="text">Slom</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

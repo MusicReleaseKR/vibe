@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-19T15:15:12.433Z</updated>
+    <updated>2022-12-19T16:19:21.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Ditto 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -929,13 +929,6 @@
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8499595" class="title"><span data-v-142135d5="" class="text"> Chunni Ma Sitare <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1759635" class="link_artist"><span class="text">Masoom Sharma</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[יא חביבי יאללה 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8499594</id>
-        <link href="https://vibe.naver.com/album/8499594"/>
-        <updated>2022-12-19T15:15:11.815Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8499594" class="title"><span data-v-142135d5="" class="text"> יא חביבי יאללה <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3683311" class="link_artist"><span class="text">היוצרים</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Patna Shahar Vikhe Bhav Levo (Streaming Ver.) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8499593</id>
         <link href="https://vibe.naver.com/album/8499593"/>
@@ -1053,5 +1046,12 @@
         <link href="https://vibe.naver.com/album/8499576"/>
         <updated>2022-12-19T15:15:11.833Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8499576" class="title"><span data-v-142135d5="" class="text"> Aasteen Ke Saanp <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5956651" class="link_artist"><span class="text">JmanShouts</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Zoo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8499575</id>
+        <link href="https://vibe.naver.com/album/8499575"/>
+        <updated>2022-12-19T16:19:21.085Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8499575" class="title"><span data-v-142135d5="" class="text"> The Zoo <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1937658" class="link_artist"><span class="text">Nelly Aligizaki</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

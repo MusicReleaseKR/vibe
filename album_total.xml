@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-20T05:12:02.639Z</updated>
+    <updated>2022-12-20T06:17:34.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blanca Navidad 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8523164</id>
+        <link href="https://vibe.naver.com/album/8523164"/>
+        <updated>2022-12-20T06:17:34.072Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8523164" class="title"><span data-v-142135d5="" class="text"> Blanca Navidad <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3666884" class="link_artist"><span class="text">Kenia OS</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[12월 3주차] 우키팝의 POP CHART PARTY 업데이트]]></title>
         <id>https://vibe.naver.com/album/8521822</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8504593"/>
         <updated>2022-12-20T03:13:40.582Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8504593" class="title"><span data-v-142135d5="" class="text"> Turbo <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1751375" class="link_artist"><span class="text">Kelow LaTesha</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Crooked Smile 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8504592</id>
-        <link href="https://vibe.naver.com/album/8504592"/>
-        <updated>2022-12-20T03:13:40.587Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8504592" class="title"><span data-v-142135d5="" class="text"> Crooked Smile <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5959287" class="link_artist"><span class="text">Kathy Sier</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

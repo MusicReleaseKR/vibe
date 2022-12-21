@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-21T22:11:48.823Z</updated>
+    <updated>2022-12-21T23:13:41.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Live Forever 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8548706</id>
+        <link href="https://vibe.naver.com/album/8548706"/>
+        <updated>2022-12-21T23:13:40.428Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8548706" class="title"><span data-v-142135d5="" class="text"> Live Forever <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1625919" class="link_artist"><span class="text">Brady Watt</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[House Party Mix (2022) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8548663</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8533129"/>
         <updated>2022-12-21T15:13:19.543Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8533129" class="title"><span data-v-142135d5="" class="text"> La mia storia <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5835368" class="link_artist"><span class="text">Capo Marocchino</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sataa lunta 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8533128</id>
-        <link href="https://vibe.naver.com/album/8533128"/>
-        <updated>2022-12-21T15:13:19.544Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8533128" class="title"><span data-v-142135d5="" class="text"> Sataa lunta <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5971935" class="link_artist"><span class="text">Ähtärin sudet</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

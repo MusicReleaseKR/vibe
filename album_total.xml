@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-22T05:11:49.261Z</updated>
+    <updated>2022-12-22T06:16:10.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Night I Miss You 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8549017</id>
+        <link href="https://vibe.naver.com/album/8549017"/>
+        <updated>2022-12-22T06:16:10.216Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8549017" class="title"><span data-v-142135d5="" class="text"> The Night I Miss You <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/165171" class="link_artist"><span class="text">Fiona Sit</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하나님사랑 노래 업데이트]]></title>
         <id>https://vibe.naver.com/album/8548949</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8545342"/>
         <updated>2022-12-22T03:13:39.546Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8545342" class="title"><span data-v-142135d5="" class="text"> 알쏭달쏭 캐치! 티니핑 성탄절 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4943619" class="link_artist"><span class="text">캐치! 티니핑</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈이 없지 가오가 없냐 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8545341</id>
-        <link href="https://vibe.naver.com/album/8545341"/>
-        <updated>2022-12-22T03:13:39.547Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8545341" class="title"><span data-v-142135d5="" class="text"> 돈이 없지 가오가 없냐 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4952110" class="link_artist"><span class="text">풍운</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

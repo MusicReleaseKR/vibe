@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-22T06:16:10.980Z</updated>
+    <updated>2022-12-22T07:12:15.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[The Bloom : UTOPIA] The Borders of Utopia 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -16,7 +16,7 @@
         <id>https://vibe.naver.com/album/8545237</id>
         <link href="https://vibe.naver.com/album/8545237"/>
         <updated>2022-12-22T03:13:16.937Z</updated>
-        <content type="html"><![CDATA[하현우 (국카스텐)]]></content>
+        <content type="html"><![CDATA[윤일상]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제주도 품에 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Aimer]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Mittar Pyare Nu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8549141</id>
+        <link href="https://vibe.naver.com/album/8549141"/>
+        <updated>2022-12-22T07:12:14.236Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8549141" class="title"><span data-v-142135d5="" class="text"> Mittar Pyare Nu <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3323245" class="link_artist"><span class="text">Gurcharan Singh</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Night I Miss You 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8549017</id>
         <link href="https://vibe.naver.com/album/8549017"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8545343"/>
         <updated>2022-12-22T03:13:39.545Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8545343" class="title"><span data-v-142135d5="" class="text"> 성탄 메들리 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/2882973" class="link_artist"><span class="text">The Worship Able(더 워십 에이블)</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알쏭달쏭 캐치! 티니핑 성탄절 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8545342</id>
-        <link href="https://vibe.naver.com/album/8545342"/>
-        <updated>2022-12-22T03:13:39.546Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8545342" class="title"><span data-v-142135d5="" class="text"> 알쏭달쏭 캐치! 티니핑 성탄절 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4943619" class="link_artist"><span class="text">캐치! 티니핑</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

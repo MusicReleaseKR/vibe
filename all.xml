@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-23T10:13:43.883Z</updated>
+    <updated>2022-12-23T11:10:48.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[예쁨 가득한 Eve 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Honey]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Boys & Girls Collection 2022 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8550596</id>
+        <link href="https://vibe.naver.com/album/8550596"/>
+        <updated>2022-12-23T11:10:47.901Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8550596" class="title"><span data-v-142135d5="" class="text"> Boys &amp; Girls Collection 2022 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Christmas Classic 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8550534</id>
         <link href="https://vibe.naver.com/album/8550534"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8549562"/>
         <updated>2022-12-22T15:13:40.290Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8549562" class="title"><span data-v-142135d5="" class="text"> Ode to Joy Piano Variation (From Symphony No. 9, Op. 125, Arr. for Piano by Svetoslav Karparov) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5666281" class="link_artist"><span class="text">Gabriele Bagnati</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amigos para Siempre (Versión Acústica) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8549561</id>
-        <link href="https://vibe.naver.com/album/8549561"/>
-        <updated>2022-12-22T15:13:40.292Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8549561" class="title"><span data-v-142135d5="" class="text"> Amigos para Siempre (Versión Acústica) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5344079" class="link_artist"><span class="text">Los Acústicos</span></a><span>, </span></span><span><a href="/artist/1584490" class="link_artist"><span class="text">Gines Gonzalez</span></a><span>, </span></span><span><a href="/artist/2714441" class="link_artist"><span class="text">Riki RIvera</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

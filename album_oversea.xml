@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2022-12-23T07:11:34.728Z</updated>
+    <updated>2022-12-23T08:15:51.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Call On Me (SG's Dub Edit) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8548491</id>
+        <link href="https://vibe.naver.com/album/8548491"/>
+        <updated>2022-12-23T03:14:06.023Z</updated>
+        <content type="html"><![CDATA[SG Lewis]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dancing's Done 업데이트]]></title>
         <id>https://vibe.naver.com/album/8523163</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[Ashley Park]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Call On Me (SG's Dub Edit) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8548491</id>
-        <link href="https://vibe.naver.com/album/8548491"/>
-        <updated>2022-12-23T03:14:06.023Z</updated>
-        <content type="html"><![CDATA[SG Lewis]]></content>
+        <title type="html"><![CDATA[WE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8003849</id>
+        <link href="https://vibe.naver.com/album/8003849"/>
+        <updated>2022-12-23T08:15:41.123Z</updated>
+        <content type="html"><![CDATA[BOY STORY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SZNZ: Winter 업데이트]]></title>
@@ -46,6 +53,13 @@
         <link href="https://vibe.naver.com/album/8433617"/>
         <updated>2022-12-23T03:14:06.023Z</updated>
         <content type="html"><![CDATA[Headie One]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[没什么能给你 (Nothing With Me) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8548865</id>
+        <link href="https://vibe.naver.com/album/8548865"/>
+        <updated>2022-12-23T08:15:41.125Z</updated>
+        <content type="html"><![CDATA[레이(LAY)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Baby (Cyril Kamer Remix) 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8524626"/>
         <updated>2022-12-21T03:13:55.433Z</updated>
         <content type="html"><![CDATA[Honey]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVO TOAST 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8468346</id>
-        <link href="https://vibe.naver.com/album/8468346"/>
-        <updated>2022-12-20T03:13:29.262Z</updated>
-        <content type="html"><![CDATA[Clinton Kane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hallelujah 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8454558</id>
-        <link href="https://vibe.naver.com/album/8454558"/>
-        <updated>2022-12-20T03:13:29.263Z</updated>
-        <content type="html"><![CDATA[Cian Ducrot]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-23T23:12:31.118Z</updated>
+    <updated>2022-12-24T00:54:08.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pentiment (Original Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8551387</id>
+        <link href="https://vibe.naver.com/album/8551387"/>
+        <updated>2022-12-24T00:54:07.240Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8551387" class="title"><span data-v-142135d5="" class="text"> Pentiment (Original Soundtrack) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4360599" class="link_artist"><span class="text">Alkemie</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Đưa Tay Anh Nắm 업데이트]]></title>
         <id>https://vibe.naver.com/album/8551218</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8549866"/>
         <updated>2022-12-23T15:12:27.465Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8549866" class="title"><span data-v-142135d5="" class="text"> Dance Party Playlist 2023 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3525254" class="link_artist"><span class="text">DoctorSpook</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winter Dystopia 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8549865</id>
-        <link href="https://vibe.naver.com/album/8549865"/>
-        <updated>2022-12-23T15:12:27.466Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8549865" class="title"><span data-v-142135d5="" class="text"> Winter Dystopia <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5544829" class="link_artist"><span class="text">Ne Skazhu</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

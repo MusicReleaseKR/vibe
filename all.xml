@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-26T12:21:53.383Z</updated>
+    <updated>2022-12-26T13:16:47.986Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022 Winter SMTOWN : SMCU PALACE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Junior Varsity]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Dholna 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8553057</id>
+        <link href="https://vibe.naver.com/album/8553057"/>
+        <updated>2022-12-26T13:16:47.270Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8553057" class="title"><span data-v-142135d5="" class="text"> Dholna <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5980206" class="link_artist"><span class="text">PC (Priyanka Choudhary)</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[재벌집 막내아들 OST 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8552188</id>
         <link href="https://vibe.naver.com/album/8552188"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8551754"/>
         <updated>2022-12-25T15:12:23.835Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8551754" class="title"><span data-v-142135d5="" class="text"> זכיתי <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/2189456" class="link_artist"><span class="text">מתי שריקי</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vientos de Guerra (En Directo) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8551753</id>
-        <link href="https://vibe.naver.com/album/8551753"/>
-        <updated>2022-12-25T15:12:23.836Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8551753" class="title"><span data-v-142135d5="" class="text"> Vientos de Guerra (En Directo) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/623149" class="link_artist"><span class="text">Saratoga</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-27T07:11:44.734Z</updated>
+    <updated>2022-12-27T08:15:46.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[함께 (We Will Be One) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Bruno Martini]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Riley 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8559034</id>
+        <link href="https://vibe.naver.com/album/8559034"/>
+        <updated>2022-12-27T08:15:45.909Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8559034" class="title"><span data-v-142135d5="" class="text"> Riley <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4689994" class="link_artist"><span class="text">NS Records</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pandta Tu Kita Paap 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8558446</id>
         <link href="https://vibe.naver.com/album/8558446"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8552655"/>
         <updated>2022-12-27T03:13:31.527Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8552655" class="title"><span data-v-142135d5="" class="text"> Blend <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/317418" class="link_artist"><span class="text">Saytek</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게 미련한 밤이 지나가네 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8552654</id>
-        <link href="https://vibe.naver.com/album/8552654"/>
-        <updated>2022-12-27T03:13:31.528Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8552654" class="title"><span data-v-142135d5="" class="text"> 이렇게 미련한 밤이 지나가네 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5369604" class="link_artist"><span class="text">나솜</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

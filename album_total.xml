@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-27T06:15:43.990Z</updated>
+    <updated>2022-12-27T07:11:44.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pandta Tu Kita Paap 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8558446</id>
+        <link href="https://vibe.naver.com/album/8558446"/>
+        <updated>2022-12-27T07:11:44.061Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8558446" class="title"><span data-v-142135d5="" class="text"> Pandta Tu Kita Paap <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5982814" class="link_artist"><span class="text">Laddi Badshah</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pond And Duckwee 업데이트]]></title>
         <id>https://vibe.naver.com/album/8555454</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8552654"/>
         <updated>2022-12-27T03:13:31.528Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8552654" class="title"><span data-v-142135d5="" class="text"> 이렇게 미련한 밤이 지나가네 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5369604" class="link_artist"><span class="text">나솜</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amrita 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8552653</id>
-        <link href="https://vibe.naver.com/album/8552653"/>
-        <updated>2022-12-27T03:13:31.529Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8552653" class="title"><span data-v-142135d5="" class="text"> Amrita <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5979935" class="link_artist"><span class="text">MattMoksa</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

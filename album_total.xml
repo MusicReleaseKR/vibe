@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-27T15:12:14.247Z</updated>
+    <updated>2022-12-27T16:16:13.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Müslüm Baba 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8566278</id>
+        <link href="https://vibe.naver.com/album/8566278"/>
+        <updated>2022-12-27T16:16:13.026Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8566278" class="title"><span data-v-142135d5="" class="text"> Müslüm Baba <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4343072" class="link_artist"><span class="text">Elmas</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KOKO JENGI 업데이트]]></title>
         <id>https://vibe.naver.com/album/8566217</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8553338"/>
         <updated>2022-12-27T15:12:13.667Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8553338" class="title"><span data-v-142135d5="" class="text"> Georgia on a Fast Train (Luckenbach Session) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/11893" class="link_artist"><span class="text">Billy Joe Shaver</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seja Amor 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8553337</id>
-        <link href="https://vibe.naver.com/album/8553337"/>
-        <updated>2022-12-27T15:12:13.667Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8553337" class="title"><span data-v-142135d5="" class="text"> Seja Amor <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4124372" class="link_artist"><span class="text">Vanessa García</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

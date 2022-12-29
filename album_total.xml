@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-29T16:16:28.229Z</updated>
+    <updated>2022-12-29T17:11:22.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Álfareiðin 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8616502</id>
+        <link href="https://vibe.naver.com/album/8616502"/>
+        <updated>2022-12-29T17:11:18.043Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8616502" class="title"><span data-v-142135d5="" class="text"> Álfareiðin <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4182193" class="link_artist"><span class="text">Molda</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Spécial fin d'année 2022 업데이트]]></title>
         <id>https://vibe.naver.com/album/8615504</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8592039"/>
         <updated>2022-12-29T15:12:27.763Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8592039" class="title"><span data-v-142135d5="" class="text"> Diamond <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/730946" class="link_artist"><span class="text">Clocks</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bagagedrager 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8592038</id>
-        <link href="https://vibe.naver.com/album/8592038"/>
-        <updated>2022-12-29T15:12:27.763Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8592038" class="title"><span data-v-142135d5="" class="text"> Bagagedrager <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3029493" class="link_artist"><span class="text">Spinvis</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

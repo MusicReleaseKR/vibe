@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-29T13:16:48.594Z</updated>
+    <updated>2022-12-29T14:11:45.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Tower Reworked 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8613096</id>
+        <link href="https://vibe.naver.com/album/8613096"/>
+        <updated>2022-12-29T14:11:44.704Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8613096" class="title"><span data-v-142135d5="" class="text"> The Tower Reworked <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/1216623" class="link_artist"><span class="text">Andrew Barber</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Light Year 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8613093</id>
+        <link href="https://vibe.naver.com/album/8613093"/>
+        <updated>2022-12-29T14:11:44.709Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8613093" class="title"><span data-v-142135d5="" class="text"> Light Year <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5667914" class="link_artist"><span class="text">Kitahara</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Taste of Life 업데이트]]></title>
         <id>https://vibe.naver.com/album/8607156</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8584246"/>
         <updated>2022-12-29T03:14:03.438Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8584246" class="title"><span data-v-142135d5="" class="text"> Love Is Gone <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/2396268" class="link_artist"><span class="text">Nexeri</span></a><span>, </span></span><span><a href="/artist/4014428" class="link_artist"><span class="text">IACO</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TiK ToK 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8584245</id>
-        <link href="https://vibe.naver.com/album/8584245"/>
-        <updated>2022-12-29T03:14:03.439Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8584245" class="title"><span data-v-142135d5="" class="text"> TiK ToK <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4048793" class="link_artist"><span class="text">Marco Nobel</span></a><span>, </span></span><span><a href="/artist/2207840" class="link_artist"><span class="text">Stephen Oaks</span></a><span>, </span></span><span><a href="/artist/364304" class="link_artist"><span class="text">Just Mike</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cardiac Arrest (Toby Rose Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8584243</id>
-        <link href="https://vibe.naver.com/album/8584243"/>
-        <updated>2022-12-29T03:14:03.440Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8584243" class="title"><span data-v-142135d5="" class="text"> Cardiac Arrest (Toby Rose Remix) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4048793" class="link_artist"><span class="text">Marco Nobel</span></a><span>, </span></span><span><a href="/artist/3515203" class="link_artist"><span class="text">HADES</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

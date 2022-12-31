@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-31T12:20:33.568Z</updated>
+    <updated>2022-12-31T13:15:03.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Khongconsuy 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8656980</id>
+        <link href="https://vibe.naver.com/album/8656980"/>
+        <updated>2022-12-31T13:15:02.715Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8656980" class="title"><span data-v-142135d5="" class="text"> Khongconsuy <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5758603" class="link_artist"><span class="text">Stillyoungdip</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[dobranocpapa 업데이트]]></title>
         <id>https://vibe.naver.com/album/8656978</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8615399"/>
         <updated>2022-12-30T15:12:31.324Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8615399" class="title"><span data-v-142135d5="" class="text"> Blue Tunes Mega Pack, Vol. 6 (Download Ver.) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What da Funk 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8615397</id>
-        <link href="https://vibe.naver.com/album/8615397"/>
-        <updated>2022-12-30T15:12:31.325Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8615397" class="title"><span data-v-142135d5="" class="text"> What da Funk <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/103362" class="link_artist"><span class="text">Mamasweed</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

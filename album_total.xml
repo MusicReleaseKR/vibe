@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-31T04:14:37.495Z</updated>
+    <updated>2022-12-31T05:11:12.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lider Del Genocidio 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8651989</id>
+        <link href="https://vibe.naver.com/album/8651989"/>
+        <updated>2022-12-31T05:11:12.328Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8651989" class="title"><span data-v-142135d5="" class="text"> Lider Del Genocidio <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5743316" class="link_artist"><span class="text">Doble Imperio</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hardi Ke Pidhwa 업데이트]]></title>
         <id>https://vibe.naver.com/album/8649892</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8615363"/>
         <updated>2022-12-30T15:12:31.360Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8615363" class="title"><span data-v-142135d5="" class="text"> Incandescent <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/2635504" class="link_artist"><span class="text">Julien Ash</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Going Bad 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8615362</id>
-        <link href="https://vibe.naver.com/album/8615362"/>
-        <updated>2022-12-30T15:12:31.360Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8615362" class="title"><span data-v-142135d5="" class="text"> Going Bad <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4953546" class="link_artist"><span class="text">Xoluvatake</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

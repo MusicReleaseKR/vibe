@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2022-12-31T09:11:42.400Z</updated>
+    <updated>2022-12-31T10:11:45.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Why Why Why 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8656584</id>
+        <link href="https://vibe.naver.com/album/8656584"/>
+        <updated>2022-12-31T10:11:44.921Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8656584" class="title"><span data-v-142135d5="" class="text"> Why Why Why <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/315273" class="link_artist"><span class="text">잭슨(Jackson Wang)</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hoy (Feat. Teylor, Biig Tiime, El Danny & Taipan) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8655125</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8615395"/>
         <updated>2022-12-30T15:12:31.329Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8615395" class="title"><span data-v-142135d5="" class="text"> 1400 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3986481" class="link_artist"><span class="text">Slimso</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In A Million Years (10 Year Anniversary Edition) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8615394</id>
-        <link href="https://vibe.naver.com/album/8615394"/>
-        <updated>2022-12-30T15:12:31.337Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8615394" class="title"><span data-v-142135d5="" class="text"> In A Million Years (10 Year Anniversary Edition) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/228799" class="link_artist"><span class="text">Last Dinosaurs</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

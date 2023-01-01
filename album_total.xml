@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-01T11:10:04.445Z</updated>
+    <updated>2023-01-01T12:21:13.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rabeh Saqer 2022 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8657466</id>
+        <link href="https://vibe.naver.com/album/8657466"/>
+        <updated>2023-01-01T12:21:13.218Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8657466" class="title"><span data-v-142135d5="" class="text"> Rabeh Saqer 2022 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/620042" class="link_artist"><span class="text">Rabeh Saqer</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bailantai LIVE 업데이트]]></title>
         <id>https://vibe.naver.com/album/8657382</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8639338"/>
         <updated>2022-12-31T15:11:51.781Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8639338" class="title"><span data-v-142135d5="" class="text"> Do Eyes <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5436876" class="link_artist"><span class="text">2Hoang</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ANH DAU 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8639337</id>
-        <link href="https://vibe.naver.com/album/8639337"/>
-        <updated>2022-12-31T15:11:51.782Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8639337" class="title"><span data-v-142135d5="" class="text"> ANH DAU <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5482341" class="link_artist"><span class="text">younghao</span></a><span>, </span></span><span><a href="/artist/4730407" class="link_artist"><span class="text">VCC Left Hand</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

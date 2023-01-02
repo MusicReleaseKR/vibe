@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-02T20:13:00.791Z</updated>
+    <updated>2023-01-02T21:11:07.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[NewJeans 'OMG' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -999,6 +999,13 @@
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8657720" class="title"><span data-v-142135d5="" class="text"> Corridors <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4692972" class="link_artist"><span class="text">Limbes</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Labhar Hamar Kata Rakhela 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8658639</id>
+        <link href="https://vibe.naver.com/album/8658639"/>
+        <updated>2023-01-02T21:11:06.266Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658639" class="title"><span data-v-142135d5="" class="text"> Labhar Hamar Kata Rakhela <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4440982" class="link_artist"><span class="text">Amit Kumar Tiwari</span></a><span>, </span></span><span><a href="/artist/2424629" class="link_artist"><span class="text">Neha Raj</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Tremor 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8658632</id>
         <link href="https://vibe.naver.com/album/8658632"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8658502"/>
         <updated>2023-01-02T17:11:10.314Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658502" class="title"><span data-v-142135d5="" class="text"> Maai Shadi Karadi Majanua Se <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3518188" class="link_artist"><span class="text">Manjeet Marshal</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khesariya Bani Bhatar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8658500</id>
-        <link href="https://vibe.naver.com/album/8658500"/>
-        <updated>2023-01-02T17:11:10.316Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658500" class="title"><span data-v-142135d5="" class="text"> Khesariya Bani Bhatar <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5293106" class="link_artist"><span class="text">Shailesh Premi</span></a><span>, </span></span><span><a href="/artist/5342527" class="link_artist"><span class="text">Gudiya Ray</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

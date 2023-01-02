@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-02T22:11:27.794Z</updated>
+    <updated>2023-01-02T23:12:11.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -300,6 +300,13 @@
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8657720" class="title"><span data-v-142135d5="" class="text"> Corridors <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4692972" class="link_artist"><span class="text">Limbes</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[In Our Time 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8658657</id>
+        <link href="https://vibe.naver.com/album/8658657"/>
+        <updated>2023-01-02T23:12:11.117Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658657" class="title"><span data-v-142135d5="" class="text"> In Our Time <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4691465" class="link_artist"><span class="text">D.C.I.</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Labhar Hamar Kata Rakhela 업데이트]]></title>
         <id>https://vibe.naver.com/album/8658639</id>
         <link href="https://vibe.naver.com/album/8658639"/>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8658504"/>
         <updated>2023-01-02T17:11:10.313Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658504" class="title"><span data-v-142135d5="" class="text"> Khesariya Chadh Jai Re Murugiya Mar Jai Re <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3737383" class="link_artist"><span class="text">Deepak Lal Yadav</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maai Shadi Karadi Majanua Se 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8658502</id>
-        <link href="https://vibe.naver.com/album/8658502"/>
-        <updated>2023-01-02T17:11:10.314Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658502" class="title"><span data-v-142135d5="" class="text"> Maai Shadi Karadi Majanua Se <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3518188" class="link_artist"><span class="text">Manjeet Marshal</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

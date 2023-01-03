@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-03T05:11:36.649Z</updated>
+    <updated>2023-01-03T06:15:11.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[멀어지자 (Feat. 강민수(AQUINAS)) (Prod. Lilkey) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[BIGTOE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[White Christmas 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8658822</id>
+        <link href="https://vibe.naver.com/album/8658822"/>
+        <updated>2023-01-03T06:15:10.326Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658822" class="title"><span data-v-142135d5="" class="text"> White Christmas <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/6063753" class="link_artist"><span class="text">dono</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Mercoledi Mattina 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8658671</id>
         <link href="https://vibe.naver.com/album/8658671"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8658052"/>
         <updated>2023-01-03T03:13:42.394Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658052" class="title"><span data-v-142135d5="" class="text"> 거기 너 있었는가 (놀라운 은혜) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4757312" class="link_artist"><span class="text">전혜선</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바이트미 OST Part 22 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8658050</id>
-        <link href="https://vibe.naver.com/album/8658050"/>
-        <updated>2023-01-03T03:13:19.858Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658050" class="title"><span data-v-142135d5="" class="text"> 바이트미 OST Part 22 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/463241" class="link_artist"><span class="text">한가빈</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

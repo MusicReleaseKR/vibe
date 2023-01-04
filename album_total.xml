@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-04T17:14:06.512Z</updated>
+    <updated>2023-01-04T18:15:32.538Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Story of Things (Original Series Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8660448</id>
+        <link href="https://vibe.naver.com/album/8660448"/>
+        <updated>2023-01-04T18:15:31.939Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8660448" class="title"><span data-v-142135d5="" class="text"> Story of Things (Original Series Soundtrack) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5727798" class="link_artist"><span class="text">Madley Blues</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Allemaal kamertjes 업데이트]]></title>
         <id>https://vibe.naver.com/album/8659840</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8659101"/>
         <updated>2023-01-04T15:14:56.008Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659101" class="title"><span data-v-142135d5="" class="text"> Kamtchatka <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4122237" class="link_artist"><span class="text">Sophie Maurin</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‎amends (VIP edit) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8659100</id>
-        <link href="https://vibe.naver.com/album/8659100"/>
-        <updated>2023-01-04T15:14:56.010Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659100" class="title"><span data-v-142135d5="" class="text"> ‎amends (VIP edit) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/3572842" class="link_artist"><span class="text">Laxcity</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

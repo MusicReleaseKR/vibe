@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-04T12:23:18.750Z</updated>
+    <updated>2023-01-04T13:19:59.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Highway Dream 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8659794</id>
+        <link href="https://vibe.naver.com/album/8659794"/>
+        <updated>2023-01-04T13:19:58.897Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659794" class="title"><span data-v-142135d5="" class="text"> Highway Dream <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/5447542" class="link_artist"><span class="text">クレア先生</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bus Stop Theme (From "Lovefully Yours Veda") 업데이트]]></title>
         <id>https://vibe.naver.com/album/8659793</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8659574"/>
         <updated>2023-01-04T08:17:09.158Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659574" class="title"><span data-v-142135d5="" class="text"> ADIÓS <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4791183" class="link_artist"><span class="text">Dudi</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Agora É Só Cachorada 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8659573</id>
-        <link href="https://vibe.naver.com/album/8659573"/>
-        <updated>2023-01-04T08:17:09.161Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659573" class="title"><span data-v-142135d5="" class="text"> Agora É Só Cachorada <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4048615" class="link_artist"><span class="text">DJ Buiu</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

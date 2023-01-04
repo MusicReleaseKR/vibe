@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-04T04:15:17.274Z</updated>
+    <updated>2023-01-04T05:12:17.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ARTIST. Hitten 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Wohdee]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Candy (Feat. Masiwei) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8659460</id>
+        <link href="https://vibe.naver.com/album/8659460"/>
+        <updated>2023-01-04T05:12:16.148Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659460" class="title"><span data-v-142135d5="" class="text"> Candy (Feat. Masiwei) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/531" class="link_artist"><span class="text">Coco Lee</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TPCMP 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8659327</id>
         <link href="https://vibe.naver.com/album/8659327"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8658810"/>
         <updated>2023-01-04T03:14:10.741Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658810" class="title"><span data-v-142135d5="" class="text"> 태교엔 잔잔한 오르골 자장가 32 <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/213107" class="link_artist"><span class="text">어쿠스틱레인(Acoustic Rain)</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 카페 센차 레플리카 (Inst.) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8658803</id>
-        <link href="https://vibe.naver.com/album/8658803"/>
-        <updated>2023-01-04T03:14:10.743Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8658803" class="title"><span data-v-142135d5="" class="text"> 뮤지컬 카페 센차 레플리카 (Inst.) <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/6063734" class="link_artist"><span class="text">점퍼즈(JUMPERZ)</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

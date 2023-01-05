@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-05T01:01:29.424Z</updated>
+    <updated>2023-01-05T02:20:04.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[INCENSE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Wohdee]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Drop It On Me 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8660493</id>
+        <link href="https://vibe.naver.com/album/8660493"/>
+        <updated>2023-01-05T02:20:03.827Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8660493" class="title"><span data-v-142135d5="" class="text"> Drop It On Me <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4727719" class="link_artist"><span class="text">RDBMX107</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Story of Things (Original Series Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8660448</id>
         <link href="https://vibe.naver.com/album/8660448"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8659102"/>
         <updated>2023-01-04T15:14:56.007Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659102" class="title"><span data-v-142135d5="" class="text"> House on Fire <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4726114" class="link_artist"><span class="text">M.A.T.T</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamtchatka 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8659101</id>
-        <link href="https://vibe.naver.com/album/8659101"/>
-        <updated>2023-01-04T15:14:56.008Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-142135d5="" href="/album/8659101" class="title"><span data-v-142135d5="" class="text"> Kamtchatka <span data-v-142135d5="" class="item"><span data-v-142135d5="" class="blind">업데이트</span></span></span><span data-v-142135d5="" class="blind">페이지로 이동</span></a><div data-v-142135d5="" class="artist"><span data-v-142135d5=""><span><a href="/artist/4122237" class="link_artist"><span class="text">Sophie Maurin</span></a><!----></span></span><span data-v-142135d5="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-06T17:16:02.650Z</updated>
+    <updated>2023-01-06T18:16:25.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[비싼 숙취 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Slani]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sunrise Theme (From "Lovefully Yours Veda") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8684191</id>
+        <link href="https://vibe.naver.com/album/8684191"/>
+        <updated>2023-01-06T18:16:24.870Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8684191" class="title"><span data-v-4b322a72="" class="text"> Sunrise Theme (From "Lovefully Yours Veda") <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/1807425" class="link_artist"><span class="text">Rahul Raj</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Meri Khushiyon Ka (From "Regina") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8684071</id>
         <link href="https://vibe.naver.com/album/8684071"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8666163"/>
         <updated>2023-01-06T15:24:45.336Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8666163" class="title"><span data-v-4b322a72="" class="text"> 99 <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/5489774" class="link_artist"><span class="text">Ulrik Eibye</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desmigando el Alma 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8666162</id>
-        <link href="https://vibe.naver.com/album/8666162"/>
-        <updated>2023-01-06T15:24:45.337Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8666162" class="title"><span data-v-4b322a72="" class="text"> Desmigando el Alma <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/71164" class="link_artist"><span class="text">Pina</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

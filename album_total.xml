@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-06T06:16:28.056Z</updated>
+    <updated>2023-01-06T07:12:19.327Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Check (Feat. Big Yavo) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8680551</id>
+        <link href="https://vibe.naver.com/album/8680551"/>
+        <updated>2023-01-06T07:12:18.499Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8680551" class="title"><span data-v-4b322a72="" class="text"> Check (Feat. Big Yavo) <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/4716828" class="link_artist"><span class="text">BiC Fizzle</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너의 빈자리 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8680545</id>
+        <link href="https://vibe.naver.com/album/8680545"/>
+        <updated>2023-01-06T07:12:18.499Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8680545" class="title"><span data-v-4b322a72="" class="text"> 너의 빈자리 <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/6073791" class="link_artist"><span class="text">한창희</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Comandante G 업데이트]]></title>
         <id>https://vibe.naver.com/album/8679424</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8676806"/>
         <updated>2023-01-06T03:13:58.589Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8676806" class="title"><span data-v-4b322a72="" class="text"> Connect to Ground <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/5394480" class="link_artist"><span class="text">Nevernew</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live at So36 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8676805</id>
-        <link href="https://vibe.naver.com/album/8676805"/>
-        <updated>2023-01-06T03:13:58.589Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8676805" class="title"><span data-v-4b322a72="" class="text"> Live at So36 <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/1241582" class="link_artist"><span class="text">Zargenbruch</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PT FOSTERS (Slowed + Reverb) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8676804</id>
-        <link href="https://vibe.naver.com/album/8676804"/>
-        <updated>2023-01-06T03:13:58.589Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8676804" class="title"><span data-v-4b322a72="" class="text"> PT FOSTERS (Slowed + Reverb) <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/5915502" class="link_artist"><span class="text">DOOMSAY</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

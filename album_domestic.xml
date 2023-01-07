@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-01-07T08:15:33.684Z</updated>
+    <updated>2023-01-07T09:11:34.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Last Night (Feat. DD7) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8660681</id>
+        <link href="https://vibe.naver.com/album/8660681"/>
+        <updated>2023-01-07T09:11:16.502Z</updated>
+        <content type="html"><![CDATA[오왼(Owen)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금혼령, 조선 혼인 금지령 OST Part 3 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8660686</id>
+        <link href="https://vibe.naver.com/album/8660686"/>
+        <updated>2023-01-07T09:11:16.502Z</updated>
+        <content type="html"><![CDATA[김민석(멜로망스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대행사 OST Part 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8659444</id>
+        <link href="https://vibe.naver.com/album/8659444"/>
+        <updated>2023-01-07T09:11:16.510Z</updated>
+        <content type="html"><![CDATA[Johnny Stimson]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[딴딴따단 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8681051</id>
+        <link href="https://vibe.naver.com/album/8681051"/>
+        <updated>2023-01-07T09:11:16.511Z</updated>
+        <content type="html"><![CDATA[미유(Mew)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[10th Anniversary Special Single '노래여' 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8679735</id>
+        <link href="https://vibe.naver.com/album/8679735"/>
+        <updated>2023-01-07T09:11:16.511Z</updated>
+        <content type="html"><![CDATA[하모나이즈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[끝없이 업데이트]]></title>
         <id>https://vibe.naver.com/album/8660781</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/8658734"/>
         <updated>2023-01-05T09:12:46.725Z</updated>
         <content type="html"><![CDATA[BOYS PLANET]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신이했어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8660749</id>
-        <link href="https://vibe.naver.com/album/8660749"/>
-        <updated>2023-01-05T09:12:46.726Z</updated>
-        <content type="html"><![CDATA[UNEDUCATED KID]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[H1-KEY 1st Mini Album [Rose Blossom] 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8659695</id>
-        <link href="https://vibe.naver.com/album/8659695"/>
-        <updated>2023-01-05T09:12:46.727Z</updated>
-        <content type="html"><![CDATA[H1-KEY(하이키)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE REDSTRING Vol.3 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8659424</id>
-        <link href="https://vibe.naver.com/album/8659424"/>
-        <updated>2023-01-05T09:12:46.727Z</updated>
-        <content type="html"><![CDATA[더헤르츠(THE-HRTZ)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Dream Of ILY:1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8658836</id>
-        <link href="https://vibe.naver.com/album/8658836"/>
-        <updated>2023-01-05T09:12:46.727Z</updated>
-        <content type="html"><![CDATA[아일리원(ILY:1)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Winter 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8358773</id>
-        <link href="https://vibe.naver.com/album/8358773"/>
-        <updated>2023-01-05T09:12:46.729Z</updated>
-        <content type="html"><![CDATA[박현서]]></content>
     </entry>
 </feed>

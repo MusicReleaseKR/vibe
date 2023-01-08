@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-01-08T02:42:49.463Z</updated>
+    <updated>2023-01-08T03:13:35.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Choices 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8678811</id>
+        <link href="https://vibe.naver.com/album/8678811"/>
+        <updated>2023-01-08T03:13:24.311Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Radio 업데이트]]></title>
         <id>https://vibe.naver.com/album/8665183</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8546521"/>
         <updated>2023-01-03T03:13:30.946Z</updated>
         <content type="html"><![CDATA[Hurray For The Riff Raff]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Skip 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8615392</id>
-        <link href="https://vibe.naver.com/album/8615392"/>
-        <updated>2023-01-03T03:13:30.955Z</updated>
-        <content type="html"><![CDATA[Slani]]></content>
     </entry>
 </feed>

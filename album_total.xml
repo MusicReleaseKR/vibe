@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-08T18:14:15.278Z</updated>
+    <updated>2023-01-08T19:10:07.265Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Story of Things (Original Background Score) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8715126</id>
+        <link href="https://vibe.naver.com/album/8715126"/>
+        <updated>2023-01-08T19:10:06.325Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8715126" class="title"><span data-v-4b322a72="" class="text"> Story of Things (Original Background Score) <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/5727798" class="link_artist"><span class="text">Madley Blues</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free 03 업데이트]]></title>
         <id>https://vibe.naver.com/album/8714957</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8697907"/>
         <updated>2023-01-08T15:12:13.167Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8697907" class="title"><span data-v-4b322a72="" class="text"> Carmin <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/6081369" class="link_artist"><span class="text">Twoosty Mayonez</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[היי אבא (תפילה) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8697905</id>
-        <link href="https://vibe.naver.com/album/8697905"/>
-        <updated>2023-01-08T15:12:13.167Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8697905" class="title"><span data-v-4b322a72="" class="text"> היי אבא (תפילה) <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/2077926" class="link_artist"><span class="text">סי היימן</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

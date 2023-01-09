@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-09T19:10:45.002Z</updated>
+    <updated>2023-01-09T20:14:47.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Suavecito 50 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8726507</id>
+        <link href="https://vibe.naver.com/album/8726507"/>
+        <updated>2023-01-09T20:14:46.845Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8726507" class="title"><span data-v-4b322a72="" class="text"> Suavecito 50 <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/6095161" class="link_artist"><span class="text">Sandy G &amp; Mario O</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Switch Borderline 업데이트]]></title>
         <id>https://vibe.naver.com/album/8726309</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8715054"/>
         <updated>2023-01-09T15:18:32.796Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8715054" class="title"><span data-v-4b322a72="" class="text"> Hindi Hip Hop <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dada Kondke Trap Mix - Single 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8715053</id>
-        <link href="https://vibe.naver.com/album/8715053"/>
-        <updated>2023-01-09T15:18:32.797Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8715053" class="title"><span data-v-4b322a72="" class="text"> Dada Kondke Trap Mix - Single <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

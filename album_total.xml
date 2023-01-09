@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-09T15:18:33.400Z</updated>
+    <updated>2023-01-09T16:22:25.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Muốn Ôm Lấy Em 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8724321</id>
+        <link href="https://vibe.naver.com/album/8724321"/>
+        <updated>2023-01-09T16:22:24.844Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8724321" class="title"><span data-v-4b322a72="" class="text"> Muốn Ôm Lấy Em <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/3209469" class="link_artist"><span class="text">Kha</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[خلصت مابينكو انا مش فاضيلكو ( حلك بقي من غلك ) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8723706</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8715052"/>
         <updated>2023-01-09T15:18:32.797Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8715052" class="title"><span data-v-4b322a72="" class="text"> In The Darkest Place / Painted From Memory / Anyone Who Had A Heart (Live) <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/622" class="link_artist"><span class="text">Elvis Costello</span></a><span>, </span></span><span><a href="/artist/2166" class="link_artist"><span class="text">Burt Bacharach</span></a><span>, </span></span><span><a href="/artist/816416" class="link_artist"><span class="text">Steve Nieve</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ca va vite 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8715051</id>
-        <link href="https://vibe.naver.com/album/8715051"/>
-        <updated>2023-01-09T15:18:32.798Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8715051" class="title"><span data-v-4b322a72="" class="text"> Ca va vite <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/5489650" class="link_artist"><span class="text">JB</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-10T23:13:12.660Z</updated>
+    <updated>2023-01-11T01:00:46.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tu Mundo 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8728039</id>
+        <link href="https://vibe.naver.com/album/8728039"/>
+        <updated>2023-01-11T01:00:45.805Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8728039" class="title"><span data-v-4b322a72="" class="text"> Tu Mundo <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/200878" class="link_artist"><span class="text">Robi</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[På kanten 업데이트]]></title>
         <id>https://vibe.naver.com/album/8727756</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8724816"/>
         <updated>2023-01-10T15:19:22.067Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8724816" class="title"><span data-v-4b322a72="" class="text"> Eu Não Preciso de Amor <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/1777054" class="link_artist"><span class="text">Altamira</span></a><span>, </span></span><span><a href="/artist/5794293" class="link_artist"><span class="text">Duarte D.A.T</span></a><span>, </span></span><span><a href="/artist/5924243" class="link_artist"><span class="text">Luathug</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gangland 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8724814</id>
-        <link href="https://vibe.naver.com/album/8724814"/>
-        <updated>2023-01-10T15:19:22.069Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-4b322a72="" href="/album/8724814" class="title"><span data-v-4b322a72="" class="text"> Gangland <span data-v-4b322a72="" class="item"><span data-v-4b322a72="" class="blind">업데이트</span></span></span><span data-v-4b322a72="" class="blind">페이지로 이동</span></a><div data-v-4b322a72="" class="artist"><span data-v-4b322a72=""><span><a href="/artist/2802634" class="link_artist"><span class="text">Street Active</span></a><span>, </span></span><span><a href="/artist/2802636" class="link_artist"><span class="text">Swifty Blue</span></a><span>, </span></span><span><a href="/artist/2611722" class="link_artist"><span class="text">YeloHill</span></a><!----></span></span><span data-v-4b322a72="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

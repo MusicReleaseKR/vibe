@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-12T15:22:22.349Z</updated>
+    <updated>2023-01-12T16:32:24.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dolce & Gabbana 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8732435</id>
+        <link href="https://vibe.naver.com/album/8732435"/>
+        <updated>2023-01-12T16:32:23.448Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8732435" class="title"><span data-v-69ff5208="" class="text"> Dolce &amp; Gabbana <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2822469" class="link_artist"><span class="text">Himra</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Free (Do What U Want) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8732232</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8732184"/>
         <updated>2023-01-12T15:22:21.607Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8732184" class="title"><span data-v-69ff5208="" class="text"> 1664 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4775256" class="link_artist"><span class="text">Belmondawg</span></a><span>, </span></span><span><a href="/artist/5540721" class="link_artist"><span class="text">Profeat</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VANDAAG NOG WEL 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8732183</id>
-        <link href="https://vibe.naver.com/album/8732183"/>
-        <updated>2023-01-12T15:22:21.608Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8732183" class="title"><span data-v-69ff5208="" class="text"> VANDAAG NOG WEL <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2984510" class="link_artist"><span class="text">Fleddy Melculy </span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

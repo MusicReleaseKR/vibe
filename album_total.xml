@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-12T01:02:11.844Z</updated>
+    <updated>2023-01-12T02:39:34.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Thrones of Blood 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8731326</id>
+        <link href="https://vibe.naver.com/album/8731326"/>
+        <updated>2023-01-12T02:39:33.676Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8731326" class="title"><span data-v-69ff5208="" class="text"> Thrones of Blood <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/366363" class="link_artist"><span class="text">Sullivan King</span></a><span>, </span></span><span><a href="/artist/1568520" class="link_artist"><span class="text">Wooli</span></a><span>, </span></span><span><a href="/artist/401799" class="link_artist"><span class="text">Ray Volpe</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweat You Out My System 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8731269</id>
+        <link href="https://vibe.naver.com/album/8731269"/>
+        <updated>2023-01-12T02:39:33.677Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8731269" class="title"><span data-v-69ff5208="" class="text"> Sweat You Out My System <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3649045" class="link_artist"><span class="text">MAY-A</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tactique 업데이트]]></title>
         <id>https://vibe.naver.com/album/8731143</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8727628"/>
         <updated>2023-01-11T15:28:41.819Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8727628" class="title"><span data-v-69ff5208="" class="text"> Orchaostre 2 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3044485" class="link_artist"><span class="text">WuW</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bocas Do Mundo 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8727627</id>
-        <link href="https://vibe.naver.com/album/8727627"/>
-        <updated>2023-01-11T15:28:41.820Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8727627" class="title"><span data-v-69ff5208="" class="text"> Bocas Do Mundo <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2160235" class="link_artist"><span class="text">Sara Correia</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Marissa 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8727626</id>
-        <link href="https://vibe.naver.com/album/8727626"/>
-        <updated>2023-01-11T15:28:41.821Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8727626" class="title"><span data-v-69ff5208="" class="text"> Marissa <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3072474" class="link_artist"><span class="text">Bony Macaroni</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

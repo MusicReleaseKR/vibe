@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-12T03:13:33.321Z</updated>
+    <updated>2023-01-12T04:15:27.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[사장님을 잠금해제 OST Part 5 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[21 Lil Harold]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Christmas Snow 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8731439</id>
+        <link href="https://vibe.naver.com/album/8731439"/>
+        <updated>2023-01-12T04:15:26.586Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8731439" class="title"><span data-v-69ff5208="" class="text"> Christmas Snow <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5154034" class="link_artist"><span class="text">YAOCHEN</span></a><span>, </span></span><span><a href="/artist/5167828" class="link_artist"><span class="text">Nichkhun</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cumbia Despechada 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8731377</id>
         <link href="https://vibe.naver.com/album/8731377"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8728544"/>
         <updated>2023-01-12T03:13:32.586Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8728544" class="title"><span data-v-69ff5208="" class="text"> Sweat The Small Talk <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5661684" class="link_artist"><span class="text">NEWSKI</span></a><span>, </span></span><span><a href="/artist/1699451" class="link_artist"><span class="text">Brett Newski</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2 De Janeiro 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8728543</id>
-        <link href="https://vibe.naver.com/album/8728543"/>
-        <updated>2023-01-12T03:13:32.587Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8728543" class="title"><span data-v-69ff5208="" class="text"> 2 De Janeiro <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3762769" class="link_artist"><span class="text">Linearwave</span></a><span>, </span></span><span><a href="/artist/4777212" class="link_artist"><span class="text">FaOut </span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

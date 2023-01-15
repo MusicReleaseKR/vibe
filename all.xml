@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-15T02:42:04.842Z</updated>
+    <updated>2023-01-15T03:13:43.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[몽유 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8731423</id>
+        <link href="https://vibe.naver.com/album/8731423"/>
+        <updated>2023-01-15T03:13:26.072Z</updated>
+        <content type="html"><![CDATA[이츠]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Signal 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8731410</id>
+        <link href="https://vibe.naver.com/album/8731410"/>
+        <updated>2023-01-15T03:13:26.077Z</updated>
+        <content type="html"><![CDATA[유정(YooJeong)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파도 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8728397</id>
+        <link href="https://vibe.naver.com/album/8728397"/>
+        <updated>2023-01-15T03:13:26.083Z</updated>
+        <content type="html"><![CDATA[하윤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[길거리 (Feat. TAKUWA) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8731429</id>
+        <link href="https://vibe.naver.com/album/8731429"/>
+        <updated>2023-01-15T03:13:26.083Z</updated>
+        <content type="html"><![CDATA[라코스타(Lacostar)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑하는 일 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8731558</id>
+        <link href="https://vibe.naver.com/album/8731558"/>
+        <updated>2023-01-15T03:13:26.090Z</updated>
+        <content type="html"><![CDATA[한여유]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대행사 OST Part 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/8728369</id>
@@ -318,41 +353,6 @@
         <link href="https://vibe.naver.com/album/8731336"/>
         <updated>2023-01-13T03:17:14.766Z</updated>
         <content type="html"><![CDATA[유윤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laser 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8731369</id>
-        <link href="https://vibe.naver.com/album/8731369"/>
-        <updated>2023-01-13T03:17:14.768Z</updated>
-        <content type="html"><![CDATA[2D]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soul Pop City 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8728541</id>
-        <link href="https://vibe.naver.com/album/8728541"/>
-        <updated>2023-01-12T09:14:30.743Z</updated>
-        <content type="html"><![CDATA[나얼]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조선 정신과 의사 유세풍2 OST Part 1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8728494</id>
-        <link href="https://vibe.naver.com/album/8728494"/>
-        <updated>2023-01-12T09:14:30.744Z</updated>
-        <content type="html"><![CDATA[박지원 (프로미스나인)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빵댕이 (Feat. 노윤하) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8731310</id>
-        <link href="https://vibe.naver.com/album/8731310"/>
-        <updated>2023-01-12T09:14:30.753Z</updated>
-        <content type="html"><![CDATA[lobonabeat!]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roller Skate(Seoul) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8728283</id>
-        <link href="https://vibe.naver.com/album/8728283"/>
-        <updated>2023-01-12T09:14:30.754Z</updated>
-        <content type="html"><![CDATA[DOKO(도코)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flowers 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>

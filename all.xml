@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-16T18:15:13.151Z</updated>
+    <updated>2023-01-16T19:10:20.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Stamp On It - The 1st Mini Album 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Deorro]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Fairytale (Feat. Rachel Chinouriri) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8739073</id>
+        <link href="https://vibe.naver.com/album/8739073"/>
+        <updated>2023-01-16T19:10:19.597Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739073" class="title"><span data-v-69ff5208="" class="text"> Fairytale (Feat. Rachel Chinouriri) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3070544" class="link_artist"><span class="text">Mac Wetha</span></a><span>, </span></span><span><a href="/artist/2843131" class="link_artist"><span class="text">Rachel Chinouriri</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Busted 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8738641</id>
         <link href="https://vibe.naver.com/album/8738641"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8737377"/>
         <updated>2023-01-16T15:13:38.879Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737377" class="title"><span data-v-69ff5208="" class="text"> Algo Explicito <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2836596" class="link_artist"><span class="text">Crilo Champions</span></a><span>, </span></span><span><a href="/artist/1522123" class="link_artist"><span class="text">Kromo MVP</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Meet People 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8737376</id>
-        <link href="https://vibe.naver.com/album/8737376"/>
-        <updated>2023-01-16T15:13:38.879Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737376" class="title"><span data-v-69ff5208="" class="text"> Meet People <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1673423" class="link_artist"><span class="text">Livio Polini</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

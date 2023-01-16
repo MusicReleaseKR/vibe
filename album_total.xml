@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-16T08:16:51.075Z</updated>
+    <updated>2023-01-16T09:13:20.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://vibe.naver.com/album/8737465"/>
         <updated>2023-01-16T03:13:39.458Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737465" class="title"><span data-v-69ff5208="" class="text"> COMFY <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5212923" class="link_artist"><span class="text">SEOA</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이젠 너를 놓을게 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8737460</id>
+        <link href="https://vibe.naver.com/album/8737460"/>
+        <updated>2023-01-16T09:13:19.402Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737460" class="title"><span data-v-69ff5208="" class="text"> 이젠 너를 놓을게 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/460273" class="link_artist"><span class="text">에피타이저(appetizer)</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Open Your Eyes 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8737064"/>
         <updated>2023-01-15T15:12:15.557Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737064" class="title"><span data-v-69ff5208="" class="text"> Tha Zisoume Ena Xrono Akoma Kai Telos <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5369701" class="link_artist"><span class="text">Fane</span></a><span>, </span></span><span><a href="/artist/4149682" class="link_artist"><span class="text">The Bad Poetry Social Club</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Te Quiero 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8737063</id>
-        <link href="https://vibe.naver.com/album/8737063"/>
-        <updated>2023-01-15T15:12:15.559Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737063" class="title"><span data-v-69ff5208="" class="text"> Te Quiero <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/540191" class="link_artist"><span class="text">Saned</span></a><span>, </span></span><span><a href="/artist/3953270" class="link_artist"><span class="text">Garvella</span></a><span>, </span></span><span><a href="/artist/3825692" class="link_artist"><span class="text">El Jeff</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

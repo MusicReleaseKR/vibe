@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-16T07:12:49.343Z</updated>
+    <updated>2023-01-16T08:16:51.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여호와 닛시 (Feat. 서종현) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8737981</id>
+        <link href="https://vibe.naver.com/album/8737981"/>
+        <updated>2023-01-16T08:16:50.387Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737981" class="title"><span data-v-69ff5208="" class="text"> 여호와 닛시 (Feat. 서종현) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2390229" class="link_artist"><span class="text">문스타</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Eyes Ahead 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8737962</id>
+        <link href="https://vibe.naver.com/album/8737962"/>
+        <updated>2023-01-16T08:16:50.395Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737962" class="title"><span data-v-69ff5208="" class="text"> Eyes Ahead <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2766658" class="link_artist"><span class="text">Dicé</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love You in a Dream 업데이트]]></title>
         <id>https://vibe.naver.com/album/8737958</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8737063"/>
         <updated>2023-01-15T15:12:15.559Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737063" class="title"><span data-v-69ff5208="" class="text"> Te Quiero <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/540191" class="link_artist"><span class="text">Saned</span></a><span>, </span></span><span><a href="/artist/3953270" class="link_artist"><span class="text">Garvella</span></a><span>, </span></span><span><a href="/artist/3825692" class="link_artist"><span class="text">El Jeff</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teflon 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8737061</id>
-        <link href="https://vibe.naver.com/album/8737061"/>
-        <updated>2023-01-15T15:12:15.561Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737061" class="title"><span data-v-69ff5208="" class="text"> Teflon <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3087787" class="link_artist"><span class="text">Marco da Don</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SORRY 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8737060</id>
-        <link href="https://vibe.naver.com/album/8737060"/>
-        <updated>2023-01-15T15:12:15.563Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737060" class="title"><span data-v-69ff5208="" class="text"> SORRY <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4780790" class="link_artist"><span class="text">Notow</span></a><span>, </span></span><span><a href="/artist/4881324" class="link_artist"><span class="text">JaiLy</span></a><span>, </span></span><span><a href="/artist/6099098" class="link_artist"><span class="text">Bastadebe</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

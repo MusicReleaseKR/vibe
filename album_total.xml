@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-15T23:13:23.724Z</updated>
+    <updated>2023-01-16T00:59:55.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Vivo (Unplugged version) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8737438</id>
+        <link href="https://vibe.naver.com/album/8737438"/>
+        <updated>2023-01-16T00:59:55.122Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737438" class="title"><span data-v-69ff5208="" class="text"> Vivo (Unplugged version) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2226258" class="link_artist"><span class="text">Junior Cally</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[P'tit Loup ne met plus de couche 업데이트]]></title>
         <id>https://vibe.naver.com/album/8737273</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8737049"/>
         <updated>2023-01-15T15:12:15.576Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737049" class="title"><span data-v-69ff5208="" class="text"> Zorzales de Antaño / Ada Falcon <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1970770" class="link_artist"><span class="text">Ada Falcón</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Geekd 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8737048</id>
-        <link href="https://vibe.naver.com/album/8737048"/>
-        <updated>2023-01-15T15:12:15.578Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737048" class="title"><span data-v-69ff5208="" class="text"> Geekd <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2930366" class="link_artist"><span class="text">Noah Jordan</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

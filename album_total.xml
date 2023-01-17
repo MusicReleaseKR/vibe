@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-17T06:15:48.950Z</updated>
+    <updated>2023-01-17T07:12:22.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Không Hi Vọng 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8739656</id>
+        <link href="https://vibe.naver.com/album/8739656"/>
+        <updated>2023-01-17T07:12:21.363Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739656" class="title"><span data-v-69ff5208="" class="text"> Không Hi Vọng <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4997616" class="link_artist"><span class="text">Takeshi</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Acoustic Covers, Vol. 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/8739393</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8737973"/>
         <updated>2023-01-17T03:13:43.735Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737973" class="title"><span data-v-69ff5208="" class="text"> 드뷔시 베르가마스크 모음곡 (Debussy : Suite Bergamasque L.75) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5391280" class="link_artist"><span class="text">제이케이(Jay K)</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠잠히 주를 찬양 #38 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8737972</id>
-        <link href="https://vibe.naver.com/album/8737972"/>
-        <updated>2023-01-17T03:13:43.736Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737972" class="title"><span data-v-69ff5208="" class="text"> 잠잠히 주를 찬양 #38 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4935559" class="link_artist"><span class="text">로이</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

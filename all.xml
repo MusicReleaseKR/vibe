@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-17T01:00:36.123Z</updated>
+    <updated>2023-01-17T02:19:02.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Stamp On It - The 1st Mini Album 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Deorro]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BETTING 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8739259</id>
+        <link href="https://vibe.naver.com/album/8739259"/>
+        <updated>2023-01-17T02:18:59.986Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739259" class="title"><span data-v-69ff5208="" class="text"> BETTING <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/79445" class="link_artist"><span class="text">Shingo Katori</span></a><span>, </span></span><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fairytale (Feat. Rachel Chinouriri) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8739073</id>
         <link href="https://vibe.naver.com/album/8739073"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8737378"/>
         <updated>2023-01-16T15:13:38.878Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737378" class="title"><span data-v-69ff5208="" class="text"> Lovers on the Sun <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6091406" class="link_artist"><span class="text">Keira Dangar</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Algo Explicito 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8737377</id>
-        <link href="https://vibe.naver.com/album/8737377"/>
-        <updated>2023-01-16T15:13:38.879Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8737377" class="title"><span data-v-69ff5208="" class="text"> Algo Explicito <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2836596" class="link_artist"><span class="text">Crilo Champions</span></a><span>, </span></span><span><a href="/artist/1522123" class="link_artist"><span class="text">Kromo MVP</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

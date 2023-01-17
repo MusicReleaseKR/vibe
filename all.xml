@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-17T12:25:15.838Z</updated>
+    <updated>2023-01-17T13:20:25.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[니 번호가 뜨는 일 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Sam Smith]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Purest Pleasure 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8739897</id>
+        <link href="https://vibe.naver.com/album/8739897"/>
+        <updated>2023-01-17T13:20:24.956Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739897" class="title"><span data-v-69ff5208="" class="text"> Purest Pleasure <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5498732" class="link_artist"><span class="text">Amirchik</span></a><span>, </span></span><span><a href="/artist/5792745" class="link_artist"><span class="text">haru</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hardi Dusra Nam Ke 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8739890</id>
         <link href="https://vibe.naver.com/album/8739890"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8739393"/>
         <updated>2023-01-17T03:13:43.641Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739393" class="title"><span data-v-69ff5208="" class="text"> Acoustic Covers, Vol. 1 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6100430" class="link_artist"><span class="text">Greg Sharp</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BETTING 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8739259</id>
-        <link href="https://vibe.naver.com/album/8739259"/>
-        <updated>2023-01-17T02:18:59.986Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739259" class="title"><span data-v-69ff5208="" class="text"> BETTING <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/79445" class="link_artist"><span class="text">Shingo Katori</span></a><span>, </span></span><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

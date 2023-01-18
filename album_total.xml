@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-17T23:13:36.668Z</updated>
+    <updated>2023-01-18T01:03:22.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Peaceful Story 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8740256</id>
+        <link href="https://vibe.naver.com/album/8740256"/>
+        <updated>2023-01-18T01:03:21.992Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8740256" class="title"><span data-v-69ff5208="" class="text"> Peaceful Story <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/834553" class="link_artist"><span class="text">Mahmood Khan</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Porkanda Singam (Rendition) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8740200</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8738991"/>
         <updated>2023-01-17T15:12:52.247Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8738991" class="title"><span data-v-69ff5208="" class="text"> Seth <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1207997" class="link_artist"><span class="text">AD Infinitum</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lehenga Lehak Jaayi 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8738990</id>
-        <link href="https://vibe.naver.com/album/8738990"/>
-        <updated>2023-01-17T15:12:52.249Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8738990" class="title"><span data-v-69ff5208="" class="text"> Lehenga Lehak Jaayi <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/292222" class="link_artist"><span class="text">Pawan Singh</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

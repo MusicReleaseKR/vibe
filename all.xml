@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-18T04:15:38.500Z</updated>
+    <updated>2023-01-18T05:12:34.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[향 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[MAY-A]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Look At Me 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8740585</id>
+        <link href="https://vibe.naver.com/album/8740585"/>
+        <updated>2023-01-18T05:12:33.566Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8740585" class="title"><span data-v-69ff5208="" class="text"> Look At Me <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4932612" class="link_artist"><span class="text">Jay Bezzy</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[산책 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8740268</id>
         <link href="https://vibe.naver.com/album/8740268"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8739741"/>
         <updated>2023-01-18T03:14:53.528Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739741" class="title"><span data-v-69ff5208="" class="text"> That's Delicious <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2558100" class="link_artist"><span class="text">Soul Food Horns</span></a><span>, </span></span><span><a href="/artist/4472616" class="link_artist"><span class="text">.multibeat</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bittersweet Moments 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8739739</id>
-        <link href="https://vibe.naver.com/album/8739739"/>
-        <updated>2023-01-18T03:14:53.529Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8739739" class="title"><span data-v-69ff5208="" class="text"> Bittersweet Moments <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4087827" class="link_artist"><span class="text">skyswimming</span></a><span>, </span></span><span><a href="/artist/4550747" class="link_artist"><span class="text">after noon</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

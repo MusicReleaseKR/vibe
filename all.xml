@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-18T10:13:44.999Z</updated>
+    <updated>2023-01-18T11:11:17.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Chapter 0: WITH 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,27 @@
         <content type="html"><![CDATA[MAY-A]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Don't Share 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8741228</id>
+        <link href="https://vibe.naver.com/album/8741228"/>
+        <updated>2023-01-18T11:11:16.288Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8741228" class="title"><span data-v-69ff5208="" class="text"> Don't Share <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1875259" class="link_artist"><span class="text">Jass Pedhni</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamar Me Darad 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8741128</id>
+        <link href="https://vibe.naver.com/album/8741128"/>
+        <updated>2023-01-18T11:11:16.289Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8741128" class="title"><span data-v-69ff5208="" class="text"> Kamar Me Darad <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5182157" class="link_artist"><span class="text">Ravinder Raj</span></a><span>, </span></span><span><a href="/artist/6101285" class="link_artist"><span class="text">Maical Pankaj Deewana</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Motaial Badu Ae Bhauji 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8741126</id>
+        <link href="https://vibe.naver.com/album/8741126"/>
+        <updated>2023-01-18T11:11:16.289Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8741126" class="title"><span data-v-69ff5208="" class="text"> Motaial Badu Ae Bhauji <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5235976" class="link_artist"><span class="text">Kanchan Lal Yadav</span></a><span>, </span></span><span><a href="/artist/5193950" class="link_artist"><span class="text">Meenakshi Raj</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Single 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8741028</id>
         <link href="https://vibe.naver.com/album/8741028"/>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/8740266"/>
         <updated>2023-01-18T03:14:53.438Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8740266" class="title"><span data-v-69ff5208="" class="text"> Mountain <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6100830" class="link_artist"><span class="text">Brave 금정청소년수련관</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항해 (Open Sea) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8740263</id>
-        <link href="https://vibe.naver.com/album/8740263"/>
-        <updated>2023-01-18T03:14:53.439Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8740263" class="title"><span data-v-69ff5208="" class="text"> 항해 (Open Sea) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5927603" class="link_artist"><span class="text">무브(MOOB)</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Peaceful Story 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8740256</id>
-        <link href="https://vibe.naver.com/album/8740256"/>
-        <updated>2023-01-18T01:03:21.992Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8740256" class="title"><span data-v-69ff5208="" class="text"> Peaceful Story <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/834553" class="link_artist"><span class="text">Mahmood Khan</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Porkanda Singam (Rendition) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8740200</id>
-        <link href="https://vibe.naver.com/album/8740200"/>
-        <updated>2023-01-17T18:15:32.358Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8740200" class="title"><span data-v-69ff5208="" class="text"> Porkanda Singam (Rendition) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5323090" class="link_artist"><span class="text">Koshy Cherry</span></a><span>, </span></span><span><a href="/artist/2535293" class="link_artist"><span class="text">Anırudh Ravichander</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

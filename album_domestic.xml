@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-01-20T04:15:44.367Z</updated>
+    <updated>2023-01-20T05:12:39.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MOONLIGHT SUNRISE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8744504</id>
+        <link href="https://vibe.naver.com/album/8744504"/>
+        <updated>2023-01-20T05:12:19.195Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dying Message 업데이트]]></title>
         <id>https://vibe.naver.com/album/8741022</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8740652"/>
         <updated>2023-01-19T03:15:05.209Z</updated>
         <content type="html"><![CDATA[wakeuplone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Eyes, Coffee 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8739830</id>
-        <link href="https://vibe.naver.com/album/8739830"/>
-        <updated>2023-01-19T03:15:05.223Z</updated>
-        <content type="html"><![CDATA[유유지]]></content>
     </entry>
 </feed>

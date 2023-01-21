@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-21T10:12:06.091Z</updated>
+    <updated>2023-01-21T11:09:57.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[꽃처럼 (flor) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -978,6 +978,13 @@
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8746975" class="title"><span data-v-69ff5208="" class="text"> Manwal's 4:30 IST <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3884069" class="link_artist"><span class="text">Manwal</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[<불후의 명곡> - 2023 설 특집 - RE:PLAY 장윤정 편 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8746813</id>
+        <link href="https://vibe.naver.com/album/8746813"/>
+        <updated>2023-01-21T11:09:57.017Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8746813" class="title"><span data-v-69ff5208="" class="text"> &lt;불후의 명곡&gt; - 2023 설 특집 - RE:PLAY 장윤정 편 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[노저어라 (Regret Too Late) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8746807</id>
         <link href="https://vibe.naver.com/album/8746807"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8746481"/>
         <updated>2023-01-21T03:13:56.715Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8746481" class="title"><span data-v-69ff5208="" class="text"> 카페 (Cafe) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2941621" class="link_artist"><span class="text">HEY HUN(헤이훈)</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silhouette 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8746474</id>
-        <link href="https://vibe.naver.com/album/8746474"/>
-        <updated>2023-01-21T03:13:56.716Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8746474" class="title"><span data-v-69ff5208="" class="text"> Silhouette <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5480241" class="link_artist"><span class="text">Masa Takagi</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

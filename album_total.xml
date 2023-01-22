@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-22T11:11:15.009Z</updated>
+    <updated>2023-01-22T12:21:13.085Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Em Là Coffee 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8748634</id>
+        <link href="https://vibe.naver.com/album/8748634"/>
+        <updated>2023-01-22T12:21:12.490Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8748634" class="title"><span data-v-69ff5208="" class="text"> Em Là Coffee <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4522437" class="link_artist"><span class="text">Juky San</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ne Karaymış 업데이트]]></title>
         <id>https://vibe.naver.com/album/8748631</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8747540"/>
         <updated>2023-01-21T15:11:53.809Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8747540" class="title"><span data-v-69ff5208="" class="text"> גם אני <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3185256" class="link_artist"><span class="text">מיכאל</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gestão Periférica 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8747539</id>
-        <link href="https://vibe.naver.com/album/8747539"/>
-        <updated>2023-01-21T15:11:53.809Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8747539" class="title"><span data-v-69ff5208="" class="text"> Gestão Periférica <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3575783" class="link_artist"><span class="text">Mc Luciano Sp</span></a><span>, </span></span><span><a href="/artist/4021469" class="link_artist"><span class="text">Preto Prince</span></a><span>, </span></span><span><a href="/artist/3976573" class="link_artist"><span class="text">MC Gui Gomes</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-23T18:14:38.315Z</updated>
+    <updated>2023-01-23T19:10:21.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[그대가 내 안에 박혔다(그내박) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Onda Norte]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Meri Baari 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8749807</id>
+        <link href="https://vibe.naver.com/album/8749807"/>
+        <updated>2023-01-23T19:10:20.414Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8749807" class="title"><span data-v-69ff5208="" class="text"> Meri Baari <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3416855" class="link_artist"><span class="text">Iqlipse Nova</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Enchanté (TeeDee Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8749593</id>
         <link href="https://vibe.naver.com/album/8749593"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8748837"/>
         <updated>2023-01-23T15:13:51.768Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8748837" class="title"><span data-v-69ff5208="" class="text"> זכוכית <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2140757" class="link_artist"><span class="text">שני מאיו</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As de 18 Anos 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8748836</id>
-        <link href="https://vibe.naver.com/album/8748836"/>
-        <updated>2023-01-23T15:13:51.768Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8748836" class="title"><span data-v-69ff5208="" class="text"> As de 18 Anos <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6098686" class="link_artist"><span class="text">Mc Malvadão</span></a><span>, </span></span><span><a href="/artist/4844527" class="link_artist"><span class="text">DJ LD De Realengo</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

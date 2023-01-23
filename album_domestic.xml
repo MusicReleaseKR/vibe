@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-01-23T08:17:19.387Z</updated>
+    <updated>2023-01-23T09:13:22.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그대가 내 안에 박혔다(그내박) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8746607</id>
+        <link href="https://vibe.naver.com/album/8746607"/>
+        <updated>2023-01-23T09:13:03.500Z</updated>
+        <content type="html"><![CDATA[순순희(기태)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOLY 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8744295</id>
+        <link href="https://vibe.naver.com/album/8744295"/>
+        <updated>2023-01-23T09:13:03.500Z</updated>
+        <content type="html"><![CDATA[HOLYDAY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위로가 된다면 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8741007</id>
+        <link href="https://vibe.naver.com/album/8741007"/>
+        <updated>2023-01-23T09:13:03.500Z</updated>
+        <content type="html"><![CDATA[이아람]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저 멀리 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8744779</id>
+        <link href="https://vibe.naver.com/album/8744779"/>
+        <updated>2023-01-23T09:13:03.500Z</updated>
+        <content type="html"><![CDATA[INDOW(인도우)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Slow 업데이트]]></title>
         <id>https://vibe.naver.com/album/8744299</id>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/8744504"/>
         <updated>2023-01-20T05:12:19.195Z</updated>
         <content type="html"><![CDATA[TWICE(트와이스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOP ON THE TRUCK 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8740368</id>
-        <link href="https://vibe.naver.com/album/8740368"/>
-        <updated>2023-01-20T09:12:49.988Z</updated>
-        <content type="html"><![CDATA[토이고(toigo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괜찮아 (법쩐 X 스트레이(The Stray)) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8744665</id>
-        <link href="https://vibe.naver.com/album/8744665"/>
-        <updated>2023-01-20T09:12:49.988Z</updated>
-        <content type="html"><![CDATA[스트레이(The Stray)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Souly 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8739833</id>
-        <link href="https://vibe.naver.com/album/8739833"/>
-        <updated>2023-01-20T09:12:49.988Z</updated>
-        <content type="html"><![CDATA[Marv]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펑! 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8740425</id>
-        <link href="https://vibe.naver.com/album/8740425"/>
-        <updated>2023-01-20T09:12:49.988Z</updated>
-        <content type="html"><![CDATA[강시호(KANGXIHO)]]></content>
     </entry>
 </feed>

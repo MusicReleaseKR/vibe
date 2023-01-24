@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-24T13:19:34.222Z</updated>
+    <updated>2023-01-24T14:11:36.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[나는 설렜어 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[A$AP Rocky]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Graal 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8750647</id>
+        <link href="https://vibe.naver.com/album/8750647"/>
+        <updated>2023-01-24T14:11:36.169Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750647" class="title"><span data-v-69ff5208="" class="text"> Graal <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/368295" class="link_artist"><span class="text">Ne Obliviscaris</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Great Indian Kitchen (Tamil) (Original Motion Picture Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8750646</id>
         <link href="https://vibe.naver.com/album/8750646"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8750190"/>
         <updated>2023-01-23T23:12:44.559Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750190" class="title"><span data-v-69ff5208="" class="text"> LOST AT STADIUM <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5840778" class="link_artist"><span class="text">DJ Bulu</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Enchanté (TeeDee Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8749593</id>
-        <link href="https://vibe.naver.com/album/8749593"/>
-        <updated>2023-01-23T15:13:51.717Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8749593" class="title"><span data-v-69ff5208="" class="text"> Enchanté (TeeDee Remix) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2916520" class="link_artist"><span class="text">Lewis Thompson</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

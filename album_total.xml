@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-25T04:15:30.574Z</updated>
+    <updated>2023-01-25T05:11:39.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://vibe.naver.com/album/8751389"/>
         <updated>2023-01-25T03:14:02.085Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751389" class="title"><span data-v-69ff5208="" class="text"> Party <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4630304" class="link_artist"><span class="text">우노(WUNO)</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evangeline 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8751388</id>
+        <link href="https://vibe.naver.com/album/8751388"/>
+        <updated>2023-01-25T05:11:38.890Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751388" class="title"><span data-v-69ff5208="" class="text"> Evangeline <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4038956" class="link_artist"><span class="text">Stephen Sanchez</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스르륵 겨울 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8750966"/>
         <updated>2023-01-24T15:13:32.639Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750966" class="title"><span data-v-69ff5208="" class="text"> Cool or Cute <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/213229" class="link_artist"><span class="text">Zillion</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karma (Kriolu Version) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8750965</id>
-        <link href="https://vibe.naver.com/album/8750965"/>
-        <updated>2023-01-24T15:13:32.640Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750965" class="title"><span data-v-69ff5208="" class="text"> Karma (Kriolu Version) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1650734" class="link_artist"><span class="text">Lisandro Cuxi</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

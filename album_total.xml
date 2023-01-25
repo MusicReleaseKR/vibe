@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-25T11:11:37.866Z</updated>
+    <updated>2023-01-25T12:25:28.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bent Aboha 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8752028</id>
+        <link href="https://vibe.naver.com/album/8752028"/>
+        <updated>2023-01-25T12:25:27.198Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8752028" class="title"><span data-v-69ff5208="" class="text"> Bent Aboha <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5986827" class="link_artist"><span class="text">Hana Yousry</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Angane Cheyyaamodee Penne (From "Lovefully Yours Veda") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8752027</id>
+        <link href="https://vibe.naver.com/album/8752027"/>
+        <updated>2023-01-25T12:25:27.201Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8752027" class="title"><span data-v-69ff5208="" class="text"> Angane Cheyyaamodee Penne (From "Lovefully Yours Veda") <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1807425" class="link_artist"><span class="text">Rahul Raj</span></a><span>, </span></span><span><a href="/artist/4704207" class="link_artist"><span class="text">Praseetha Chalakudy</span></a><span>, </span></span><span><a href="/artist/2101220" class="link_artist"><span class="text">Vipin Xavier</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Credo che tra un po' 업데이트]]></title>
         <id>https://vibe.naver.com/album/8751967</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8751833"/>
         <updated>2023-01-25T09:12:54.784Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751833" class="title"><span data-v-69ff5208="" class="text"> MAI CREATE (Streaming Ver.) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5554826" class="link_artist"><span class="text">Mai Fuchigami</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[When You're Lonely 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8751832</id>
-        <link href="https://vibe.naver.com/album/8751832"/>
-        <updated>2023-01-25T09:12:54.786Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751832" class="title"><span data-v-69ff5208="" class="text"> When You're Lonely <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6105237" class="link_artist"><span class="text">LÉA THE LEOX</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gettin' In The Way 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8751831</id>
-        <link href="https://vibe.naver.com/album/8751831"/>
-        <updated>2023-01-25T09:12:54.787Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751831" class="title"><span data-v-69ff5208="" class="text"> Gettin' In The Way <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6105241" class="link_artist"><span class="text">Cooper T</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

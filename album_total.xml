@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-25T17:11:50.413Z</updated>
+    <updated>2023-01-25T18:15:25.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tamil Love Mix 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8754335</id>
+        <link href="https://vibe.naver.com/album/8754335"/>
+        <updated>2023-01-25T18:15:24.548Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8754335" class="title"><span data-v-69ff5208="" class="text"> Tamil Love Mix <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6106261" class="link_artist"><span class="text">Santhosh Riyo</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nowhere Game 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8753354</id>
+        <link href="https://vibe.naver.com/album/8753354"/>
+        <updated>2023-01-25T18:15:24.552Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8753354" class="title"><span data-v-69ff5208="" class="text"> Nowhere Game <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1666020" class="link_artist"><span class="text">Patrick Wolf</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lies Between Us - From THE FIRST TAKE 업데이트]]></title>
         <id>https://vibe.naver.com/album/8752161</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8751188"/>
         <updated>2023-01-25T15:12:59.850Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751188" class="title"><span data-v-69ff5208="" class="text"> Larry Hoover <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3587671" class="link_artist"><span class="text">Fly Lo</span></a><span>, </span></span><span><a href="/artist/156629" class="link_artist"><span class="text">Mike G</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acropolis 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8751187</id>
-        <link href="https://vibe.naver.com/album/8751187"/>
-        <updated>2023-01-25T15:12:59.853Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751187" class="title"><span data-v-69ff5208="" class="text"> Acropolis <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1775012" class="link_artist"><span class="text">RNS</span></a><span>, </span></span><span><a href="/artist/2126" class="link_artist"><span class="text">Onyx</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Estar & Ser 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8751186</id>
-        <link href="https://vibe.naver.com/album/8751186"/>
-        <updated>2023-01-25T15:12:59.854Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751186" class="title"><span data-v-69ff5208="" class="text"> Estar &amp; Ser <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6104927" class="link_artist"><span class="text">Calanga</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

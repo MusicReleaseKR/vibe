@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-25T03:14:02.974Z</updated>
+    <updated>2023-01-25T04:15:30.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://vibe.naver.com/album/8751406"/>
         <updated>2023-01-25T03:14:02.077Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751406" class="title"><span data-v-69ff5208="" class="text"> 휴식할 때 편안한 피아노 클래식 47 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2910830" class="link_artist"><span class="text">박 마르첼리나</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기록 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8751404</id>
+        <link href="https://vibe.naver.com/album/8751404"/>
+        <updated>2023-01-25T04:15:29.796Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751404" class="title"><span data-v-69ff5208="" class="text"> 기록 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2295663" class="link_artist"><span class="text">방현석</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[늘 Two 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8750965"/>
         <updated>2023-01-24T15:13:32.640Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750965" class="title"><span data-v-69ff5208="" class="text"> Karma (Kriolu Version) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1650734" class="link_artist"><span class="text">Lisandro Cuxi</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tokiwomitsumete (2023 Remastered) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8750964</id>
-        <link href="https://vibe.naver.com/album/8750964"/>
-        <updated>2023-01-24T15:13:32.641Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750964" class="title"><span data-v-69ff5208="" class="text"> Tokiwomitsumete (2023 Remastered) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/10589" class="link_artist"><span class="text">Itsuwa Mayumi</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

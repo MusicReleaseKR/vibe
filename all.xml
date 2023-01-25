@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-25T06:16:16.915Z</updated>
+    <updated>2023-01-25T07:17:02.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[불타는 트롯맨 1:1 라이벌전 PART 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -432,7 +432,7 @@
         <content type="html"><![CDATA[Ashley Kutcher]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Mada Tooku ni Iru / un_mute 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <title type="html"><![CDATA[WOWOW Original Animation "The Fire Hunter" Ending Theme Song / TV Animation "REVENGER" Ending Theme Song Mada Tooku ni Iru / un_mute 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/8746653</id>
         <link href="https://vibe.naver.com/album/8746653"/>
         <updated>2023-01-25T03:13:52.137Z</updated>
@@ -703,6 +703,13 @@
         <link href="https://vibe.naver.com/album/8740825"/>
         <updated>2023-01-20T03:15:33.799Z</updated>
         <content type="html"><![CDATA[Ed Sheeran]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SPIT IN MY FACE! (ThxSoMch) [Sped Up Version] 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8751748</id>
+        <link href="https://vibe.naver.com/album/8751748"/>
+        <updated>2023-01-25T07:17:01.175Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8751748" class="title"><span data-v-69ff5208="" class="text"> SPIT IN MY FACE! (ThxSoMch) [Sped Up Version] <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5477137" class="link_artist"><span class="text">sped up nightcore</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[REACT 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8750966"/>
         <updated>2023-01-24T15:13:32.639Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750966" class="title"><span data-v-69ff5208="" class="text"> Cool or Cute <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/213229" class="link_artist"><span class="text">Zillion</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Karma (Kriolu Version) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8750965</id>
-        <link href="https://vibe.naver.com/album/8750965"/>
-        <updated>2023-01-25T06:16:15.799Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8750965" class="title"><span data-v-69ff5208="" class="text"> Karma (Kriolu Version) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1650734" class="link_artist"><span class="text">Lisandro Cuxi</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

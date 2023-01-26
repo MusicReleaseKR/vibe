@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-26T10:14:04.027Z</updated>
+    <updated>2023-01-26T11:11:12.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chalaaki 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8755105</id>
+        <link href="https://vibe.naver.com/album/8755105"/>
+        <updated>2023-01-26T11:11:11.656Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755105" class="title"><span data-v-69ff5208="" class="text"> Chalaaki <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2510195" class="link_artist"><span class="text">Sucha Yaar</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[September 업데이트]]></title>
         <id>https://vibe.naver.com/album/8755066</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8754679"/>
         <updated>2023-01-26T05:12:28.500Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8754679" class="title"><span data-v-69ff5208="" class="text"> T3ARs <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4706046" class="link_artist"><span class="text">Shyla Roe</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hold Me (The Remixes) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8754678</id>
-        <link href="https://vibe.naver.com/album/8754678"/>
-        <updated>2023-01-26T05:12:28.500Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8754678" class="title"><span data-v-69ff5208="" class="text"> Hold Me (The Remixes) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2599778" class="link_artist"><span class="text">Polished</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

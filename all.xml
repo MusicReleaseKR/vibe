@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-26T18:15:27.518Z</updated>
+    <updated>2023-01-26T19:10:49.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[꿈의 거처 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Christopher Damas]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[SACRED HEART (+) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8755665</id>
+        <link href="https://vibe.naver.com/album/8755665"/>
+        <updated>2023-01-26T19:10:48.703Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755665" class="title"><span data-v-69ff5208="" class="text"> SACRED HEART (+) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2422360" class="link_artist"><span class="text">DC The Don</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Naan Pizhai X Kurumugil 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8755654</id>
         <link href="https://vibe.naver.com/album/8755654"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8755252"/>
         <updated>2023-01-26T15:13:09.458Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755252" class="title"><span data-v-69ff5208="" class="text"> Jungle <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2726733" class="link_artist"><span class="text">Arre</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revival Days 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8755251</id>
-        <link href="https://vibe.naver.com/album/8755251"/>
-        <updated>2023-01-26T15:13:09.460Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755251" class="title"><span data-v-69ff5208="" class="text"> Revival Days <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5743003" class="link_artist"><span class="text">C3 NYC</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

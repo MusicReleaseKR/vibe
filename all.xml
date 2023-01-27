@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-27T06:16:27.580Z</updated>
+    <updated>2023-01-27T07:12:08.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[이름의 장: TEMPTATION 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://vibe.naver.com/album/8754541"/>
         <updated>2023-01-27T03:13:33.875Z</updated>
         <content type="html"><![CDATA[AIMERS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지옥의 끝에서 (Vocal Ver.) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8754652</id>
+        <link href="https://vibe.naver.com/album/8754652"/>
+        <updated>2023-01-27T07:11:47.787Z</updated>
+        <content type="html"><![CDATA[쏘망(50mang)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NOW YOU SEE ME 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/8746712"/>
         <updated>2023-01-26T03:13:48.768Z</updated>
         <content type="html"><![CDATA[VEKOEL(베코엘)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버리지 못한 것들 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8751671</id>
-        <link href="https://vibe.naver.com/album/8751671"/>
-        <updated>2023-01-26T03:13:48.768Z</updated>
-        <content type="html"><![CDATA[Dumo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Gloria 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Hippie Sabotage]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Welcome 2 The Trenches 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8756905</id>
+        <link href="https://vibe.naver.com/album/8756905"/>
+        <updated>2023-01-27T07:12:07.539Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8756905" class="title"><span data-v-69ff5208="" class="text"> Welcome 2 The Trenches <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4836297" class="link_artist"><span class="text">TG Kommas</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Paciente Por Ti (Feat. Danny Ocean) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8756900</id>
+        <link href="https://vibe.naver.com/album/8756900"/>
+        <updated>2023-01-27T07:12:07.540Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8756900" class="title"><span data-v-69ff5208="" class="text"> Paciente Por Ti (Feat. Danny Ocean) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3544989" class="link_artist"><span class="text">Jambene</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tell Me Why 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8756899</id>
+        <link href="https://vibe.naver.com/album/8756899"/>
+        <updated>2023-01-27T07:12:07.542Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8756899" class="title"><span data-v-69ff5208="" class="text"> Tell Me Why <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3478222" class="link_artist"><span class="text">Enchanting</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mine 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8756897</id>
+        <link href="https://vibe.naver.com/album/8756897"/>
+        <updated>2023-01-27T07:12:07.542Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8756897" class="title"><span data-v-69ff5208="" class="text"> Mine <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4954819" class="link_artist"><span class="text">WanMor</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Afortunadamente No Eres Tú (En Vivo) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8756596</id>
         <link href="https://vibe.naver.com/album/8756596"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/8755796"/>
         <updated>2023-01-26T23:13:41.150Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755796" class="title"><span data-v-69ff5208="" class="text"> Sandman <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/487286" class="link_artist"><span class="text">Thomas Jack</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOVE 6 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8755794</id>
-        <link href="https://vibe.naver.com/album/8755794"/>
-        <updated>2023-01-26T23:13:41.152Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755794" class="title"><span data-v-69ff5208="" class="text"> DOVE 6 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2577496" class="link_artist"><span class="text">Lortex</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Te Miro A La Cara 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8755792</id>
-        <link href="https://vibe.naver.com/album/8755792"/>
-        <updated>2023-01-26T23:13:41.176Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755792" class="title"><span data-v-69ff5208="" class="text"> Te Miro A La Cara <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2416248" class="link_artist"><span class="text">Daviles de Novelda</span></a><span>, </span></span><span><a href="/artist/265936" class="link_artist"><span class="text">Abraham Mateo</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Laberinto de Pasiones 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8755788</id>
-        <link href="https://vibe.naver.com/album/8755788"/>
-        <updated>2023-01-26T23:13:41.178Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755788" class="title"><span data-v-69ff5208="" class="text"> Laberinto de Pasiones <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4034745" class="link_artist"><span class="text">L'haine</span></a><span>, </span></span><span><a href="/artist/5618724" class="link_artist"><span class="text">NormanBate$</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Galateo 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8755787</id>
-        <link href="https://vibe.naver.com/album/8755787"/>
-        <updated>2023-01-26T23:13:41.183Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8755787" class="title"><span data-v-69ff5208="" class="text"> Galateo <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5785131" class="link_artist"><span class="text">Symon</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-01-27T06:16:27.573Z</updated>
+    <updated>2023-01-27T07:12:08.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/8754541"/>
         <updated>2023-01-27T03:13:33.875Z</updated>
         <content type="html"><![CDATA[AIMERS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지옥의 끝에서 (Vocal Ver.) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8754652</id>
+        <link href="https://vibe.naver.com/album/8754652"/>
+        <updated>2023-01-27T07:11:47.787Z</updated>
+        <content type="html"><![CDATA[쏘망(50mang)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NOW YOU SEE ME 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8746712"/>
         <updated>2023-01-26T03:13:48.768Z</updated>
         <content type="html"><![CDATA[VEKOEL(베코엘)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버리지 못한 것들 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8751671</id>
-        <link href="https://vibe.naver.com/album/8751671"/>
-        <updated>2023-01-26T03:13:48.768Z</updated>
-        <content type="html"><![CDATA[Dumo]]></content>
     </entry>
 </feed>

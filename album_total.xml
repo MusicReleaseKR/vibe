@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-30T20:13:35.441Z</updated>
+    <updated>2023-01-30T21:11:18.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Upa Upa Cavalinho 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8767384</id>
+        <link href="https://vibe.naver.com/album/8767384"/>
+        <updated>2023-01-30T21:11:17.867Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8767384" class="title"><span data-v-69ff5208="" class="text"> Upa Upa Cavalinho <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2178109" class="link_artist"><span class="text">Os Hawaianos</span></a><span>, </span></span><span><a href="/artist/1685028" class="link_artist"><span class="text">Tierry</span></a><span>, </span></span><span><a href="/artist/4204597" class="link_artist"><span class="text">DG e Batidão Stronda</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Banz 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8767378</id>
+        <link href="https://vibe.naver.com/album/8767378"/>
+        <updated>2023-01-30T21:11:17.867Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8767378" class="title"><span data-v-69ff5208="" class="text"> Banz <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4109151" class="link_artist"><span class="text">Will Peters</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Othlaliya 업데이트]]></title>
         <id>https://vibe.naver.com/album/8766837</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8765491"/>
         <updated>2023-01-30T15:13:41.084Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765491" class="title"><span data-v-69ff5208="" class="text"> 6 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/3581938" class="link_artist"><span class="text">Mestizo Cabrales</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Excusas 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8765490</id>
-        <link href="https://vibe.naver.com/album/8765490"/>
-        <updated>2023-01-30T15:13:41.085Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765490" class="title"><span data-v-69ff5208="" class="text"> Excusas <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2433681" class="link_artist"><span class="text">Martin Machore</span></a><span>, </span></span><span><a href="/artist/2849268" class="link_artist"><span class="text">Mach &amp; Daddy</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Egg Song 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8765489</id>
-        <link href="https://vibe.naver.com/album/8765489"/>
-        <updated>2023-01-30T15:13:41.087Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765489" class="title"><span data-v-69ff5208="" class="text"> Egg Song <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5803130" class="link_artist"><span class="text">Hannah Blackburn</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

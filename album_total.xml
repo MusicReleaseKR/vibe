@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-30T11:11:18.942Z</updated>
+    <updated>2023-01-30T12:23:40.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beeside Kai Beeside (From "Baby Missing") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8766293</id>
+        <link href="https://vibe.naver.com/album/8766293"/>
+        <updated>2023-01-30T12:23:39.592Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8766293" class="title"><span data-v-69ff5208="" class="text"> Beeside Kai Beeside (From "Baby Missing") <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4252636" class="link_artist"><span class="text">Sparsh Arther</span></a><span>, </span></span><span><a href="/artist/5236090" class="link_artist"><span class="text">Shri Sastha</span></a><span>, </span></span><span><a href="/artist/1775309" class="link_artist"><span class="text">Chethan Kumar</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best Of 업데이트]]></title>
         <id>https://vibe.naver.com/album/8766214</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8765176"/>
         <updated>2023-01-29T15:12:10.579Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765176" class="title"><span data-v-69ff5208="" class="text"> *(struggling..) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6112836" class="link_artist"><span class="text">Predatory Void</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[contrast(Special Edition) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8765175</id>
-        <link href="https://vibe.naver.com/album/8765175"/>
-        <updated>2023-01-29T15:12:10.580Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765175" class="title"><span data-v-69ff5208="" class="text"> contrast(Special Edition) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/1524887" class="link_artist"><span class="text">Uru</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-30T13:22:48.425Z</updated>
+    <updated>2023-01-30T14:12:34.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dhhudi Chakar Karela 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8766450</id>
+        <link href="https://vibe.naver.com/album/8766450"/>
+        <updated>2023-01-30T14:12:34.102Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8766450" class="title"><span data-v-69ff5208="" class="text"> Dhhudi Chakar Karela <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6103902" class="link_artist"><span class="text">Santosh Bhardwaj</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[勿念 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8766440</id>
+        <link href="https://vibe.naver.com/album/8766440"/>
+        <updated>2023-01-30T14:12:34.103Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8766440" class="title"><span data-v-69ff5208="" class="text"> 勿念 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/4016234" class="link_artist"><span class="text">小天天</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Beeside Kai Beeside (From "Baby Missing") 업데이트]]></title>
         <id>https://vibe.naver.com/album/8766293</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8765763"/>
         <updated>2023-01-30T03:13:49.233Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765763" class="title"><span data-v-69ff5208="" class="text"> Mother of Life <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/132765" class="link_artist"><span class="text">김효정</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북극곰에게 냉장고를 보내야겠어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8765762</id>
-        <link href="https://vibe.naver.com/album/8765762"/>
-        <updated>2023-01-30T03:13:49.234Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765762" class="title"><span data-v-69ff5208="" class="text"> 북극곰에게 냉장고를 보내야겠어 <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/82908" class="link_artist"><span class="text">박라온</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[*(struggling..) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8765176</id>
-        <link href="https://vibe.naver.com/album/8765176"/>
-        <updated>2023-01-29T15:12:10.579Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765176" class="title"><span data-v-69ff5208="" class="text"> *(struggling..) <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/6112836" class="link_artist"><span class="text">Predatory Void</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

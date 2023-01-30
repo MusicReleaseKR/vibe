@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-30T16:17:28.644Z</updated>
+    <updated>2023-01-30T17:12:42.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Othlaliya 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8766837</id>
+        <link href="https://vibe.naver.com/album/8766837"/>
+        <updated>2023-01-30T17:12:41.486Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8766837" class="title"><span data-v-69ff5208="" class="text"> Othlaliya <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/2434288" class="link_artist"><span class="text">Kajal Singh</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Phool Gulab Ko Degi 업데이트]]></title>
         <id>https://vibe.naver.com/album/8766532</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8765489"/>
         <updated>2023-01-30T15:13:41.087Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765489" class="title"><span data-v-69ff5208="" class="text"> Egg Song <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5803130" class="link_artist"><span class="text">Hannah Blackburn</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Beast That Shouted Love at the Heart of the World 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8765488</id>
-        <link href="https://vibe.naver.com/album/8765488"/>
-        <updated>2023-01-30T15:13:41.089Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-69ff5208="" href="/album/8765488" class="title"><span data-v-69ff5208="" class="text"> The Beast That Shouted Love at the Heart of the World <span data-v-69ff5208="" class="item"><span data-v-69ff5208="" class="blind">업데이트</span></span></span><span data-v-69ff5208="" class="blind">페이지로 이동</span></a><div data-v-69ff5208="" class="artist"><span data-v-69ff5208=""><span><a href="/artist/5695981" class="link_artist"><span class="text">Original God</span></a><!----></span></span><span data-v-69ff5208="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

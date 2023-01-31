@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-01-31T20:13:41.877Z</updated>
+    <updated>2023-01-31T21:11:33.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Open The Door Bhauji 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8794297</id>
+        <link href="https://vibe.naver.com/album/8794297"/>
+        <updated>2023-01-31T21:11:33.039Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8794297" class="title"><span data-v-b95e989a="" class="text"> Open The Door Bhauji <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1757565" class="link_artist"><span class="text">Khesari Lal Yadav</span></a><span>, </span></span><span><a href="/artist/2481088" class="link_artist"><span class="text">Antra Singh Priyanka</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Luta de Rua 업데이트]]></title>
         <id>https://vibe.naver.com/album/8794288</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8766794"/>
         <updated>2023-01-31T15:13:54.734Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8766794" class="title"><span data-v-b95e989a="" class="text"> Verlange Verby Duine <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2230156" class="link_artist"><span class="text">ETG</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starlifter: Fearless Pt. II 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8766790</id>
-        <link href="https://vibe.naver.com/album/8766790"/>
-        <updated>2023-01-31T15:13:54.735Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8766790" class="title"><span data-v-b95e989a="" class="text"> Starlifter: Fearless Pt. II <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2147457" class="link_artist"><span class="text">Crown Lands</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

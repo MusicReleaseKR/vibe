@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T12:25:27.247Z</updated>
+    <updated>2023-02-01T13:21:31.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Strawberry 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Tom Odell]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ich zünd mich an 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8797780</id>
+        <link href="https://vibe.naver.com/album/8797780"/>
+        <updated>2023-02-01T13:21:31.265Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8797780" class="title"><span data-v-b95e989a="" class="text"> Ich zünd mich an <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5977246" class="link_artist"><span class="text">Analstahl</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Hatsune Miku Symphony -Miku Symphony 2022 Orchestra Live 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8795776</id>
         <link href="https://vibe.naver.com/album/8795776"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8795081"/>
         <updated>2023-02-01T10:14:29.540Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8795081" class="title"><span data-v-b95e989a="" class="text"> Thomas Adès: Dante, Pt. I “Inferno”: XII. The Thieves—devoured by reptiles <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/175486" class="link_artist"><span class="text">Los Angeles Philharmonic</span></a><span>, </span></span><span><a href="/artist/113071" class="link_artist"><span class="text">Gustavo Dudamel</span></a><span>, </span></span><span><a href="/artist/219967" class="link_artist"><span class="text">Los Angeles Master Chorale</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[歸一 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8795080</id>
-        <link href="https://vibe.naver.com/album/8795080"/>
-        <updated>2023-02-01T10:14:29.541Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8795080" class="title"><span data-v-b95e989a="" class="text"> 歸一 <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6102895" class="link_artist"><span class="text">溜溜的灰</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

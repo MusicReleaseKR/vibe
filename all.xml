@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-02T13:21:58.085Z</updated>
+    <updated>2023-02-02T14:12:35.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[나얼 <Ballad Pop City> 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,20 @@
         <content type="html"><![CDATA[Ewan Mainwood]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tree Of 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8829800</id>
+        <link href="https://vibe.naver.com/album/8829800"/>
+        <updated>2023-02-02T14:12:34.267Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829800" class="title"><span data-v-b95e989a="" class="text"> Tree Of <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[pamiętam siebie 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8829785</id>
+        <link href="https://vibe.naver.com/album/8829785"/>
+        <updated>2023-02-02T14:12:34.267Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829785" class="title"><span data-v-b95e989a="" class="text"> pamiętam siebie <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1289120" class="link_artist"><span class="text">Kuban</span></a><span>, </span></span><span><a href="/artist/5898059" class="link_artist"><span class="text">Bedoes 2115</span></a><span>, </span></span><span><a href="/artist/3610588" class="link_artist"><span class="text">FAVST</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Murmuration 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8829744</id>
         <link href="https://vibe.naver.com/album/8829744"/>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/8810172"/>
         <updated>2023-02-01T22:12:59.632Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8810172" class="title"><span data-v-b95e989a="" class="text"> 4 Inch <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2769937" class="link_artist"><span class="text">Badal Bawali</span></a><span>, </span></span><span><a href="/artist/3687702" class="link_artist"><span class="text">Alka Yadav</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamar Me Ghunghru 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8810171</id>
-        <link href="https://vibe.naver.com/album/8810171"/>
-        <updated>2023-02-01T22:12:59.633Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8810171" class="title"><span data-v-b95e989a="" class="text"> Kamar Me Ghunghru <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3845914" class="link_artist"><span class="text">Jhijhiya Star Niraj Nirala</span></a><span>, </span></span><span><a href="/artist/2889421" class="link_artist"><span class="text">Punita Priya</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Panch Ber Rang 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8810170</id>
-        <link href="https://vibe.naver.com/album/8810170"/>
-        <updated>2023-02-01T22:12:59.634Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8810170" class="title"><span data-v-b95e989a="" class="text"> Panch Ber Rang <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2481088" class="link_artist"><span class="text">Antra Singh Priyanka</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-02T07:12:34.389Z</updated>
+    <updated>2023-02-02T08:16:33.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Camaleon (Radio Edit) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8826517</id>
+        <link href="https://vibe.naver.com/album/8826517"/>
+        <updated>2023-02-02T08:16:32.639Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8826517" class="title"><span data-v-b95e989a="" class="text"> Camaleon (Radio Edit) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4930518" class="link_artist"><span class="text">Masterplex</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Decided 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8826516</id>
+        <link href="https://vibe.naver.com/album/8826516"/>
+        <updated>2023-02-02T08:16:32.652Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8826516" class="title"><span data-v-b95e989a="" class="text"> Decided <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5882880" class="link_artist"><span class="text">Jack Lunato</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gaya Ke Naya Maal 업데이트]]></title>
         <id>https://vibe.naver.com/album/8820703</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8800788"/>
         <updated>2023-02-01T15:13:13.273Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8800788" class="title"><span data-v-b95e989a="" class="text"> Mercredi <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5124329" class="link_artist"><span class="text">Ngielix</span></a><span>, </span></span><span><a href="/artist/5037506" class="link_artist"><span class="text">Go Go Go</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ibang Mundo 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8800787</id>
-        <link href="https://vibe.naver.com/album/8800787"/>
-        <updated>2023-02-01T15:13:13.275Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8800787" class="title"><span data-v-b95e989a="" class="text"> Ibang Mundo <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4932618" class="link_artist"><span class="text">Baet Alcantara</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Murga Katihe Paswan 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8799925</id>
-        <link href="https://vibe.naver.com/album/8799925"/>
-        <updated>2023-02-01T15:13:13.275Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799925" class="title"><span data-v-b95e989a="" class="text"> Murga Katihe Paswan <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3753433" class="link_artist"><span class="text">Raja Bhojpuriya</span></a><span>, </span></span><span><a href="/artist/3730376" class="link_artist"><span class="text">Appi Prathi</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

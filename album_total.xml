@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-02T11:11:20.953Z</updated>
+    <updated>2023-02-02T12:25:19.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Waiting To Be Heard (Mixtape) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8829267</id>
+        <link href="https://vibe.naver.com/album/8829267"/>
+        <updated>2023-02-02T12:25:18.832Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829267" class="title"><span data-v-b95e989a="" class="text"> Waiting To Be Heard (Mixtape) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5348929" class="link_artist"><span class="text">Lex Neville</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faceless, Pt. 2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8829266</id>
+        <link href="https://vibe.naver.com/album/8829266"/>
+        <updated>2023-02-02T12:25:18.832Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829266" class="title"><span data-v-b95e989a="" class="text"> Faceless, Pt. 2 <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1892766" class="link_artist"><span class="text">Annanan</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TELEPATIA 업데이트]]></title>
         <id>https://vibe.naver.com/album/8829217</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8805824"/>
         <updated>2023-02-01T18:16:14.969Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8805824" class="title"><span data-v-b95e989a="" class="text"> Gethu (Original Motion Picture Soundtrack) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1807970" class="link_artist"><span class="text">Harris Jayaraj</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ennai Vittu (Rendition) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8805823</id>
-        <link href="https://vibe.naver.com/album/8805823"/>
-        <updated>2023-02-01T18:16:14.972Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8805823" class="title"><span data-v-b95e989a="" class="text"> Ennai Vittu (Rendition) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4729453" class="link_artist"><span class="text">Tajmeel Sherif</span></a><span>, </span></span><span><a href="/artist/552453" class="link_artist"><span class="text">Yuvanshankar Raja</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lahanga Block Bhail 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8804941</id>
-        <link href="https://vibe.naver.com/album/8804941"/>
-        <updated>2023-02-01T18:16:14.973Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8804941" class="title"><span data-v-b95e989a="" class="text"> Lahanga Block Bhail <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2720340" class="link_artist"><span class="text">Pramod Premi Yadav</span></a><span>, </span></span><span><a href="/artist/2510169" class="link_artist"><span class="text">Anjali Bharti</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

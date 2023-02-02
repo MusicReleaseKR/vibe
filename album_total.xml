@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-02T05:13:35.314Z</updated>
+    <updated>2023-02-02T06:16:32.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -279,6 +279,13 @@
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8803305" class="title"><span data-v-b95e989a="" class="text"> Hamra Chhodi ke Dono Chuslkau Masterve Rasgulba <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3103913" class="link_artist"><span class="text">Manoj Lal Yadav</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[don't u even cry? 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8800796</id>
+        <link href="https://vibe.naver.com/album/8800796"/>
+        <updated>2023-02-02T06:16:32.068Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8800796" class="title"><span data-v-b95e989a="" class="text"> don't u even cry? <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4801481" class="link_artist"><span class="text">_less</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Luchtballon 업데이트]]></title>
         <id>https://vibe.naver.com/album/8800795</id>
         <link href="https://vibe.naver.com/album/8800795"/>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8799925"/>
         <updated>2023-02-01T15:13:13.275Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799925" class="title"><span data-v-b95e989a="" class="text"> Murga Katihe Paswan <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3753433" class="link_artist"><span class="text">Raja Bhojpuriya</span></a><span>, </span></span><span><a href="/artist/3730376" class="link_artist"><span class="text">Appi Prathi</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yaar Rangdar 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8799923</id>
-        <link href="https://vibe.naver.com/album/8799923"/>
-        <updated>2023-02-01T15:13:13.277Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799923" class="title"><span data-v-b95e989a="" class="text"> Yaar Rangdar <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1757162" class="link_artist"><span class="text">Nagendra Ujala</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

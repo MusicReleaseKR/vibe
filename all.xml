@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-02T04:15:43.819Z</updated>
+    <updated>2023-02-02T05:13:35.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[T O R O N T O 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[Ewan Mainwood]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gaya Ke Naya Maal 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8820703</id>
+        <link href="https://vibe.naver.com/album/8820703"/>
+        <updated>2023-02-02T05:13:34.406Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8820703" class="title"><span data-v-b95e989a="" class="text"> Gaya Ke Naya Maal <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3845914" class="link_artist"><span class="text">Jhijhiya Star Niraj Nirala</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Valentines (Feat. Dev Chouhan, Pooja Saxena) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8820702</id>
+        <link href="https://vibe.naver.com/album/8820702"/>
+        <updated>2023-02-02T05:13:34.406Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8820702" class="title"><span data-v-b95e989a="" class="text"> Valentines (Feat. Dev Chouhan, Pooja Saxena) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6165013" class="link_artist"><span class="text">Sony Dhaliwala</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dimpalwa Ke Holi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8820701</id>
+        <link href="https://vibe.naver.com/album/8820701"/>
+        <updated>2023-02-02T05:13:34.406Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8820701" class="title"><span data-v-b95e989a="" class="text"> Dimpalwa Ke Holi <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3088214" class="link_artist"><span class="text">Sunil Yadav</span></a><span>, </span></span><span><a href="/artist/6064576" class="link_artist"><span class="text">Ekta Malan</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devra Katata Gal Holi Me 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8820700</id>
+        <link href="https://vibe.naver.com/album/8820700"/>
+        <updated>2023-02-02T05:13:34.406Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8820700" class="title"><span data-v-b95e989a="" class="text"> Devra Katata Gal Holi Me <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6106283" class="link_artist"><span class="text">Shyam Gopal</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Baba Sahab Ke Den Ki Raj Kartawe 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8819061</id>
         <link href="https://vibe.naver.com/album/8819061"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/8799923"/>
         <updated>2023-02-01T15:13:13.277Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799923" class="title"><span data-v-b95e989a="" class="text"> Yaar Rangdar <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1757162" class="link_artist"><span class="text">Nagendra Ujala</span></a><span>, </span></span><span><a href="/artist/2832622" class="link_artist"><span class="text">Shilpi Raj</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kamla Khake Dhodi Par Hamla Kaile Ba 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8799922</id>
-        <link href="https://vibe.naver.com/album/8799922"/>
-        <updated>2023-02-01T15:13:13.277Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799922" class="title"><span data-v-b95e989a="" class="text"> Kamla Khake Dhodi Par Hamla Kaile Ba <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3845914" class="link_artist"><span class="text">Jhijhiya Star Niraj Nirala</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bairo Momero Sava Lakhero 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8799921</id>
-        <link href="https://vibe.naver.com/album/8799921"/>
-        <updated>2023-02-01T15:13:13.280Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799921" class="title"><span data-v-b95e989a="" class="text"> Bairo Momero Sava Lakhero <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5910355" class="link_artist"><span class="text">Sukanya Mali</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zindagi Tere Naam Kar Di 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8799920</id>
-        <link href="https://vibe.naver.com/album/8799920"/>
-        <updated>2023-02-01T15:13:13.284Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799920" class="title"><span data-v-b95e989a="" class="text"> Zindagi Tere Naam Kar Di <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5977991" class="link_artist"><span class="text">Chaman Srivastava</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Maal Barat Me Bhetai 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8799919</id>
-        <link href="https://vibe.naver.com/album/8799919"/>
-        <updated>2023-02-01T15:13:13.284Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8799919" class="title"><span data-v-b95e989a="" class="text"> Maal Barat Me Bhetai <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4466232" class="link_artist"><span class="text">Ranjeet Chauhan</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

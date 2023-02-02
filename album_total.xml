@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-02T20:13:38.077Z</updated>
+    <updated>2023-02-02T21:11:28.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lehenga lock Ho Gayil 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8830418</id>
+        <link href="https://vibe.naver.com/album/8830418"/>
+        <updated>2023-02-02T21:11:27.928Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830418" class="title"><span data-v-b95e989a="" class="text"> Lehenga lock Ho Gayil <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1757565" class="link_artist"><span class="text">Khesari Lal Yadav</span></a><span>, </span></span><span><a href="/artist/3551873" class="link_artist"><span class="text">Anupma Yadav</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chala Na Gori 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8830414</id>
+        <link href="https://vibe.naver.com/album/8830414"/>
+        <updated>2023-02-02T21:11:27.929Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830414" class="title"><span data-v-b95e989a="" class="text"> Chala Na Gori <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2681951" class="link_artist"><span class="text">Santosh Tiwari</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Prenderle Fuego a Todo 업데이트]]></title>
         <id>https://vibe.naver.com/album/8830364</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8829951"/>
         <updated>2023-02-02T15:13:12.992Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829951" class="title"><span data-v-b95e989a="" class="text"> Shimmer <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/812122" class="link_artist"><span class="text">Tabloid</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Konstantinopolis 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8829950</id>
-        <link href="https://vibe.naver.com/album/8829950"/>
-        <updated>2023-02-02T15:13:12.993Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829950" class="title"><span data-v-b95e989a="" class="text"> Konstantinopolis <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5394057" class="link_artist"><span class="text">Maya Perest</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[zu viel 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8829949</id>
-        <link href="https://vibe.naver.com/album/8829949"/>
-        <updated>2023-02-02T15:13:12.994Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829949" class="title"><span data-v-b95e989a="" class="text"> zu viel <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5394137" class="link_artist"><span class="text">Sampagne</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

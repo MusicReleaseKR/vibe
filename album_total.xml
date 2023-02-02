@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-02T21:11:28.586Z</updated>
+    <updated>2023-02-02T22:12:37.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[REKERE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8830445</id>
+        <link href="https://vibe.naver.com/album/8830445"/>
+        <updated>2023-02-02T22:12:36.559Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830445" class="title"><span data-v-b95e989a="" class="text"> REKERE <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2486850" class="link_artist"><span class="text">Kabza De Small</span></a><span>, </span></span><span><a href="/artist/3649040" class="link_artist"><span class="text">Stakev</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lehenga lock Ho Gayil 업데이트]]></title>
         <id>https://vibe.naver.com/album/8830418</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8829952"/>
         <updated>2023-02-02T15:13:12.991Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829952" class="title"><span data-v-b95e989a="" class="text"> Elegibo (Uma Historia De Ifa) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/300083" class="link_artist"><span class="text">Blasterjaxx</span></a><span>, </span></span><span><a href="/artist/1574045" class="link_artist"><span class="text">Paolo Pellegrino</span></a><span>, </span></span><span><a href="/artist/4942887" class="link_artist"><span class="text">Mildenhaus</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shimmer 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8829951</id>
-        <link href="https://vibe.naver.com/album/8829951"/>
-        <updated>2023-02-02T15:13:12.992Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829951" class="title"><span data-v-b95e989a="" class="text"> Shimmer <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/812122" class="link_artist"><span class="text">Tabloid</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

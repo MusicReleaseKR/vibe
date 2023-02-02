@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-02T16:17:05.136Z</updated>
+    <updated>2023-02-02T17:12:16.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Le tueur sentimental 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8830328</id>
+        <link href="https://vibe.naver.com/album/8830328"/>
+        <updated>2023-02-02T17:12:15.759Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830328" class="title"><span data-v-b95e989a="" class="text"> Le tueur sentimental <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6172662" class="link_artist"><span class="text">Mymy Blonde</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kashni 업데이트]]></title>
         <id>https://vibe.naver.com/album/8830220</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8829940"/>
         <updated>2023-02-02T15:13:13.011Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829940" class="title"><span data-v-b95e989a="" class="text"> Bonka Bäver (Remix) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2829115" class="link_artist"><span class="text">250 Kg Kärlek</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alarms 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8829939</id>
-        <link href="https://vibe.naver.com/album/8829939"/>
-        <updated>2023-02-02T15:13:13.012Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829939" class="title"><span data-v-b95e989a="" class="text"> Alarms <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2123011" class="link_artist"><span class="text">dirk.</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

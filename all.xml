@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-03T05:12:40.554Z</updated>
+    <updated>2023-02-03T06:16:39.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Before I Met You 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,11 +705,25 @@
         <content type="html"><![CDATA[Gorillaz]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Maldita Pasta 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8830834</id>
+        <link href="https://vibe.naver.com/album/8830834"/>
+        <updated>2023-02-03T06:16:38.766Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830834" class="title"><span data-v-b95e989a="" class="text"> Maldita Pasta <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5746445" class="link_artist"><span class="text">Eliz</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[More of You 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8830808</id>
         <link href="https://vibe.naver.com/album/8830808"/>
         <updated>2023-02-03T05:12:39.641Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830808" class="title"><span data-v-b95e989a="" class="text"> More of You <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1943083" class="link_artist"><span class="text">Beres Hammond</span></a><span>, </span></span><span><a href="/artist/1904349" class="link_artist"><span class="text">JC Lodge</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Top Game 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8830798</id>
+        <link href="https://vibe.naver.com/album/8830798"/>
+        <updated>2023-02-03T06:16:38.770Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830798" class="title"><span data-v-b95e989a="" class="text"> Top Game <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/623467" class="link_artist"><span class="text">Yubeili</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Doom In The Mood 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/8829976"/>
         <updated>2023-02-02T15:13:12.968Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829976" class="title"><span data-v-b95e989a="" class="text"> Moving All Around (Jumpin') (John Summit Remix) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4781021" class="link_artist"><span class="text">Schak</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ILYAF (I love you always forever) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8829974</id>
-        <link href="https://vibe.naver.com/album/8829974"/>
-        <updated>2023-02-02T15:13:12.968Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829974" class="title"><span data-v-b95e989a="" class="text"> ILYAF (I love you always forever) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/597" class="link_artist"><span class="text">Donna Lewis</span></a><span>, </span></span><span><a href="/artist/456635" class="link_artist"><span class="text">Digital Farm Animals</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ears In The Clouds 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8829973</id>
-        <link href="https://vibe.naver.com/album/8829973"/>
-        <updated>2023-02-02T15:13:12.968Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829973" class="title"><span data-v-b95e989a="" class="text"> Ears In The Clouds <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/905043" class="link_artist"><span class="text">Skyler</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

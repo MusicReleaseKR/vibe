@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-03T04:16:01.532Z</updated>
+    <updated>2023-02-03T05:12:40.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[More of You 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8830808</id>
+        <link href="https://vibe.naver.com/album/8830808"/>
+        <updated>2023-02-03T05:12:39.641Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830808" class="title"><span data-v-b95e989a="" class="text"> More of You <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1943083" class="link_artist"><span class="text">Beres Hammond</span></a><span>, </span></span><span><a href="/artist/1904349" class="link_artist"><span class="text">JC Lodge</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doom In The Mood 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8830791</id>
+        <link href="https://vibe.naver.com/album/8830791"/>
+        <updated>2023-02-03T05:12:39.642Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8830791" class="title"><span data-v-b95e989a="" class="text"> Doom In The Mood <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6172904" class="link_artist"><span class="text">DOOM</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Folly Ranking 업데이트]]></title>
         <id>https://vibe.naver.com/album/8830746</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8829973"/>
         <updated>2023-02-02T15:13:12.968Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829973" class="title"><span data-v-b95e989a="" class="text"> Ears In The Clouds <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/905043" class="link_artist"><span class="text">Skyler</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Uns gehört die Welt 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8829972</id>
-        <link href="https://vibe.naver.com/album/8829972"/>
-        <updated>2023-02-02T15:13:12.968Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829972" class="title"><span data-v-b95e989a="" class="text"> Uns gehört die Welt <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/533804" class="link_artist"><span class="text">Wolkenfrei</span></a><span>, </span></span><span><a href="/artist/485093" class="link_artist"><span class="text">Vanessa Mai</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tomaatje 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8829971</id>
-        <link href="https://vibe.naver.com/album/8829971"/>
-        <updated>2023-02-02T15:13:12.968Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8829971" class="title"><span data-v-b95e989a="" class="text"> Tomaatje <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3638186" class="link_artist"><span class="text">Alles Kids</span></a><span>, </span></span><span><a href="/artist/3638223" class="link_artist"><span class="text">Kinderliedjes Om Mee Te Zingen</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

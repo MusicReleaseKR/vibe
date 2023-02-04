@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-04T12:20:59.274Z</updated>
+    <updated>2023-02-04T13:16:10.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tell Me Why (Feat. Lil Jordie) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8833958</id>
+        <link href="https://vibe.naver.com/album/8833958"/>
+        <updated>2023-02-04T13:16:09.550Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8833958" class="title"><span data-v-b95e989a="" class="text"> Tell Me Why (Feat. Lil Jordie) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5472570" class="link_artist"><span class="text">Yung Raine</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rangdar 업데이트]]></title>
         <id>https://vibe.naver.com/album/8833675</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8831670"/>
         <updated>2023-02-03T15:13:17.138Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8831670" class="title"><span data-v-b95e989a="" class="text"> Ja Ye Saiya Jeet Aiha <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5877701" class="link_artist"><span class="text">Mohit Balamua</span></a><span>, </span></span><span><a href="/artist/3554095" class="link_artist"><span class="text">Kajal Pandey</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bani Ham Besur Sur Diha Ae Maiya 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8831669</id>
-        <link href="https://vibe.naver.com/album/8831669"/>
-        <updated>2023-02-03T15:13:17.139Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8831669" class="title"><span data-v-b95e989a="" class="text"> Bani Ham Besur Sur Diha Ae Maiya <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4460702" class="link_artist"><span class="text">Ashish Ashiq</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-06T06:17:24.170Z</updated>
+    <updated>2023-02-06T07:19:57.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[연애대전 OST Part 1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Rita Ora]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Holiya Me Dilawa Dukhawa Tara Ho 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8836072</id>
+        <link href="https://vibe.naver.com/album/8836072"/>
+        <updated>2023-02-06T07:19:56.981Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836072" class="title"><span data-v-b95e989a="" class="text"> Holiya Me Dilawa Dukhawa Tara Ho <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5874235" class="link_artist"><span class="text">Binu Sahani</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[풍류365 첫 번째 이야기 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8835843</id>
         <link href="https://vibe.naver.com/album/8835843"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8834678"/>
         <updated>2023-02-05T15:12:00.089Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8834678" class="title"><span data-v-b95e989a="" class="text"> Tom's Diner <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4359265" class="link_artist"><span class="text">Joanne</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Dollhouse 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8834671</id>
-        <link href="https://vibe.naver.com/album/8834671"/>
-        <updated>2023-02-05T15:12:00.091Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8834671" class="title"><span data-v-b95e989a="" class="text"> The Dollhouse <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6174094" class="link_artist"><span class="text">CorniZa</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

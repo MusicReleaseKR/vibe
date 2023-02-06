@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-06T21:12:13.359Z</updated>
+    <updated>2023-02-06T22:12:33.798Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[부석순 1st Single Album 'SECOND WIND' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Rita Ora]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Bad Bhabi 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8837060</id>
+        <link href="https://vibe.naver.com/album/8837060"/>
+        <updated>2023-02-06T22:12:33.073Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8837060" class="title"><span data-v-b95e989a="" class="text"> Bad Bhabi <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4722123" class="link_artist"><span class="text">DJ Stefani Kamasutra</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[All I Wanna Do 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8837045</id>
         <link href="https://vibe.naver.com/album/8837045"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8836550"/>
         <updated>2023-02-06T15:16:25.502Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836550" class="title"><span data-v-b95e989a="" class="text"> Udja <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2511076" class="link_artist"><span class="text">OAFF</span></a><span>, </span></span><span><a href="/artist/2348624" class="link_artist"><span class="text">Savera</span></a><span>, </span></span><span><a href="/artist/318522" class="link_artist"><span class="text">Jasleen Royal</span></a><span>, </span></span><span><a href="/artist/3530889" class="link_artist"><span class="text">Burrah</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Para Que Os Sonhos Não Morram 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8836541</id>
-        <link href="https://vibe.naver.com/album/8836541"/>
-        <updated>2023-02-06T15:16:25.503Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836541" class="title"><span data-v-b95e989a="" class="text"> Para Que Os Sonhos Não Morram <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

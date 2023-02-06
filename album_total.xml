@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-06T18:16:49.637Z</updated>
+    <updated>2023-02-06T19:11:30.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shyam Lakhdatari Shyam Baba Bhajan 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8836961</id>
+        <link href="https://vibe.naver.com/album/8836961"/>
+        <updated>2023-02-06T19:11:30.061Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836961" class="title"><span data-v-b95e989a="" class="text"> Shyam Lakhdatari Shyam Baba Bhajan <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6175001" class="link_artist"><span class="text">Shantlal&nbsp;Saini</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waterlook 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8836960</id>
+        <link href="https://vibe.naver.com/album/8836960"/>
+        <updated>2023-02-06T19:11:30.064Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836960" class="title"><span data-v-b95e989a="" class="text"> Waterlook <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2693021" class="link_artist"><span class="text">José ramos</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Marappadhillai Nenje (Rendition) 업데이트]]></title>
         <id>https://vibe.naver.com/album/8836959</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8835693"/>
         <updated>2023-02-06T15:16:25.507Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8835693" class="title"><span data-v-b95e989a="" class="text"> Valentine Special Lofi <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Past Vibration 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8835692</id>
-        <link href="https://vibe.naver.com/album/8835692"/>
-        <updated>2023-02-06T15:16:25.509Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8835692" class="title"><span data-v-b95e989a="" class="text"> Past Vibration <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6174539" class="link_artist"><span class="text">Supera Morza</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling In Love 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8835691</id>
-        <link href="https://vibe.naver.com/album/8835691"/>
-        <updated>2023-02-06T15:16:25.510Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8835691" class="title"><span data-v-b95e989a="" class="text"> Falling In Love <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3670535" class="link_artist"><span class="text">Karan Sehmbi</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

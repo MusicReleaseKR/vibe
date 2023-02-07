@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-07T17:12:30.188Z</updated>
+    <updated>2023-02-07T18:15:34.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -202,6 +202,13 @@
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8837158" class="title"><span data-v-b95e989a="" class="text"> Hard MF 2 Luv <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1518112" class="link_artist"><span class="text">Bad Sounds</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Feel Good 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8837074</id>
+        <link href="https://vibe.naver.com/album/8837074"/>
+        <updated>2023-02-07T18:15:33.594Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8837074" class="title"><span data-v-b95e989a="" class="text"> Feel Good <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/6105306" class="link_artist"><span class="text">Slowthai</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ilha Bela 2 업데이트]]></title>
         <id>https://vibe.naver.com/album/8837042</id>
         <link href="https://vibe.naver.com/album/8837042"/>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8836878"/>
         <updated>2023-02-07T15:14:10.449Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836878" class="title"><span data-v-b95e989a="" class="text"> Make No Mistake <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5532932" class="link_artist"><span class="text">Love Remain</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bitter 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8836876</id>
-        <link href="https://vibe.naver.com/album/8836876"/>
-        <updated>2023-02-07T15:14:10.451Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8836876" class="title"><span data-v-b95e989a="" class="text"> Bitter <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/278667" class="link_artist"><span class="text">Rocé</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

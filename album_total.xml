@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-08T07:12:25.594Z</updated>
+    <updated>2023-02-08T08:17:27.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Onnoda Nadandhaa (From "Viduthalai") 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8876320</id>
+        <link href="https://vibe.naver.com/album/8876320"/>
+        <updated>2023-02-08T08:17:26.837Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8876320" class="title"><span data-v-b95e989a="" class="text"> Onnoda Nadandhaa (From "Viduthalai") <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1001643" class="link_artist"><span class="text">Ilaiyaraaja</span></a><span>, </span></span><span><a href="/artist/552379" class="link_artist"><span class="text">Dhanush</span></a><span>, </span></span><span><a href="/artist/2163915" class="link_artist"><span class="text">Ananya Bhat</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ungowam 업데이트]]></title>
         <id>https://vibe.naver.com/album/8872078</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8841804"/>
         <updated>2023-02-08T03:16:16.134Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8841804" class="title"><span data-v-b95e989a="" class="text"> Wait For Me <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/3538906" class="link_artist"><span class="text">Ouse</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Snowfall (Slowed + Reverb) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8841803</id>
-        <link href="https://vibe.naver.com/album/8841803"/>
-        <updated>2023-02-08T03:16:16.135Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8841803" class="title"><span data-v-b95e989a="" class="text"> Snowfall (Slowed + Reverb) <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4686544" class="link_artist"><span class="text">Øneheart</span></a><span>, </span></span><span><a href="/artist/5664528" class="link_artist"><span class="text">reidenshi</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

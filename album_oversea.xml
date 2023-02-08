@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-02-08T03:16:16.777Z</updated>
+    <updated>2023-02-08T04:16:19.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Best Friend Ever 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8835892</id>
+        <link href="https://vibe.naver.com/album/8835892"/>
+        <updated>2023-02-08T04:16:08.133Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[You Don't Call Me Anymore 업데이트]]></title>
         <id>https://vibe.naver.com/album/8829920</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8823272"/>
         <updated>2023-02-03T03:16:55.468Z</updated>
         <content type="html"><![CDATA[Johnny Stimson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moderación (Con Camilo) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8800793</id>
-        <link href="https://vibe.naver.com/album/8800793"/>
-        <updated>2023-02-03T03:16:55.468Z</updated>
-        <content type="html"><![CDATA[JP Saxe]]></content>
     </entry>
 </feed>

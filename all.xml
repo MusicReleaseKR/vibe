@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-08T03:16:16.790Z</updated>
+    <updated>2023-02-08T04:16:19.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Snowy Stars 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[IDOLOJIN(이돌로진)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Best Friend Ever 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/8835892</id>
+        <link href="https://vibe.naver.com/album/8835892"/>
+        <updated>2023-02-08T04:16:08.133Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[You Don't Call Me Anymore 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/8829920</id>
         <link href="https://vibe.naver.com/album/8829920"/>
@@ -696,13 +703,6 @@
         <link href="https://vibe.naver.com/album/8823272"/>
         <updated>2023-02-03T03:16:55.468Z</updated>
         <content type="html"><![CDATA[Johnny Stimson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moderación (Con Camilo) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/8800793</id>
-        <link href="https://vibe.naver.com/album/8800793"/>
-        <updated>2023-02-03T03:16:55.468Z</updated>
-        <content type="html"><![CDATA[JP Saxe]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hari Hari Ghaghri 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

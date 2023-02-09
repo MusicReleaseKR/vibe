@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-09T17:12:28.325Z</updated>
+    <updated>2023-02-09T18:16:24.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Endless 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Anne-Marie]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Ennavo Ennavo (Rendition) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/8928619</id>
+        <link href="https://vibe.naver.com/album/8928619"/>
+        <updated>2023-02-09T18:16:23.524Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8928619" class="title"><span data-v-02cb8bd1="" class="text"> Ennavo Ennavo (Rendition) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4729453" class="link_artist"><span class="text">Tajmeel Sherif</span></a><span>, </span></span><span><a href="/artist/2376440" class="link_artist"><span class="text">S.A.Rajkumar</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Taulier 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/8926853</id>
         <link href="https://vibe.naver.com/album/8926853"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8923561"/>
         <updated>2023-02-09T15:13:55.056Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8923561" class="title"><span data-v-02cb8bd1="" class="text"> New Face of This Shit <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4616345" class="link_artist"><span class="text">Murda B</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[you suck 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8923560</id>
-        <link href="https://vibe.naver.com/album/8923560"/>
-        <updated>2023-02-09T15:13:55.057Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8923560" class="title"><span data-v-02cb8bd1="" class="text"> you suck <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1032706" class="link_artist"><span class="text">Rebecca Lou</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

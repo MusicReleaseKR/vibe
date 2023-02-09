@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-09T05:12:54.534Z</updated>
+    <updated>2023-02-09T06:17:07.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[sanvalentín:( 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8909829</id>
+        <link href="https://vibe.naver.com/album/8909829"/>
+        <updated>2023-02-09T06:17:06.363Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8909829" class="title"><span data-v-b95e989a="" class="text"> sanvalentín:( <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/1615693" class="link_artist"><span class="text">Humbe</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[23.02.02] 우키팝의 <팝 차트 파티> 업데이트]]></title>
         <id>https://vibe.naver.com/album/8908443</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8887454"/>
         <updated>2023-02-08T15:14:04.975Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8887454" class="title"><span data-v-b95e989a="" class="text"> Inside Looking Out <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4952886" class="link_artist"><span class="text">Trapland Pat</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feeling 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8887453</id>
-        <link href="https://vibe.naver.com/album/8887453"/>
-        <updated>2023-02-08T15:14:04.982Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8887453" class="title"><span data-v-b95e989a="" class="text"> Feeling <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2473193" class="link_artist"><span class="text">47ter</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

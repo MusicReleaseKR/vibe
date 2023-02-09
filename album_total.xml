@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-09T04:15:12.722Z</updated>
+    <updated>2023-02-09T05:12:54.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[23.02.02] 우키팝의 <팝 차트 파티> 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8908443</id>
+        <link href="https://vibe.naver.com/album/8908443"/>
+        <updated>2023-02-09T05:12:53.626Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8908443" class="title"><span data-v-b95e989a="" class="text"> [23.02.02] 우키팝의 &lt;팝 차트 파티&gt; <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/5799142" class="link_artist"><span class="text">VIBE 파티룸</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hoy Salí 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8907997</id>
+        <link href="https://vibe.naver.com/album/8907997"/>
+        <updated>2023-02-09T05:12:53.631Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8907997" class="title"><span data-v-b95e989a="" class="text"> Hoy Salí <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2700797" class="link_artist"><span class="text">Ren Kai</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WET! Episode. 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/8903750</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/8887453"/>
         <updated>2023-02-08T15:14:04.982Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8887453" class="title"><span data-v-b95e989a="" class="text"> Feeling <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/2473193" class="link_artist"><span class="text">47ter</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mellow Lofi Mix 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8887344</id>
-        <link href="https://vibe.naver.com/album/8887344"/>
-        <updated>2023-02-08T15:14:04.982Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8887344" class="title"><span data-v-b95e989a="" class="text"> Mellow Lofi Mix <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Thar 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8887320</id>
-        <link href="https://vibe.naver.com/album/8887320"/>
-        <updated>2023-02-08T15:14:04.986Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-b95e989a="" href="/album/8887320" class="title"><span data-v-b95e989a="" class="text"> Thar <span data-v-b95e989a="" class="item"><span data-v-b95e989a="" class="blind">업데이트</span></span></span><span data-v-b95e989a="" class="blind">페이지로 이동</span></a><div data-v-b95e989a="" class="artist"><span data-v-b95e989a=""><span><a href="/artist/4463823" class="link_artist"><span class="text">Manu Thande wala</span></a><!----></span></span><span data-v-b95e989a="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-11T08:15:18.643Z</updated>
+    <updated>2023-02-11T09:12:20.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지금 고백합니다 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8868813</id>
+        <link href="https://vibe.naver.com/album/8868813"/>
+        <updated>2023-02-11T09:12:02.802Z</updated>
+        <content type="html"><![CDATA[MSG워너비(M.O.M)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Spend It All On You 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8942087</id>
+        <link href="https://vibe.naver.com/album/8942087"/>
+        <updated>2023-02-11T09:12:02.803Z</updated>
+        <content type="html"><![CDATA[Michael Carreon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대행사 OST Part 6 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8906218</id>
+        <link href="https://vibe.naver.com/album/8906218"/>
+        <updated>2023-02-11T09:12:02.804Z</updated>
+        <content type="html"><![CDATA[제휘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빨간풍선 OST Part 6 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8905151</id>
+        <link href="https://vibe.naver.com/album/8905151"/>
+        <updated>2023-02-11T09:12:02.805Z</updated>
+        <content type="html"><![CDATA[건지(GUNJI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나를 사랑했다는 네 거짓말 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/8940064</id>
+        <link href="https://vibe.naver.com/album/8940064"/>
+        <updated>2023-02-11T09:12:02.805Z</updated>
+        <content type="html"><![CDATA[이아영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꼭두의 계절 OST Part 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/8873530</id>
@@ -318,41 +353,6 @@
         <link href="https://vibe.naver.com/album/8912737"/>
         <updated>2023-02-10T03:21:47.766Z</updated>
         <content type="html"><![CDATA[우용수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Companion 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8868647</id>
-        <link href="https://vibe.naver.com/album/8868647"/>
-        <updated>2023-02-10T03:21:47.769Z</updated>
-        <content type="html"><![CDATA[자꾸(Jakku)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endless 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8875101</id>
-        <link href="https://vibe.naver.com/album/8875101"/>
-        <updated>2023-02-09T20:13:52.592Z</updated>
-        <content type="html"><![CDATA[허각]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낯선 이별 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8872834</id>
-        <link href="https://vibe.naver.com/album/8872834"/>
-        <updated>2023-02-09T20:13:52.592Z</updated>
-        <content type="html"><![CDATA[DK(디셈버)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기억의 흔적 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8837634</id>
-        <link href="https://vibe.naver.com/album/8837634"/>
-        <updated>2023-02-09T20:13:52.592Z</updated>
-        <content type="html"><![CDATA[Jayci Yucca(제이씨 유카)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리의 디데이 OST Part 4 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/8868845</id>
-        <link href="https://vibe.naver.com/album/8868845"/>
-        <updated>2023-02-09T20:13:52.592Z</updated>
-        <content type="html"><![CDATA[박장현]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Special (Feat. SZA) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>

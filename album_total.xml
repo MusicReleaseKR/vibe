@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-11T06:15:13.301Z</updated>
+    <updated>2023-02-11T07:11:48.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Muntikan Na (Feat. Faye Yupano) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8952681</id>
+        <link href="https://vibe.naver.com/album/8952681"/>
+        <updated>2023-02-11T07:11:47.983Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8952681" class="title"><span data-v-02cb8bd1="" class="text"> Muntikan Na (Feat. Faye Yupano) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4630675" class="link_artist"><span class="text">Debonair District</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Zo Doen We Dat! 업데이트]]></title>
         <id>https://vibe.naver.com/album/8951420</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8950258"/>
         <updated>2023-02-10T15:13:45.170Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8950258" class="title"><span data-v-02cb8bd1="" class="text"> Mgr - Sivaji Hit Songs (Trap Remix) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE INTERNATIONAL PHONK 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8950239</id>
-        <link href="https://vibe.naver.com/album/8950239"/>
-        <updated>2023-02-10T15:13:45.171Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8950239" class="title"><span data-v-02cb8bd1="" class="text"> THE INTERNATIONAL PHONK <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4901218" class="link_artist"><span class="text">NUEKI</span></a><span>, </span></span><span><a href="/artist/4947388" class="link_artist"><span class="text">TOLCHONOV</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

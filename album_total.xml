@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-11T17:11:43.695Z</updated>
+    <updated>2023-02-11T18:14:52.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://vibe.naver.com/album/8970137"/>
         <updated>2023-02-11T15:12:05.448Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8970137" class="title"><span data-v-02cb8bd1="" class="text"> The Rappers 2: MIC 2 MIC <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ENSAIO DAS MARAVILHAS 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8970110</id>
-        <link href="https://vibe.naver.com/album/8970110"/>
-        <updated>2023-02-11T15:12:05.449Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8970110" class="title"><span data-v-02cb8bd1="" class="text"> ENSAIO DAS MARAVILHAS <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2714666" class="link_artist"><span class="text">Pedro Sampaio</span></a><span>, </span></span><span><a href="/artist/6293463" class="link_artist"><span class="text">Thaysa Maravilha</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Kekara Pe Bijali Giraibu Ae Dhaniya 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/8951034"/>
         <updated>2023-02-11T15:12:05.542Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8951034" class="title"><span data-v-02cb8bd1="" class="text"> Cuatro y Tres <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2785018" class="link_artist"><span class="text">Chucho Rivas</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[To Firmão 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8951033</id>
+        <link href="https://vibe.naver.com/album/8951033"/>
+        <updated>2023-02-11T18:14:52.140Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8951033" class="title"><span data-v-02cb8bd1="" class="text"> To Firmão <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5690739" class="link_artist"><span class="text">Explode Nova Era</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

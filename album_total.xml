@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-13T07:13:01.665Z</updated>
+    <updated>2023-02-13T08:18:01.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Daayein Baayein - Single 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9003561</id>
+        <link href="https://vibe.naver.com/album/9003561"/>
+        <updated>2023-02-13T08:18:00.858Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9003561" class="title"><span data-v-02cb8bd1="" class="text"> Daayein Baayein - Single <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2404718" class="link_artist"><span class="text">Yasser Desai</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[untied shoes 업데이트]]></title>
         <id>https://vibe.naver.com/album/9003456</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/8996633"/>
         <updated>2023-02-12T15:12:22.904Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8996633" class="title"><span data-v-02cb8bd1="" class="text"> Darshan Deja Ni (Slow+Reverb) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5902584" class="link_artist"><span class="text">Anmol Dhandra</span></a><span>, </span></span><span><a href="/artist/551912" class="link_artist"><span class="text">Cheetah</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mera Bholenath Bhandari 업데이트]]></title>
-        <id>https://vibe.naver.com/album/8996632</id>
-        <link href="https://vibe.naver.com/album/8996632"/>
-        <updated>2023-02-12T15:12:22.904Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8996632" class="title"><span data-v-02cb8bd1="" class="text"> Mera Bholenath Bhandari <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3649364" class="link_artist"><span class="text">Bimal Bhanot</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

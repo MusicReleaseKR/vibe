@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-13T19:11:44.720Z</updated>
+    <updated>2023-02-13T20:14:24.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Balle de match (Vol.2) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9005363</id>
+        <link href="https://vibe.naver.com/album/9005363"/>
+        <updated>2023-02-13T20:14:23.987Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9005363" class="title"><span data-v-02cb8bd1="" class="text"> Balle de match (Vol.2) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1868555" class="link_artist"><span class="text">JB Mpiana</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sukh Kalale (Ajay Gogavale Version) [From "Ved"] 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9005337</id>
+        <link href="https://vibe.naver.com/album/9005337"/>
+        <updated>2023-02-13T20:14:23.987Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9005337" class="title"><span data-v-02cb8bd1="" class="text"> Sukh Kalale (Ajay Gogavale Version) [From "Ved"] <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2398426" class="link_artist"><span class="text">Ajay-Atul</span></a><span>, </span></span><span><a href="/artist/554967" class="link_artist"><span class="text">Ajay Gogavale</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[What You Are - One Man Band Edition 업데이트]]></title>
         <id>https://vibe.naver.com/album/9005300</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9004918"/>
         <updated>2023-02-13T15:14:16.837Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004918" class="title"><span data-v-02cb8bd1="" class="text"> Fictional Heartbreak <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/487080" class="link_artist"><span class="text">Matilda</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MANLILIKHARI 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9004917</id>
-        <link href="https://vibe.naver.com/album/9004917"/>
-        <updated>2023-02-13T15:14:16.837Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004917" class="title"><span data-v-02cb8bd1="" class="text"> MANLILIKHARI <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6320779" class="link_artist"><span class="text">Gianne Hinolan</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovebite 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9004916</id>
-        <link href="https://vibe.naver.com/album/9004916"/>
-        <updated>2023-02-13T15:14:16.837Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004916" class="title"><span data-v-02cb8bd1="" class="text"> Lovebite <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/357038" class="link_artist"><span class="text">Haken</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

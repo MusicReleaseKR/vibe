@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-13T06:17:52.618Z</updated>
+    <updated>2023-02-13T07:13:01.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Our Thoughts 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Tones And I]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[untied shoes 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9003456</id>
+        <link href="https://vibe.naver.com/album/9003456"/>
+        <updated>2023-02-13T07:13:00.947Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9003456" class="title"><span data-v-02cb8bd1="" class="text"> untied shoes <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5375509" class="link_artist"><span class="text">CODY JON</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Ventino: El Precio De La Gloria (Banda Sonora Original De La Serie De Televisión) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9001178</id>
         <link href="https://vibe.naver.com/album/9001178"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/8996632"/>
         <updated>2023-02-12T15:12:22.904Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8996632" class="title"><span data-v-02cb8bd1="" class="text"> Mera Bholenath Bhandari <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3649364" class="link_artist"><span class="text">Bimal Bhanot</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kwame (Feat. Harmonize) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/8996631</id>
-        <link href="https://vibe.naver.com/album/8996631"/>
-        <updated>2023-02-12T15:12:22.908Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/8996631" class="title"><span data-v-02cb8bd1="" class="text"> Kwame (Feat. Harmonize) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2828428" class="link_artist"><span class="text">Khaligraph Jones</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T18:17:11.845Z</updated>
+    <updated>2023-02-14T19:11:23.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Teddy Bear 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Ashnikko]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kamaal 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9007535</id>
+        <link href="https://vibe.naver.com/album/9007535"/>
+        <updated>2023-02-14T19:11:23.183Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9007535" class="title"><span data-v-02cb8bd1="" class="text"> Kamaal <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/525736" class="link_artist"><span class="text">Harnav Brar</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Cloud Nine 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9007197</id>
         <link href="https://vibe.naver.com/album/9007197"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9007131"/>
         <updated>2023-02-14T15:14:18.637Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9007131" class="title"><span data-v-02cb8bd1="" class="text"> Boundaries (Feat. Jennifer Hudson) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3632236" class="link_artist"><span class="text">Michael R. Jackson</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Animeg. 30th (Streaming Ver.) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9007130</id>
-        <link href="https://vibe.naver.com/album/9007130"/>
-        <updated>2023-02-14T15:14:18.638Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9007130" class="title"><span data-v-02cb8bd1="" class="text"> Animeg. 30th (Streaming Ver.) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2427254" class="link_artist"><span class="text">Megumi Ogata</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

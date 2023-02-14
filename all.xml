@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T01:04:25.538Z</updated>
+    <updated>2023-02-14T02:46:37.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Killer - The 2nd Album Repackage 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Tones And I]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Self Consistency 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9005445</id>
+        <link href="https://vibe.naver.com/album/9005445"/>
+        <updated>2023-02-14T02:46:36.350Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9005445" class="title"><span data-v-02cb8bd1="" class="text"> Self Consistency <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5979637" class="link_artist"><span class="text">Boming Lei</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[CONTIGO LA PASO CABRON 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9005403</id>
         <link href="https://vibe.naver.com/album/9005403"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9004926"/>
         <updated>2023-02-13T15:14:16.799Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004926" class="title"><span data-v-02cb8bd1="" class="text"> Handful / Already Broke Up <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1571320" class="link_artist"><span class="text">Erin Kinsey</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magkalayo (Feat. Näise) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9004925</id>
-        <link href="https://vibe.naver.com/album/9004925"/>
-        <updated>2023-02-13T15:14:16.824Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004925" class="title"><span data-v-02cb8bd1="" class="text"> Magkalayo (Feat. Näise) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5695698" class="link_artist"><span class="text">Mayonnaise</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

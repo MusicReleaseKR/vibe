@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-14T20:13:51.898Z</updated>
+    <updated>2023-02-14T21:12:01.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sasu Ji Ke Boliya Tit Lage 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9007552</id>
+        <link href="https://vibe.naver.com/album/9007552"/>
+        <updated>2023-02-14T21:12:01.310Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9007552" class="title"><span data-v-02cb8bd1="" class="text"> Sasu Ji Ke Boliya Tit Lage <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3737382" class="link_artist"><span class="text">Anupama Yadav</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kamaal 업데이트]]></title>
         <id>https://vibe.naver.com/album/9007535</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9007132"/>
         <updated>2023-02-14T15:14:18.636Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9007132" class="title"><span data-v-02cb8bd1="" class="text"> ลัทธิแมวโพง <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5178428" class="link_artist"><span class="text">Taypilick</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boundaries (Feat. Jennifer Hudson) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9007131</id>
-        <link href="https://vibe.naver.com/album/9007131"/>
-        <updated>2023-02-14T15:14:18.637Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9007131" class="title"><span data-v-02cb8bd1="" class="text"> Boundaries (Feat. Jennifer Hudson) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3632236" class="link_artist"><span class="text">Michael R. Jackson</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

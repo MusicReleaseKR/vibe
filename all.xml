@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-14T04:16:24.272Z</updated>
+    <updated>2023-02-14T05:13:14.949Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[내일이 있잖아 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Ashnikko]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Corazón Maleante 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9005619</id>
+        <link href="https://vibe.naver.com/album/9005619"/>
+        <updated>2023-02-14T05:13:14.091Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9005619" class="title"><span data-v-02cb8bd1="" class="text"> Corazón Maleante <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/965209" class="link_artist"><span class="text">Andy Rivera</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[D.N.A Cypher Ⅰ 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9005611</id>
         <link href="https://vibe.naver.com/album/9005611"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9004933"/>
         <updated>2023-02-13T16:17:15.331Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004933" class="title"><span data-v-02cb8bd1="" class="text"> MISTAKE <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4017973" class="link_artist"><span class="text">Toyoki</span></a><span>, </span></span><span><a href="/artist/4721777" class="link_artist"><span class="text">CAPPER</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Upnow 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9004930</id>
-        <link href="https://vibe.naver.com/album/9004930"/>
-        <updated>2023-02-13T15:14:16.795Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9004930" class="title"><span data-v-02cb8bd1="" class="text"> Upnow <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5798651" class="link_artist"><span class="text">DD Osama</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

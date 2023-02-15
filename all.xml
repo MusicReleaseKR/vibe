@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-15T19:11:21.624Z</updated>
+    <updated>2023-02-15T20:14:39.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[oWn 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Lizzo]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RØD LØPER 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9010285</id>
+        <link href="https://vibe.naver.com/album/9010285"/>
+        <updated>2023-02-15T20:14:38.405Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9010285" class="title"><span data-v-02cb8bd1="" class="text"> RØD LØPER <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4136046" class="link_artist"><span class="text">Solguden</span></a><span>, </span></span><span><a href="/artist/500369" class="link_artist"><span class="text">DJ Black</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Kaala Bhairava Ashtakam 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9010262</id>
         <link href="https://vibe.naver.com/album/9010262"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9008200"/>
         <updated>2023-02-15T15:13:56.312Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9008200" class="title"><span data-v-02cb8bd1="" class="text"> Tor Rangwa Mor Rangwa <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3094635" class="link_artist"><span class="text">Sonu Sargam Yadav</span></a><span>, </span></span><span><a href="/artist/3823657" class="link_artist"><span class="text">Raj Nandani</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chhapa Haradia Paswan Jee 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9008199</id>
-        <link href="https://vibe.naver.com/album/9008199"/>
-        <updated>2023-02-15T15:13:56.313Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9008199" class="title"><span data-v-02cb8bd1="" class="text"> Chhapa Haradia Paswan Jee <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3753433" class="link_artist"><span class="text">Raja Bhojpuriya</span></a><span>, </span></span><span><a href="/artist/3925334" class="link_artist"><span class="text">Shrishti Bharti</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

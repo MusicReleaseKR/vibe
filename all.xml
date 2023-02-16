@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-16T06:17:10.796Z</updated>
+    <updated>2023-02-16T07:13:21.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[PEAK TIME - Survival Round 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[OLWIK]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Tere Nal Fabbu 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9011536</id>
+        <link href="https://vibe.naver.com/album/9011536"/>
+        <updated>2023-02-16T07:13:20.660Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9011536" class="title"><span data-v-02cb8bd1="" class="text"> Tere Nal Fabbu <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/861068" class="link_artist"><span class="text">Rhythm</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Vem Me Mamar 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9010921</id>
         <link href="https://vibe.naver.com/album/9010921"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9008210"/>
         <updated>2023-02-15T15:13:56.296Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9008210" class="title"><span data-v-02cb8bd1="" class="text"> Dhodi Me Rang Dalai <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3593964" class="link_artist"><span class="text">Dhananjay Sharma</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fúze 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9008209</id>
-        <link href="https://vibe.naver.com/album/9008209"/>
-        <updated>2023-02-15T15:13:56.298Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9008209" class="title"><span data-v-02cb8bd1="" class="text"> Fúze <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5665767" class="link_artist"><span class="text">Casper</span></a><span>, </span></span><span><a href="/artist/5340280" class="link_artist"><span class="text">2mess</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

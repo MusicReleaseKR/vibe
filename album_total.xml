@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-17T07:12:36.496Z</updated>
+    <updated>2023-02-17T08:17:07.223Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[23.02.09] 우키팝의 <팝 차트 파티> 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9044662</id>
+        <link href="https://vibe.naver.com/album/9044662"/>
+        <updated>2023-02-17T08:17:06.458Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9044662" class="title"><span data-v-02cb8bd1="" class="text"> [23.02.09] 우키팝의 &lt;팝 차트 파티&gt; <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5799142" class="link_artist"><span class="text">VIBE 파티룸</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mahaba 업데이트]]></title>
         <id>https://vibe.naver.com/album/9042768</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9027914"/>
         <updated>2023-02-16T20:14:36.329Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9027914" class="title"><span data-v-02cb8bd1="" class="text"> Another Love (arr. piano) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/362905" class="link_artist"><span class="text">Music Lab Collective</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kwaito Nama Medi 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9027428</id>
-        <link href="https://vibe.naver.com/album/9027428"/>
-        <updated>2023-02-16T19:10:57.712Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9027428" class="title"><span data-v-02cb8bd1="" class="text"> Kwaito Nama Medi <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2889469" class="link_artist"><span class="text">Reece Madlisa</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

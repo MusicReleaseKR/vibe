@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-02-17T04:15:58.921Z</updated>
+    <updated>2023-02-17T05:13:11.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.21 : 질주 (2 Baddies) Remixes 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9010483</id>
+        <link href="https://vibe.naver.com/album/9010483"/>
+        <updated>2023-02-17T05:12:50.804Z</updated>
+        <content type="html"><![CDATA[비앙(Viann)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미스터트롯2 메들리 팀미션 베스트 PART2 업데이트]]></title>
         <id>https://vibe.naver.com/album/9011090</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9005725"/>
         <updated>2023-02-16T03:16:55.509Z</updated>
         <content type="html"><![CDATA[HYEEUN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이별 밤 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9007795</id>
-        <link href="https://vibe.naver.com/album/9007795"/>
-        <updated>2023-02-16T03:16:55.509Z</updated>
-        <content type="html"><![CDATA[블루버니(bluebunny)]]></content>
     </entry>
 </feed>

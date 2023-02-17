@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-17T06:17:12.516Z</updated>
+    <updated>2023-02-17T07:12:36.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Mahaba 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9042768</id>
+        <link href="https://vibe.naver.com/album/9042768"/>
+        <updated>2023-02-17T07:12:35.815Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9042768" class="title"><span data-v-02cb8bd1="" class="text"> Mahaba <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/556769" class="link_artist"><span class="text">Alikiba</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Aborrecio 업데이트]]></title>
         <id>https://vibe.naver.com/album/9041989</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9027428"/>
         <updated>2023-02-16T19:10:57.712Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9027428" class="title"><span data-v-02cb8bd1="" class="text"> Kwaito Nama Medi <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2889469" class="link_artist"><span class="text">Reece Madlisa</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solitude 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9027426</id>
-        <link href="https://vibe.naver.com/album/9027426"/>
-        <updated>2023-02-16T19:10:57.713Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9027426" class="title"><span data-v-02cb8bd1="" class="text"> Solitude <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5845682" class="link_artist"><span class="text">Musilink</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

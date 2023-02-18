@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-18T01:02:30.124Z</updated>
+    <updated>2023-02-18T02:41:32.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Oe Oe Aa Aa 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9062912</id>
+        <link href="https://vibe.naver.com/album/9062912"/>
+        <updated>2023-02-18T02:41:31.753Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9062912" class="title"><span data-v-02cb8bd1="" class="text"> Oe Oe Aa Aa <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6357197" class="link_artist"><span class="text">CV De Mafklappers</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ki Dassiye - 1 Min Music 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9062911</id>
+        <link href="https://vibe.naver.com/album/9062911"/>
+        <updated>2023-02-18T02:41:31.760Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9062911" class="title"><span data-v-02cb8bd1="" class="text"> Ki Dassiye - 1 Min Music <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3082984" class="link_artist"><span class="text">Channa Jandali</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dhodi Me Rang Dalai 업데이트]]></title>
         <id>https://vibe.naver.com/album/9059437</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9024051"/>
         <updated>2023-02-17T15:13:45.429Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9024051" class="title"><span data-v-02cb8bd1="" class="text"> Put My Arms Around You <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6328476" class="link_artist"><span class="text">Fukushima Kayo</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Que Eu Vou Sarrando Ai Montagem 2010 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9024050</id>
-        <link href="https://vibe.naver.com/album/9024050"/>
-        <updated>2023-02-17T15:13:45.435Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9024050" class="title"><span data-v-02cb8bd1="" class="text"> Que Eu Vou Sarrando Ai Montagem 2010 <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5433261" class="link_artist"><span class="text">MC Gedai</span></a><span>, </span></span><span><a href="/artist/5431088" class="link_artist"><span class="text">DJ GORDINHO DA VF</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zara Sa Jhoom (Reprise) - Single 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9024048</id>
-        <link href="https://vibe.naver.com/album/9024048"/>
-        <updated>2023-02-17T15:13:45.437Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9024048" class="title"><span data-v-02cb8bd1="" class="text"> Zara Sa Jhoom (Reprise) - Single <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2685278" class="link_artist"><span class="text">Neha Karode</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

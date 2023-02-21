@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-21T22:13:02.840Z</updated>
+    <updated>2023-02-21T23:13:52.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Auto 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9137108</id>
+        <link href="https://vibe.naver.com/album/9137108"/>
+        <updated>2023-02-21T23:13:51.434Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9137108" class="title"><span data-v-02cb8bd1="" class="text"> Auto <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2960114" class="link_artist"><span class="text">MadeInParis</span></a><span>, </span></span><span><a href="/artist/805848" class="link_artist"><span class="text">Maureen</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Recordando a Ray Conniff 업데이트]]></title>
         <id>https://vibe.naver.com/album/9133919</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9125450"/>
         <updated>2023-02-21T15:13:58.972Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9125450" class="title"><span data-v-02cb8bd1="" class="text"> Live in Chicago <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/114648" class="link_artist"><span class="text">Necrophobic</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Comedown 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9125449</id>
-        <link href="https://vibe.naver.com/album/9125449"/>
-        <updated>2023-02-21T15:13:58.973Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9125449" class="title"><span data-v-02cb8bd1="" class="text"> Comedown <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6390325" class="link_artist"><span class="text">Calicos</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-21T13:22:01.062Z</updated>
+    <updated>2023-02-21T14:12:22.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[머피 (Feat. 이무진) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[FAST BOY]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Piya Dharela Jiya Darela 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9124258</id>
+        <link href="https://vibe.naver.com/album/9124258"/>
+        <updated>2023-02-21T14:12:22.218Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9124258" class="title"><span data-v-02cb8bd1="" class="text"> Piya Dharela Jiya Darela 2 <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3737382" class="link_artist"><span class="text">Anupama Yadav</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sali Choli Me Colour Jae Da 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9123076</id>
         <link href="https://vibe.naver.com/album/9123076"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9106858"/>
         <updated>2023-02-21T01:06:29.885Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9106858" class="title"><span data-v-02cb8bd1="" class="text"> Rangwa Lahanga Me Dalatani <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6103902" class="link_artist"><span class="text">Santosh Bhardwaj</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Se ne sta immobile accanto alla valigia sfasciata 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9106842</id>
-        <link href="https://vibe.naver.com/album/9106842"/>
-        <updated>2023-02-20T23:13:25.229Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9106842" class="title"><span data-v-02cb8bd1="" class="text"> Se ne sta immobile accanto alla valigia sfasciata <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1619670" class="link_artist"><span class="text">Emidio Clementi</span></a><span>, </span></span><span><a href="/artist/1994859" class="link_artist"><span class="text">Corrado Nuccini</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

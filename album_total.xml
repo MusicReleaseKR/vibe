@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-23T05:14:00.829Z</updated>
+    <updated>2023-02-23T06:18:29.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DIMENSIONS 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9181937</id>
+        <link href="https://vibe.naver.com/album/9181937"/>
+        <updated>2023-02-23T06:18:27.994Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9181937" class="title"><span data-v-02cb8bd1="" class="text"> DIMENSIONS <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3091228" class="link_artist"><span class="text">Jaecy</span></a><span>, </span></span><span><a href="/artist/482485" class="link_artist"><span class="text">Jaysounds</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIMENSIONS 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9181936</id>
+        <link href="https://vibe.naver.com/album/9181936"/>
+        <updated>2023-02-23T06:18:27.995Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9181936" class="title"><span data-v-02cb8bd1="" class="text"> DIMENSIONS <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3091228" class="link_artist"><span class="text">Jaecy</span></a><span>, </span></span><span><a href="/artist/482485" class="link_artist"><span class="text">Jaysounds</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flowers 업데이트]]></title>
         <id>https://vibe.naver.com/album/9181484</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9161469"/>
         <updated>2023-02-22T15:14:41.852Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9161469" class="title"><span data-v-02cb8bd1="" class="text"> Listening To Work And Learning Soothing Light Music <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5524034" class="link_artist"><span class="text">Relaxed Melody</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4B 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9161468</id>
-        <link href="https://vibe.naver.com/album/9161468"/>
-        <updated>2023-02-22T15:14:41.853Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9161468" class="title"><span data-v-02cb8bd1="" class="text"> 4B <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/385144" class="link_artist"><span class="text">Beata Kozidrak</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Escape from Beyond 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9161467</id>
-        <link href="https://vibe.naver.com/album/9161467"/>
-        <updated>2023-02-22T15:14:41.857Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9161467" class="title"><span data-v-02cb8bd1="" class="text"> Escape from Beyond <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/550537" class="link_artist"><span class="text">Night Demon</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

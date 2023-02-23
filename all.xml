@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-23T15:14:51.050Z</updated>
+    <updated>2023-02-23T16:18:00.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[하루에 하나씩 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,11 +705,116 @@
         <content type="html"><![CDATA[MYRNE]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Kaise Kahoon 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193899</id>
+        <link href="https://vibe.naver.com/album/9193899"/>
+        <updated>2023-02-23T16:17:59.942Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193899" class="title"><span data-v-02cb8bd1="" class="text"> Kaise Kahoon <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1105589" class="link_artist"><span class="text">Tarana</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kaala Sooraj (Original Motion Picture Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193896</id>
+        <link href="https://vibe.naver.com/album/9193896"/>
+        <updated>2023-02-23T16:17:59.945Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193896" class="title"><span data-v-02cb8bd1="" class="text"> Kaala Sooraj (Original Motion Picture Soundtrack) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/931676" class="link_artist"><span class="text">Bappi Lahiri</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs Of Rabindranath (Bajao Tumi Kobi) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193895</id>
+        <link href="https://vibe.naver.com/album/9193895"/>
+        <updated>2023-02-23T16:17:59.946Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193895" class="title"><span data-v-02cb8bd1="" class="text"> Songs Of Rabindranath (Bajao Tumi Kobi) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5609998" class="link_artist"><span class="text">Suparna Guha</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tagore Songs 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193894</id>
+        <link href="https://vibe.naver.com/album/9193894"/>
+        <updated>2023-02-23T16:17:59.947Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193894" class="title"><span data-v-02cb8bd1="" class="text"> Tagore Songs <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6440757" class="link_artist"><span class="text">Sromona Guha Thakurta</span></a><span>, </span></span><span><a href="/artist/2424558" class="link_artist"><span class="text">Tarit Choudhury</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Meri Soulmate 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193893</id>
+        <link href="https://vibe.naver.com/album/9193893"/>
+        <updated>2023-02-23T16:17:59.948Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193893" class="title"><span data-v-02cb8bd1="" class="text"> Meri Soulmate <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3651586" class="link_artist"><span class="text">Deep Kalsi</span></a><span>, </span></span><span><a href="/artist/5205135" class="link_artist"><span class="text">Sireesha Bhagavatula</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Evening Alone at Art Gallery 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193891</id>
+        <link href="https://vibe.naver.com/album/9193891"/>
+        <updated>2023-02-23T16:17:59.948Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193891" class="title"><span data-v-02cb8bd1="" class="text"> Evening Alone at Art Gallery <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/113168" class="link_artist"><span class="text">Jason Chan</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cuma Kamu (OST "Gadis XXXL") 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193889</id>
+        <link href="https://vibe.naver.com/album/9193889"/>
+        <updated>2023-02-23T16:17:59.949Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193889" class="title"><span data-v-02cb8bd1="" class="text"> Cuma Kamu (OST "Gadis XXXL") <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2388875" class="link_artist"><span class="text">Amir Hasan</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Not Your Fault 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193888</id>
+        <link href="https://vibe.naver.com/album/9193888"/>
+        <updated>2023-02-23T16:17:59.949Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193888" class="title"><span data-v-02cb8bd1="" class="text"> Not Your Fault <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5694254" class="link_artist"><span class="text">Aini Mazalan</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mr. Panchanan (Bengali Modern Songs) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193886</id>
+        <link href="https://vibe.naver.com/album/9193886"/>
+        <updated>2023-02-23T16:17:59.950Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193886" class="title"><span data-v-02cb8bd1="" class="text"> Mr. Panchanan (Bengali Modern Songs) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JARAK 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193885</id>
+        <link href="https://vibe.naver.com/album/9193885"/>
+        <updated>2023-02-23T16:17:59.951Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193885" class="title"><span data-v-02cb8bd1="" class="text"> JARAK <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3098939" class="link_artist"><span class="text">Aisha Retno</span></a><span>, </span></span><span><a href="/artist/499953" class="link_artist"><span class="text">Aziz Harun</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Devoted To You (Love Songs Forever) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193884</id>
+        <link href="https://vibe.naver.com/album/9193884"/>
+        <updated>2023-02-23T16:17:59.951Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193884" class="title"><span data-v-02cb8bd1="" class="text"> Devoted To You (Love Songs Forever) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/544414" class="link_artist"><span class="text">Bashir Sheikh</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kamar Me Daradiya 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193880</id>
+        <link href="https://vibe.naver.com/album/9193880"/>
+        <updated>2023-02-23T16:17:59.952Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193880" class="title"><span data-v-02cb8bd1="" class="text"> Kamar Me Daradiya <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3689803" class="link_artist"><span class="text">Anand Pandey</span></a><span>, </span></span><span><a href="/artist/5197589" class="link_artist"><span class="text">Khushi Kakkar</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[O Mere Sanam 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193827</id>
+        <link href="https://vibe.naver.com/album/9193827"/>
+        <updated>2023-02-23T16:17:59.952Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193827" class="title"><span data-v-02cb8bd1="" class="text"> O Mere Sanam <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1775611" class="link_artist"><span class="text">Mangal Singh</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Sings Ghalib And Others 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9193826</id>
         <link href="https://vibe.naver.com/album/9193826"/>
         <updated>2023-02-23T15:14:50.331Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193826" class="title"><span data-v-02cb8bd1="" class="text"> Sings Ghalib And Others <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/371074" class="link_artist"><span class="text">Madhurani</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[do you still think (about me?) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193817</id>
+        <link href="https://vibe.naver.com/album/9193817"/>
+        <updated>2023-02-23T16:17:59.957Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193817" class="title"><span data-v-02cb8bd1="" class="text"> do you still think (about me?) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2408520" class="link_artist"><span class="text">Lost Spaces</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rumah Bahagia 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9193815</id>
+        <link href="https://vibe.naver.com/album/9193815"/>
+        <updated>2023-02-23T16:17:59.957Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193815" class="title"><span data-v-02cb8bd1="" class="text"> Rumah Bahagia <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6440724" class="link_artist"><span class="text">Ki Misri</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Great Pretender 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -948,110 +1053,5 @@
         <link href="https://vibe.naver.com/album/9193778"/>
         <updated>2023-02-23T15:14:50.377Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193778" class="title"><span data-v-02cb8bd1="" class="text"> Sometimes I Feel <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5249876" class="link_artist"><span class="text">Lasse Skriver</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Symphony of a Dying Star 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193777</id>
-        <link href="https://vibe.naver.com/album/9193777"/>
-        <updated>2023-02-23T15:14:50.378Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193777" class="title"><span data-v-02cb8bd1="" class="text"> Symphony of a Dying Star <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1680532" class="link_artist"><span class="text">Mental Cruelty</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STUPE KRÅKE I OPPOVERBAKKE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193776</id>
-        <link href="https://vibe.naver.com/album/9193776"/>
-        <updated>2023-02-23T15:14:50.378Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193776" class="title"><span data-v-02cb8bd1="" class="text"> STUPE KRÅKE I OPPOVERBAKKE <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4062976" class="link_artist"><span class="text">MALIK</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oração de Amor / Meu Anjo Azul (My Blue Angel) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193775</id>
-        <link href="https://vibe.naver.com/album/9193775"/>
-        <updated>2023-02-23T15:14:50.378Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193775" class="title"><span data-v-02cb8bd1="" class="text"> Oração de Amor / Meu Anjo Azul (My Blue Angel) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2066941" class="link_artist"><span class="text">Luiz Cláudio</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cuban 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193774</id>
-        <link href="https://vibe.naver.com/album/9193774"/>
-        <updated>2023-02-23T15:14:50.378Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193774" class="title"><span data-v-02cb8bd1="" class="text"> Cuban <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1541898" class="link_artist"><span class="text">Jalil</span></a><span>, </span></span><span><a href="/artist/410279" class="link_artist"><span class="text">Moe Phoenix</span></a><span>, </span></span><span><a href="/artist/3223077" class="link_artist"><span class="text">DeeVoe</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Toda Una Vida 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193773</id>
-        <link href="https://vibe.naver.com/album/9193773"/>
-        <updated>2023-02-23T15:14:50.380Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193773" class="title"><span data-v-02cb8bd1="" class="text"> Toda Una Vida <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1902821" class="link_artist"><span class="text">María Dolores Pradera</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Vor Ort 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193772</id>
-        <link href="https://vibe.naver.com/album/9193772"/>
-        <updated>2023-02-23T15:14:50.381Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193772" class="title"><span data-v-02cb8bd1="" class="text"> Vor Ort <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1590320" class="link_artist"><span class="text">Xaver</span></a><span>, </span></span><span><a href="/artist/2487297" class="link_artist"><span class="text">KazOnDaBeat</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mantle Remix 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193771</id>
-        <link href="https://vibe.naver.com/album/9193771"/>
-        <updated>2023-02-23T15:14:50.382Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193771" class="title"><span data-v-02cb8bd1="" class="text"> Mantle Remix <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3666160" class="link_artist"><span class="text">Isamaya Ffrench</span></a><span>, </span></span><span><a href="/artist/753704" class="link_artist"><span class="text">Sam Thomas</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ein Fuß vor den anderen 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193770</id>
-        <link href="https://vibe.naver.com/album/9193770"/>
-        <updated>2023-02-23T15:14:50.383Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193770" class="title"><span data-v-02cb8bd1="" class="text"> Ein Fuß vor den anderen <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4880919" class="link_artist"><span class="text">Apsilon</span></a><span>, </span></span><span><a href="/artist/2459974" class="link_artist"><span class="text">Bazzazian</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Asereje 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193769</id>
-        <link href="https://vibe.naver.com/album/9193769"/>
-        <updated>2023-02-23T15:14:50.385Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193769" class="title"><span data-v-02cb8bd1="" class="text"> Asereje <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1176131" class="link_artist"><span class="text">Piero Pirupa</span></a><span>, </span></span><span><a href="/artist/1574045" class="link_artist"><span class="text">Paolo Pellegrino</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Danser Kun For Dig 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193768</id>
-        <link href="https://vibe.naver.com/album/9193768"/>
-        <updated>2023-02-23T15:14:50.386Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193768" class="title"><span data-v-02cb8bd1="" class="text"> Danser Kun For Dig <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/934721" class="link_artist"><span class="text">RH</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOVA 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193767</id>
-        <link href="https://vibe.naver.com/album/9193767"/>
-        <updated>2023-02-23T15:14:50.387Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193767" class="title"><span data-v-02cb8bd1="" class="text"> NOVA <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6440694" class="link_artist"><span class="text">HYPR</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hortelã 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193766</id>
-        <link href="https://vibe.naver.com/album/9193766"/>
-        <updated>2023-02-23T15:14:50.388Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193766" class="title"><span data-v-02cb8bd1="" class="text"> hortelã <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5477224" class="link_artist"><span class="text">Maro</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[cardio 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193765</id>
-        <link href="https://vibe.naver.com/album/9193765"/>
-        <updated>2023-02-23T15:14:50.390Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193765" class="title"><span data-v-02cb8bd1="" class="text"> cardio <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4080398" class="link_artist"><span class="text">Skrt Cobain</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ganas 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193764</id>
-        <link href="https://vibe.naver.com/album/9193764"/>
-        <updated>2023-02-23T15:14:50.391Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193764" class="title"><span data-v-02cb8bd1="" class="text"> Ganas <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4546860" class="link_artist"><span class="text">Sofía Martín</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Impostor 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9193763</id>
-        <link href="https://vibe.naver.com/album/9193763"/>
-        <updated>2023-02-23T15:14:50.392Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9193763" class="title"><span data-v-02cb8bd1="" class="text"> Impostor <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5474618" class="link_artist"><span class="text">Kuatro Kantos</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

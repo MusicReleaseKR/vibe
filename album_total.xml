@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-25T11:10:29.622Z</updated>
+    <updated>2023-02-25T12:21:58.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bí Mật Nhỏ 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9196808</id>
+        <link href="https://vibe.naver.com/album/9196808"/>
+        <updated>2023-02-25T12:21:57.457Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9196808" class="title"><span data-v-02cb8bd1="" class="text"> Bí Mật Nhỏ <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4782216" class="link_artist"><span class="text">B Ray</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lụm Lúa (Drill Version) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9196804</id>
+        <link href="https://vibe.naver.com/album/9196804"/>
+        <updated>2023-02-25T12:21:57.458Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9196804" class="title"><span data-v-02cb8bd1="" class="text"> Lụm Lúa (Drill Version) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3734090" class="link_artist"><span class="text">Pjpo</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Khesari Ji Neon Smile Ba 업데이트]]></title>
         <id>https://vibe.naver.com/album/9196705</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9195654"/>
         <updated>2023-02-24T15:12:54.705Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9195654" class="title"><span data-v-02cb8bd1="" class="text"> Em Tôi <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6080527" class="link_artist"><span class="text">Hồng Quân WyTy</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kaatrodu Pattam Pola (From "Ayothi") - Single 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9195652</id>
-        <link href="https://vibe.naver.com/album/9195652"/>
-        <updated>2023-02-24T15:12:54.708Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9195652" class="title"><span data-v-02cb8bd1="" class="text"> Kaatrodu Pattam Pola (From "Ayothi") - Single <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/418553" class="link_artist"><span class="text">Pradeep Kumar</span></a><span>, </span></span><span><a href="/artist/1794397" class="link_artist"><span class="text">N.R. Raghunanthan</span></a><span>, </span></span><span><a href="/artist/4984148" class="link_artist"><span class="text">Sarathi</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kudu Biso Lilo 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9195368</id>
-        <link href="https://vibe.naver.com/album/9195368"/>
-        <updated>2023-02-24T15:12:54.716Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9195368" class="title"><span data-v-02cb8bd1="" class="text"> Kudu Biso Lilo <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6441455" class="link_artist"><span class="text">Aryo Kempes Music</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

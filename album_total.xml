@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-25T16:16:28.213Z</updated>
+    <updated>2023-02-25T17:11:53.982Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Getur Stoppað Mig 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9197176</id>
+        <link href="https://vibe.naver.com/album/9197176"/>
+        <updated>2023-02-25T17:11:53.116Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197176" class="title"><span data-v-02cb8bd1="" class="text"> Getur Stoppað Mig <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5439197" class="link_artist"><span class="text">Kristel Eir Eiríksdóttir</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Phep Mau 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9197175</id>
+        <link href="https://vibe.naver.com/album/9197175"/>
+        <updated>2023-02-25T17:11:53.117Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197175" class="title"><span data-v-02cb8bd1="" class="text"> Phep Mau <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6441968" class="link_artist"><span class="text">BLUEXI</span></a><span>, </span></span><span><a href="/artist/1138761" class="link_artist"><span class="text">Hest</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOU 업데이트]]></title>
         <id>https://vibe.naver.com/album/9196872</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9196408"/>
         <updated>2023-02-25T15:12:23.993Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9196408" class="title"><span data-v-02cb8bd1="" class="text"> Eita Novinha <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5912417" class="link_artist"><span class="text">MC NAYZIN</span></a><span>, </span></span><span><a href="/artist/5431088" class="link_artist"><span class="text">DJ GORDINHO DA VF</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nuestra Novela 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9196407</id>
-        <link href="https://vibe.naver.com/album/9196407"/>
-        <updated>2023-02-25T15:12:23.995Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9196407" class="title"><span data-v-02cb8bd1="" class="text"> Nuestra Novela <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6441658" class="link_artist"><span class="text">D'Miguel &amp; Rivera</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primeiro Segundo 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9196406</id>
-        <link href="https://vibe.naver.com/album/9196406"/>
-        <updated>2023-02-25T15:12:23.997Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9196406" class="title"><span data-v-02cb8bd1="" class="text"> Primeiro Segundo <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6441657" class="link_artist"><span class="text">Incrise</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

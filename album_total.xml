@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-27T19:11:39.599Z</updated>
+    <updated>2023-02-27T20:14:25.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DOS PRIMAVERAS 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9200892</id>
+        <link href="https://vibe.naver.com/album/9200892"/>
+        <updated>2023-02-27T20:14:25.250Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9200892" class="title"><span data-v-02cb8bd1="" class="text"> DOS PRIMAVERAS <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2504304" class="link_artist"><span class="text">Nil Moliner</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Andhagan (Original Motion Picture Soundtrack) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9200696</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9199679"/>
         <updated>2023-02-27T15:14:04.601Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9199679" class="title"><span data-v-02cb8bd1="" class="text"> โค้ดลับ โค้ดรัก (The Original Soundtrack "เจ๊ไฝ ยอดนักสืบ") <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/6443241" class="link_artist"><span class="text">THI-O</span></a><span>, </span></span><span><a href="/artist/3059932" class="link_artist"><span class="text">Tutor</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VICE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9199678</id>
-        <link href="https://vibe.naver.com/album/9199678"/>
-        <updated>2023-02-27T15:14:04.602Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9199678" class="title"><span data-v-02cb8bd1="" class="text"> VICE <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/984194" class="link_artist"><span class="text">Blessd</span></a><span>, </span></span><span><a href="/artist/4962574" class="link_artist"><span class="text">Pirlo</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

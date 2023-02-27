@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-27T02:47:20.682Z</updated>
+    <updated>2023-02-27T03:18:55.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[태교엔 잔잔한 오르골 자장가 70 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9197716</id>
+        <link href="https://vibe.naver.com/album/9197716"/>
+        <updated>2023-02-27T03:18:54.359Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197716" class="title"><span data-v-02cb8bd1="" class="text"> 태교엔 잔잔한 오르골 자장가 70 <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/213107" class="link_artist"><span class="text">어쿠스틱레인(Acoustic Rain)</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴식할 때 편안한 피아노 클래식 70 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9197715</id>
+        <link href="https://vibe.naver.com/album/9197715"/>
+        <updated>2023-02-27T03:18:54.360Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197715" class="title"><span data-v-02cb8bd1="" class="text"> 휴식할 때 편안한 피아노 클래식 70 <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2910830" class="link_artist"><span class="text">박 마르첼리나</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Destiny 2: Lightfall (Original Soundtrack) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9197288</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9197234"/>
         <updated>2023-02-26T15:13:03.409Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197234" class="title"><span data-v-02cb8bd1="" class="text"> Holi Me Dehio Bhauji Lamka Baiganwa <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3103913" class="link_artist"><span class="text">Manoj Lal Yadav</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Khwab (Feat. Pratap Dhama) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9197233</id>
-        <link href="https://vibe.naver.com/album/9197233"/>
-        <updated>2023-02-26T15:13:03.411Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197233" class="title"><span data-v-02cb8bd1="" class="text"> Khwab (Feat. Pratap Dhama) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1763453" class="link_artist"><span class="text">Mohini Patel</span></a><span>, </span></span><span><a href="/artist/4831304" class="link_artist"><span class="text">Krishan Madha</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dauðir dagar (acoustic) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9197172</id>
-        <link href="https://vibe.naver.com/album/9197172"/>
-        <updated>2023-02-26T15:13:03.413Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197172" class="title"><span data-v-02cb8bd1="" class="text"> Dauðir dagar (acoustic) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5461814" class="link_artist"><span class="text">Orri Harðarson</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

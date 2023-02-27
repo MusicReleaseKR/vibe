@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-02-27T09:14:55.792Z</updated>
+    <updated>2023-02-27T10:15:20.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,34 @@
         <link href="https://vibe.naver.com/album/9178638"/>
         <updated>2023-02-27T09:14:34.608Z</updated>
         <content type="html"><![CDATA[Muratone]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MY SUN 업데이트]]></title>
+        <id>https://vibe.naver.com/album/7911284</id>
+        <link href="https://vibe.naver.com/album/7911284"/>
+        <updated>2023-02-27T10:15:02.510Z</updated>
+        <content type="html"><![CDATA[김현중]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bugslife 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9179499</id>
+        <link href="https://vibe.naver.com/album/9179499"/>
+        <updated>2023-02-27T10:15:02.511Z</updated>
+        <content type="html"><![CDATA[sooSoo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[out there 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9194448</id>
+        <link href="https://vibe.naver.com/album/9194448"/>
+        <updated>2023-02-27T10:15:02.511Z</updated>
+        <content type="html"><![CDATA[바닐라 유니티]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ze 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9194989</id>
+        <link href="https://vibe.naver.com/album/9194989"/>
+        <updated>2023-02-27T10:15:02.512Z</updated>
+        <content type="html"><![CDATA[ZePault(제폴트)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사랑을 어떻게 말하나요 업데이트]]></title>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/9194413"/>
         <updated>2023-02-26T09:12:30.758Z</updated>
         <content type="html"><![CDATA[Aalia(알리아)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Drown 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9194408</id>
-        <link href="https://vibe.naver.com/album/9194408"/>
-        <updated>2023-02-26T09:12:30.763Z</updated>
-        <content type="html"><![CDATA[송희진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lullaby 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9147117</id>
-        <link href="https://vibe.naver.com/album/9147117"/>
-        <updated>2023-02-26T03:24:56.139Z</updated>
-        <content type="html"><![CDATA[뎁트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정의 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9178735</id>
-        <link href="https://vibe.naver.com/album/9178735"/>
-        <updated>2023-02-26T03:24:56.139Z</updated>
-        <content type="html"><![CDATA[SEOMINGYU(서민규)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lessgo (Feat. lobonabeat! & BILL STAX) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9186101</id>
-        <link href="https://vibe.naver.com/album/9186101"/>
-        <updated>2023-02-26T03:24:56.139Z</updated>
-        <content type="html"><![CDATA[Laylow]]></content>
     </entry>
 </feed>

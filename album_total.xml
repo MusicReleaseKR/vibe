@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-27T15:14:05.263Z</updated>
+    <updated>2023-02-27T16:18:11.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Óliver 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9199823</id>
+        <link href="https://vibe.naver.com/album/9199823"/>
+        <updated>2023-02-27T16:18:11.042Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9199823" class="title"><span data-v-02cb8bd1="" class="text"> Óliver <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4221027" class="link_artist"><span class="text">Halldór Smárason</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Departure 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9199753</id>
+        <link href="https://vibe.naver.com/album/9199753"/>
+        <updated>2023-02-27T16:18:11.043Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9199753" class="title"><span data-v-02cb8bd1="" class="text"> The Departure <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2206973" class="link_artist"><span class="text">Dough-Boy</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KARANGALAN NAMIN 업데이트]]></title>
         <id>https://vibe.naver.com/album/9199749</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9197704"/>
         <updated>2023-02-27T15:14:04.635Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197704" class="title"><span data-v-02cb8bd1="" class="text"> Bhari Mehfil 2.0 <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/546359" class="link_artist"><span class="text">Shipra Goyal</span></a><span>, </span></span><span><a href="/artist/620072" class="link_artist"><span class="text">Babbu Maan</span></a><span>, </span></span><span><a href="/artist/1769525" class="link_artist"><span class="text">Kunaal Vermaa</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Música para Dos 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9197703</id>
-        <link href="https://vibe.naver.com/album/9197703"/>
-        <updated>2023-02-27T15:14:04.636Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197703" class="title"><span data-v-02cb8bd1="" class="text"> Música para Dos <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2411726" class="link_artist"><span class="text">Régulo Caro</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PERA 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9197702</id>
-        <link href="https://vibe.naver.com/album/9197702"/>
-        <updated>2023-02-27T15:14:04.637Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9197702" class="title"><span data-v-02cb8bd1="" class="text"> PERA <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/4920251" class="link_artist"><span class="text">BAKV</span></a><span>, </span></span><span><a href="/artist/4115559" class="link_artist"><span class="text">ATC Coco</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-02-28T11:12:12.909Z</updated>
+    <updated>2023-02-28T12:25:31.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chi Con Trong Giac Mo (Feat. Lemese) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9203184</id>
+        <link href="https://vibe.naver.com/album/9203184"/>
+        <updated>2023-02-28T12:25:31.036Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9203184" class="title"><span data-v-02cb8bd1="" class="text"> Chi Con Trong Giac Mo (Feat. Lemese) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3394510" class="link_artist"><span class="text">Min Min</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Koka Balliye 업데이트]]></title>
         <id>https://vibe.naver.com/album/9203149</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9200525"/>
         <updated>2023-02-28T08:17:45.568Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9200525" class="title"><span data-v-02cb8bd1="" class="text"> Bekle Gönlüm <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3649050" class="link_artist"><span class="text">Hasan</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sali Chume D Othawa Ke Lali 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9200498</id>
-        <link href="https://vibe.naver.com/album/9200498"/>
-        <updated>2023-02-28T08:17:45.571Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9200498" class="title"><span data-v-02cb8bd1="" class="text"> Sali Chume D Othawa Ke Lali <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2360396" class="link_artist"><span class="text">Ravindra Rasila</span></a><span>, </span></span><span><a href="/artist/2424629" class="link_artist"><span class="text">Neha Raj</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

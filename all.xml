@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-01T03:28:30.946Z</updated>
+    <updated>2023-03-01T04:16:26.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[고개타령 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -985,13 +985,6 @@
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9203468" class="title"><span data-v-02cb8bd1="" class="text"> Dhodiya Me Lalka Rang <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/2424629" class="link_artist"><span class="text">Neha Raj</span></a><span>, </span></span><span><a href="/artist/4192758" class="link_artist"><span class="text">vishal saini</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Lovers (Side A) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9203467</id>
-        <link href="https://vibe.naver.com/album/9203467"/>
-        <updated>2023-02-28T15:14:00.281Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9203467" class="title"><span data-v-02cb8bd1="" class="text"> The Lovers (Side A) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/5813997" class="link_artist"><span class="text">MACEY</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Señorita Revolución 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9203466</id>
         <link href="https://vibe.naver.com/album/9203466"/>
@@ -1053,5 +1046,12 @@
         <link href="https://vibe.naver.com/album/9203457"/>
         <updated>2023-02-28T15:14:00.292Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9203457" class="title"><span data-v-02cb8bd1="" class="text"> Spatny Dny Neysou Mixtape, Vol.1 <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/3385612" class="link_artist"><span class="text">Darewin</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other Girls (2023 Mix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9203456</id>
+        <link href="https://vibe.naver.com/album/9203456"/>
+        <updated>2023-03-01T04:16:25.996Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-02cb8bd1="" href="/album/9203456" class="title"><span data-v-02cb8bd1="" class="text"> Other Girls (2023 Mix) <span data-v-02cb8bd1="" class="item"><span data-v-02cb8bd1="" class="blind">업데이트</span></span></span><span data-v-02cb8bd1="" class="blind">페이지로 이동</span></a><div data-v-02cb8bd1="" class="artist"><span data-v-02cb8bd1=""><span><a href="/artist/1817535" class="link_artist"><span class="text">Emma Dilemma</span></a><!----></span></span><span data-v-02cb8bd1="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

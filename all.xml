@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-08T04:15:57.173Z</updated>
+    <updated>2023-03-08T05:13:32.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Love Story 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -149,7 +149,7 @@
         <id>https://vibe.naver.com/album/9253054</id>
         <link href="https://vibe.naver.com/album/9253054"/>
         <updated>2023-03-08T03:21:24.425Z</updated>
-        <content type="html"><![CDATA[조용환]]></content>
+        <content type="html"><![CDATA[용환]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[작은 행복 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -768,6 +768,13 @@
         <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9253749" class="title"><span data-v-875fb8b6="" class="text"> 반할걸 <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><a href="/artist/120394" class="link_artist"><span class="text">에스프레소</span></a><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[불타는 트롯맨 결승전 인생곡미션 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9267839</id>
+        <link href="https://vibe.naver.com/album/9267839"/>
+        <updated>2023-03-08T03:21:24.354Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9267839" class="title"><span data-v-875fb8b6="" class="text"> 불타는 트롯맨 결승전 인생곡미션 <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Every Cloud - Silver Linings 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9215404</id>
         <link href="https://vibe.naver.com/album/9215404"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9215174"/>
         <updated>2023-03-06T09:14:17.319Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9215174" class="title"><span data-v-875fb8b6="" class="text"> 보고 싶고 보고 싶을 때 <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><a href="/artist/421575" class="link_artist"><span class="text">차우 (Chawoo)</span></a><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9225499</id>
-        <link href="https://vibe.naver.com/album/9225499"/>
-        <updated>2023-03-08T04:15:56.527Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9225499" class="title"><span data-v-875fb8b6="" class="text"> 별 <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><a href="/artist/2923643" class="link_artist"><span class="text">SUN KIM</span></a><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

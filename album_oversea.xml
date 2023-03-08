@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-03-08T08:18:29.651Z</updated>
+    <updated>2023-03-08T09:14:31.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[You Just Walked In My Life 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9267310</id>
+        <link href="https://vibe.naver.com/album/9267310"/>
+        <updated>2023-03-08T09:14:21.514Z</updated>
+        <content type="html"><![CDATA[챤미나(CHANMINA)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BEN 업데이트]]></title>
         <id>https://vibe.naver.com/album/9215064</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9208518"/>
         <updated>2023-03-06T03:20:05.045Z</updated>
         <content type="html"><![CDATA[Shekhar Ravjiani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deceiver (VIP) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9209896</id>
-        <link href="https://vibe.naver.com/album/9209896"/>
-        <updated>2023-03-06T03:20:05.050Z</updated>
-        <content type="html"><![CDATA[Chris Lake]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-03-09T08:17:26.446Z</updated>
+    <updated>2023-03-09T09:14:41.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Expectations 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9280216</id>
+        <link href="https://vibe.naver.com/album/9280216"/>
+        <updated>2023-03-09T09:14:31.685Z</updated>
+        <content type="html"><![CDATA[Anne-Marie]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Still Alive (From the Original Motion Picture Scream VI) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9209759</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9253813"/>
         <updated>2023-03-07T03:28:02.695Z</updated>
         <content type="html"><![CDATA[SUNDAYS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh I See 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9252692</id>
-        <link href="https://vibe.naver.com/album/9252692"/>
-        <updated>2023-03-07T03:28:02.695Z</updated>
-        <content type="html"><![CDATA[Erlando]]></content>
     </entry>
 </feed>

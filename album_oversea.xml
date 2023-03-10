@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-03-10T08:17:19.911Z</updated>
+    <updated>2023-03-10T09:13:48.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/9284278"/>
         <updated>2023-03-10T03:24:25.025Z</updated>
         <content type="html"><![CDATA[GAYLE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Victims & Villains 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9226115</id>
+        <link href="https://vibe.naver.com/album/9226115"/>
+        <updated>2023-03-10T09:13:39.281Z</updated>
+        <content type="html"><![CDATA[Musiq Soulchild]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MOTTO 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9267648"/>
         <updated>2023-03-08T03:21:33.650Z</updated>
         <content type="html"><![CDATA[Hadji Gaviota]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Orange Afternoon 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9268268</id>
-        <link href="https://vibe.naver.com/album/9268268"/>
-        <updated>2023-03-08T03:21:33.651Z</updated>
-        <content type="html"><![CDATA[The Astronomers]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-03-14T03:14:16.425Z</updated>
+    <updated>2023-03-14T04:15:42.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피어나도록 (love you twice) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9300933</id>
+        <link href="https://vibe.naver.com/album/9300933"/>
+        <updated>2023-03-14T04:15:41.948Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9300933" class="title"><span data-v-875fb8b6="" class="text"> 피어나도록 (love you twice) <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><a href="/artist/5439946" class="link_artist"><span class="text">허윤진</span></a><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GO LOUD! 업데이트]]></title>
         <id>https://vibe.naver.com/album/9286951</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9286824"/>
         <updated>2023-03-12T09:11:50.323Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9286824" class="title"><span data-v-875fb8b6="" class="text"> Errr Day <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><a href="/artist/315274" class="link_artist"><span class="text">영재(Youngjae)</span></a><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[one second (with 김수영) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9281846</id>
-        <link href="https://vibe.naver.com/album/9281846"/>
-        <updated>2023-03-12T09:11:50.323Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-875fb8b6="" href="/album/9281846" class="title"><span data-v-875fb8b6="" class="text"> one second (with 김수영) <span data-v-875fb8b6="" class="item"><span data-v-875fb8b6="" class="blind">업데이트</span></span></span><span data-v-875fb8b6="" class="blind">페이지로 이동</span></a><div data-v-875fb8b6="" class="artist"><span data-v-875fb8b6=""><span><a href="/artist/1993334" class="link_artist"><span class="text">김제형</span></a><!----></span></span><span data-v-875fb8b6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

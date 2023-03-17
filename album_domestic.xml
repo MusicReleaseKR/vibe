@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-03-17T03:13:45.485Z</updated>
+    <updated>2023-03-17T04:15:40.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Set Me Free Pt.2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9313232</id>
+        <link href="https://vibe.naver.com/album/9313232"/>
+        <updated>2023-03-17T04:15:19.953Z</updated>
+        <content type="html"><![CDATA[지민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SET ME FREE (Remixes) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9313221</id>
+        <link href="https://vibe.naver.com/album/9313221"/>
+        <updated>2023-03-17T04:15:19.955Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DPR ARCHIVES Part 2 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9310435</id>
+        <link href="https://vibe.naver.com/album/9310435"/>
+        <updated>2023-03-17T04:15:19.973Z</updated>
+        <content type="html"><![CDATA[DPR LIVE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 꽃 업데이트]]></title>
         <id>https://vibe.naver.com/album/9307440</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/9307559"/>
         <updated>2023-03-16T03:13:33.145Z</updated>
         <content type="html"><![CDATA[비버(Beaver)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요조신사 마초숙녀 OST Part 20 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9307460</id>
-        <link href="https://vibe.naver.com/album/9307460"/>
-        <updated>2023-03-16T03:13:33.145Z</updated>
-        <content type="html"><![CDATA[황시연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딱! / 주사 (酒邪) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9307409</id>
-        <link href="https://vibe.naver.com/album/9307409"/>
-        <updated>2023-03-16T03:13:33.145Z</updated>
-        <content type="html"><![CDATA[설화]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Back Then 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9307461</id>
-        <link href="https://vibe.naver.com/album/9307461"/>
-        <updated>2023-03-16T03:13:33.145Z</updated>
-        <content type="html"><![CDATA[hu57la]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-03-17T08:16:45.928Z</updated>
+    <updated>2023-03-17T09:13:20.690Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The More Lover Chapter (Streaming Ver.) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9314390</id>
+        <link href="https://vibe.naver.com/album/9314390"/>
+        <updated>2023-03-17T09:13:11.293Z</updated>
+        <content type="html"><![CDATA[Taylor Swift]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEATH 업데이트]]></title>
         <id>https://vibe.naver.com/album/9307300</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9272304"/>
         <updated>2023-03-15T03:13:43.997Z</updated>
         <content type="html"><![CDATA[RIPÉ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FWM 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9277196</id>
-        <link href="https://vibe.naver.com/album/9277196"/>
-        <updated>2023-03-15T03:13:43.998Z</updated>
-        <content type="html"><![CDATA[Saadi Four]]></content>
     </entry>
 </feed>

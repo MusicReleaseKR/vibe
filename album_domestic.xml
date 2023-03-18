@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-03-18T08:15:36.781Z</updated>
+    <updated>2023-03-18T09:11:48.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LIVE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9307497</id>
+        <link href="https://vibe.naver.com/album/9307497"/>
+        <updated>2023-03-18T09:11:32.422Z</updated>
+        <content type="html"><![CDATA[시온]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신성한, 이혼 OST Part 3 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9307738</id>
+        <link href="https://vibe.naver.com/album/9307738"/>
+        <updated>2023-03-18T09:11:32.422Z</updated>
+        <content type="html"><![CDATA[정예인(Yein)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[home 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9310288</id>
+        <link href="https://vibe.naver.com/album/9310288"/>
+        <updated>2023-03-18T09:11:32.424Z</updated>
+        <content type="html"><![CDATA[basecamp]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그대 돌아오면 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9314357</id>
+        <link href="https://vibe.naver.com/album/9314357"/>
+        <updated>2023-03-18T09:11:32.425Z</updated>
+        <content type="html"><![CDATA[젬스톤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세레나데 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9313381</id>
+        <link href="https://vibe.naver.com/album/9313381"/>
+        <updated>2023-03-18T09:11:32.426Z</updated>
+        <content type="html"><![CDATA[김소연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모범택시2 OST Part 5 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9313384</id>
+        <link href="https://vibe.naver.com/album/9313384"/>
+        <updated>2023-03-18T09:11:32.426Z</updated>
+        <content type="html"><![CDATA[강아솔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HIDE&SEEK 업데이트]]></title>
         <id>https://vibe.naver.com/album/9310158</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/9310449"/>
         <updated>2023-03-17T03:13:25.406Z</updated>
         <content type="html"><![CDATA[강이올]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Days Like Daisy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9310259</id>
-        <link href="https://vibe.naver.com/album/9310259"/>
-        <updated>2023-03-17T03:13:25.406Z</updated>
-        <content type="html"><![CDATA[Lil Been]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봉순이 (Bongsoon) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9310301</id>
-        <link href="https://vibe.naver.com/album/9310301"/>
-        <updated>2023-03-17T03:13:25.406Z</updated>
-        <content type="html"><![CDATA[박봉순 프로젝트(Bongsoon Project)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Remember Archive 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9310282</id>
-        <link href="https://vibe.naver.com/album/9310282"/>
-        <updated>2023-03-16T09:13:25.774Z</updated>
-        <content type="html"><![CDATA[코드쿤스트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[긴 하루 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9299315</id>
-        <link href="https://vibe.naver.com/album/9299315"/>
-        <updated>2023-03-16T09:13:25.774Z</updated>
-        <content type="html"><![CDATA[홍대광]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성스러운 아이돌 OST Part 6 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9307488</id>
-        <link href="https://vibe.naver.com/album/9307488"/>
-        <updated>2023-03-16T09:13:25.774Z</updated>
-        <content type="html"><![CDATA[이영현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 보고 싶은 영화가 있어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9301015</id>
-        <link href="https://vibe.naver.com/album/9301015"/>
-        <updated>2023-03-16T09:13:25.774Z</updated>
-        <content type="html"><![CDATA[로키드(Lokid)]]></content>
     </entry>
 </feed>

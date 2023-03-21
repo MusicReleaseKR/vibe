@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-03-21T03:12:55.115Z</updated>
+    <updated>2023-03-21T04:14:34.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Beatbox (English Ver.) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9318210</id>
+        <link href="https://vibe.naver.com/album/9318210"/>
+        <updated>2023-03-21T04:14:13.526Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I wish you have a bad day 업데이트]]></title>
         <id>https://vibe.naver.com/album/9310431</id>
@@ -31,7 +38,7 @@
         <id>https://vibe.naver.com/album/9318129</id>
         <link href="https://vibe.naver.com/album/9318129"/>
         <updated>2023-03-21T03:12:35.367Z</updated>
-        <content type="html"><![CDATA[수호(배수호)]]></content>
+        <content type="html"><![CDATA[수호(SUHO)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HIGH-END (Feat. Ellui) (Prod. by RUXXI) 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9310527"/>
         <updated>2023-03-20T03:13:12.995Z</updated>
         <content type="html"><![CDATA[곽동현(KWAK DONG HYUN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이 가야 봄이 온다 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9313657</id>
-        <link href="https://vibe.naver.com/album/9313657"/>
-        <updated>2023-03-20T03:13:12.995Z</updated>
-        <content type="html"><![CDATA[처리(Churry)]]></content>
     </entry>
 </feed>

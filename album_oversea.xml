@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-03-24T03:13:23.751Z</updated>
+    <updated>2023-03-24T04:15:24.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eyes Closed 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9326842</id>
+        <link href="https://vibe.naver.com/album/9326842"/>
+        <updated>2023-03-24T04:15:15.304Z</updated>
+        <content type="html"><![CDATA[Ed Sheeran]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Memento Mori 업데이트]]></title>
         <id>https://vibe.naver.com/album/9327636</id>
@@ -13,11 +20,11 @@
         <content type="html"><![CDATA[Depeche Mode]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Did you know that there's a tunnel under Ocean Blvd 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9329566</id>
-        <link href="https://vibe.naver.com/album/9329566"/>
-        <updated>2023-03-24T03:13:13.105Z</updated>
-        <content type="html"><![CDATA[Lana Del Rey]]></content>
+        <title type="html"><![CDATA[Spinning Around 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9324513</id>
+        <link href="https://vibe.naver.com/album/9324513"/>
+        <updated>2023-03-24T04:15:15.306Z</updated>
+        <content type="html"><![CDATA[Mina Okabe]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Salivate 업데이트]]></title>
@@ -39,6 +46,13 @@
         <link href="https://vibe.naver.com/album/9328780"/>
         <updated>2023-03-24T03:13:13.152Z</updated>
         <content type="html"><![CDATA[Noel Gallagher's High Flying Birds]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Did you know that there's a tunnel under Ocean Blvd 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9329566</id>
+        <link href="https://vibe.naver.com/album/9329566"/>
+        <updated>2023-03-24T03:13:13.105Z</updated>
+        <content type="html"><![CDATA[Lana Del Rey]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[B&R (Feat. BigWalkDog) 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9309719"/>
         <updated>2023-03-24T02:09:05.504Z</updated>
         <content type="html"><![CDATA[Jax Jones]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unwinding Clock 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9320518</id>
-        <link href="https://vibe.naver.com/album/9320518"/>
-        <updated>2023-03-24T02:09:05.504Z</updated>
-        <content type="html"><![CDATA[1773]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Polkadots (Sven Fields & Chasner Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9309746</id>
-        <link href="https://vibe.naver.com/album/9309746"/>
-        <updated>2023-03-24T02:09:05.505Z</updated>
-        <content type="html"><![CDATA[Afrojack]]></content>
     </entry>
 </feed>

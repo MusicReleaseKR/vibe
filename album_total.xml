@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-03-24T09:13:42.181Z</updated>
+    <updated>2023-03-24T10:13:49.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/9313232"/>
         <updated>2023-03-24T04:15:23.926Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9313232" class="title"><span data-v-59e42fa3="" class="text"> FACE <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PSYCHO LOVE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9307492</id>
+        <link href="https://vibe.naver.com/album/9307492"/>
+        <updated>2023-03-24T10:13:48.458Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9307492" class="title"><span data-v-59e42fa3="" class="text"> PSYCHO LOVE <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/2227635" class="link_artist"><span class="text">Zior Park</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시간을 넘어와줘 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9321412"/>
         <updated>2023-03-23T04:15:03.401Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9321412" class="title"><span data-v-59e42fa3="" class="text"> XX <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/3545279" class="link_artist"><span class="text">CRAXY(크랙시)</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silence 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9321359</id>
-        <link href="https://vibe.naver.com/album/9321359"/>
-        <updated>2023-03-23T03:13:08.493Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9321359" class="title"><span data-v-59e42fa3="" class="text"> Silence <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/344377" class="link_artist"><span class="text">유지은</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

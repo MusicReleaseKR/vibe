@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-03-25T08:14:55.398Z</updated>
+    <updated>2023-03-25T09:11:15.797Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[밤이 무서워요 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9329937</id>
+        <link href="https://vibe.naver.com/album/9329937"/>
+        <updated>2023-03-25T09:10:59.905Z</updated>
+        <content type="html"><![CDATA[주주 시크릿]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신성한, 이혼 OST Part 4 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9327691</id>
+        <link href="https://vibe.naver.com/album/9327691"/>
+        <updated>2023-03-25T09:10:59.910Z</updated>
+        <content type="html"><![CDATA[선우정아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nevertheless 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9329777</id>
+        <link href="https://vibe.naver.com/album/9329777"/>
+        <updated>2023-03-25T09:10:59.910Z</updated>
+        <content type="html"><![CDATA[스윗소로우(SWEET SORROW)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진짜가 나타났다! OST Part 1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9327452</id>
+        <link href="https://vibe.naver.com/album/9327452"/>
+        <updated>2023-03-25T09:10:59.911Z</updated>
+        <content type="html"><![CDATA[김희재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모범택시2 OST Part 6 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9330389</id>
+        <link href="https://vibe.naver.com/album/9330389"/>
+        <updated>2023-03-25T09:10:59.911Z</updated>
+        <content type="html"><![CDATA[강승윤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Equator (적도) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9321578</id>
+        <link href="https://vibe.naver.com/album/9321578"/>
+        <updated>2023-03-25T09:10:59.912Z</updated>
+        <content type="html"><![CDATA[뉴올(Nuol)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<웹툰싱어> 정년이 OST (림킴 & 알리) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9326919</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/9327399"/>
         <updated>2023-03-24T03:13:03.392Z</updated>
         <content type="html"><![CDATA[JUNE 53]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9321869</id>
-        <link href="https://vibe.naver.com/album/9321869"/>
-        <updated>2023-03-24T03:13:03.405Z</updated>
-        <content type="html"><![CDATA[99honest]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rainbow Station Episode 9 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9327077</id>
-        <link href="https://vibe.naver.com/album/9327077"/>
-        <updated>2023-03-24T03:13:03.405Z</updated>
-        <content type="html"><![CDATA[훈정양]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄꽃 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9326955</id>
-        <link href="https://vibe.naver.com/album/9326955"/>
-        <updated>2023-03-24T03:13:03.405Z</updated>
-        <content type="html"><![CDATA[봉훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아빠의 눈 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9327330</id>
-        <link href="https://vibe.naver.com/album/9327330"/>
-        <updated>2023-03-24T03:13:03.411Z</updated>
-        <content type="html"><![CDATA[한뉴]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Put Up a Fight 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9326933</id>
-        <link href="https://vibe.naver.com/album/9326933"/>
-        <updated>2023-03-23T15:14:02.970Z</updated>
-        <content type="html"><![CDATA[LØREN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Single 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9326969</id>
-        <link href="https://vibe.naver.com/album/9326969"/>
-        <updated>2023-03-23T09:12:15.925Z</updated>
-        <content type="html"><![CDATA[원슈타인]]></content>
     </entry>
 </feed>

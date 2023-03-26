@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-03-26T03:14:59.993Z</updated>
+    <updated>2023-03-26T04:14:41.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Like Crazy (Remixes) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9329862</id>
+        <link href="https://vibe.naver.com/album/9329862"/>
+        <updated>2023-03-26T04:14:25.845Z</updated>
+        <content type="html"><![CDATA[지민]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로드 오브 히어로즈 OST Part 4 업데이트]]></title>
         <id>https://vibe.naver.com/album/9330080</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9321975"/>
         <updated>2023-03-24T03:13:03.385Z</updated>
         <content type="html"><![CDATA[Veethoven]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rush 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9321497</id>
-        <link href="https://vibe.naver.com/album/9321497"/>
-        <updated>2023-03-24T03:13:03.385Z</updated>
-        <content type="html"><![CDATA[LOGOS(로고스)]]></content>
     </entry>
 </feed>

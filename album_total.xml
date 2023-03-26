@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-03-26T03:15:00.012Z</updated>
+    <updated>2023-03-26T04:14:41.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Like Crazy (Remixes) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9329862</id>
+        <link href="https://vibe.naver.com/album/9329862"/>
+        <updated>2023-03-26T04:14:41.133Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9329862" class="title"><span data-v-59e42fa3="" class="text"> Like Crazy (Remixes) <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로드 오브 히어로즈 OST Part 4 업데이트]]></title>
         <id>https://vibe.naver.com/album/9330080</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9327636"/>
         <updated>2023-03-24T03:13:22.898Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9327636" class="title"><span data-v-59e42fa3="" class="text"> Memento Mori <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/571" class="link_artist"><span class="text">Depeche Mode</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spinning Around 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9324513</id>
-        <link href="https://vibe.naver.com/album/9324513"/>
-        <updated>2023-03-24T04:15:23.938Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-59e42fa3="" href="/album/9324513" class="title"><span data-v-59e42fa3="" class="text"> Spinning Around <span data-v-59e42fa3="" class="item"><span data-v-59e42fa3="" class="blind">업데이트</span></span></span><span data-v-59e42fa3="" class="blind">페이지로 이동</span></a><div data-v-59e42fa3="" class="artist"><span data-v-59e42fa3=""><span><a href="/artist/3977889" class="link_artist"><span class="text">Mina Okabe</span></a><!----></span></span><span data-v-59e42fa3="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

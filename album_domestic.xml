@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-03-30T03:13:26.521Z</updated>
+    <updated>2023-03-30T04:14:53.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cinema Pt.1 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9042802</id>
+        <link href="https://vibe.naver.com/album/9042802"/>
+        <updated>2023-03-30T03:13:09.537Z</updated>
+        <content type="html"><![CDATA[dori]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[장들레입니다 업데이트]]></title>
         <id>https://vibe.naver.com/album/9373986</id>
@@ -20,11 +27,11 @@
         <content type="html"><![CDATA[라울(LAUL)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cinema Pt.1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9042802</id>
-        <link href="https://vibe.naver.com/album/9042802"/>
-        <updated>2023-03-30T03:13:09.537Z</updated>
-        <content type="html"><![CDATA[dori]]></content>
+        <title type="html"><![CDATA[신비아파트 시즌5 OST - 고스트볼 제로 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9369282</id>
+        <link href="https://vibe.naver.com/album/9369282"/>
+        <updated>2023-03-30T04:14:33.848Z</updated>
+        <content type="html"><![CDATA[신비아파트]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돔담 (Dom Dam) 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9338524"/>
         <updated>2023-03-29T03:13:20.067Z</updated>
         <content type="html"><![CDATA[Neff]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비련 (悲戀) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9338386</id>
-        <link href="https://vibe.naver.com/album/9338386"/>
-        <updated>2023-03-29T03:13:20.069Z</updated>
-        <content type="html"><![CDATA[WOONIE(우니)]]></content>
     </entry>
 </feed>

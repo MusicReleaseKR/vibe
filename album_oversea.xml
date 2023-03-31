@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-03-31T08:15:42.273Z</updated>
+    <updated>2023-03-31T09:13:23.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[That's Not How This Works (Feat. Dan + Shay) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9366570</id>
-        <link href="https://vibe.naver.com/album/9366570"/>
-        <updated>2023-03-30T15:13:27.072Z</updated>
-        <content type="html"><![CDATA[Charlie Puth]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Carry Me Out 업데이트]]></title>
         <id>https://vibe.naver.com/album/9334730</id>
         <link href="https://vibe.naver.com/album/9334730"/>
         <updated>2023-03-31T04:15:13.613Z</updated>
         <content type="html"><![CDATA[마크 (GOT7)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Another Love 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9396554</id>
+        <link href="https://vibe.naver.com/album/9396554"/>
+        <updated>2023-03-31T09:13:14.440Z</updated>
+        <content type="html"><![CDATA[Krmoni]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That's Not How This Works (Feat. Dan + Shay) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9366570</id>
+        <link href="https://vibe.naver.com/album/9366570"/>
+        <updated>2023-03-30T15:13:27.072Z</updated>
+        <content type="html"><![CDATA[Charlie Puth]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인생의 회전목마 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9337997"/>
         <updated>2023-03-29T03:13:31.256Z</updated>
         <content type="html"><![CDATA[King Isis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Art Of Letting Go 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9327921</id>
-        <link href="https://vibe.naver.com/album/9327921"/>
-        <updated>2023-03-29T03:13:31.259Z</updated>
-        <content type="html"><![CDATA[gnash]]></content>
     </entry>
 </feed>

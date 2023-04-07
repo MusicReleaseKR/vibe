@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-04-07T04:14:26.769Z</updated>
+    <updated>2023-04-07T05:11:38.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Search & Rescue 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9422847</id>
+        <link href="https://vibe.naver.com/album/9422847"/>
+        <updated>2023-04-07T05:11:30.099Z</updated>
+        <content type="html"><![CDATA[Drake]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Never Felt So Alone 업데이트]]></title>
         <id>https://vibe.naver.com/album/9422072</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9415320"/>
         <updated>2023-04-05T03:12:38.538Z</updated>
         <content type="html"><![CDATA[haruno(하루노/春野)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tell On U 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9397076</id>
-        <link href="https://vibe.naver.com/album/9397076"/>
-        <updated>2023-04-05T03:12:38.538Z</updated>
-        <content type="html"><![CDATA[Zoe Clark]]></content>
     </entry>
 </feed>

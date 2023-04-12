@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-04-12T09:12:22.196Z</updated>
+    <updated>2023-04-12T10:13:05.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://vibe.naver.com/album/9458641"/>
         <updated>2023-04-12T09:12:05.245Z</updated>
         <content type="html"><![CDATA[박지훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노웨이홈 OST 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9458643</id>
-        <link href="https://vibe.naver.com/album/9458643"/>
-        <updated>2023-04-12T09:12:05.260Z</updated>
-        <content type="html"><![CDATA[써니 (SUNNY)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Over The Moon 업데이트]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/9421310"/>
         <updated>2023-04-11T20:12:31.697Z</updated>
         <content type="html"><![CDATA[에피타이저(appetizer)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PIECE-5 : 김초원 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9426121</id>
+        <link href="https://vibe.naver.com/album/9426121"/>
+        <updated>2023-04-12T10:12:49.099Z</updated>
+        <content type="html"><![CDATA[THE PIECES(더 피스)]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-04-14T09:12:20.356Z</updated>
+    <updated>2023-04-14T10:13:06.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[닐로(Nilo)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[insatiable ＜3 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9450583</id>
+        <link href="https://vibe.naver.com/album/9450583"/>
+        <updated>2023-04-14T10:12:50.731Z</updated>
+        <content type="html"><![CDATA[0WAVE]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[light #2 업데이트]]></title>
         <id>https://vibe.naver.com/album/9481297</id>
         <link href="https://vibe.naver.com/album/9481297"/>
@@ -53,6 +60,13 @@
         <link href="https://vibe.naver.com/album/9486083"/>
         <updated>2023-04-14T09:12:04.738Z</updated>
         <content type="html"><![CDATA[M1NU]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.23 : Phantom Remixes 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9481323</id>
+        <link href="https://vibe.naver.com/album/9481323"/>
+        <updated>2023-04-14T10:12:50.739Z</updated>
+        <content type="html"><![CDATA[WayV]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FACE Archives Part 1 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9458648"/>
         <updated>2023-04-13T03:12:40.265Z</updated>
         <content type="html"><![CDATA[강버터(Kang Butter)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 너에게로 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9477083</id>
-        <link href="https://vibe.naver.com/album/9477083"/>
-        <updated>2023-04-13T03:12:40.265Z</updated>
-        <content type="html"><![CDATA[김시원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금이야 옥이야 OST Part 1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9478150</id>
-        <link href="https://vibe.naver.com/album/9478150"/>
-        <updated>2023-04-13T03:12:40.265Z</updated>
-        <content type="html"><![CDATA[은정(Eunjung)]]></content>
     </entry>
 </feed>

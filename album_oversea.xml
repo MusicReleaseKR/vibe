@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-04-14T03:12:53.078Z</updated>
+    <updated>2023-04-14T04:14:19.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Kill Bill 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9487698</id>
+        <link href="https://vibe.naver.com/album/9487698"/>
+        <updated>2023-04-14T04:14:10.897Z</updated>
+        <content type="html"><![CDATA[SZA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Chemical 업데이트]]></title>
         <id>https://vibe.naver.com/album/9485668</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9415333"/>
         <updated>2023-04-12T03:12:55.790Z</updated>
         <content type="html"><![CDATA[PSYCHIC FEVER from EXILE TRIBE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pompeii / Come As You Are (MTV Unplugged) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9434173</id>
-        <link href="https://vibe.naver.com/album/9434173"/>
-        <updated>2023-04-12T03:12:55.792Z</updated>
-        <content type="html"><![CDATA[Bastille]]></content>
     </entry>
 </feed>

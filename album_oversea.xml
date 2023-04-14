@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-04-14T08:14:50.589Z</updated>
+    <updated>2023-04-14T09:12:20.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Phantom - The 4th Mini Album 업데이트]]></title>
+        <id>https://vibe.naver.com/album/8550066</id>
+        <link href="https://vibe.naver.com/album/8550066"/>
+        <updated>2023-04-14T09:12:12.251Z</updated>
+        <content type="html"><![CDATA[WayV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kill Bill 업데이트]]></title>
         <id>https://vibe.naver.com/album/9487698</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9422338"/>
         <updated>2023-04-12T03:12:55.790Z</updated>
         <content type="html"><![CDATA[p-rallel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAKU BAKU 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9415333</id>
-        <link href="https://vibe.naver.com/album/9415333"/>
-        <updated>2023-04-12T03:12:55.790Z</updated>
-        <content type="html"><![CDATA[PSYCHIC FEVER from EXILE TRIBE]]></content>
     </entry>
 </feed>

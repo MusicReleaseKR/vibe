@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-04-18T09:12:42.221Z</updated>
+    <updated>2023-04-18T10:13:23.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/9486179"/>
         <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[영오(05)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign PRE-DEBUT MINI ALBUM 'SALTY' 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9477022</id>
+        <link href="https://vibe.naver.com/album/9477022"/>
+        <updated>2023-04-18T10:13:06.904Z</updated>
+        <content type="html"><![CDATA[n.SSign(엔싸인)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OFF THE RECORD 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9486101"/>
         <updated>2023-04-17T03:12:13.139Z</updated>
         <content type="html"><![CDATA[수호(SUHO)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤의 꽃 (夜の花) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9487679</id>
-        <link href="https://vibe.naver.com/album/9487679"/>
-        <updated>2023-04-17T03:12:13.150Z</updated>
-        <content type="html"><![CDATA[밤수성]]></content>
     </entry>
 </feed>

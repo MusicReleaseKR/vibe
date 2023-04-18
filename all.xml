@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-18T09:12:42.235Z</updated>
+    <updated>2023-04-18T10:13:23.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[우리는 매일 이별을 향해 걸어가지 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -31,6 +31,13 @@
         <link href="https://vibe.naver.com/album/9486179"/>
         <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[영오(05)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign PRE-DEBUT MINI ALBUM 'SALTY' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9477022</id>
+        <link href="https://vibe.naver.com/album/9477022"/>
+        <updated>2023-04-18T10:13:06.904Z</updated>
+        <content type="html"><![CDATA[n.SSign(엔싸인)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OFF THE RECORD 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/9486101"/>
         <updated>2023-04-17T03:12:13.139Z</updated>
         <content type="html"><![CDATA[수호(SUHO)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤의 꽃 (夜の花) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9487679</id>
-        <link href="https://vibe.naver.com/album/9487679"/>
-        <updated>2023-04-17T03:12:13.150Z</updated>
-        <content type="html"><![CDATA[밤수성]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wish You The Best 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -708,42 +708,49 @@
         <title type="html"><![CDATA[우리는 매일 이별을 향해 걸어가지 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9491706</id>
         <link href="https://vibe.naver.com/album/9491706"/>
-        <updated>2023-04-18T09:12:41.475Z</updated>
+        <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9491706" class="title"><span data-v-6492f376="" class="text"> 우리는 매일 이별을 향해 걸어가지 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/135669" class="link_artist"><span class="text">소유 (SOYOU)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[패밀리 OST Part 1 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9491595</id>
         <link href="https://vibe.naver.com/album/9491595"/>
-        <updated>2023-04-18T09:12:41.475Z</updated>
+        <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9491595" class="title"><span data-v-6492f376="" class="text"> 패밀리 OST Part 1 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/4996547" class="link_artist"><span class="text">H1-KEY(하이키)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Bad night 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9491649</id>
         <link href="https://vibe.naver.com/album/9491649"/>
-        <updated>2023-04-18T09:12:41.475Z</updated>
+        <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9491649" class="title"><span data-v-6492f376="" class="text"> Bad night <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/1524251" class="link_artist"><span class="text">AVOKID(에이보키드)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그대뿐이죠 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9486179</id>
         <link href="https://vibe.naver.com/album/9486179"/>
-        <updated>2023-04-18T09:12:41.475Z</updated>
+        <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9486179" class="title"><span data-v-6492f376="" class="text"> 그대뿐이죠 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/5265919" class="link_artist"><span class="text">영오(05)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign PRE-DEBUT MINI ALBUM 'SALTY' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9477022</id>
+        <link href="https://vibe.naver.com/album/9477022"/>
+        <updated>2023-04-18T10:13:22.915Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9477022" class="title"><span data-v-6492f376="" class="text"> n.SSign PRE-DEBUT MINI ALBUM 'SALTY' <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/5707042" class="link_artist"><span class="text">n.SSign(엔싸인)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OFF THE RECORD 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9491466</id>
         <link href="https://vibe.naver.com/album/9491466"/>
-        <updated>2023-04-18T09:12:41.475Z</updated>
+        <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9491466" class="title"><span data-v-6492f376="" class="text"> OFF THE RECORD <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/468892" class="link_artist"><span class="text">에이체스(A-Chess)</span></a><span>, </span></span><span><a href="/artist/2902222" class="link_artist"><span class="text">Yonge Jaundice(영 잔디스)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BORA 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9492824</id>
         <link href="https://vibe.naver.com/album/9492824"/>
-        <updated>2023-04-18T09:12:41.475Z</updated>
+        <updated>2023-04-18T09:12:24.647Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9492824" class="title"><span data-v-6492f376="" class="text"> BORA <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/477544" class="link_artist"><span class="text">키드밀리(Kid Milli)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9487920"/>
         <updated>2023-04-17T03:12:13.173Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9487920" class="title"><span data-v-6492f376="" class="text"> 내고향 충청도가 좋다 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/277" class="link_artist"><span class="text">태진아</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowering 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9486256</id>
-        <link href="https://vibe.naver.com/album/9486256"/>
-        <updated>2023-04-17T03:12:13.177Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9486256" class="title"><span data-v-6492f376="" class="text"> Flowering <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/3971610" class="link_artist"><span class="text">Route 1</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

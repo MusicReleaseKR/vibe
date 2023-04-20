@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-04-20T14:11:51.428Z</updated>
+    <updated>2023-04-20T15:13:01.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BOYS PLANET - FINAL TOP9 BATTLE 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9499685</id>
+        <link href="https://vibe.naver.com/album/9499685"/>
+        <updated>2023-04-20T15:12:41.854Z</updated>
+        <content type="html"><![CDATA[BOYS PLANET]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1집 Alone 업데이트]]></title>
         <id>https://vibe.naver.com/album/9494325</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9492932"/>
         <updated>2023-04-19T03:23:45.310Z</updated>
         <content type="html"><![CDATA[모트(Motte)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BE FREE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9492757</id>
-        <link href="https://vibe.naver.com/album/9492757"/>
-        <updated>2023-04-19T03:23:45.315Z</updated>
-        <content type="html"><![CDATA[PITTA (강형호)]]></content>
     </entry>
 </feed>

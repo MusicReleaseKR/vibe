@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-04-21T08:15:39.596Z</updated>
+    <updated>2023-04-21T09:12:12.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Super Chic 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9501563</id>
+        <link href="https://vibe.naver.com/album/9501563"/>
+        <updated>2023-04-21T09:12:03.213Z</updated>
+        <content type="html"><![CDATA[New Hope Club]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Boat 업데이트]]></title>
         <id>https://vibe.naver.com/album/9499518</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9484676"/>
         <updated>2023-04-19T03:23:53.566Z</updated>
         <content type="html"><![CDATA[Hotboii]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Used To Be In Love 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9491773</id>
-        <link href="https://vibe.naver.com/album/9491773"/>
-        <updated>2023-04-19T03:23:53.568Z</updated>
-        <content type="html"><![CDATA[Jake Shears]]></content>
     </entry>
 </feed>

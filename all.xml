@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-21T05:11:42.976Z</updated>
+    <updated>2023-04-21T06:15:31.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[D-DAY 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -390,6 +390,13 @@
         <content type="html"><![CDATA[Hans.]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[18 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/9497821</id>
+        <link href="https://vibe.naver.com/album/9497821"/>
+        <updated>2023-04-21T06:15:22.987Z</updated>
+        <content type="html"><![CDATA[imase]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[THRILLER (with Clara Mae) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/9492751</id>
         <link href="https://vibe.naver.com/album/9492751"/>
@@ -698,13 +705,6 @@
         <content type="html"><![CDATA[Jake Shears]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[why me 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/9487039</id>
-        <link href="https://vibe.naver.com/album/9487039"/>
-        <updated>2023-04-19T03:23:53.574Z</updated>
-        <content type="html"><![CDATA[Zevia]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[D-DAY 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9422556</id>
         <link href="https://vibe.naver.com/album/9422556"/>
@@ -773,6 +773,13 @@
         <link href="https://vibe.naver.com/album/9499632"/>
         <updated>2023-04-21T03:12:26.450Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9499632" class="title"><span data-v-6492f376="" class="text"> 19 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/2304038" class="link_artist"><span class="text">Jay Marie</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9497821</id>
+        <link href="https://vibe.naver.com/album/9497821"/>
+        <updated>2023-04-21T06:15:30.547Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9497821" class="title"><span data-v-6492f376="" class="text"> 18 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/4949679" class="link_artist"><span class="text">imase</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[red flags 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9494035"/>
         <updated>2023-04-20T03:16:30.943Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9494035" class="title"><span data-v-6492f376="" class="text"> asap <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/943713" class="link_artist"><span class="text">위니(WINee)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Oh, Boy! (오, 보이!) OST Part 7 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9494104</id>
-        <link href="https://vibe.naver.com/album/9494104"/>
-        <updated>2023-04-20T03:16:30.943Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9494104" class="title"><span data-v-6492f376="" class="text"> Oh, Boy! (오, 보이!) OST Part 7 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/168669" class="link_artist"><span class="text">황가람</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

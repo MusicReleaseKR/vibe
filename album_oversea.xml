@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-04-21T05:11:42.985Z</updated>
+    <updated>2023-04-21T06:15:31.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://vibe.naver.com/album/9493876"/>
         <updated>2023-04-21T03:12:35.138Z</updated>
         <content type="html"><![CDATA[Hans.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[18 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9497821</id>
+        <link href="https://vibe.naver.com/album/9497821"/>
+        <updated>2023-04-21T06:15:22.987Z</updated>
+        <content type="html"><![CDATA[imase]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[THRILLER (with Clara Mae) 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9491773"/>
         <updated>2023-04-19T03:23:53.568Z</updated>
         <content type="html"><![CDATA[Jake Shears]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[why me 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9487039</id>
-        <link href="https://vibe.naver.com/album/9487039"/>
-        <updated>2023-04-19T03:23:53.574Z</updated>
-        <content type="html"><![CDATA[Zevia]]></content>
     </entry>
 </feed>

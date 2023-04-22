@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-04-22T09:11:23.292Z</updated>
+    <updated>2023-04-22T10:11:45.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/9501618"/>
         <updated>2023-04-22T09:11:08.015Z</updated>
         <content type="html"><![CDATA[오마이걸(OH MY GIRL)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[When I Close My Eyes - SM STATION 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9493968</id>
+        <link href="https://vibe.naver.com/album/9493968"/>
+        <updated>2023-04-22T10:11:30.067Z</updated>
+        <content type="html"><![CDATA[강타(KANGTA)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rules (Are Meant to Break) 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9499832"/>
         <updated>2023-04-21T03:12:26.452Z</updated>
         <content type="html"><![CDATA[러브송(LoveSong)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[60초 후 계속... 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9499532</id>
-        <link href="https://vibe.naver.com/album/9499532"/>
-        <updated>2023-04-21T03:12:26.453Z</updated>
-        <content type="html"><![CDATA[케이맨(K.man)]]></content>
     </entry>
 </feed>

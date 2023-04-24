@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-04-24T05:12:26.538Z</updated>
+    <updated>2023-04-24T06:16:49.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/9501662"/>
         <updated>2023-04-24T03:13:24.929Z</updated>
         <content type="html"><![CDATA[The Kid LAROI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SILVER TOOTH. 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9497696</id>
+        <link href="https://vibe.naver.com/album/9497696"/>
+        <updated>2023-04-24T06:16:40.253Z</updated>
+        <content type="html"><![CDATA[Armani White]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Satellite 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9486887"/>
         <updated>2023-04-20T03:16:42.433Z</updated>
         <content type="html"><![CDATA[Rowan Drake]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2MORE 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9486979</id>
-        <link href="https://vibe.naver.com/album/9486979"/>
-        <updated>2023-04-20T03:16:42.436Z</updated>
-        <content type="html"><![CDATA[AG Club]]></content>
     </entry>
 </feed>

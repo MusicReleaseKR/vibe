@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-04T14:11:03.936Z</updated>
+    <updated>2023-05-04T15:13:05.527Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/9626225"/>
         <updated>2023-05-04T03:12:10.170Z</updated>
         <content type="html"><![CDATA[BJ The Chicago Kid]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEFT RIGHT REMIXX (FEAT. CIARA X JACKSON WANG // PROD BY JAKOPS) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9626519</id>
+        <link href="https://vibe.naver.com/album/9626519"/>
+        <updated>2023-05-04T15:12:55.007Z</updated>
+        <content type="html"><![CDATA[XG]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[american jesus 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9604252"/>
         <updated>2023-05-02T03:12:31.902Z</updated>
         <content type="html"><![CDATA[Bastille]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantasy 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9555387</id>
-        <link href="https://vibe.naver.com/album/9555387"/>
-        <updated>2023-05-02T03:12:31.903Z</updated>
-        <content type="html"><![CDATA[Azteck]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-09T03:12:59.426Z</updated>
+    <updated>2023-05-09T04:14:06.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/9634173"/>
         <updated>2023-05-09T03:12:51.171Z</updated>
         <content type="html"><![CDATA[Wouter Hamel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE FORMULA 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9632841</id>
+        <link href="https://vibe.naver.com/album/9632841"/>
+        <updated>2023-05-09T04:13:57.028Z</updated>
+        <content type="html"><![CDATA[Will. I. Am]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[still here 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9619900"/>
         <updated>2023-05-05T03:12:27.184Z</updated>
         <content type="html"><![CDATA[$uicideboy$]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairlies 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9627058</id>
-        <link href="https://vibe.naver.com/album/9627058"/>
-        <updated>2023-05-05T03:12:27.189Z</updated>
-        <content type="html"><![CDATA[Grian Chatten]]></content>
     </entry>
 </feed>

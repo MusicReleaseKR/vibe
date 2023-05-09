@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-05-09T03:12:59.436Z</updated>
+    <updated>2023-05-09T04:14:06.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://vibe.naver.com/album/9633908"/>
         <updated>2023-05-09T03:12:58.773Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9633908" class="title"><span data-v-6492f376="" class="text"> 츄르 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/4731005" class="link_artist"><span class="text">루크(Luke)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE FORMULA 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9632841</id>
+        <link href="https://vibe.naver.com/album/9632841"/>
+        <updated>2023-05-09T04:14:05.823Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9632841" class="title"><span data-v-6492f376="" class="text"> THE FORMULA <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/2661615" class="link_artist"><span class="text">Will. I. Am</span></a><span>, </span></span><span><a href="/artist/6400" class="link_artist"><span class="text">Lil Wayne</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몽중몽 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9630658"/>
         <updated>2023-05-07T09:11:28.345Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9630658" class="title"><span data-v-6492f376="" class="text"> VS2 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/338529" class="link_artist"><span class="text">QM</span></a><span>, </span></span><span><a href="/artist/279301" class="link_artist"><span class="text">ODEE</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸어서 차트 속으로 Part 1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9630879</id>
-        <link href="https://vibe.naver.com/album/9630879"/>
-        <updated>2023-05-07T09:11:28.352Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9630879" class="title"><span data-v-6492f376="" class="text"> 걸어서 차트 속으로 Part 1 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/6675638" class="link_artist"><span class="text">레게보이즈</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

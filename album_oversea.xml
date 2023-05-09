@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-09T11:10:37.201Z</updated>
+    <updated>2023-05-09T12:58:57.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Angel Pt. 1 (Feat. Kodak Black, Jimin of BTS, & JVKE) (Trailer Version) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9636695</id>
+        <link href="https://vibe.naver.com/album/9636695"/>
+        <updated>2023-05-09T12:58:43.133Z</updated>
+        <content type="html"><![CDATA[Fast &amp; Furious: The Fast Saga]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CALL DA FIREMAN 업데이트]]></title>
         <id>https://vibe.naver.com/album/9629439</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9619900"/>
         <updated>2023-05-05T03:12:27.184Z</updated>
         <content type="html"><![CDATA[$uicideboy$]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fairlies 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9627058</id>
-        <link href="https://vibe.naver.com/album/9627058"/>
-        <updated>2023-05-09T09:12:23.710Z</updated>
-        <content type="html"><![CDATA[Grian Chatten]]></content>
     </entry>
 </feed>

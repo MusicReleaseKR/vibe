@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-05-12T03:12:32.432Z</updated>
+    <updated>2023-05-12T04:13:39.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Planet 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9650417</id>
+        <link href="https://vibe.naver.com/album/9650417"/>
+        <updated>2023-05-12T04:13:22.501Z</updated>
+        <content type="html"><![CDATA[방탄소년단]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[결혼과 이혼 사이 2 OST Part 1 업데이트]]></title>
         <id>https://vibe.naver.com/album/9642336</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9637266"/>
         <updated>2023-05-11T03:12:29.051Z</updated>
         <content type="html"><![CDATA[마인즈(miNes)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hunger Strike 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9641972</id>
-        <link href="https://vibe.naver.com/album/9641972"/>
-        <updated>2023-05-11T03:12:29.051Z</updated>
-        <content type="html"><![CDATA[도시고독]]></content>
     </entry>
 </feed>

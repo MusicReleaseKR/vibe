@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-05-15T03:12:18.485Z</updated>
+    <updated>2023-05-15T04:14:29.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Masquerade 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9683505</id>
+        <link href="https://vibe.naver.com/album/9683505"/>
+        <updated>2023-05-15T04:14:10.708Z</updated>
+        <content type="html"><![CDATA[MIDNATT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑이란 이름 업데이트]]></title>
         <id>https://vibe.naver.com/album/9653404</id>
@@ -164,7 +171,7 @@
         <id>https://vibe.naver.com/album/9647426</id>
         <link href="https://vibe.naver.com/album/9647426"/>
         <updated>2023-05-15T03:12:00.400Z</updated>
-        <content type="html"><![CDATA[Even(용훈)]]></content>
+        <content type="html"><![CDATA[이븐(Even)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[5.4 [부동의 첫사랑] 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9650538"/>
         <updated>2023-05-13T09:10:22.368Z</updated>
         <content type="html"><![CDATA[임도혁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Few Months Later 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9650545</id>
-        <link href="https://vibe.naver.com/album/9650545"/>
-        <updated>2023-05-13T09:10:22.368Z</updated>
-        <content type="html"><![CDATA[허클베리피 (Huckleberry P)]]></content>
     </entry>
 </feed>

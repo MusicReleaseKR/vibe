@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-17T08:16:10.138Z</updated>
+    <updated>2023-05-17T09:12:50.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[저곳으로 (인어공주) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9689218</id>
+        <link href="https://vibe.naver.com/album/9689218"/>
+        <updated>2023-05-17T09:12:41.245Z</updated>
+        <content type="html"><![CDATA[다니엘(DANIELLE)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Year Ago 업데이트]]></title>
         <id>https://vibe.naver.com/album/9649840</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9646566"/>
         <updated>2023-05-15T03:12:10.269Z</updated>
         <content type="html"><![CDATA[Pascal Letoublon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Solitude 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9646472</id>
-        <link href="https://vibe.naver.com/album/9646472"/>
-        <updated>2023-05-15T03:12:10.269Z</updated>
-        <content type="html"><![CDATA[Emelie Hollow]]></content>
     </entry>
 </feed>

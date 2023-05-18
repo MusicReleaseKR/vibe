@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-18T11:10:14.089Z</updated>
+    <updated>2023-05-18T12:22:38.709Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[ALBUM ON THE WAY! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[아시아닉]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Angel Pt 1 (Feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/9696133</id>
+        <link href="https://vibe.naver.com/album/9696133"/>
+        <updated>2023-05-18T12:22:28.483Z</updated>
+        <content type="html"><![CDATA[Fast &amp; Furious: The Fast Saga]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[MVP (Feat. G-Eazy) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/9650583</id>
         <link href="https://vibe.naver.com/album/9650583"/>
@@ -698,11 +705,11 @@
         <content type="html"><![CDATA[Moby]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Coast 2 Coast 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/9683532</id>
-        <link href="https://vibe.naver.com/album/9683532"/>
-        <updated>2023-05-18T09:11:27.198Z</updated>
-        <content type="html"><![CDATA[Pearl &amp; the Oysters]]></content>
+        <title type="html"><![CDATA[Angel Pt 1 (Feat. Jimin of BTS, JVKE & Muni Long / FAST X Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9696133</id>
+        <link href="https://vibe.naver.com/album/9696133"/>
+        <updated>2023-05-18T12:22:37.776Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9696133" class="title"><span data-v-6492f376="" class="text"> Angel Pt 1 (Feat. Jimin of BTS, JVKE &amp; Muni Long / FAST X Soundtrack) <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/5933920" class="link_artist"><span class="text">Fast &amp; Furious: The Fast Saga</span></a><span>, </span></span><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><span>, </span></span><span><a href="/artist/143179" class="link_artist"><span class="text">방탄소년단</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ALBUM ON THE WAY! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/9689263"/>
         <updated>2023-05-17T03:12:41.117Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9689263" class="title"><span data-v-6492f376="" class="text"> 새벽에게 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/2955090" class="link_artist"><span class="text">마치(MRCH)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불타는장미단 PART 2 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9689724</id>
-        <link href="https://vibe.naver.com/album/9689724"/>
-        <updated>2023-05-17T03:12:41.064Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9689724" class="title"><span data-v-6492f376="" class="text"> 불타는장미단 PART 2 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-20T02:34:44.434Z</updated>
+    <updated>2023-05-20T03:12:50.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -223,6 +223,13 @@
         <content type="html"><![CDATA[Weyes Blood]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[ILY 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9689678</id>
+        <link href="https://vibe.naver.com/album/9689678"/>
+        <updated>2023-05-20T03:12:40.850Z</updated>
+        <content type="html"><![CDATA[Amber Liu(엠버)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pandaphonk 업데이트]]></title>
         <id>https://vibe.naver.com/album/9691156</id>
         <link href="https://vibe.naver.com/album/9691156"/>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9649436"/>
         <updated>2023-05-17T03:12:51.764Z</updated>
         <content type="html"><![CDATA[Bailey Zimmerman]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KANEKI 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9649740</id>
-        <link href="https://vibe.naver.com/album/9649740"/>
-        <updated>2023-05-17T03:12:51.782Z</updated>
-        <content type="html"><![CDATA[Cochise]]></content>
     </entry>
 </feed>

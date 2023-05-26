@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-05-26T03:12:20.415Z</updated>
+    <updated>2023-05-26T04:13:50.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/9709275"/>
         <updated>2023-05-26T03:12:01.972Z</updated>
         <content type="html"><![CDATA[Movin(무빈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WONDERLAND (English Ver.) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9704451</id>
+        <link href="https://vibe.naver.com/album/9704451"/>
+        <updated>2023-05-26T04:13:33.473Z</updated>
+        <content type="html"><![CDATA[트라이비(TRI.BE)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I love your eyes 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9704222"/>
         <updated>2023-05-25T03:12:14.516Z</updated>
         <content type="html"><![CDATA[Kimwoo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Swear To God 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9704183</id>
-        <link href="https://vibe.naver.com/album/9704183"/>
-        <updated>2023-05-25T03:12:14.518Z</updated>
-        <content type="html"><![CDATA[네보]]></content>
     </entry>
 </feed>

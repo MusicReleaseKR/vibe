@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-05-26T07:12:05.540Z</updated>
+    <updated>2023-05-26T08:15:24.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WONDERLAND (English Ver.) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9704451</id>
+        <link href="https://vibe.naver.com/album/9704451"/>
+        <updated>2023-05-26T04:13:33.473Z</updated>
+        <content type="html"><![CDATA[트라이비(TRI.BE)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BASTIONS OST Part 2 업데이트]]></title>
         <id>https://vibe.naver.com/album/9709557</id>
@@ -18,13 +25,6 @@
         <link href="https://vibe.naver.com/album/9709275"/>
         <updated>2023-05-26T03:12:01.972Z</updated>
         <content type="html"><![CDATA[Movin(무빈)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WONDERLAND (English Ver.) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9704451</id>
-        <link href="https://vibe.naver.com/album/9704451"/>
-        <updated>2023-05-26T04:13:33.473Z</updated>
-        <content type="html"><![CDATA[트라이비(TRI.BE)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I love your eyes 업데이트]]></title>

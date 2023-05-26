@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-26T04:13:50.899Z</updated>
+    <updated>2023-05-26T05:11:38.573Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Midnights (The Til Dawn Edition) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9711548</id>
+        <link href="https://vibe.naver.com/album/9711548"/>
+        <updated>2023-05-26T05:11:28.251Z</updated>
+        <content type="html"><![CDATA[Taylor Swift]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dance The Night (From Barbie The Album) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9711233</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9702743"/>
         <updated>2023-05-24T03:12:26.587Z</updated>
         <content type="html"><![CDATA[No Rome]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[君という桜の花びらが僕の心に舞い降りた。／KIMITOIU SAKURANO HANABIRAGA BOKUNOKOKORONI MAIORITA 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9703060</id>
-        <link href="https://vibe.naver.com/album/9703060"/>
-        <updated>2023-05-24T03:12:26.590Z</updated>
-        <content type="html"><![CDATA[예성 (YESUNG)]]></content>
     </entry>
 </feed>

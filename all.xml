@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-30T14:10:58.919Z</updated>
+    <updated>2023-05-30T15:12:18.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[WHO! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[김준선(Adrian K)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hare Hare 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/9715193</id>
+        <link href="https://vibe.naver.com/album/9715193"/>
+        <updated>2023-05-30T15:12:09.781Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fought & Lost (Feat. Brian May) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/9703338</id>
         <link href="https://vibe.naver.com/album/9703338"/>
@@ -696,13 +703,6 @@
         <link href="https://vibe.naver.com/album/9703544"/>
         <updated>2023-05-26T03:12:11.795Z</updated>
         <content type="html"><![CDATA[Bump of Chicken]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Like Snow 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/9702960</id>
-        <link href="https://vibe.naver.com/album/9702960"/>
-        <updated>2023-05-26T03:12:11.796Z</updated>
-        <content type="html"><![CDATA[Yellow Claw(옐로우 클로우)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WHO! 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

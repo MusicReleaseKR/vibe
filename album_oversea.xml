@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-05-30T14:10:58.908Z</updated>
+    <updated>2023-05-30T15:12:18.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hare Hare 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9715193</id>
+        <link href="https://vibe.naver.com/album/9715193"/>
+        <updated>2023-05-30T15:12:09.781Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fought & Lost (Feat. Brian May) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9703338</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9703544"/>
         <updated>2023-05-26T03:12:11.795Z</updated>
         <content type="html"><![CDATA[Bump of Chicken]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Like Snow 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9702960</id>
-        <link href="https://vibe.naver.com/album/9702960"/>
-        <updated>2023-05-26T03:12:11.796Z</updated>
-        <content type="html"><![CDATA[Yellow Claw(옐로우 클로우)]]></content>
     </entry>
 </feed>

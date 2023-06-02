@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-06-02T08:15:04.239Z</updated>
+    <updated>2023-06-02T09:11:31.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,55 @@
         <link href="https://vibe.naver.com/album/9727516"/>
         <updated>2023-06-02T04:13:20.575Z</updated>
         <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ransome 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9724704</id>
+        <link href="https://vibe.naver.com/album/9724704"/>
+        <updated>2023-06-02T09:11:16.459Z</updated>
+        <content type="html"><![CDATA[우원재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[have 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9724657</id>
+        <link href="https://vibe.naver.com/album/9724657"/>
+        <updated>2023-06-02T09:11:16.460Z</updated>
+        <content type="html"><![CDATA[장지수(Sou)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낭만닥터 김사부 3 OST Part 6 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9727560</id>
+        <link href="https://vibe.naver.com/album/9727560"/>
+        <updated>2023-06-02T09:11:16.461Z</updated>
+        <content type="html"><![CDATA[이적]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[갈아타는 곳 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9724747</id>
+        <link href="https://vibe.naver.com/album/9724747"/>
+        <updated>2023-06-02T09:11:16.462Z</updated>
+        <content type="html"><![CDATA[리누 (Lee-Nu)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 그린 기린 그림 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9724627</id>
+        <link href="https://vibe.naver.com/album/9724627"/>
+        <updated>2023-06-02T09:11:16.463Z</updated>
+        <content type="html"><![CDATA[고요]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BASTIONS OST Part 3 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9727619</id>
+        <link href="https://vibe.naver.com/album/9727619"/>
+        <updated>2023-06-02T09:11:16.495Z</updated>
+        <content type="html"><![CDATA[브레이브걸스(Brave Girls)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OKAY 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9726976</id>
+        <link href="https://vibe.naver.com/album/9726976"/>
+        <updated>2023-06-02T09:11:16.495Z</updated>
+        <content type="html"><![CDATA[블럼포이즈맙(BlumPoyzMob)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dance With Me (Feat. 김효은, 최엘비) 업데이트]]></title>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/9724518"/>
         <updated>2023-06-01T03:09:23.248Z</updated>
         <content type="html"><![CDATA[이지보이(Eizzyboy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Before Sunset 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9724514</id>
-        <link href="https://vibe.naver.com/album/9724514"/>
-        <updated>2023-06-01T03:09:23.250Z</updated>
-        <content type="html"><![CDATA[쵸이(C.H.O.I)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 너를 사랑한듯해 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9724446</id>
-        <link href="https://vibe.naver.com/album/9724446"/>
-        <updated>2023-06-01T03:09:23.252Z</updated>
-        <content type="html"><![CDATA[이제인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Afterglow 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9724451</id>
-        <link href="https://vibe.naver.com/album/9724451"/>
-        <updated>2023-06-01T03:09:23.258Z</updated>
-        <content type="html"><![CDATA[Vincent Sunrise]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸른 일기장 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9724456</id>
-        <link href="https://vibe.naver.com/album/9724456"/>
-        <updated>2023-06-01T03:09:23.259Z</updated>
-        <content type="html"><![CDATA[메리애플(Merry Apple)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸크러시 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9724646</id>
-        <link href="https://vibe.naver.com/album/9724646"/>
-        <updated>2023-06-01T03:09:23.261Z</updated>
-        <content type="html"><![CDATA[Triple 2(트리플 투)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛의 파도 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9724517</id>
-        <link href="https://vibe.naver.com/album/9724517"/>
-        <updated>2023-06-01T03:09:23.262Z</updated>
-        <content type="html"><![CDATA[5252]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tropical Hawaiian 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9715304</id>
-        <link href="https://vibe.naver.com/album/9715304"/>
-        <updated>2023-06-01T03:09:23.265Z</updated>
-        <content type="html"><![CDATA[모먼트]]></content>
     </entry>
 </feed>

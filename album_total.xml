@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-06-02T03:13:39.025Z</updated>
+    <updated>2023-06-02T04:13:36.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[★★★★★ (5-STAR) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9727516</id>
+        <link href="https://vibe.naver.com/album/9727516"/>
+        <updated>2023-06-02T04:13:35.866Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9727516" class="title"><span data-v-6492f376="" class="text"> ★★★★★ (5-STAR) <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dance With Me (Feat. 김효은, 최엘비) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9724652</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9724476"/>
         <updated>2023-05-31T09:14:38.611Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9724476" class="title"><span data-v-6492f376="" class="text"> NINE to SIX 1st Single Album 'GOOD TO YOU' <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/6719756" class="link_artist"><span class="text">NINE to SIX</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Diamond 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9715360</id>
-        <link href="https://vibe.naver.com/album/9715360"/>
-        <updated>2023-05-31T09:14:38.631Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9715360" class="title"><span data-v-6492f376="" class="text"> Diamond <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/1987967" class="link_artist"><span class="text">로시(Rothy)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

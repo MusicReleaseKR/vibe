@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-03T08:14:01.492Z</updated>
+    <updated>2023-06-03T09:11:06.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사랑했지만 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9729812</id>
+        <link href="https://vibe.naver.com/album/9729812"/>
+        <updated>2023-06-03T09:10:49.535Z</updated>
+        <content type="html"><![CDATA[이예은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘까지만 너를 좋아한다는 뜻이야 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9729441</id>
+        <link href="https://vibe.naver.com/album/9729441"/>
+        <updated>2023-06-03T09:10:49.540Z</updated>
+        <content type="html"><![CDATA[김미정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was bad vibin' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9727614</id>
+        <link href="https://vibe.naver.com/album/9727614"/>
+        <updated>2023-06-03T09:10:49.541Z</updated>
+        <content type="html"><![CDATA[EK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너 지금 취했나 봐 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9729530</id>
+        <link href="https://vibe.naver.com/album/9729530"/>
+        <updated>2023-06-03T09:10:49.541Z</updated>
+        <content type="html"><![CDATA[류민희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDU DDU LOVE♡ 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9729534</id>
+        <link href="https://vibe.naver.com/album/9729534"/>
+        <updated>2023-06-03T09:10:49.541Z</updated>
+        <content type="html"><![CDATA[키코(Kik5o)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안녕, 뭐해? 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/9727717</id>
@@ -318,41 +353,6 @@
         <link href="https://vibe.naver.com/album/9724587"/>
         <updated>2023-06-01T09:12:45.228Z</updated>
         <content type="html"><![CDATA[아론]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIFT 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9724730</id>
-        <link href="https://vibe.naver.com/album/9724730"/>
-        <updated>2023-06-01T09:12:45.229Z</updated>
-        <content type="html"><![CDATA[황치열]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구 얘긴데 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9724631</id>
-        <link href="https://vibe.naver.com/album/9724631"/>
-        <updated>2023-06-01T09:12:45.232Z</updated>
-        <content type="html"><![CDATA[그리즐리(Grizzly)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honey 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9724600</id>
-        <link href="https://vibe.naver.com/album/9724600"/>
-        <updated>2023-06-01T09:12:45.233Z</updated>
-        <content type="html"><![CDATA[숲튽훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Romantico - 김예림&TETE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9724525</id>
-        <link href="https://vibe.naver.com/album/9724525"/>
-        <updated>2023-06-01T09:12:45.245Z</updated>
-        <content type="html"><![CDATA[림킴(김예림)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mañana (Our Drama) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9727032</id>
-        <link href="https://vibe.naver.com/album/9727032"/>
-        <updated>2023-06-01T09:12:45.258Z</updated>
-        <content type="html"><![CDATA[조미(ZHOUMI)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Beautiful Game 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,41 @@
         <content type="html"><![CDATA[Machine Gun Kelly]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사랑했지만 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9729812</id>
+        <link href="https://vibe.naver.com/album/9729812"/>
+        <updated>2023-06-03T09:11:05.912Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9729812" class="title"><span data-v-6492f376="" class="text"> 사랑했지만 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/4935604" class="link_artist"><span class="text">이예은</span></a><span>, </span></span><span><a href="/artist/2943839" class="link_artist"><span class="text">전건호</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘까지만 너를 좋아한다는 뜻이야 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9729441</id>
+        <link href="https://vibe.naver.com/album/9729441"/>
+        <updated>2023-06-03T09:11:05.916Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9729441" class="title"><span data-v-6492f376="" class="text"> 오늘까지만 너를 좋아한다는 뜻이야 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/2392889" class="link_artist"><span class="text">김미정</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I was bad vibin' 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9727614</id>
+        <link href="https://vibe.naver.com/album/9727614"/>
+        <updated>2023-06-03T09:11:05.917Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9727614" class="title"><span data-v-6492f376="" class="text"> I was bad vibin' <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/359544" class="link_artist"><span class="text">EK</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너 지금 취했나 봐 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9729530</id>
+        <link href="https://vibe.naver.com/album/9729530"/>
+        <updated>2023-06-03T09:11:05.917Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9729530" class="title"><span data-v-6492f376="" class="text"> 너 지금 취했나 봐 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/4047472" class="link_artist"><span class="text">류민희</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DDU DDU LOVE♡ 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/9729534</id>
+        <link href="https://vibe.naver.com/album/9729534"/>
+        <updated>2023-06-03T09:11:05.919Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9729534" class="title"><span data-v-6492f376="" class="text"> DDU DDU LOVE♡ <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/3957437" class="link_artist"><span class="text">키코(Kik5o)</span></a><span>, </span></span><span><a href="/artist/352906" class="link_artist"><span class="text">디핵(D-Hack)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[안녕, 뭐해? 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/9727717</id>
         <link href="https://vibe.naver.com/album/9727717"/>
@@ -1018,40 +1053,5 @@
         <link href="https://vibe.naver.com/album/9726960"/>
         <updated>2023-06-01T09:12:45.226Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9726960" class="title"><span data-v-6492f376="" class="text"> TO DIE FOR <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/120130" class="link_artist"><span class="text">B.I</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시차 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9724587</id>
-        <link href="https://vibe.naver.com/album/9724587"/>
-        <updated>2023-06-01T09:12:45.228Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9724587" class="title"><span data-v-6492f376="" class="text"> 시차 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/212824" class="link_artist"><span class="text">아론</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIFT 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9724730</id>
-        <link href="https://vibe.naver.com/album/9724730"/>
-        <updated>2023-06-01T09:12:45.229Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9724730" class="title"><span data-v-6492f376="" class="text"> GIFT <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/16973" class="link_artist"><span class="text">황치열</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친구 얘긴데 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9724631</id>
-        <link href="https://vibe.naver.com/album/9724631"/>
-        <updated>2023-06-01T09:12:45.232Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9724631" class="title"><span data-v-6492f376="" class="text"> 친구 얘긴데 <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/350680" class="link_artist"><span class="text">그리즐리(Grizzly)</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Honey 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9724600</id>
-        <link href="https://vibe.naver.com/album/9724600"/>
-        <updated>2023-06-01T09:12:45.233Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9724600" class="title"><span data-v-6492f376="" class="text"> Honey <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/6719816" class="link_artist"><span class="text">숲튽훈</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Romantico - 김예림&TETE 업데이트 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/9724525</id>
-        <link href="https://vibe.naver.com/album/9724525"/>
-        <updated>2023-06-01T09:12:45.245Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6492f376="" href="/album/9724525" class="title"><span data-v-6492f376="" class="text"> Romantico - 김예림&amp;TETE <span data-v-6492f376="" class="item"><span data-v-6492f376="" class="blind">업데이트</span></span></span><span data-v-6492f376="" class="blind">페이지로 이동</span></a><div data-v-6492f376="" class="artist"><span data-v-6492f376=""><span><a href="/artist/170654" class="link_artist"><span class="text">림킴(김예림)</span></a><span>, </span></span><span><a href="/artist/12530" class="link_artist"><span class="text">TETE</span></a><!----></span></span><span data-v-6492f376="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-06-06T14:11:27.275Z</updated>
+    <updated>2023-06-06T15:12:05.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Off the record 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9732397</id>
+        <link href="https://vibe.naver.com/album/9732397"/>
+        <updated>2023-06-06T15:11:57.449Z</updated>
+        <content type="html"><![CDATA[장우영]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lilith (Feat. SUGA) (Diablo IV Anthem) (Diablo IV Anthem) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9732381</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9711342"/>
         <updated>2023-06-02T03:13:29.807Z</updated>
         <content type="html"><![CDATA[WYATT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dodging Sunshine (Fever Dreams) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9728274</id>
-        <link href="https://vibe.naver.com/album/9728274"/>
-        <updated>2023-06-02T03:13:29.808Z</updated>
-        <content type="html"><![CDATA[Dreamers]]></content>
     </entry>
 </feed>

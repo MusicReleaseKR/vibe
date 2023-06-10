@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-06-10T08:14:19.983Z</updated>
+    <updated>2023-06-10T09:11:20.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Stargaze 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9741465</id>
+        <link href="https://vibe.naver.com/album/9741465"/>
+        <updated>2023-06-10T09:11:05.670Z</updated>
+        <content type="html"><![CDATA[Skinny&nbsp;Brown]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비밀의 여자 OST Part 5 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9741505</id>
+        <link href="https://vibe.naver.com/album/9741505"/>
+        <updated>2023-06-10T09:11:05.679Z</updated>
+        <content type="html"><![CDATA[주설옥]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네가 잠든 밤에 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9741203</id>
+        <link href="https://vibe.naver.com/album/9741203"/>
+        <updated>2023-06-10T09:11:05.679Z</updated>
+        <content type="html"><![CDATA[김보경(NEON)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[환생학교 요괴반 시즌2 OST 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9737990</id>
+        <link href="https://vibe.naver.com/album/9737990"/>
+        <updated>2023-06-10T09:11:05.681Z</updated>
+        <content type="html"><![CDATA[웃소(Wootso)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑의 바보 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9741524</id>
+        <link href="https://vibe.naver.com/album/9741524"/>
+        <updated>2023-06-10T09:11:05.681Z</updated>
+        <content type="html"><![CDATA[제이세라(J-Cera)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stay In The Light (feat. 현수) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9738077</id>
+        <link href="https://vibe.naver.com/album/9738077"/>
+        <updated>2023-06-10T09:11:05.681Z</updated>
+        <content type="html"><![CDATA[제트비(ZB)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[THE 시즌즈 Vol.2] <최정훈의 밤의 공원> ReːWake x 옥상달빛 업데이트]]></title>
         <id>https://vibe.naver.com/album/9741527</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/9734836"/>
         <updated>2023-06-10T02:41:45.882Z</updated>
         <content type="html"><![CDATA[gobyTae]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰고 싶은 말 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9738012</id>
-        <link href="https://vibe.naver.com/album/9738012"/>
-        <updated>2023-06-10T02:41:45.882Z</updated>
-        <content type="html"><![CDATA[이사호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gang Sign 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9737682</id>
-        <link href="https://vibe.naver.com/album/9737682"/>
-        <updated>2023-06-10T02:41:45.882Z</updated>
-        <content type="html"><![CDATA[Asian&nbsp;Trash]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[닮은 사람조차 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9737727</id>
-        <link href="https://vibe.naver.com/album/9737727"/>
-        <updated>2023-06-10T02:41:45.884Z</updated>
-        <content type="html"><![CDATA[김우현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Alone 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9737756</id>
-        <link href="https://vibe.naver.com/album/9737756"/>
-        <updated>2023-06-10T02:41:45.885Z</updated>
-        <content type="html"><![CDATA[Monokim]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘따라 그대가 더 그리워요 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9735030</id>
-        <link href="https://vibe.naver.com/album/9735030"/>
-        <updated>2023-06-10T02:41:45.886Z</updated>
-        <content type="html"><![CDATA[리디아(Lydia)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So Genius (Prod. Camel.d) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9737967</id>
-        <link href="https://vibe.naver.com/album/9737967"/>
-        <updated>2023-06-10T02:41:45.887Z</updated>
-        <content type="html"><![CDATA[정탑건]]></content>
     </entry>
 </feed>

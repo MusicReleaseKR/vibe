@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-06-15T11:09:50.893Z</updated>
+    <updated>2023-06-15T12:22:53.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Angel Pt. 2 (Feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack) (FAST X Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9751942</id>
+        <link href="https://vibe.naver.com/album/9751942"/>
+        <updated>2023-06-15T12:22:44.977Z</updated>
+        <content type="html"><![CDATA[Fast &amp; Furious: The Fast Saga]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Age of Pleasure 업데이트]]></title>
         <id>https://vibe.naver.com/album/9734969</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9744272"/>
         <updated>2023-06-13T03:13:11.352Z</updated>
         <content type="html"><![CDATA[Delorians]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Serum 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9737431</id>
-        <link href="https://vibe.naver.com/album/9737431"/>
-        <updated>2023-06-13T03:13:11.368Z</updated>
-        <content type="html"><![CDATA[Taebz]]></content>
     </entry>
 </feed>

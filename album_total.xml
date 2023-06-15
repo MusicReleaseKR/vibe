@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-06-15T11:09:50.890Z</updated>
+    <updated>2023-06-15T12:22:53.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Angel Pt. 2 (Feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack) (FAST X Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9751942</id>
+        <link href="https://vibe.naver.com/album/9751942"/>
+        <updated>2023-06-15T12:22:52.910Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9751942" class="title"><span data-v-32bf4ed6="" class="text"> Angel Pt. 2 (Feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack) (FAST X Soundtrack) <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/5933920" class="link_artist"><span class="text">Fast &amp; Furious: The Fast Saga</span></a><span>, </span></span><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><span>, </span></span><span><a href="/artist/143179" class="link_artist"><span class="text">방탄소년단</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걸어서 차트 속으로 Part 2 업데이트]]></title>
         <id>https://vibe.naver.com/album/9747204</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9734956"/>
         <updated>2023-06-14T03:13:02.399Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9734956" class="title"><span data-v-32bf4ed6="" class="text"> red flag collector <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/8744" class="link_artist"><span class="text">Kelly Clarkson</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어른 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9746841</id>
-        <link href="https://vibe.naver.com/album/9746841"/>
-        <updated>2023-06-14T03:13:02.399Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9746841" class="title"><span data-v-32bf4ed6="" class="text"> 어른 <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/13765" class="link_artist"><span class="text">정미조</span></a><span>, </span></span><span><a href="/artist/30309" class="link_artist"><span class="text">박성일</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

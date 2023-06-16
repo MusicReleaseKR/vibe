@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-06-16T03:12:52.712Z</updated>
+    <updated>2023-06-16T04:13:52.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE WORLD EP.2 : OUTLAW 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9747442</id>
+        <link href="https://vibe.naver.com/album/9747442"/>
+        <updated>2023-06-16T04:13:36.196Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인생은 알록달록 업데이트]]></title>
         <id>https://vibe.naver.com/album/9752533</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9747182"/>
         <updated>2023-06-15T03:12:36.995Z</updated>
         <content type="html"><![CDATA[2Dor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파충류의 춤 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9746757</id>
-        <link href="https://vibe.naver.com/album/9746757"/>
-        <updated>2023-06-15T03:12:36.996Z</updated>
-        <content type="html"><![CDATA[윤해찬]]></content>
     </entry>
 </feed>

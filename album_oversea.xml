@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-06-17T02:11:56.315Z</updated>
+    <updated>2023-06-17T03:13:20.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Platinum 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9752356</id>
+        <link href="https://vibe.naver.com/album/9752356"/>
+        <updated>2023-06-17T03:13:12.803Z</updated>
+        <content type="html"><![CDATA[Tyga]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Runterra Reforged (Teamfight Tactics Original Soundtrack) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9747718</id>
+        <link href="https://vibe.naver.com/album/9747718"/>
+        <updated>2023-06-17T03:13:12.832Z</updated>
+        <content type="html"><![CDATA[TEAMFIGHT TACTICS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Angel Pt. 2 (Feat. Jimin of BTS, Charlie Puth and Muni Long / FAST X Soundtrack) (FAST X Soundtrack) 업데이트]]></title>
         <id>https://vibe.naver.com/album/9751942</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9737184"/>
         <updated>2023-06-14T03:12:54.782Z</updated>
         <content type="html"><![CDATA[Cuco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[99 Nights 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9734960</id>
-        <link href="https://vibe.naver.com/album/9734960"/>
-        <updated>2023-06-14T03:12:54.782Z</updated>
-        <content type="html"><![CDATA[Charlotte Cardin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weathervanes 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9736621</id>
-        <link href="https://vibe.naver.com/album/9736621"/>
-        <updated>2023-06-14T03:12:54.782Z</updated>
-        <content type="html"><![CDATA[Jason Isbell and the 400 Unit]]></content>
     </entry>
 </feed>

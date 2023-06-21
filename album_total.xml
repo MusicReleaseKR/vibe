@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-06-21T03:12:53.716Z</updated>
+    <updated>2023-06-21T04:14:25.857Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Zero (J.I.D Remix) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9787038</id>
-        <link href="https://vibe.naver.com/album/9787038"/>
-        <updated>2023-06-21T01:04:10.164Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9787038" class="title"><span data-v-32bf4ed6="" class="text"> Zero (J.I.D Remix) <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/5615371" class="link_artist"><span class="text">NewJeans</span></a><span>, </span></span><span><a href="/artist/451207" class="link_artist"><span class="text">JID</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[나폴리탄 업데이트]]></title>
         <id>https://vibe.naver.com/album/9783237</id>
@@ -39,6 +32,13 @@
         <link href="https://vibe.naver.com/album/9787983"/>
         <updated>2023-06-21T03:12:53.050Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9787983" class="title"><span data-v-32bf4ed6="" class="text"> 여름별 <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/5611325" class="link_artist"><span class="text">우연소(遇緣所)</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Zero (J.I.D Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9787038</id>
+        <link href="https://vibe.naver.com/album/9787038"/>
+        <updated>2023-06-21T01:04:10.164Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9787038" class="title"><span data-v-32bf4ed6="" class="text"> Zero (J.I.D Remix) <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/5615371" class="link_artist"><span class="text">NewJeans</span></a><span>, </span></span><span><a href="/artist/451207" class="link_artist"><span class="text">JID</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자꾸 생각이 나 업데이트]]></title>

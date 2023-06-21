@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-21T01:04:11.023Z</updated>
+    <updated>2023-06-21T02:37:58.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Zero (J.I.D Remix) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/9787038</id>
+        <link href="https://vibe.naver.com/album/9787038"/>
+        <updated>2023-06-21T01:04:10.164Z</updated>
+        <content type="html"><![CDATA[NewJeans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그냥 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/9782482</id>
@@ -348,13 +355,6 @@
         <content type="html"><![CDATA[Astral Swaggy(아스트랄 스웨기)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Love is 업데이트 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/9756318</id>
-        <link href="https://vibe.naver.com/album/9756318"/>
-        <updated>2023-06-19T03:12:35.194Z</updated>
-        <content type="html"><![CDATA[레몬시티(Lemon City)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[The Idol Episode 3 (Music from the HBO Original Series) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/9758853</id>
         <link href="https://vibe.naver.com/album/9758853"/>
@@ -607,7 +607,7 @@
         <content type="html"><![CDATA[Tyga]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Runterra Reforged (Teamfight Tactics Original Soundtrack) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <title type="html"><![CDATA[테라 리포지드 (전략적 팀 전투 사운드 트랙) 업데이트 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/9747718</id>
         <link href="https://vibe.naver.com/album/9747718"/>
         <updated>2023-06-17T03:13:12.832Z</updated>

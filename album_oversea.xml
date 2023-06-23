@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-06-23T03:31:53.349Z</updated>
+    <updated>2023-06-23T04:17:23.536Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[Lost In Translation 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9822463</id>
-        <link href="https://vibe.naver.com/album/9822463"/>
-        <updated>2023-06-23T03:31:45.143Z</updated>
-        <content type="html"><![CDATA[Valley]]></content>
+        <title type="html"><![CDATA[The Idol Episode 4 (Music from the HBO Original Series) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9868911</id>
+        <link href="https://vibe.naver.com/album/9868911"/>
+        <updated>2023-06-23T04:17:15.061Z</updated>
+        <content type="html"><![CDATA[The Weeknd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Barbie World (with Aqua) [From Barbie The Album] 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9843205</id>
+        <link href="https://vibe.naver.com/album/9843205"/>
+        <updated>2023-06-23T04:17:15.061Z</updated>
+        <content type="html"><![CDATA[Nicki Minaj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sandman 업데이트]]></title>
@@ -25,6 +32,13 @@
         <link href="https://vibe.naver.com/album/9810243"/>
         <updated>2023-06-23T03:31:45.143Z</updated>
         <content type="html"><![CDATA[Galantis]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lost In Translation 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9822463</id>
+        <link href="https://vibe.naver.com/album/9822463"/>
+        <updated>2023-06-23T03:31:45.143Z</updated>
+        <content type="html"><![CDATA[Valley]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Team Sport 업데이트]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/9756169"/>
         <updated>2023-06-21T03:12:45.859Z</updated>
         <content type="html"><![CDATA[Maiya The Don]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shine A Light 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9751490</id>
-        <link href="https://vibe.naver.com/album/9751490"/>
-        <updated>2023-06-21T03:12:45.860Z</updated>
-        <content type="html"><![CDATA[Suzi Quatro]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Miss 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9752396</id>
-        <link href="https://vibe.naver.com/album/9752396"/>
-        <updated>2023-06-21T03:12:45.861Z</updated>
-        <content type="html"><![CDATA[Gemaine]]></content>
     </entry>
 </feed>

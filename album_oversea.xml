@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-06-30T14:11:48.131Z</updated>
+    <updated>2023-06-30T15:13:28.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[紫陽花のような恋 (Hydrangea Love) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9981520</id>
+        <link href="https://vibe.naver.com/album/9981520"/>
+        <updated>2023-06-30T15:13:19.811Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[vampire 업데이트]]></title>
         <id>https://vibe.naver.com/album/9981494</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9904939"/>
         <updated>2023-06-28T03:24:21.152Z</updated>
         <content type="html"><![CDATA[Jamie Miller]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lay Your Hands Upon My Heart 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9844888</id>
-        <link href="https://vibe.naver.com/album/9844888"/>
-        <updated>2023-06-28T03:24:21.153Z</updated>
-        <content type="html"><![CDATA[Rosa Linn]]></content>
     </entry>
 </feed>

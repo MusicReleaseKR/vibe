@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-06-30T14:11:47.741Z</updated>
+    <updated>2023-06-30T15:13:28.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[紫陽花のような恋 (Hydrangea Love) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9981520</id>
+        <link href="https://vibe.naver.com/album/9981520"/>
+        <updated>2023-06-30T15:13:27.672Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9981520" class="title"><span data-v-32bf4ed6="" class="text"> 紫陽花のような恋 (Hydrangea Love) <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/2751244" class="link_artist"><span class="text">투모로우바이투게더</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EXIST – The 7th Album 업데이트]]></title>
         <id>https://vibe.naver.com/album/9744223</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/9930676"/>
         <updated>2023-06-29T03:07:06.821Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9930676" class="title"><span data-v-32bf4ed6="" class="text"> 안녕한가요 <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/6841775" class="link_artist"><span class="text">이세연</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[pick up the phone 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9853093</id>
-        <link href="https://vibe.naver.com/album/9853093"/>
-        <updated>2023-06-29T03:07:06.822Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/9853093" class="title"><span data-v-32bf4ed6="" class="text"> pick up the phone <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/5691754" class="link_artist"><span class="text">Henry Moodie</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

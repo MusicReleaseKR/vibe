@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-06-30T03:18:18.677Z</updated>
+    <updated>2023-06-30T04:15:05.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[vampire 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9981494</id>
+        <link href="https://vibe.naver.com/album/9981494"/>
+        <updated>2023-06-30T04:14:57.631Z</updated>
+        <content type="html"><![CDATA[Olivia Rodrigo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speed Drive (From Barbie The Album) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9967457</id>
+        <link href="https://vibe.naver.com/album/9967457"/>
+        <updated>2023-06-30T04:14:57.635Z</updated>
+        <content type="html"><![CDATA[Charli XCX]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Idol Episode 5 Part 1 (Music from the HBO Original Series) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/9981386</id>
+        <link href="https://vibe.naver.com/album/9981386"/>
+        <updated>2023-06-30T04:14:57.636Z</updated>
+        <content type="html"><![CDATA[The Weeknd]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dead Club City 업데이트]]></title>
         <id>https://vibe.naver.com/album/9977815</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/9844888"/>
         <updated>2023-06-28T03:24:21.153Z</updated>
         <content type="html"><![CDATA[Rosa Linn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Antes de Ameri 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9868165</id>
-        <link href="https://vibe.naver.com/album/9868165"/>
-        <updated>2023-06-28T03:24:21.154Z</updated>
-        <content type="html"><![CDATA[Duki]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chris Black Changed My Life 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9852145</id>
-        <link href="https://vibe.naver.com/album/9852145"/>
-        <updated>2023-06-28T03:24:21.156Z</updated>
-        <content type="html"><![CDATA[Portugal. The Man]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without You 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9853098</id>
-        <link href="https://vibe.naver.com/album/9853098"/>
-        <updated>2023-06-28T03:24:21.158Z</updated>
-        <content type="html"><![CDATA[Diplo]]></content>
     </entry>
 </feed>

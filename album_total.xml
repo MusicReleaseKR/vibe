@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-07-07T04:15:36.822Z</updated>
+    <updated>2023-07-07T05:12:52.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/10036542"/>
         <updated>2023-07-07T04:15:36.153Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10036542" class="title"><span data-v-32bf4ed6="" class="text"> Do It Like That <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/2751244" class="link_artist"><span class="text">투모로우바이투게더</span></a><span>, </span></span><span><a href="/artist/33140" class="link_artist"><span class="text">Jonas Brothers</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Speak Now (Taylor's Version) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10036680</id>
+        <link href="https://vibe.naver.com/album/10036680"/>
+        <updated>2023-07-07T05:12:51.752Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10036680" class="title"><span data-v-32bf4ed6="" class="text"> Speak Now (Taylor's Version) <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/115875" class="link_artist"><span class="text">Taylor Swift</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미스터로또 베스트 PART 9 업데이트]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10029536"/>
         <updated>2023-07-06T03:30:19.467Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10029536" class="title"><span data-v-32bf4ed6="" class="text"> 비나이다 <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/4758377" class="link_artist"><span class="text">SHARKI</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남의 연애 2 OST Part 1 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10030590</id>
-        <link href="https://vibe.naver.com/album/10030590"/>
-        <updated>2023-07-06T03:30:19.467Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10030590" class="title"><span data-v-32bf4ed6="" class="text"> 남의 연애 2 OST Part 1 <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/4708529" class="link_artist"><span class="text">Utopi(유토피)</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

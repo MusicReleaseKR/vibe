@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-07T04:15:36.852Z</updated>
+    <updated>2023-07-07T05:12:52.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Speak Now (Taylor's Version) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10036680</id>
+        <link href="https://vibe.naver.com/album/10036680"/>
+        <updated>2023-07-07T05:12:44.458Z</updated>
+        <content type="html"><![CDATA[Taylor Swift]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Trynna Link 업데이트]]></title>
         <id>https://vibe.naver.com/album/10036652</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10029077"/>
         <updated>2023-07-05T03:26:02.289Z</updated>
         <content type="html"><![CDATA[RUSL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything 업데이트]]></title>
-        <id>https://vibe.naver.com/album/9884499</id>
-        <link href="https://vibe.naver.com/album/9884499"/>
-        <updated>2023-07-05T03:26:02.290Z</updated>
-        <content type="html"><![CDATA[Netta]]></content>
     </entry>
 </feed>

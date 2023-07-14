@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-07-14T03:25:39.763Z</updated>
+    <updated>2023-07-14T04:15:40.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Seven (feat. Latto) - Clean Ver. 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10048448</id>
+        <link href="https://vibe.naver.com/album/10048448"/>
+        <updated>2023-07-14T04:15:39.814Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10048448" class="title"><span data-v-32bf4ed6="" class="text"> Seven (feat. Latto) - Clean Ver. <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/274327" class="link_artist"><span class="text">정국</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Feat. UPSAHL) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10046886</id>
+        <link href="https://vibe.naver.com/album/10046886"/>
+        <updated>2023-07-14T04:15:39.814Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10046886" class="title"><span data-v-32bf4ed6="" class="text"> 이브, 프시케 그리고 푸른 수염의 아내 (Feat. UPSAHL) <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/5438597" class="link_artist"><span class="text">LE SSERAFIM (르세라핌)</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저금통 업데이트]]></title>
         <id>https://vibe.naver.com/album/10040925</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/10042271"/>
         <updated>2023-07-12T09:13:28.629Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10042271" class="title"><span data-v-32bf4ed6="" class="text"> 별똥별 <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/430437" class="link_artist"><span class="text">그_냥</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[mimicry 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10040948</id>
-        <link href="https://vibe.naver.com/album/10040948"/>
-        <updated>2023-07-12T09:13:28.637Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10040948" class="title"><span data-v-32bf4ed6="" class="text"> mimicry <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/498389" class="link_artist"><span class="text">Coa White</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ODD EYE CIRCLE <Version Up> 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10041024</id>
-        <link href="https://vibe.naver.com/album/10041024"/>
-        <updated>2023-07-12T09:13:28.638Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-32bf4ed6="" href="/album/10041024" class="title"><span data-v-32bf4ed6="" class="text"> ODD EYE CIRCLE &lt;Version Up&gt; <span data-v-32bf4ed6="" class="item"><span data-v-32bf4ed6="" class="blind">업데이트</span></span></span><span data-v-32bf4ed6="" class="blind">페이지로 이동</span></a><div data-v-32bf4ed6="" class="artist"><span data-v-32bf4ed6="" class="artist_sub_inner"><span><a href="/artist/6867247" class="link_artist"><span class="text">ODD EYE CIRCLE</span></a><!----></span></span><span data-v-32bf4ed6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

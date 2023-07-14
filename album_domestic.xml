@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-07-14T03:25:39.772Z</updated>
+    <updated>2023-07-14T04:15:40.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Seven (feat. Latto) - Clean Ver. 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10048448</id>
+        <link href="https://vibe.naver.com/album/10048448"/>
+        <updated>2023-07-14T04:15:22.936Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Feat. UPSAHL) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10046886</id>
+        <link href="https://vibe.naver.com/album/10046886"/>
+        <updated>2023-07-14T04:15:22.937Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[No.5 업데이트]]></title>
         <id>https://vibe.naver.com/album/10042135</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/10042254"/>
         <updated>2023-07-13T03:26:46.922Z</updated>
         <content type="html"><![CDATA[버닝소다(Burningsoda)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우.행.시 (우주비행시간) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10042262</id>
-        <link href="https://vibe.naver.com/album/10042262"/>
-        <updated>2023-07-13T03:26:46.928Z</updated>
-        <content type="html"><![CDATA[토요(toyo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재해석 Vol.2 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10040507</id>
-        <link href="https://vibe.naver.com/album/10040507"/>
-        <updated>2023-07-13T01:13:28.334Z</updated>
-        <content type="html"><![CDATA[정승환]]></content>
     </entry>
 </feed>

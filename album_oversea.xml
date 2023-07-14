@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-14T07:12:33.684Z</updated>
+    <updated>2023-07-14T08:15:50.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[(여자)아이들]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[222 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10047699</id>
-        <link href="https://vibe.naver.com/album/10047699"/>
-        <updated>2023-07-14T03:25:30.337Z</updated>
-        <content type="html"><![CDATA[Lil&nbsp;Tjay]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Overdrive 업데이트]]></title>
         <id>https://vibe.naver.com/album/10048312</id>
         <link href="https://vibe.naver.com/album/10048312"/>
         <updated>2023-07-14T03:25:30.337Z</updated>
         <content type="html"><![CDATA[Post Malone]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[222 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10047699</id>
+        <link href="https://vibe.naver.com/album/10047699"/>
+        <updated>2023-07-14T03:25:30.337Z</updated>
+        <content type="html"><![CDATA[Lil&nbsp;Tjay]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pull Me Through 업데이트]]></title>

@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-07-16T08:15:01.497Z</updated>
+    <updated>2023-07-16T09:12:15.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[곰인형 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10046890</id>
+        <link href="https://vibe.naver.com/album/10046890"/>
+        <updated>2023-07-16T09:11:58.268Z</updated>
+        <content type="html"><![CDATA[설아(우주소녀)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[별이 뜨는 곳에 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10046898</id>
+        <link href="https://vibe.naver.com/album/10046898"/>
+        <updated>2023-07-16T09:11:58.283Z</updated>
+        <content type="html"><![CDATA[정동원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디든 가자 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10048607</id>
+        <link href="https://vibe.naver.com/album/10048607"/>
+        <updated>2023-07-16T09:11:58.292Z</updated>
+        <content type="html"><![CDATA[경서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[킹더랜드 OST Part 7 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10048510</id>
+        <link href="https://vibe.naver.com/album/10048510"/>
+        <updated>2023-07-16T09:11:58.294Z</updated>
+        <content type="html"><![CDATA[정세운]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[썸머, 러브머신 블루스 OST (O'PENing) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10046911</id>
+        <link href="https://vibe.naver.com/album/10046911"/>
+        <updated>2023-07-16T09:11:58.299Z</updated>
+        <content type="html"><![CDATA[Kei(케이)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 여름에는 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10041026</id>
+        <link href="https://vibe.naver.com/album/10041026"/>
+        <updated>2023-07-16T09:11:58.299Z</updated>
+        <content type="html"><![CDATA[새봄(Saevom)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Silhouette 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10046849</id>
+        <link href="https://vibe.naver.com/album/10046849"/>
+        <updated>2023-07-16T09:11:58.347Z</updated>
+        <content type="html"><![CDATA[off the menu(오프더메뉴)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Persona 업데이트]]></title>
         <id>https://vibe.naver.com/album/10030563</id>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/10046925"/>
         <updated>2023-07-15T03:30:29.904Z</updated>
         <content type="html"><![CDATA[벨루가(Beluga)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피터판다 (Peter Panda) OST Part 22 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10046904</id>
-        <link href="https://vibe.naver.com/album/10046904"/>
-        <updated>2023-07-15T03:30:29.905Z</updated>
-        <content type="html"><![CDATA[루미(Rumy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seven (feat. Latto) - Clean Ver. 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10048448</id>
-        <link href="https://vibe.naver.com/album/10048448"/>
-        <updated>2023-07-14T19:11:14.808Z</updated>
-        <content type="html"><![CDATA[정국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사막에서 꽃을 피우듯 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10042234</id>
-        <link href="https://vibe.naver.com/album/10042234"/>
-        <updated>2023-07-14T19:11:14.808Z</updated>
-        <content type="html"><![CDATA[우디 (Woody)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Feat. UPSAHL) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10046886</id>
-        <link href="https://vibe.naver.com/album/10046886"/>
-        <updated>2023-07-14T19:11:14.808Z</updated>
-        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 종일 비가 내렸어 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10041011</id>
-        <link href="https://vibe.naver.com/album/10041011"/>
-        <updated>2023-07-14T19:11:14.818Z</updated>
-        <content type="html"><![CDATA[정인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 술 한잔했어 (2023) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10046881</id>
-        <link href="https://vibe.naver.com/album/10046881"/>
-        <updated>2023-07-14T19:11:14.821Z</updated>
-        <content type="html"><![CDATA[이보람(씨야)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쉿 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10046568</id>
-        <link href="https://vibe.naver.com/album/10046568"/>
-        <updated>2023-07-14T19:11:14.823Z</updated>
-        <content type="html"><![CDATA[모트(Motte)]]></content>
     </entry>
 </feed>

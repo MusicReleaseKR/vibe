@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-21T03:12:17.643Z</updated>
+    <updated>2023-07-21T04:13:43.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-POP 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10059517</id>
+        <link href="https://vibe.naver.com/album/10059517"/>
+        <updated>2023-07-21T04:13:34.784Z</updated>
+        <content type="html"><![CDATA[Travis Scott]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Barbie The Album 업데이트]]></title>
         <id>https://vibe.naver.com/album/10053942</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10047628"/>
         <updated>2023-07-19T03:52:52.026Z</updated>
         <content type="html"><![CDATA[Jourden]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Simple Love Songs (extended ver.) 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10052922</id>
-        <link href="https://vibe.naver.com/album/10052922"/>
-        <updated>2023-07-19T03:52:52.027Z</updated>
-        <content type="html"><![CDATA[Benny Sings]]></content>
     </entry>
 </feed>

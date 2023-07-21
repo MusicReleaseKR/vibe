@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-07-21T03:12:17.648Z</updated>
+    <updated>2023-07-21T04:13:43.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NewJeans 2nd EP 'Get Up' 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10035234</id>
+        <link href="https://vibe.naver.com/album/10035234"/>
+        <updated>2023-07-21T04:13:25.669Z</updated>
+        <content type="html"><![CDATA[NewJeans]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House on a Hill (Feat. Em Beihold) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10059511</id>
+        <link href="https://vibe.naver.com/album/10059511"/>
+        <updated>2023-07-21T04:13:25.671Z</updated>
+        <content type="html"><![CDATA[에릭남(Eric Nam)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Back To Me / Alive 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10053934</id>
+        <link href="https://vibe.naver.com/album/10053934"/>
+        <updated>2023-07-21T04:13:25.673Z</updated>
+        <content type="html"><![CDATA[The Rose (더 로즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미스터로또 베스트 PART 11 업데이트]]></title>
         <id>https://vibe.naver.com/album/10056986</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/10053822"/>
         <updated>2023-07-20T11:10:46.079Z</updated>
         <content type="html"><![CDATA[케이맨(K.man)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boys will be Boys - MIRAE 5th Mini Album 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10053801</id>
-        <link href="https://vibe.naver.com/album/10053801"/>
-        <updated>2023-07-20T11:10:46.081Z</updated>
-        <content type="html"><![CDATA[미래소년(MIRAE)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1994년 어느 늦은 밤 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10053770</id>
-        <link href="https://vibe.naver.com/album/10053770"/>
-        <updated>2023-07-20T11:10:46.083Z</updated>
-        <content type="html"><![CDATA[조현아(어반자카파)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걸어서 차트 속으로 Part 3 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10053824</id>
-        <link href="https://vibe.naver.com/album/10053824"/>
-        <updated>2023-07-20T11:10:46.085Z</updated>
-        <content type="html"><![CDATA[다원]]></content>
     </entry>
 </feed>

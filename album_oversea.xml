@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-22T02:29:19.095Z</updated>
+    <updated>2023-07-22T03:11:51.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소울파이터 OST 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10056789</id>
+        <link href="https://vibe.naver.com/album/10056789"/>
+        <updated>2023-07-22T03:11:42.806Z</updated>
+        <content type="html"><![CDATA[League of Legends]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-POP 업데이트]]></title>
         <id>https://vibe.naver.com/album/10059517</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10047341"/>
         <updated>2023-07-19T03:52:52.024Z</updated>
         <content type="html"><![CDATA[Joel Corry]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flow 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10047628</id>
-        <link href="https://vibe.naver.com/album/10047628"/>
-        <updated>2023-07-19T03:52:52.026Z</updated>
-        <content type="html"><![CDATA[Jourden]]></content>
     </entry>
 </feed>

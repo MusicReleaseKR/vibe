@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-23T02:35:43.729Z</updated>
+    <updated>2023-07-23T03:12:35.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[This Time 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10056820</id>
+        <link href="https://vibe.naver.com/album/10056820"/>
+        <updated>2023-07-23T03:12:26.246Z</updated>
+        <content type="html"><![CDATA[Michael Carreon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소울파이터 OST 업데이트]]></title>
         <id>https://vibe.naver.com/album/10056789</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10044720"/>
         <updated>2023-07-19T03:52:52.019Z</updated>
         <content type="html"><![CDATA[Thirty Seconds To Mars]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desire 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10047341</id>
-        <link href="https://vibe.naver.com/album/10047341"/>
-        <updated>2023-07-19T03:52:52.024Z</updated>
-        <content type="html"><![CDATA[Joel Corry]]></content>
     </entry>
 </feed>

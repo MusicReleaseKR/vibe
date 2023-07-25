@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-25T08:18:50.749Z</updated>
+    <updated>2023-07-25T09:12:57.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jewelry (Prod. imase) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10074015</id>
+        <link href="https://vibe.naver.com/album/10074015"/>
+        <updated>2023-07-25T09:12:46.399Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BRING IT ON 업데이트]]></title>
         <id>https://vibe.naver.com/album/10057866</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10052476"/>
         <updated>2023-07-21T03:12:08.907Z</updated>
         <content type="html"><![CDATA[Sech]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desire 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10056946</id>
-        <link href="https://vibe.naver.com/album/10056946"/>
-        <updated>2023-07-21T03:12:08.908Z</updated>
-        <content type="html"><![CDATA[Nick Havsen]]></content>
     </entry>
 </feed>

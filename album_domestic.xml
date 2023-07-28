@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-07-28T03:11:47.367Z</updated>
+    <updated>2023-07-28T04:13:26.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Rina Sawayama Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10079629</id>
+        <link href="https://vibe.naver.com/album/10079629"/>
+        <updated>2023-07-28T04:13:09.996Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미스터로또 베스트 PART 12 업데이트]]></title>
         <id>https://vibe.naver.com/album/10079570</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10075803"/>
         <updated>2023-07-27T03:11:52.015Z</updated>
         <content type="html"><![CDATA[변민석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭐든지 말해 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10075545</id>
-        <link href="https://vibe.naver.com/album/10075545"/>
-        <updated>2023-07-27T03:11:52.018Z</updated>
-        <content type="html"><![CDATA[WANNA(워나)]]></content>
     </entry>
 </feed>

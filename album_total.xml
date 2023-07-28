@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-07-28T03:11:47.373Z</updated>
+    <updated>2023-07-28T04:13:26.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UTOPIA 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10082295</id>
+        <link href="https://vibe.naver.com/album/10082295"/>
+        <updated>2023-07-28T04:13:26.013Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-a082a862="" href="/album/10082295" class="title"><span data-v-a082a862="" class="text"> UTOPIA <span data-v-a082a862="" class="item"><span data-v-a082a862="" class="blind">업데이트</span></span></span><span data-v-a082a862="" class="blind">페이지로 이동</span></a><div data-v-a082a862="" class="artist"><span data-v-a082a862="" class="artist_sub_inner"><span><a href="/artist/232920" class="link_artist"><span class="text">Travis Scott</span></a><!----></span></span><span data-v-a082a862="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Rina Sawayama Remix) 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10079629</id>
+        <link href="https://vibe.naver.com/album/10079629"/>
+        <updated>2023-07-28T04:13:26.015Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-a082a862="" href="/album/10079629" class="title"><span data-v-a082a862="" class="text"> 이브, 프시케 그리고 푸른 수염의 아내 (Rina Sawayama Remix) <span data-v-a082a862="" class="item"><span data-v-a082a862="" class="blind">업데이트</span></span></span><span data-v-a082a862="" class="blind">페이지로 이동</span></a><div data-v-a082a862="" class="artist"><span data-v-a082a862="" class="artist_sub_inner"><span><a href="/artist/5438597" class="link_artist"><span class="text">LE SSERAFIM (르세라핌)</span></a><!----></span></span><span data-v-a082a862="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AUSTIN 업데이트]]></title>
         <id>https://vibe.naver.com/album/10080097</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/10075627"/>
         <updated>2023-07-27T03:12:15.297Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-a082a862="" href="/album/10075627" class="title"><span data-v-a082a862="" class="text"> Pedal <span data-v-a082a862="" class="item"><span data-v-a082a862="" class="blind">업데이트</span></span></span><span data-v-a082a862="" class="blind">페이지로 이동</span></a><div data-v-a082a862="" class="artist"><span data-v-a082a862="" class="artist_sub_inner"><span><a href="/artist/1898077" class="link_artist"><span class="text">PUP(펍)</span></a><!----></span></span><span data-v-a082a862="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TRIPONOEL 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10074329</id>
-        <link href="https://vibe.naver.com/album/10074329"/>
-        <updated>2023-07-26T09:12:06.490Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-a082a862="" href="/album/10074329" class="title"><span data-v-a082a862="" class="text"> TRIPONOEL <span data-v-a082a862="" class="item"><span data-v-a082a862="" class="blind">업데이트</span></span></span><span data-v-a082a862="" class="blind">페이지로 이동</span></a><div data-v-a082a862="" class="artist"><span data-v-a082a862="" class="artist_sub_inner"><span><a href="/artist/1621316" class="link_artist"><span class="text">NO:EL</span></a><!----></span></span><span data-v-a082a862="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위급! 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10074005</id>
-        <link href="https://vibe.naver.com/album/10074005"/>
-        <updated>2023-07-26T09:12:06.490Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-a082a862="" href="/album/10074005" class="title"><span data-v-a082a862="" class="text"> 위급! <span data-v-a082a862="" class="item"><span data-v-a082a862="" class="blind">업데이트</span></span></span><span data-v-a082a862="" class="blind">페이지로 이동</span></a><div data-v-a082a862="" class="artist"><span data-v-a082a862="" class="artist_sub_inner"><span><a href="/artist/2843117" class="link_artist"><span class="text">잠비노(Jambino)</span></a><!----></span></span><span data-v-a082a862="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

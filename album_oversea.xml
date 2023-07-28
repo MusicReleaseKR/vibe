@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-07-28T03:11:47.371Z</updated>
+    <updated>2023-07-28T04:13:26.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[UTOPIA 업데이트]]></title>
+        <id>https://vibe.naver.com/album/10082295</id>
+        <link href="https://vibe.naver.com/album/10082295"/>
+        <updated>2023-07-28T04:13:18.676Z</updated>
+        <content type="html"><![CDATA[Travis Scott]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AUSTIN 업데이트]]></title>
         <id>https://vibe.naver.com/album/10080097</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10074015"/>
         <updated>2023-07-25T09:12:46.399Z</updated>
         <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BRING IT ON 업데이트]]></title>
-        <id>https://vibe.naver.com/album/10057866</id>
-        <link href="https://vibe.naver.com/album/10057866"/>
-        <updated>2023-07-25T03:12:33.036Z</updated>
-        <content type="html"><![CDATA[Tones And I]]></content>
     </entry>
 </feed>

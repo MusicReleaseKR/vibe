@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-08-02T03:12:22.708Z</updated>
+    <updated>2023-08-02T04:16:36.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/10087975"/>
         <updated>2023-08-02T03:12:21.622Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10087975" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">제 1대 불타는 트롯맨 우승자 특전곡</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/490053" class="link_artist"><span class="text">손태진</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AUSTIN (Bonus)]]></title>
+        <id>https://vibe.naver.com/album/10087652</id>
+        <link href="https://vibe.naver.com/album/10087652"/>
+        <updated>2023-08-02T04:16:35.315Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10087652" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">AUSTIN (Bonus)</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/453028" class="link_artist"><span class="text">Post Malone</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TEN]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10086174"/>
         <updated>2023-08-01T03:13:18.079Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10086174" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">Make Some Love</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/4047693" class="link_artist"><span class="text">차차(Cha Cha)</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EL RELOJ]]></title>
-        <id>https://vibe.naver.com/album/10075871</id>
-        <link href="https://vibe.naver.com/album/10075871"/>
-        <updated>2023-08-01T03:13:18.084Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10075871" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">EL RELOJ</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/984194" class="link_artist"><span class="text">Blessd</span></a><span>, </span></span><span><a href="/artist/483542" class="link_artist"><span class="text">Maluma</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-08-02T03:12:22.700Z</updated>
+    <updated>2023-08-02T04:16:36.149Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AUSTIN (Bonus)]]></title>
+        <id>https://vibe.naver.com/album/10087652</id>
+        <link href="https://vibe.naver.com/album/10087652"/>
+        <updated>2023-08-02T04:16:27.813Z</updated>
+        <content type="html"><![CDATA[Post Malone]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Something To Hold On To]]></title>
         <id>https://vibe.naver.com/album/10075866</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10078957"/>
         <updated>2023-07-31T03:12:42.787Z</updated>
         <content type="html"><![CDATA[Llunr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bounce When She Walks (Feat. Mykfresh, Gwallagangspec)]]></title>
-        <id>https://vibe.naver.com/album/10082297</id>
-        <link href="https://vibe.naver.com/album/10082297"/>
-        <updated>2023-07-31T03:12:42.790Z</updated>
-        <content type="html"><![CDATA[Oh Boy Prince]]></content>
     </entry>
 </feed>

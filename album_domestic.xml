@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-03T02:00:32.769Z</updated>
+    <updated>2023-08-03T02:38:10.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Rain Drive]]></title>
-        <id>https://vibe.naver.com/album/10087978</id>
-        <link href="https://vibe.naver.com/album/10087978"/>
-        <updated>2023-08-02T12:21:47.817Z</updated>
-        <content type="html"><![CDATA[로시(Rothy)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[The Flash]]></title>
         <id>https://vibe.naver.com/album/10088038</id>
         <link href="https://vibe.naver.com/album/10088038"/>
         <updated>2023-08-02T12:21:47.819Z</updated>
         <content type="html"><![CDATA[권은비]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOUSE OF TRICKY : HOW TO PLAY]]></title>
+        <id>https://vibe.naver.com/album/10075788</id>
+        <link href="https://vibe.naver.com/album/10075788"/>
+        <updated>2023-08-02T12:21:47.820Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rain Drive]]></title>
+        <id>https://vibe.naver.com/album/10087978</id>
+        <link href="https://vibe.naver.com/album/10087978"/>
+        <updated>2023-08-02T12:21:47.817Z</updated>
+        <content type="html"><![CDATA[로시(Rothy)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리의 밤은 당신의 낮보다 아름답다]]></title>
@@ -32,13 +39,6 @@
         <link href="https://vibe.naver.com/album/10103712"/>
         <updated>2023-08-02T12:21:47.820Z</updated>
         <content type="html"><![CDATA[KOONTA(쿤타)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOUSE OF TRICKY : HOW TO PLAY]]></title>
-        <id>https://vibe.naver.com/album/10075788</id>
-        <link href="https://vibe.naver.com/album/10075788"/>
-        <updated>2023-08-02T12:21:47.820Z</updated>
-        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ready : 여름방학]]></title>

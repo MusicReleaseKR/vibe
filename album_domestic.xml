@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-04T07:10:44.586Z</updated>
+    <updated>2023-08-04T08:14:00.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Do It Like That (Alan Walker Remix)]]></title>
-        <id>https://vibe.naver.com/album/10133224</id>
-        <link href="https://vibe.naver.com/album/10133224"/>
-        <updated>2023-08-04T04:17:57.303Z</updated>
-        <content type="html"><![CDATA[투모로우바이투게더]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Peanut Butter & Tears]]></title>
         <id>https://vibe.naver.com/album/10134557</id>
         <link href="https://vibe.naver.com/album/10134557"/>
         <updated>2023-08-04T04:17:57.303Z</updated>
         <content type="html"><![CDATA[DPR IAN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do It Like That (Alan Walker Remix)]]></title>
+        <id>https://vibe.naver.com/album/10133224</id>
+        <link href="https://vibe.naver.com/album/10133224"/>
+        <updated>2023-08-04T04:17:57.303Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이브, 프시케 그리고 푸른 수염의 아내 (Feat. Demi Lovato)]]></title>

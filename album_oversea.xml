@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-08-06T02:20:56.191Z</updated>
+    <updated>2023-08-06T03:12:20.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Shine On]]></title>
+        <id>https://vibe.naver.com/album/10129951</id>
+        <link href="https://vibe.naver.com/album/10129951"/>
+        <updated>2023-08-06T03:12:09.232Z</updated>
+        <content type="html"><![CDATA[Brain Tan]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paint The Town Red]]></title>
         <id>https://vibe.naver.com/album/10137971</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10080119"/>
         <updated>2023-08-02T03:12:12.252Z</updated>
         <content type="html"><![CDATA[Alex Sampson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KEVLAR MONEY BAGS]]></title>
-        <id>https://vibe.naver.com/album/10075443</id>
-        <link href="https://vibe.naver.com/album/10075443"/>
-        <updated>2023-08-02T03:12:12.290Z</updated>
-        <content type="html"><![CDATA[Shakewell]]></content>
     </entry>
 </feed>

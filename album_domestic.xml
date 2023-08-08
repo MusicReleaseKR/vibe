@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-08T08:14:33.110Z</updated>
+    <updated>2023-08-08T09:11:50.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Horizon - NCT LAB]]></title>
+        <id>https://vibe.naver.com/album/10145523</id>
+        <link href="https://vibe.naver.com/album/10145523"/>
+        <updated>2023-08-08T09:11:34.540Z</updated>
+        <content type="html"><![CDATA[재현(JAEHYUN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가슴이 뛴다 OST Part 7]]></title>
+        <id>https://vibe.naver.com/album/10142546</id>
+        <link href="https://vibe.naver.com/album/10142546"/>
+        <updated>2023-08-08T09:11:34.542Z</updated>
+        <content type="html"><![CDATA[스탠딩 에그(Standing Egg)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다정한 혁명 (Da-Jung Punk Generation)]]></title>
+        <id>https://vibe.naver.com/album/10138745</id>
+        <link href="https://vibe.naver.com/album/10138745"/>
+        <updated>2023-08-08T09:11:34.542Z</updated>
+        <content type="html"><![CDATA[로맨틱 펀치 (Romantic Punch)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남남 OST Part 4]]></title>
+        <id>https://vibe.naver.com/album/10138816</id>
+        <link href="https://vibe.naver.com/album/10138816"/>
+        <updated>2023-08-08T09:11:34.567Z</updated>
+        <content type="html"><![CDATA[유연정(우주소녀)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Acid Punk]]></title>
+        <id>https://vibe.naver.com/album/10142370</id>
+        <link href="https://vibe.naver.com/album/10142370"/>
+        <updated>2023-08-08T09:11:34.569Z</updated>
+        <content type="html"><![CDATA[IDIOTAPE(이디오테잎)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BURN IT UP]]></title>
+        <id>https://vibe.naver.com/album/10142369</id>
+        <link href="https://vibe.naver.com/album/10142369"/>
+        <updated>2023-08-08T09:11:34.571Z</updated>
+        <content type="html"><![CDATA[토이고(toigo)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shine]]></title>
+        <id>https://vibe.naver.com/album/10142408</id>
+        <link href="https://vibe.naver.com/album/10142408"/>
+        <updated>2023-08-08T09:11:34.575Z</updated>
+        <content type="html"><![CDATA[리베란테(Libelante)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소용없어 거짓말 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/10142366</id>
+        <link href="https://vibe.naver.com/album/10142366"/>
+        <updated>2023-08-08T09:11:34.577Z</updated>
+        <content type="html"><![CDATA[우디 (Woody)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[니가 미치도록 사랑스러운건지]]></title>
+        <id>https://vibe.naver.com/album/10138820</id>
+        <link href="https://vibe.naver.com/album/10138820"/>
+        <updated>2023-08-08T09:11:34.579Z</updated>
+        <content type="html"><![CDATA[정예원(YEWON)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stupid Cupid]]></title>
+        <id>https://vibe.naver.com/album/10136737</id>
+        <link href="https://vibe.naver.com/album/10136737"/>
+        <updated>2023-08-08T09:11:34.582Z</updated>
+        <content type="html"><![CDATA[Aylah(아일라)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여름 바다에 있어]]></title>
+        <id>https://vibe.naver.com/album/10142261</id>
+        <link href="https://vibe.naver.com/album/10142261"/>
+        <updated>2023-08-08T09:11:34.584Z</updated>
+        <content type="html"><![CDATA[Elly]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Magenta Lady]]></title>
+        <id>https://vibe.naver.com/album/10145456</id>
+        <link href="https://vibe.naver.com/album/10145456"/>
+        <updated>2023-08-08T09:11:34.586Z</updated>
+        <content type="html"><![CDATA[NIKA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑은 그렇게 찾아온대요]]></title>
+        <id>https://vibe.naver.com/album/10142476</id>
+        <link href="https://vibe.naver.com/album/10142476"/>
+        <updated>2023-08-08T09:11:34.588Z</updated>
+        <content type="html"><![CDATA[양중은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Ya (Feat. 디핵 (D-Hack))]]></title>
         <id>https://vibe.naver.com/album/10142368</id>
@@ -31,7 +122,7 @@
         <id>https://vibe.naver.com/album/10142394</id>
         <link href="https://vibe.naver.com/album/10142394"/>
         <updated>2023-08-08T03:11:43.462Z</updated>
-        <content type="html"><![CDATA[<div data-v-3d3e69b7="" class="" data-v-6dcc41be=""><div data-v-3d3e69b7="" class="thumb_area"><a data-v-3d3e69b7="" href="#" class="link"><img data-v-711064c9="" data-v-3d3e69b7="" src="https://musicmeta-phinf.pstatic.net/album/010/142/10142394.jpg?type=r360Fll&amp;v=20230807151741" class="thumb v-lazy-image v-lazy-image-loaded" alt="쇼퀸 파이널 라운드 앨범 커버"><!----></a><a data-v-100a6273="" data-v-3d3e69b7="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-3d3e69b7="" class="more_option only"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>좋아요</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/10142394" data-title="쇼퀸 파이널 라운드" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-3d3e69b7="" class="info"><!----><a data-v-3d3e69b7="" href="/album/10142394" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">쇼퀸 파이널 라운드</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div data-v-3d3e69b7="" class="" data-v-6dcc41be=""><div data-v-3d3e69b7="" class="thumb_area"><a data-v-3d3e69b7="" href="#" class="link"><img data-v-711064c9="" data-v-3d3e69b7="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="쇼퀸 파이널 라운드 앨범 커버"><!----></a><a data-v-100a6273="" data-v-3d3e69b7="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-3d3e69b7="" class="more_option only"><!----><div class="dropdown_wrap"><a href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span class="blind">옵션 보기</span><span class="blind">비활성</span></a><div role="menu" class="ly_option" style="display: none;"><!----><!----><a href="#" role="button" class="ly_item">내 플레이리스트 추가</a><a href="#" role="button" class="ly_item"><span>좋아요</span></a><a href="#" role="button" class="ly_item">바로 다음에 추가</a><a href="#" role="button" class="ly_item">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="ly_item"><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/10142394" data-title="쇼퀸 파이널 라운드" class="naver-splugin spi_sns_share">공유</a><!----></div></div></div></div><div data-v-3d3e69b7="" class="info"><!----><a data-v-3d3e69b7="" href="/album/10142394" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">쇼퀸 파이널 라운드</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Don't Leave Me Alone]]></title>
@@ -263,96 +354,5 @@
         <link href="https://vibe.naver.com/album/10130361"/>
         <updated>2023-08-08T02:05:13.182Z</updated>
         <content type="html"><![CDATA[한결(HANGYEOL)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LET'S DRIVE]]></title>
-        <id>https://vibe.naver.com/album/10130849</id>
-        <link href="https://vibe.naver.com/album/10130849"/>
-        <updated>2023-08-08T02:05:13.182Z</updated>
-        <content type="html"><![CDATA[STAYP(스테이피)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑은 F처럼 고백은 J처럼]]></title>
-        <id>https://vibe.naver.com/album/10138824</id>
-        <link href="https://vibe.naver.com/album/10138824"/>
-        <updated>2023-08-08T02:05:13.184Z</updated>
-        <content type="html"><![CDATA[웃웃(utut)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOGSORI]]></title>
-        <id>https://vibe.naver.com/album/10130092</id>
-        <link href="https://vibe.naver.com/album/10130092"/>
-        <updated>2023-08-08T02:05:13.184Z</updated>
-        <content type="html"><![CDATA[짱유 시바세키]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Challenger]]></title>
-        <id>https://vibe.naver.com/album/10138772</id>
-        <link href="https://vibe.naver.com/album/10138772"/>
-        <updated>2023-08-08T02:05:13.184Z</updated>
-        <content type="html"><![CDATA[NYOU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 니가 행복했으면 좋겠어]]></title>
-        <id>https://vibe.naver.com/album/10139997</id>
-        <link href="https://vibe.naver.com/album/10139997"/>
-        <updated>2023-08-08T02:05:13.184Z</updated>
-        <content type="html"><![CDATA[하현곤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ROOM]]></title>
-        <id>https://vibe.naver.com/album/10138735</id>
-        <link href="https://vibe.naver.com/album/10138735"/>
-        <updated>2023-08-08T02:05:13.185Z</updated>
-        <content type="html"><![CDATA[윌로(WILRO)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surf]]></title>
-        <id>https://vibe.naver.com/album/10139821</id>
-        <link href="https://vibe.naver.com/album/10139821"/>
-        <updated>2023-08-08T02:05:13.185Z</updated>
-        <content type="html"><![CDATA[NaRN(나른)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Raven (Odin's)]]></title>
-        <id>https://vibe.naver.com/album/10137380</id>
-        <link href="https://vibe.naver.com/album/10137380"/>
-        <updated>2023-08-08T02:05:13.187Z</updated>
-        <content type="html"><![CDATA[벤치위레오(BenchWeLeo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Sensation]]></title>
-        <id>https://vibe.naver.com/album/10142220</id>
-        <link href="https://vibe.naver.com/album/10142220"/>
-        <updated>2023-08-08T02:05:13.187Z</updated>
-        <content type="html"><![CDATA[효일(Hyoil)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miss you (Feat. 안재우)]]></title>
-        <id>https://vibe.naver.com/album/10139847</id>
-        <link href="https://vibe.naver.com/album/10139847"/>
-        <updated>2023-08-08T02:05:13.190Z</updated>
-        <content type="html"><![CDATA[12JIN(일이진)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대가 아니길]]></title>
-        <id>https://vibe.naver.com/album/10139673</id>
-        <link href="https://vibe.naver.com/album/10139673"/>
-        <updated>2023-08-08T02:05:13.190Z</updated>
-        <content type="html"><![CDATA[카페모카]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling]]></title>
-        <id>https://vibe.naver.com/album/10140046</id>
-        <link href="https://vibe.naver.com/album/10140046"/>
-        <updated>2023-08-08T02:05:13.190Z</updated>
-        <content type="html"><![CDATA[ye;min]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파랑]]></title>
-        <id>https://vibe.naver.com/album/10134165</id>
-        <link href="https://vibe.naver.com/album/10134165"/>
-        <updated>2023-08-08T02:05:13.191Z</updated>
-        <content type="html"><![CDATA[PAUL]]></content>
     </entry>
 </feed>

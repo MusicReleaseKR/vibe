@@ -2,9 +2,107 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-08-10T02:07:25.089Z</updated>
+    <updated>2023-08-10T03:11:49.375Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Greatest]]></title>
+        <id>https://vibe.naver.com/album/10104979</id>
+        <link href="https://vibe.naver.com/album/10104979"/>
+        <updated>2023-08-10T03:11:41.081Z</updated>
+        <content type="html"><![CDATA[Tones And I]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MUSTARD]]></title>
+        <id>https://vibe.naver.com/album/10116960</id>
+        <link href="https://vibe.naver.com/album/10116960"/>
+        <updated>2023-08-10T03:11:41.081Z</updated>
+        <content type="html"><![CDATA[Jordan Ward]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Desire]]></title>
+        <id>https://vibe.naver.com/album/10137897</id>
+        <link href="https://vibe.naver.com/album/10137897"/>
+        <updated>2023-08-10T03:11:41.081Z</updated>
+        <content type="html"><![CDATA[Cannons]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lifeline]]></title>
+        <id>https://vibe.naver.com/album/10116720</id>
+        <link href="https://vibe.naver.com/album/10116720"/>
+        <updated>2023-08-10T03:11:41.084Z</updated>
+        <content type="html"><![CDATA[Glockenbach]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Endless Summer (LUM!X Remix) (Explicit Ver.)]]></title>
+        <id>https://vibe.naver.com/album/10142216</id>
+        <link href="https://vibe.naver.com/album/10142216"/>
+        <updated>2023-08-10T03:11:41.084Z</updated>
+        <content type="html"><![CDATA[Alan Walker]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doppelgänger]]></title>
+        <id>https://vibe.naver.com/album/10137901</id>
+        <link href="https://vibe.naver.com/album/10137901"/>
+        <updated>2023-08-10T03:11:41.100Z</updated>
+        <content type="html"><![CDATA[Ethan Bortnick]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Invisible Hand]]></title>
+        <id>https://vibe.naver.com/album/10137409</id>
+        <link href="https://vibe.naver.com/album/10137409"/>
+        <updated>2023-08-10T03:11:41.102Z</updated>
+        <content type="html"><![CDATA[††† (Crosses)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Further Away]]></title>
+        <id>https://vibe.naver.com/album/10137982</id>
+        <link href="https://vibe.naver.com/album/10137982"/>
+        <updated>2023-08-10T03:11:41.119Z</updated>
+        <content type="html"><![CDATA[Goodboys]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tenemos que hablar]]></title>
+        <id>https://vibe.naver.com/album/10130362</id>
+        <link href="https://vibe.naver.com/album/10130362"/>
+        <updated>2023-08-10T03:11:41.119Z</updated>
+        <content type="html"><![CDATA[Danna Paola]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Abyss]]></title>
+        <id>https://vibe.naver.com/album/10137539</id>
+        <link href="https://vibe.naver.com/album/10137539"/>
+        <updated>2023-08-10T03:11:41.119Z</updated>
+        <content type="html"><![CDATA[Hardwell]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lass es kreisen (Alternative Version)]]></title>
+        <id>https://vibe.naver.com/album/10116788</id>
+        <link href="https://vibe.naver.com/album/10116788"/>
+        <updated>2023-08-10T03:11:41.119Z</updated>
+        <content type="html"><![CDATA[AnnenMayKantereit]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Daydream]]></title>
+        <id>https://vibe.naver.com/album/10147205</id>
+        <link href="https://vibe.naver.com/album/10147205"/>
+        <updated>2023-08-10T03:11:41.128Z</updated>
+        <content type="html"><![CDATA[Carly Pearl]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Man Band]]></title>
+        <id>https://vibe.naver.com/album/10116844</id>
+        <link href="https://vibe.naver.com/album/10116844"/>
+        <updated>2023-08-10T03:11:41.128Z</updated>
+        <content type="html"><![CDATA[Miles Kane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pacifico Waves]]></title>
+        <id>https://vibe.naver.com/album/10147359</id>
+        <link href="https://vibe.naver.com/album/10147359"/>
+        <updated>2023-08-10T03:11:41.128Z</updated>
+        <content type="html"><![CDATA[Joel Sarakula]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Supernova (Japanese Version)]]></title>
         <id>https://vibe.naver.com/album/10145444</id>
@@ -256,103 +354,5 @@
         <link href="https://vibe.naver.com/album/10129569"/>
         <updated>2023-08-07T03:11:58.711Z</updated>
         <content type="html"><![CDATA[Travis Scott]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[One in a Million]]></title>
-        <id>https://vibe.naver.com/album/10104980</id>
-        <link href="https://vibe.naver.com/album/10104980"/>
-        <updated>2023-08-07T03:11:58.711Z</updated>
-        <content type="html"><![CDATA[Bebe Rexha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trauma]]></title>
-        <id>https://vibe.naver.com/album/10116893</id>
-        <link href="https://vibe.naver.com/album/10116893"/>
-        <updated>2023-08-07T03:11:58.712Z</updated>
-        <content type="html"><![CDATA[BoyWithUke]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SMILEY-Japanese Ver.- (Feat. Chanmina)]]></title>
-        <id>https://vibe.naver.com/album/10130848</id>
-        <link href="https://vibe.naver.com/album/10130848"/>
-        <updated>2023-08-07T03:11:58.717Z</updated>
-        <content type="html"><![CDATA[YENA(최예나)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hype Me Up]]></title>
-        <id>https://vibe.naver.com/album/10104981</id>
-        <link href="https://vibe.naver.com/album/10104981"/>
-        <updated>2023-08-07T03:11:58.717Z</updated>
-        <content type="html"><![CDATA[Wiz Khalifa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heart Full of Rage 2]]></title>
-        <id>https://vibe.naver.com/album/10137876</id>
-        <link href="https://vibe.naver.com/album/10137876"/>
-        <updated>2023-08-07T03:11:58.721Z</updated>
-        <content type="html"><![CDATA[Tyla Yaweh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muñekita (AOP)]]></title>
-        <id>https://vibe.naver.com/album/10116975</id>
-        <link href="https://vibe.naver.com/album/10116975"/>
-        <updated>2023-08-07T03:11:58.721Z</updated>
-        <content type="html"><![CDATA[Kali Uchis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Watching Over You]]></title>
-        <id>https://vibe.naver.com/album/10117101</id>
-        <link href="https://vibe.naver.com/album/10117101"/>
-        <updated>2023-08-07T03:11:58.724Z</updated>
-        <content type="html"><![CDATA[Smash Into Pieces]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BUTTERFLY COUPE]]></title>
-        <id>https://vibe.naver.com/album/10116714</id>
-        <link href="https://vibe.naver.com/album/10116714"/>
-        <updated>2023-08-07T03:11:58.724Z</updated>
-        <content type="html"><![CDATA[Kalan.FrFr]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Intentions]]></title>
-        <id>https://vibe.naver.com/album/10100311</id>
-        <link href="https://vibe.naver.com/album/10100311"/>
-        <updated>2023-08-07T03:11:58.724Z</updated>
-        <content type="html"><![CDATA[Hello Yello]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Feel It Deep Inside]]></title>
-        <id>https://vibe.naver.com/album/10137402</id>
-        <link href="https://vibe.naver.com/album/10137402"/>
-        <updated>2023-08-07T03:11:58.724Z</updated>
-        <content type="html"><![CDATA[Dopamine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shall We]]></title>
-        <id>https://vibe.naver.com/album/10116417</id>
-        <link href="https://vibe.naver.com/album/10116417"/>
-        <updated>2023-08-07T03:11:58.726Z</updated>
-        <content type="html"><![CDATA[Percy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Keep It Alive]]></title>
-        <id>https://vibe.naver.com/album/10139989</id>
-        <link href="https://vibe.naver.com/album/10139989"/>
-        <updated>2023-08-07T03:11:58.728Z</updated>
-        <content type="html"><![CDATA[Marie Fjeldsted]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Me]]></title>
-        <id>https://vibe.naver.com/album/10134831</id>
-        <link href="https://vibe.naver.com/album/10134831"/>
-        <updated>2023-08-07T03:11:58.730Z</updated>
-        <content type="html"><![CDATA[JMSN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somebody Like You]]></title>
-        <id>https://vibe.naver.com/album/10116775</id>
-        <link href="https://vibe.naver.com/album/10116775"/>
-        <updated>2023-08-07T03:11:58.732Z</updated>
-        <content type="html"><![CDATA[Giant Rooks]]></content>
     </entry>
 </feed>

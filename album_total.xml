@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-08-11T03:11:49.909Z</updated>
+    <updated>2023-08-11T04:13:12.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Layover]]></title>
+        <id>https://vibe.naver.com/album/10147420</id>
+        <link href="https://vibe.naver.com/album/10147420"/>
+        <updated>2023-08-11T04:13:11.287Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10147420" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">Layover</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/274326" class="link_artist"><span class="text">V</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Leave Yet]]></title>
+        <id>https://vibe.naver.com/album/10169950</id>
+        <link href="https://vibe.naver.com/album/10169950"/>
+        <updated>2023-08-11T04:13:11.288Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10169950" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">Don't Leave Yet</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/202715" class="link_artist"><span class="text">에릭남(Eric Nam)</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[bad idea right?]]></title>
         <id>https://vibe.naver.com/album/10172020</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/10147052"/>
         <updated>2023-08-10T03:11:48.528Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10147052" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">가는 선</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/339832" class="link_artist"><span class="text">위댄스</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Endless Summer (LUM!X Remix) (Explicit Ver.)]]></title>
-        <id>https://vibe.naver.com/album/10142216</id>
-        <link href="https://vibe.naver.com/album/10142216"/>
-        <updated>2023-08-10T03:11:48.530Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10142216" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">Endless Summer (LUM!X Remix) (Explicit Ver.)</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/474963" class="link_artist"><span class="text">Alan Walker</span></a><span>, </span></span><span><a href="/artist/335178" class="link_artist"><span class="text">Zak Abel</span></a><span>, </span></span><span><a href="/artist/2866326" class="link_artist"><span class="text">LUM!X</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With You]]></title>
-        <id>https://vibe.naver.com/album/10147341</id>
-        <link href="https://vibe.naver.com/album/10147341"/>
-        <updated>2023-08-10T03:11:48.532Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10147341" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">With You</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/4685582" class="link_artist"><span class="text">VIN</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

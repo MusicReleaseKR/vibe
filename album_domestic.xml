@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-12T08:13:37.044Z</updated>
+    <updated>2023-08-12T09:10:16.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Do It Like That (Jax Jones Remix)]]></title>
+        <id>https://vibe.naver.com/album/10169741</id>
+        <link href="https://vibe.naver.com/album/10169741"/>
+        <updated>2023-08-12T09:09:59.903Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잔혹한 인턴 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/10169546</id>
+        <link href="https://vibe.naver.com/album/10169546"/>
+        <updated>2023-08-12T09:09:59.907Z</updated>
+        <content type="html"><![CDATA[최유정 (Weki Meki)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그리움에 지쳐서 힘들어 하는 밤]]></title>
+        <id>https://vibe.naver.com/album/10173877</id>
+        <link href="https://vibe.naver.com/album/10173877"/>
+        <updated>2023-08-12T09:09:59.907Z</updated>
+        <content type="html"><![CDATA[어쿠루브]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다른]]></title>
+        <id>https://vibe.naver.com/album/10170727</id>
+        <link href="https://vibe.naver.com/album/10170727"/>
+        <updated>2023-08-12T09:09:59.913Z</updated>
+        <content type="html"><![CDATA[이우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RAP TITANS]]></title>
+        <id>https://vibe.naver.com/album/10167226</id>
+        <link href="https://vibe.naver.com/album/10167226"/>
+        <updated>2023-08-12T09:09:59.913Z</updated>
+        <content type="html"><![CDATA[뉴올(Nuol)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call Call Call]]></title>
+        <id>https://vibe.naver.com/album/10168021</id>
+        <link href="https://vibe.naver.com/album/10168021"/>
+        <updated>2023-08-12T09:09:59.916Z</updated>
+        <content type="html"><![CDATA[림지 (LimJi)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Layover]]></title>
         <id>https://vibe.naver.com/album/10147420</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/10147416"/>
         <updated>2023-08-11T03:11:31.946Z</updated>
         <content type="html"><![CDATA[웅크]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월향]]></title>
-        <id>https://vibe.naver.com/album/10147117</id>
-        <link href="https://vibe.naver.com/album/10147117"/>
-        <updated>2023-08-11T03:11:31.947Z</updated>
-        <content type="html"><![CDATA[차재하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 노래를 빌려 고백해]]></title>
-        <id>https://vibe.naver.com/album/10147253</id>
-        <link href="https://vibe.naver.com/album/10147253"/>
-        <updated>2023-08-11T03:11:31.947Z</updated>
-        <content type="html"><![CDATA[마끼아또]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Evergreen]]></title>
-        <id>https://vibe.naver.com/album/10169550</id>
-        <link href="https://vibe.naver.com/album/10169550"/>
-        <updated>2023-08-11T03:11:31.950Z</updated>
-        <content type="html"><![CDATA[JIHU(지후)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 그 자리]]></title>
-        <id>https://vibe.naver.com/album/10147163</id>
-        <link href="https://vibe.naver.com/album/10147163"/>
-        <updated>2023-08-11T03:11:31.950Z</updated>
-        <content type="html"><![CDATA[라밋(Ramit)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer]]></title>
-        <id>https://vibe.naver.com/album/10147167</id>
-        <link href="https://vibe.naver.com/album/10147167"/>
-        <updated>2023-08-11T03:11:31.950Z</updated>
-        <content type="html"><![CDATA[김뉴르]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여름의 밤]]></title>
-        <id>https://vibe.naver.com/album/10147270</id>
-        <link href="https://vibe.naver.com/album/10147270"/>
-        <updated>2023-08-11T03:11:31.950Z</updated>
-        <content type="html"><![CDATA[권해찬(Sio)]]></content>
     </entry>
 </feed>

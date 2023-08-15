@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-15T08:14:41.064Z</updated>
+    <updated>2023-08-15T09:11:28.382Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그대만 있다면 (여름날 우리 X 너드커넥션 (Nerd Connection))]]></title>
+        <id>https://vibe.naver.com/album/10174038</id>
+        <link href="https://vibe.naver.com/album/10174038"/>
+        <updated>2023-08-15T09:11:11.706Z</updated>
+        <content type="html"><![CDATA[너드커넥션(Nerd Connection)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pop Punk]]></title>
+        <id>https://vibe.naver.com/album/10173779</id>
+        <link href="https://vibe.naver.com/album/10173779"/>
+        <updated>2023-08-15T09:11:11.726Z</updated>
+        <content type="html"><![CDATA[BIGONE(빅원)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소용없어 거짓말 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/10171593</id>
+        <link href="https://vibe.naver.com/album/10171593"/>
+        <updated>2023-08-15T09:11:11.726Z</updated>
+        <content type="html"><![CDATA[미주 (MIJOO)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 우리의 여름처럼]]></title>
+        <id>https://vibe.naver.com/album/10174037</id>
+        <link href="https://vibe.naver.com/album/10174037"/>
+        <updated>2023-08-15T09:11:11.726Z</updated>
+        <content type="html"><![CDATA[정효빈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too much love (Feat. hanyu)]]></title>
+        <id>https://vibe.naver.com/album/10182179</id>
+        <link href="https://vibe.naver.com/album/10182179"/>
+        <updated>2023-08-15T09:11:11.726Z</updated>
+        <content type="html"><![CDATA[curv moon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Trello]]></title>
+        <id>https://vibe.naver.com/album/10173920</id>
+        <link href="https://vibe.naver.com/album/10173920"/>
+        <updated>2023-08-15T09:11:11.726Z</updated>
+        <content type="html"><![CDATA[DUT2(듀티)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[surfing korea (서핑코리아)]]></title>
+        <id>https://vibe.naver.com/album/10173761</id>
+        <link href="https://vibe.naver.com/album/10173761"/>
+        <updated>2023-08-15T09:11:11.732Z</updated>
+        <content type="html"><![CDATA[유리(YURI)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soul Pop City]]></title>
         <id>https://vibe.naver.com/album/10173896</id>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/10169977"/>
         <updated>2023-08-14T14:11:12.982Z</updated>
         <content type="html"><![CDATA[라네스터(Lanester)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Savage]]></title>
-        <id>https://vibe.naver.com/album/10167227</id>
-        <link href="https://vibe.naver.com/album/10167227"/>
-        <updated>2023-08-14T14:11:12.987Z</updated>
-        <content type="html"><![CDATA[Timmy Whack(티미 웩)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흑색왜성]]></title>
-        <id>https://vibe.naver.com/album/10173281</id>
-        <link href="https://vibe.naver.com/album/10173281"/>
-        <updated>2023-08-14T14:11:12.990Z</updated>
-        <content type="html"><![CDATA[융(JUNG)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAVE]]></title>
-        <id>https://vibe.naver.com/album/10173839</id>
-        <link href="https://vibe.naver.com/album/10173839"/>
-        <updated>2023-08-14T14:11:12.993Z</updated>
-        <content type="html"><![CDATA[골든도넛]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Driving Me]]></title>
-        <id>https://vibe.naver.com/album/10173843</id>
-        <link href="https://vibe.naver.com/album/10173843"/>
-        <updated>2023-08-14T14:11:12.998Z</updated>
-        <content type="html"><![CDATA[Dysless]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What You Want]]></title>
-        <id>https://vibe.naver.com/album/10147426</id>
-        <link href="https://vibe.naver.com/album/10147426"/>
-        <updated>2023-08-14T14:11:13.013Z</updated>
-        <content type="html"><![CDATA[Motto]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑해서 보내준다는 말]]></title>
-        <id>https://vibe.naver.com/album/10169381</id>
-        <link href="https://vibe.naver.com/album/10169381"/>
-        <updated>2023-08-14T14:11:13.013Z</updated>
-        <content type="html"><![CDATA[모닝커피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어지럽게]]></title>
-        <id>https://vibe.naver.com/album/10170715</id>
-        <link href="https://vibe.naver.com/album/10170715"/>
-        <updated>2023-08-14T14:11:13.014Z</updated>
-        <content type="html"><![CDATA[란별]]></content>
     </entry>
 </feed>

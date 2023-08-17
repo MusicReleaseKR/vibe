@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-08-17T09:12:00.444Z</updated>
+    <updated>2023-08-17T10:11:37.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/10184917"/>
         <updated>2023-08-17T09:11:59.251Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10184917" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">혼자 살아서 뭐해</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/281834" class="link_artist"><span class="text">앤씨아</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Output Only]]></title>
+        <id>https://vibe.naver.com/album/10184993</id>
+        <link href="https://vibe.naver.com/album/10184993"/>
+        <updated>2023-08-17T10:11:36.471Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10184993" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">Output Only</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/3594646" class="link_artist"><span class="text">Saint&nbsp;Miller</span></a><span>, </span></span><span><a href="/artist/2418944" class="link_artist"><span class="text">Will Not Fear</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친절하지 않아]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10173900"/>
         <updated>2023-08-16T03:12:07.128Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10173900" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">네가 내리는 밤</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/403347" class="link_artist"><span class="text">조서빈</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With You]]></title>
-        <id>https://vibe.naver.com/album/10156767</id>
-        <link href="https://vibe.naver.com/album/10156767"/>
-        <updated>2023-08-16T03:12:07.128Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-3d3e69b7="" href="/album/10156767" class="title"><span data-v-3d3e69b7="" class="text_wrap"><span data-v-3d3e69b7="" class="text">With You</span><!----><!----></span><span data-v-3d3e69b7="" class="blind">페이지로 이동</span></a><div data-v-3d3e69b7="" class="artist"><span data-v-3d3e69b7="" class="artist_sub_inner"><span><a href="/artist/4082921" class="link_artist"><span class="text">AP Dhillon</span></a><!----></span></span><span data-v-3d3e69b7="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

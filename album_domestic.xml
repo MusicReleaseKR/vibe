@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-17T09:12:00.441Z</updated>
+    <updated>2023-08-17T10:11:37.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/10184917"/>
         <updated>2023-08-17T09:11:38.995Z</updated>
         <content type="html"><![CDATA[앤씨아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Output Only]]></title>
+        <id>https://vibe.naver.com/album/10184993</id>
+        <link href="https://vibe.naver.com/album/10184993"/>
+        <updated>2023-08-17T10:11:20.989Z</updated>
+        <content type="html"><![CDATA[Saint&nbsp;Miller]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친절하지 않아]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10171800"/>
         <updated>2023-08-16T03:11:49.911Z</updated>
         <content type="html"><![CDATA[D2ear]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tilted]]></title>
-        <id>https://vibe.naver.com/album/10167208</id>
-        <link href="https://vibe.naver.com/album/10167208"/>
-        <updated>2023-08-16T03:11:49.914Z</updated>
-        <content type="html"><![CDATA[Offing]]></content>
     </entry>
 </feed>

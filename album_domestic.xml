@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-18T03:11:45.895Z</updated>
+    <updated>2023-08-18T04:13:44.548Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jack In The Box (HOPE Edition)]]></title>
+        <id>https://vibe.naver.com/album/10191017</id>
+        <link href="https://vibe.naver.com/album/10191017"/>
+        <updated>2023-08-18T04:13:21.720Z</updated>
+        <content type="html"><![CDATA[j-hope]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Things]]></title>
+        <id>https://vibe.naver.com/album/10189554</id>
+        <link href="https://vibe.naver.com/album/10189554"/>
+        <updated>2023-08-18T04:13:21.726Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZONE]]></title>
+        <id>https://vibe.naver.com/album/10189687</id>
+        <link href="https://vibe.naver.com/album/10189687"/>
+        <updated>2023-08-18T04:13:21.726Z</updated>
+        <content type="html"><![CDATA[지효 (TWICE)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[열]]></title>
         <id>https://vibe.naver.com/album/10184997</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/10184956"/>
         <updated>2023-08-17T03:11:42.765Z</updated>
         <content type="html"><![CDATA[SPICY NERD]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아무 생각 말고]]></title>
-        <id>https://vibe.naver.com/album/10184574</id>
-        <link href="https://vibe.naver.com/album/10184574"/>
-        <updated>2023-08-17T03:11:42.766Z</updated>
-        <content type="html"><![CDATA[백식(Baeksik)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[easier]]></title>
-        <id>https://vibe.naver.com/album/10184885</id>
-        <link href="https://vibe.naver.com/album/10184885"/>
-        <updated>2023-08-17T03:11:42.769Z</updated>
-        <content type="html"><![CDATA[sunwashere(썬워즈히어)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm The One]]></title>
-        <id>https://vibe.naver.com/album/10173784</id>
-        <link href="https://vibe.naver.com/album/10173784"/>
-        <updated>2023-08-17T03:11:42.770Z</updated>
-        <content type="html"><![CDATA[Aimy Moon(에이미문)]]></content>
     </entry>
 </feed>

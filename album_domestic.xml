@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-25T03:12:36.396Z</updated>
+    <updated>2023-08-25T04:13:48.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Seven (Feat. Latto) - Alesso Remix]]></title>
+        <id>https://vibe.naver.com/album/10204958</id>
+        <link href="https://vibe.naver.com/album/10204958"/>
+        <updated>2023-08-25T04:13:30.131Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GIRLS (BLACKPINK THE GAME OST)]]></title>
+        <id>https://vibe.naver.com/album/10206607</id>
+        <link href="https://vibe.naver.com/album/10206607"/>
+        <updated>2023-08-25T04:13:30.131Z</updated>
+        <content type="html"><![CDATA[BLACKPINK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[You're Beautiful]]></title>
+        <id>https://vibe.naver.com/album/10203365</id>
+        <link href="https://vibe.naver.com/album/10203365"/>
+        <updated>2023-08-25T04:13:30.141Z</updated>
+        <content type="html"><![CDATA[The Rose (더 로즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blue]]></title>
         <id>https://vibe.naver.com/album/10203493</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/10200419"/>
         <updated>2023-08-24T20:11:29.064Z</updated>
         <content type="html"><![CDATA[연우(Yeonwoo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지우지 못한 사진처럼]]></title>
-        <id>https://vibe.naver.com/album/10200357</id>
-        <link href="https://vibe.naver.com/album/10200357"/>
-        <updated>2023-08-24T20:11:29.067Z</updated>
-        <content type="html"><![CDATA[재경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소유하지 않은 사랑]]></title>
-        <id>https://vibe.naver.com/album/10200355</id>
-        <link href="https://vibe.naver.com/album/10200355"/>
-        <updated>2023-08-24T20:11:29.069Z</updated>
-        <content type="html"><![CDATA[GYU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Potion]]></title>
-        <id>https://vibe.naver.com/album/10200358</id>
-        <link href="https://vibe.naver.com/album/10200358"/>
-        <updated>2023-08-24T20:11:29.071Z</updated>
-        <content type="html"><![CDATA[Moah Lee]]></content>
     </entry>
 </feed>

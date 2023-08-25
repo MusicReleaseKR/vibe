@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-25T09:11:36.988Z</updated>
+    <updated>2023-08-25T10:12:10.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[THE GIRLS (BLACKPINK THE GAME OST)]]></title>
-        <id>https://vibe.naver.com/album/10206607</id>
-        <link href="https://vibe.naver.com/album/10206607"/>
-        <updated>2023-08-25T04:13:30.131Z</updated>
-        <content type="html"><![CDATA[BLACKPINK]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[let it be summer]]></title>
         <id>https://vibe.naver.com/album/10203862</id>
         <link href="https://vibe.naver.com/album/10203862"/>
         <updated>2023-08-25T09:11:17.464Z</updated>
         <content type="html"><![CDATA[Young K(DAY6)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE GIRLS (BLACKPINK THE GAME OST)]]></title>
+        <id>https://vibe.naver.com/album/10206607</id>
+        <link href="https://vibe.naver.com/album/10206607"/>
+        <updated>2023-08-25T04:13:30.131Z</updated>
+        <content type="html"><![CDATA[BLACKPINK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Seven (Feat. Latto) - Alesso Remix]]></title>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-08-31T04:13:57.743Z</updated>
+    <updated>2023-08-31T05:11:49.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -55,11 +55,11 @@
         <content type="html"><![CDATA[백예슬]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 헤어지는 날이죠]]></title>
-        <id>https://vibe.naver.com/album/10215222</id>
-        <link href="https://vibe.naver.com/album/10215222"/>
-        <updated>2023-08-31T04:13:37.733Z</updated>
-        <content type="html"><![CDATA[이아영]]></content>
+        <title type="html"><![CDATA[Naive]]></title>
+        <id>https://vibe.naver.com/album/10214728</id>
+        <link href="https://vibe.naver.com/album/10214728"/>
+        <updated>2023-08-31T04:13:37.749Z</updated>
+        <content type="html"><![CDATA[YOUNGWON]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[영화 '차박- 살인과 낭만의 밤' OST Part 2]]></title>
@@ -67,6 +67,13 @@
         <link href="https://vibe.naver.com/album/10214898"/>
         <updated>2023-08-31T04:13:37.734Z</updated>
         <content type="html"><![CDATA[데니안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 헤어지는 날이죠]]></title>
+        <id>https://vibe.naver.com/album/10215222</id>
+        <link href="https://vibe.naver.com/album/10215222"/>
+        <updated>2023-08-31T04:13:37.733Z</updated>
+        <content type="html"><![CDATA[이아영]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여전해서 다행이야]]></title>
@@ -109,13 +116,6 @@
         <link href="https://vibe.naver.com/album/10215229"/>
         <updated>2023-08-31T04:13:37.747Z</updated>
         <content type="html"><![CDATA[Cosmickey]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Naive]]></title>
-        <id>https://vibe.naver.com/album/10214728</id>
-        <link href="https://vibe.naver.com/album/10214728"/>
-        <updated>2023-08-31T04:13:37.749Z</updated>
-        <content type="html"><![CDATA[YOUNGWON]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sunlight Memories]]></title>

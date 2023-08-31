@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-08-31T04:13:57.752Z</updated>
+    <updated>2023-08-31T05:11:49.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rush]]></title>
+        <id>https://vibe.naver.com/album/10218587</id>
+        <link href="https://vibe.naver.com/album/10218587"/>
+        <updated>2023-08-31T05:11:40.722Z</updated>
+        <content type="html"><![CDATA[Troye Sivan]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[There I Go (Feat. J. Cole & Mike WiLL Made-It)]]></title>
         <id>https://vibe.naver.com/album/10203352</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10206883"/>
         <updated>2023-08-31T04:13:48.092Z</updated>
         <content type="html"><![CDATA[Miley Cyrus]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Body Count]]></title>
-        <id>https://vibe.naver.com/album/10203359</id>
-        <link href="https://vibe.naver.com/album/10203359"/>
-        <updated>2023-08-31T04:13:48.093Z</updated>
-        <content type="html"><![CDATA[Jason Derulo]]></content>
     </entry>
 </feed>

@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-09-01T08:14:16.878Z</updated>
+    <updated>2023-09-01T09:12:09.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[너의 시간 속으로 OST]]></title>
+        <id>https://vibe.naver.com/album/10214918</id>
+        <link href="https://vibe.naver.com/album/10214918"/>
+        <updated>2023-09-01T09:12:08.165Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214918" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">너의 시간 속으로 OST</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/5615371" class="link_artist"><span class="text">NewJeans</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Demons]]></title>
+        <id>https://vibe.naver.com/album/10218766</id>
+        <link href="https://vibe.naver.com/album/10218766"/>
+        <updated>2023-09-01T03:12:24.613Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218766" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Demons</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/324785" class="link_artist"><span class="text">Doja Cat</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cheese]]></title>
         <id>https://vibe.naver.com/album/10220516</id>
         <link href="https://vibe.naver.com/album/10220516"/>
         <updated>2023-09-01T04:13:40.745Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220516" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Cheese</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3587442" class="link_artist"><span class="text">CRAVITY</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[독백]]></title>
+        <id>https://vibe.naver.com/album/10220539</id>
+        <link href="https://vibe.naver.com/album/10220539"/>
+        <updated>2023-09-01T09:12:08.165Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220539" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">독백</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3021078" class="link_artist"><span class="text">정동원</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Last Time I Saw You]]></title>
@@ -20,11 +41,46 @@
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220802" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Last Time I Saw You</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/124884" class="link_artist"><span class="text">Nicki Minaj</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Demons]]></title>
-        <id>https://vibe.naver.com/album/10218766</id>
-        <link href="https://vibe.naver.com/album/10218766"/>
-        <updated>2023-09-01T03:12:24.613Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218766" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Demons</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/324785" class="link_artist"><span class="text">Doja Cat</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+        <title type="html"><![CDATA[Dancing with you in the Rain]]></title>
+        <id>https://vibe.naver.com/album/10218374</id>
+        <link href="https://vibe.naver.com/album/10218374"/>
+        <updated>2023-09-01T09:12:08.173Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218374" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Dancing with you in the Rain</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/214205" class="link_artist"><span class="text">JAMIE(제이미)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잡아줄게]]></title>
+        <id>https://vibe.naver.com/album/10220874</id>
+        <link href="https://vibe.naver.com/album/10220874"/>
+        <updated>2023-09-01T09:12:08.175Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220874" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">잡아줄게</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/209064" class="link_artist"><span class="text">에일리(Ailee)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gool kids #1 - What you wanna do]]></title>
+        <id>https://vibe.naver.com/album/10218632</id>
+        <link href="https://vibe.naver.com/album/10218632"/>
+        <updated>2023-09-01T09:12:08.177Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218632" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">gool kids #1 - What you wanna do</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/5130584" class="link_artist"><span class="text">9001(Ninety O One)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lifestyle]]></title>
+        <id>https://vibe.naver.com/album/10214591</id>
+        <link href="https://vibe.naver.com/album/10214591"/>
+        <updated>2023-09-01T09:12:08.179Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214591" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Lifestyle</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3053724" class="link_artist"><span class="text">YLN Foreign(이정운)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아는 이별]]></title>
+        <id>https://vibe.naver.com/album/10218830</id>
+        <link href="https://vibe.naver.com/album/10218830"/>
+        <updated>2023-09-01T09:12:08.190Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218830" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">아는 이별</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/4953975" class="link_artist"><span class="text">이형구</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우아한 제국 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/10218630</id>
+        <link href="https://vibe.naver.com/album/10218630"/>
+        <updated>2023-09-01T09:12:08.192Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218630" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">우아한 제국 OST Part 1</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2718926" class="link_artist"><span class="text">ROVN(로번)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[홍대 R&B]]></title>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/10214704"/>
         <updated>2023-08-31T03:12:06.089Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214704" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">너같은 새X는 뻐X가 최고야</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3426028" class="link_artist"><span class="text">가오가이(kaogaii)</span></a><span>, </span></span><span><a href="/artist/2890084" class="link_artist"><span class="text">키츠요지(kitsyojii)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[99 Nights]]></title>
-        <id>https://vibe.naver.com/album/10205512</id>
-        <link href="https://vibe.naver.com/album/10205512"/>
-        <updated>2023-08-31T03:12:06.089Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10205512" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">99 Nights</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/1688419" class="link_artist"><span class="text">Charlotte Cardin</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너 없이도 잘 살더라]]></title>
-        <id>https://vibe.naver.com/album/10214934</id>
-        <link href="https://vibe.naver.com/album/10214934"/>
-        <updated>2023-08-31T03:12:06.089Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214934" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">너 없이도 잘 살더라</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2846032" class="link_artist"><span class="text">백예슬</span></a><span>, </span></span><span><a href="/artist/6100566" class="link_artist"><span class="text">사적인 이야기</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slowly]]></title>
-        <id>https://vibe.naver.com/album/10205986</id>
-        <link href="https://vibe.naver.com/album/10205986"/>
-        <updated>2023-08-31T03:12:06.110Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10205986" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Slowly</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3075268" class="link_artist"><span class="text">Weston Estate</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 '차박- 살인과 낭만의 밤' OST Part 2]]></title>
-        <id>https://vibe.naver.com/album/10214898</id>
-        <link href="https://vibe.naver.com/album/10214898"/>
-        <updated>2023-08-31T03:12:06.112Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214898" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">영화 '차박- 살인과 낭만의 밤' OST Part 2</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/14578" class="link_artist"><span class="text">데니안</span></a><span>, </span></span><span><a href="/artist/6958863" class="link_artist"><span class="text">김민채</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘은 헤어지는 날이죠]]></title>
-        <id>https://vibe.naver.com/album/10215222</id>
-        <link href="https://vibe.naver.com/album/10215222"/>
-        <updated>2023-08-31T03:12:06.089Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10215222" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">오늘은 헤어지는 날이죠</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/4932846" class="link_artist"><span class="text">이아영</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여전해서 다행이야]]></title>
-        <id>https://vibe.naver.com/album/10215164</id>
-        <link href="https://vibe.naver.com/album/10215164"/>
-        <updated>2023-08-31T03:12:06.115Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10215164" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">여전해서 다행이야</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/4881499" class="link_artist"><span class="text">서뉼(Seonyull)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Temporary Tears/Wasting Time]]></title>
-        <id>https://vibe.naver.com/album/10210251</id>
-        <link href="https://vibe.naver.com/album/10210251"/>
-        <updated>2023-08-31T03:12:06.117Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10210251" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Temporary Tears/Wasting Time</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/144643" class="link_artist"><span class="text">NEEDTOBREATHE</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Without Missing A Beat]]></title>
-        <id>https://vibe.naver.com/album/10214663</id>
-        <link href="https://vibe.naver.com/album/10214663"/>
-        <updated>2023-08-31T03:12:06.136Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214663" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Without Missing A Beat</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/32359" class="link_artist"><span class="text">Kiik</span></a><span>, </span></span><span><a href="/artist/344133" class="link_artist"><span class="text">신기원(ShinGiWon)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-09-01T08:14:16.875Z</updated>
+    <updated>2023-09-01T09:12:09.023Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Last Time I Saw You]]></title>
-        <id>https://vibe.naver.com/album/10220802</id>
-        <link href="https://vibe.naver.com/album/10220802"/>
-        <updated>2023-09-01T05:11:21.680Z</updated>
-        <content type="html"><![CDATA[Nicki Minaj]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Demons]]></title>
         <id>https://vibe.naver.com/album/10218766</id>
         <link href="https://vibe.naver.com/album/10218766"/>
         <updated>2023-09-01T03:12:15.371Z</updated>
         <content type="html"><![CDATA[Doja Cat]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Time I Saw You]]></title>
+        <id>https://vibe.naver.com/album/10220802</id>
+        <link href="https://vibe.naver.com/album/10220802"/>
+        <updated>2023-09-01T05:11:21.680Z</updated>
+        <content type="html"><![CDATA[Nicki Minaj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Everyone Else Fades]]></title>

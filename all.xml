@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-01T04:13:41.619Z</updated>
+    <updated>2023-09-01T05:11:32.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cheese (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[선진]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Last Time I Saw You (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/10220802</id>
+        <link href="https://vibe.naver.com/album/10220802"/>
+        <updated>2023-09-01T05:11:21.680Z</updated>
+        <content type="html"><![CDATA[Nicki Minaj]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Demons (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/10218766</id>
         <link href="https://vibe.naver.com/album/10218766"/>
@@ -698,18 +705,18 @@
         <content type="html"><![CDATA[Becky Hill]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sea Of Love (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/10211382</id>
-        <link href="https://vibe.naver.com/album/10211382"/>
-        <updated>2023-08-31T04:13:48.052Z</updated>
-        <content type="html"><![CDATA[Yo-Sea]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Cheese (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/10220516</id>
         <link href="https://vibe.naver.com/album/10220516"/>
-        <updated>2023-09-01T04:13:40.745Z</updated>
+        <updated>2023-09-01T04:13:22.514Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220516" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Cheese</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3587442" class="link_artist"><span class="text">CRAVITY</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Last Time I Saw You (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/10220802</id>
+        <link href="https://vibe.naver.com/album/10220802"/>
+        <updated>2023-09-01T05:11:30.826Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220802" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Last Time I Saw You</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/124884" class="link_artist"><span class="text">Nicki Minaj</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Demons (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -743,7 +750,7 @@
         <title type="html"><![CDATA[Everyone Else Fades (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/10218471</id>
         <link href="https://vibe.naver.com/album/10218471"/>
-        <updated>2023-09-01T04:13:40.755Z</updated>
+        <updated>2023-09-01T04:13:32.981Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218471" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Everyone Else Fades</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/315270" class="link_artist"><span class="text">마크 (GOT7)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/10214663"/>
         <updated>2023-08-31T03:12:06.136Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214663" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Without Missing A Beat</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/32359" class="link_artist"><span class="text">Kiik</span></a><span>, </span></span><span><a href="/artist/344133" class="link_artist"><span class="text">신기원(ShinGiWon)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤어지고 사랑을 배우는 나예요 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/10211954</id>
-        <link href="https://vibe.naver.com/album/10211954"/>
-        <updated>2023-08-31T03:12:06.137Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10211954" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">헤어지고 사랑을 배우는 나예요</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2950522" class="link_artist"><span class="text">선진</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

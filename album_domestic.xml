@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-01T09:12:09.027Z</updated>
+    <updated>2023-09-01T10:12:08.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[NewJeans]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Cheese]]></title>
-        <id>https://vibe.naver.com/album/10220516</id>
-        <link href="https://vibe.naver.com/album/10220516"/>
-        <updated>2023-09-01T04:13:22.514Z</updated>
-        <content type="html"><![CDATA[CRAVITY]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[독백]]></title>
         <id>https://vibe.naver.com/album/10220539</id>
         <link href="https://vibe.naver.com/album/10220539"/>
         <updated>2023-09-01T09:11:52.549Z</updated>
         <content type="html"><![CDATA[정동원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cheese]]></title>
+        <id>https://vibe.naver.com/album/10220516</id>
+        <link href="https://vibe.naver.com/album/10220516"/>
+        <updated>2023-09-01T04:13:22.514Z</updated>
+        <content type="html"><![CDATA[CRAVITY]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dancing with you in the Rain]]></title>

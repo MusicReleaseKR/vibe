@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-01T03:12:25.681Z</updated>
+    <updated>2023-09-01T04:13:41.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cheese]]></title>
+        <id>https://vibe.naver.com/album/10220516</id>
+        <link href="https://vibe.naver.com/album/10220516"/>
+        <updated>2023-09-01T04:13:22.514Z</updated>
+        <content type="html"><![CDATA[CRAVITY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍대 R&B]]></title>
         <id>https://vibe.naver.com/album/10215241</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10211954"/>
         <updated>2023-08-31T17:10:46.537Z</updated>
         <content type="html"><![CDATA[선진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알 수 있다면 (a Rainy Night)]]></title>
-        <id>https://vibe.naver.com/album/10214907</id>
-        <link href="https://vibe.naver.com/album/10214907"/>
-        <updated>2023-08-31T17:10:46.541Z</updated>
-        <content type="html"><![CDATA[조이엘런(JoyAllen)]]></content>
     </entry>
 </feed>

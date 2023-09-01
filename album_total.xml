@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-09-01T03:12:25.684Z</updated>
+    <updated>2023-09-01T04:13:41.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cheese]]></title>
+        <id>https://vibe.naver.com/album/10220516</id>
+        <link href="https://vibe.naver.com/album/10220516"/>
+        <updated>2023-09-01T04:13:40.745Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10220516" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Cheese</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3587442" class="link_artist"><span class="text">CRAVITY</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Demons]]></title>
         <id>https://vibe.naver.com/album/10218766</id>
@@ -32,6 +39,13 @@
         <link href="https://vibe.naver.com/album/10218372"/>
         <updated>2023-09-01T03:12:24.624Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218372" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">바보같은 하루를 반복했어 (Feat. HYUN SEO)</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2392889" class="link_artist"><span class="text">김미정</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Else Fades]]></title>
+        <id>https://vibe.naver.com/album/10218471</id>
+        <link href="https://vibe.naver.com/album/10218471"/>
+        <updated>2023-09-01T04:13:40.755Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10218471" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Everyone Else Fades</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/315270" class="link_artist"><span class="text">마크 (GOT7)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Plastic Doll]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/10211954"/>
         <updated>2023-08-31T03:12:06.137Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10211954" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">헤어지고 사랑을 배우는 나예요</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2950522" class="link_artist"><span class="text">선진</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 그렇게]]></title>
-        <id>https://vibe.naver.com/album/10212004</id>
-        <link href="https://vibe.naver.com/album/10212004"/>
-        <updated>2023-08-30T09:11:46.526Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10212004" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">우리 그렇게</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/171333" class="link_artist"><span class="text">양다일</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Hearts - SM STATION]]></title>
-        <id>https://vibe.naver.com/album/10214637</id>
-        <link href="https://vibe.naver.com/album/10214637"/>
-        <updated>2023-08-30T09:11:46.527Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10214637" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Different Hearts - SM STATION</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/311907" class="link_artist"><span class="text">GINJO</span></a><span>, </span></span><span><a href="/artist/1972730" class="link_artist"><span class="text">SOLE(쏠)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

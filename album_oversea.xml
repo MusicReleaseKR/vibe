@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-09-01T03:12:25.656Z</updated>
+    <updated>2023-09-01T04:13:41.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/10218766"/>
         <updated>2023-09-01T03:12:15.371Z</updated>
         <content type="html"><![CDATA[Doja Cat]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Everyone Else Fades]]></title>
+        <id>https://vibe.naver.com/album/10218471</id>
+        <link href="https://vibe.naver.com/album/10218471"/>
+        <updated>2023-09-01T04:13:32.981Z</updated>
+        <content type="html"><![CDATA[마크 (GOT7)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BOTH (with 21 Savage)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10211382"/>
         <updated>2023-08-31T04:13:48.052Z</updated>
         <content type="html"><![CDATA[Yo-Sea]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1997 Odyssey]]></title>
-        <id>https://vibe.naver.com/album/10211984</id>
-        <link href="https://vibe.naver.com/album/10211984"/>
-        <updated>2023-08-31T04:13:48.053Z</updated>
-        <content type="html"><![CDATA[The Colleagues]]></content>
     </entry>
 </feed>

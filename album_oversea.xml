@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-09-08T08:14:57.552Z</updated>
+    <updated>2023-09-08T09:11:46.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Bongos (Feat. Megan Thee Stallion)]]></title>
-        <id>https://vibe.naver.com/album/10232724</id>
-        <link href="https://vibe.naver.com/album/10232724"/>
-        <updated>2023-09-08T04:13:38.941Z</updated>
-        <content type="html"><![CDATA[Cardi B]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[GUTS]]></title>
         <id>https://vibe.naver.com/album/10231498</id>
         <link href="https://vibe.naver.com/album/10231498"/>
         <updated>2023-09-08T03:11:29.887Z</updated>
         <content type="html"><![CDATA[Olivia Rodrigo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bongos (Feat. Megan Thee Stallion)]]></title>
+        <id>https://vibe.naver.com/album/10232724</id>
+        <link href="https://vibe.naver.com/album/10232724"/>
+        <updated>2023-09-08T04:13:38.941Z</updated>
+        <content type="html"><![CDATA[Cardi B]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Endless Summer Vacation]]></title>

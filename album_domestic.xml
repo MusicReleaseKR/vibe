@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-08T03:11:39.495Z</updated>
+    <updated>2023-09-08T04:13:49.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Layover]]></title>
+        <id>https://vibe.naver.com/album/10147420</id>
+        <link href="https://vibe.naver.com/album/10147420"/>
+        <updated>2023-09-08T04:13:27.912Z</updated>
+        <content type="html"><![CDATA[V]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House on a Hill]]></title>
+        <id>https://vibe.naver.com/album/10229385</id>
+        <link href="https://vibe.naver.com/album/10229385"/>
+        <updated>2023-09-08T04:13:27.913Z</updated>
+        <content type="html"><![CDATA[에릭남(Eric Nam)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Things]]></title>
+        <id>https://vibe.naver.com/album/10189554</id>
+        <link href="https://vibe.naver.com/album/10189554"/>
+        <updated>2023-09-08T04:13:27.914Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[N.Y.C.T - NCT LAB]]></title>
         <id>https://vibe.naver.com/album/10229101</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/10226241"/>
         <updated>2023-09-08T00:48:28.066Z</updated>
         <content type="html"><![CDATA[고경빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Train No.0325]]></title>
-        <id>https://vibe.naver.com/album/10225902</id>
-        <link href="https://vibe.naver.com/album/10225902"/>
-        <updated>2023-09-08T00:48:28.067Z</updated>
-        <content type="html"><![CDATA[Robiq]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 우리일 수 있게]]></title>
-        <id>https://vibe.naver.com/album/10225935</id>
-        <link href="https://vibe.naver.com/album/10225935"/>
-        <updated>2023-09-08T00:48:28.069Z</updated>
-        <content type="html"><![CDATA[이오늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹구름]]></title>
-        <id>https://vibe.naver.com/album/10225147</id>
-        <link href="https://vibe.naver.com/album/10225147"/>
-        <updated>2023-09-08T00:48:28.070Z</updated>
-        <content type="html"><![CDATA[야간분만]]></content>
     </entry>
 </feed>

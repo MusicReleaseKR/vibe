@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-09-08T03:11:39.498Z</updated>
+    <updated>2023-09-08T04:13:49.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Layover]]></title>
+        <id>https://vibe.naver.com/album/10147420</id>
+        <link href="https://vibe.naver.com/album/10147420"/>
+        <updated>2023-09-08T04:13:48.483Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10147420" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Layover</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/274326" class="link_artist"><span class="text">V</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bongos (Feat. Megan Thee Stallion)]]></title>
+        <id>https://vibe.naver.com/album/10232724</id>
+        <link href="https://vibe.naver.com/album/10232724"/>
+        <updated>2023-09-08T04:13:48.484Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10232724" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Bongos (Feat. Megan Thee Stallion)</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/497435" class="link_artist"><span class="text">Cardi B</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GUTS]]></title>
         <id>https://vibe.naver.com/album/10231498</id>
         <link href="https://vibe.naver.com/album/10231498"/>
         <updated>2023-09-08T03:11:38.520Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10231498" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">GUTS</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/1465546" class="link_artist"><span class="text">Olivia Rodrigo</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House on a Hill]]></title>
+        <id>https://vibe.naver.com/album/10229385</id>
+        <link href="https://vibe.naver.com/album/10229385"/>
+        <updated>2023-09-08T04:13:48.491Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10229385" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">House on a Hill</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/202715" class="link_artist"><span class="text">에릭남(Eric Nam)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Things]]></title>
+        <id>https://vibe.naver.com/album/10189554</id>
+        <link href="https://vibe.naver.com/album/10189554"/>
+        <updated>2023-09-08T04:13:48.494Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10189554" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Better Things</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/3980296" class="link_artist"><span class="text">aespa</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Endless Summer Vacation]]></title>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/10225649"/>
         <updated>2023-09-07T03:12:12.240Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10225649" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Know Me Yet</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/1751172" class="link_artist"><span class="text">Etham</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space Train No.0325]]></title>
-        <id>https://vibe.naver.com/album/10225902</id>
-        <link href="https://vibe.naver.com/album/10225902"/>
-        <updated>2023-09-07T03:12:12.242Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10225902" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Space Train No.0325</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/332490" class="link_artist"><span class="text">Robiq</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Move : Street]]></title>
-        <id>https://vibe.naver.com/album/10224131</id>
-        <link href="https://vibe.naver.com/album/10224131"/>
-        <updated>2023-09-06T09:11:43.163Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10224131" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">The Move : Street</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2478996" class="link_artist"><span class="text">이채연</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOM]]></title>
-        <id>https://vibe.naver.com/album/10225135</id>
-        <link href="https://vibe.naver.com/album/10225135"/>
-        <updated>2023-09-06T09:11:43.163Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10225135" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">BOOM</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2953194" class="link_artist"><span class="text">로켓펀치(Rocket Punch)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 연애는 불가항력 OST Part 4]]></title>
-        <id>https://vibe.naver.com/album/10225064</id>
-        <link href="https://vibe.naver.com/album/10225064"/>
-        <updated>2023-09-06T09:11:43.163Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10225064" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">이 연애는 불가항력 OST Part 4</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2861934" class="link_artist"><span class="text">정효빈</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

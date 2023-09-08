@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-09-08T03:11:39.475Z</updated>
+    <updated>2023-09-08T04:13:49.456Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Bongos (Feat. Megan Thee Stallion)]]></title>
+        <id>https://vibe.naver.com/album/10232724</id>
+        <link href="https://vibe.naver.com/album/10232724"/>
+        <updated>2023-09-08T04:13:38.941Z</updated>
+        <content type="html"><![CDATA[Cardi B]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GUTS]]></title>
         <id>https://vibe.naver.com/album/10231498</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10218687"/>
         <updated>2023-09-06T04:13:42.825Z</updated>
         <content type="html"><![CDATA[Tessa Rae]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soft Spot]]></title>
-        <id>https://vibe.naver.com/album/10225010</id>
-        <link href="https://vibe.naver.com/album/10225010"/>
-        <updated>2023-09-06T04:13:42.826Z</updated>
-        <content type="html"><![CDATA[JMSN]]></content>
     </entry>
 </feed>

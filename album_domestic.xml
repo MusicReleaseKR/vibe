@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-13T09:12:17.281Z</updated>
+    <updated>2023-09-13T10:12:32.438Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -48,11 +48,18 @@
         <content type="html"><![CDATA[문수진(Moon Sujin)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pre-Release Single [Favorite]]]></title>
+        <title type="html"><![CDATA[Favorite]]></title>
         <id>https://vibe.naver.com/album/10239136</id>
         <link href="https://vibe.naver.com/album/10239136"/>
         <updated>2023-09-13T09:11:53.861Z</updated>
         <content type="html"><![CDATA[POW(파우)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 죽기로 결심한 것은 (네이버웹툰) OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/10237542</id>
+        <link href="https://vibe.naver.com/album/10237542"/>
+        <updated>2023-09-13T10:12:15.965Z</updated>
+        <content type="html"><![CDATA[ADORA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엉망진창]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10235009"/>
         <updated>2023-09-13T07:11:09.726Z</updated>
         <content type="html"><![CDATA[Vahn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부엉이 ~부엉이가 알려줬소 그대가 당도하였다는 걸~]]></title>
-        <id>https://vibe.naver.com/album/10234997</id>
-        <link href="https://vibe.naver.com/album/10234997"/>
-        <updated>2023-09-13T07:11:09.727Z</updated>
-        <content type="html"><![CDATA[이오몽]]></content>
     </entry>
 </feed>

@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-17T08:13:05.132Z</updated>
+    <updated>2023-09-17T09:11:17.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[힙하게 OST Part 6]]></title>
+        <id>https://vibe.naver.com/album/10242593</id>
+        <link href="https://vibe.naver.com/album/10242593"/>
+        <updated>2023-09-17T09:10:57.270Z</updated>
+        <content type="html"><![CDATA[Sondia]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그냥 그렇게 됐어]]></title>
+        <id>https://vibe.naver.com/album/10246989</id>
+        <link href="https://vibe.naver.com/album/10246989"/>
+        <updated>2023-09-17T09:10:57.271Z</updated>
+        <content type="html"><![CDATA[지아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑 다이어리]]></title>
+        <id>https://vibe.naver.com/album/10246997</id>
+        <link href="https://vibe.naver.com/album/10246997"/>
+        <updated>2023-09-17T09:10:57.280Z</updated>
+        <content type="html"><![CDATA[보라미유]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[효심이네 각자도생 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/10247106</id>
+        <link href="https://vibe.naver.com/album/10247106"/>
+        <updated>2023-09-17T09:10:57.280Z</updated>
+        <content type="html"><![CDATA[임정희]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 해]]></title>
+        <id>https://vibe.naver.com/album/10242470</id>
+        <link href="https://vibe.naver.com/album/10242470"/>
+        <updated>2023-09-17T09:10:57.280Z</updated>
+        <content type="html"><![CDATA[스트레이(The Stray)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전화하기 전에 생각했나요 (Feat. 김세정)]]></title>
+        <id>https://vibe.naver.com/album/10246912</id>
+        <link href="https://vibe.naver.com/album/10246912"/>
+        <updated>2023-09-17T09:10:57.281Z</updated>
+        <content type="html"><![CDATA[티키틱]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BIG WALK]]></title>
+        <id>https://vibe.naver.com/album/10246768</id>
+        <link href="https://vibe.naver.com/album/10246768"/>
+        <updated>2023-09-17T09:10:57.287Z</updated>
+        <content type="html"><![CDATA[TEAM NY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애의 참견 2023 OST - Part 25]]></title>
+        <id>https://vibe.naver.com/album/10247006</id>
+        <link href="https://vibe.naver.com/album/10247006"/>
+        <updated>2023-09-17T09:10:57.287Z</updated>
+        <content type="html"><![CDATA[케브(C.eV)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아지랑이]]></title>
         <id>https://vibe.naver.com/album/10246993</id>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/10247090"/>
         <updated>2023-09-17T00:52:10.250Z</updated>
         <content type="html"><![CDATA[VIN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집착증]]></title>
-        <id>https://vibe.naver.com/album/10247111</id>
-        <link href="https://vibe.naver.com/album/10247111"/>
-        <updated>2023-09-17T00:52:10.253Z</updated>
-        <content type="html"><![CDATA[이공]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Narcissus (나르시스)]]></title>
-        <id>https://vibe.naver.com/album/10242638</id>
-        <link href="https://vibe.naver.com/album/10242638"/>
-        <updated>2023-09-17T00:52:10.256Z</updated>
-        <content type="html"><![CDATA[던(DAWN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loossemble]]></title>
-        <id>https://vibe.naver.com/album/10242654</id>
-        <link href="https://vibe.naver.com/album/10242654"/>
-        <updated>2023-09-17T00:52:10.258Z</updated>
-        <content type="html"><![CDATA[Loossemble (루셈블)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[속는 중이야]]></title>
-        <id>https://vibe.naver.com/album/10243904</id>
-        <link href="https://vibe.naver.com/album/10243904"/>
-        <updated>2023-09-17T00:52:10.261Z</updated>
-        <content type="html"><![CDATA[딘딘(DINDIN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So I Danced]]></title>
-        <id>https://vibe.naver.com/album/10242625</id>
-        <link href="https://vibe.naver.com/album/10242625"/>
-        <updated>2023-09-17T00:52:10.263Z</updated>
-        <content type="html"><![CDATA[DPR IAN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너만 있으면 (마녀상점 리오픈 X 송이한, 예린(YERIN))]]></title>
-        <id>https://vibe.naver.com/album/10244111</id>
-        <link href="https://vibe.naver.com/album/10244111"/>
-        <updated>2023-09-17T00:52:10.266Z</updated>
-        <content type="html"><![CDATA[송이한]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iScreaM Vol.26 : Spicy Remix]]></title>
-        <id>https://vibe.naver.com/album/10242628</id>
-        <link href="https://vibe.naver.com/album/10242628"/>
-        <updated>2023-09-17T00:52:10.268Z</updated>
-        <content type="html"><![CDATA[aespa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Killin' Me Good (English Ver.)]]></title>
-        <id>https://vibe.naver.com/album/10242648</id>
-        <link href="https://vibe.naver.com/album/10242648"/>
-        <updated>2023-09-17T00:52:10.270Z</updated>
-        <content type="html"><![CDATA[지효 (TWICE)]]></content>
     </entry>
 </feed>

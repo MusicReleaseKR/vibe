@@ -2,15 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-18T08:15:18.333Z</updated>
+    <updated>2023-09-18T09:12:26.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기대 - The 2nd Mini Album]]></title>
+        <id>https://vibe.naver.com/album/10232861</id>
+        <link href="https://vibe.naver.com/album/10232861"/>
+        <updated>2023-09-18T09:12:10.371Z</updated>
+        <content type="html"><![CDATA[디오 (D.O.)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Love Supreme]]></title>
+        <id>https://vibe.naver.com/album/10246820</id>
+        <link href="https://vibe.naver.com/album/10246820"/>
+        <updated>2023-09-18T09:12:10.371Z</updated>
+        <content type="html"><![CDATA[SOLE(쏠)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꽃zip3]]></title>
+        <id>https://vibe.naver.com/album/10247124</id>
+        <link href="https://vibe.naver.com/album/10247124"/>
+        <updated>2023-09-18T09:12:10.374Z</updated>
+        <content type="html"><![CDATA[그리즐리(Grizzly)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 나였어]]></title>
+        <id>https://vibe.naver.com/album/10246941</id>
+        <link href="https://vibe.naver.com/album/10246941"/>
+        <updated>2023-09-18T09:12:10.380Z</updated>
+        <content type="html"><![CDATA[아우릴고트(OUREALGOAT)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Back for More (More Edition)]]></title>
         <id>https://vibe.naver.com/album/10249413</id>
         <link href="https://vibe.naver.com/album/10249413"/>
         <updated>2023-09-18T04:13:51.452Z</updated>
         <content type="html"><![CDATA[투모로우바이투게더]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[you are my sunshine]]></title>
+        <id>https://vibe.naver.com/album/10246712</id>
+        <link href="https://vibe.naver.com/album/10246712"/>
+        <updated>2023-09-18T09:12:10.394Z</updated>
+        <content type="html"><![CDATA[KURO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["Jiyun is..."]]></title>
+        <id>https://vibe.naver.com/album/10249523</id>
+        <link href="https://vibe.naver.com/album/10249523"/>
+        <updated>2023-09-18T09:12:10.396Z</updated>
+        <content type="html"><![CDATA[홍지윤]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[베스트 셀러 (Best Seller)]]></title>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/10246911"/>
         <updated>2023-09-18T01:45:45.313Z</updated>
         <content type="html"><![CDATA[오아(OHAH)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scarlett]]></title>
-        <id>https://vibe.naver.com/album/10247110</id>
-        <link href="https://vibe.naver.com/album/10247110"/>
-        <updated>2023-09-18T01:45:45.317Z</updated>
-        <content type="html"><![CDATA[가닛(Garnet)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나쁜놈]]></title>
-        <id>https://vibe.naver.com/album/10247013</id>
-        <link href="https://vibe.naver.com/album/10247013"/>
-        <updated>2023-09-18T01:45:45.322Z</updated>
-        <content type="html"><![CDATA[임재현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아라문의 검 OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/10246773</id>
-        <link href="https://vibe.naver.com/album/10246773"/>
-        <updated>2023-09-18T01:45:45.349Z</updated>
-        <content type="html"><![CDATA[포레스텔라(Forestella)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언젠가 당신이 내 노래를 들으며 춤을 추던 걸 기억해요.]]></title>
-        <id>https://vibe.naver.com/album/10239427</id>
-        <link href="https://vibe.naver.com/album/10239427"/>
-        <updated>2023-09-18T01:45:45.351Z</updated>
-        <content type="html"><![CDATA[어바웃(ABOUT)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Beyond X]]></title>
-        <id>https://vibe.naver.com/album/10245500</id>
-        <link href="https://vibe.naver.com/album/10245500"/>
-        <updated>2023-09-18T01:45:45.352Z</updated>
-        <content type="html"><![CDATA[YDG]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Winded]]></title>
-        <id>https://vibe.naver.com/album/10246968</id>
-        <link href="https://vibe.naver.com/album/10246968"/>
-        <updated>2023-09-18T01:45:45.355Z</updated>
-        <content type="html"><![CDATA[homezone]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-22T13:14:35.116Z</updated>
+    <updated>2023-09-22T14:10:56.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[비와이(BewhY)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[F.A.F.F]]></title>
-        <id>https://vibe.naver.com/album/10286082</id>
-        <link href="https://vibe.naver.com/album/10286082"/>
-        <updated>2023-09-22T09:11:37.899Z</updated>
-        <content type="html"><![CDATA[Slom]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DUAL]]></title>
         <id>https://vibe.naver.com/album/10308826</id>
         <link href="https://vibe.naver.com/album/10308826"/>
         <updated>2023-09-22T04:13:38.706Z</updated>
         <content type="html"><![CDATA[The Rose (더 로즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[F.A.F.F]]></title>
+        <id>https://vibe.naver.com/album/10286082</id>
+        <link href="https://vibe.naver.com/album/10286082"/>
+        <updated>2023-09-22T09:11:37.899Z</updated>
+        <content type="html"><![CDATA[Slom]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[도적: 칼의 소리 OST]]></title>

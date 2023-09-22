@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-22T03:12:09.009Z</updated>
+    <updated>2023-09-22T04:13:59.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Better Things (Tropkillaz Remix)]]></title>
+        <id>https://vibe.naver.com/album/10316756</id>
+        <link href="https://vibe.naver.com/album/10316756"/>
+        <updated>2023-09-22T04:13:38.706Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DUAL]]></title>
+        <id>https://vibe.naver.com/album/10308826</id>
+        <link href="https://vibe.naver.com/album/10308826"/>
+        <updated>2023-09-22T04:13:38.706Z</updated>
+        <content type="html"><![CDATA[The Rose (더 로즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Good Night, Starry Night]]></title>
         <id>https://vibe.naver.com/album/10316788</id>
@@ -25,6 +39,13 @@
         <link href="https://vibe.naver.com/album/10308813"/>
         <updated>2023-09-22T03:11:45.794Z</updated>
         <content type="html"><![CDATA[GEMINI(제미나이)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SeVit (NEW LIGHT)]]></title>
+        <id>https://vibe.naver.com/album/10316786</id>
+        <link href="https://vibe.naver.com/album/10316786"/>
+        <updated>2023-09-22T04:13:38.712Z</updated>
+        <content type="html"><![CDATA[VCHA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Phoenix]]></title>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/10281216"/>
         <updated>2023-09-21T11:10:01.345Z</updated>
         <content type="html"><![CDATA[스콜(ScoLL)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노놀 VOL 20. 심가을 ' 왜 그땐 ']]></title>
-        <id>https://vibe.naver.com/album/10287734</id>
-        <link href="https://vibe.naver.com/album/10287734"/>
-        <updated>2023-09-21T11:10:01.345Z</updated>
-        <content type="html"><![CDATA[심가을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Free]]></title>
-        <id>https://vibe.naver.com/album/10281085</id>
-        <link href="https://vibe.naver.com/album/10281085"/>
-        <updated>2023-09-21T11:10:01.345Z</updated>
-        <content type="html"><![CDATA[페리블루(Ferry Blue)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNC]]></title>
-        <id>https://vibe.naver.com/album/10260527</id>
-        <link href="https://vibe.naver.com/album/10260527"/>
-        <updated>2023-09-21T11:10:01.351Z</updated>
-        <content type="html"><![CDATA[Max Kim]]></content>
     </entry>
 </feed>

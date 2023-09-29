@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-29T03:12:26.790Z</updated>
+    <updated>2023-09-29T04:13:59.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3D (Feat. Jack Harlow)]]></title>
+        <id>https://vibe.naver.com/album/10444124</id>
+        <link href="https://vibe.naver.com/album/10444124"/>
+        <updated>2023-09-29T04:13:39.243Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4 Letters (feat. James Reid)]]></title>
+        <id>https://vibe.naver.com/album/10416911</id>
+        <link href="https://vibe.naver.com/album/10416911"/>
+        <updated>2023-09-29T04:13:39.243Z</updated>
+        <content type="html"><![CDATA[B.I]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Better Things (RAYE Remix)]]></title>
+        <id>https://vibe.naver.com/album/10444410</id>
+        <link href="https://vibe.naver.com/album/10444410"/>
+        <updated>2023-09-29T04:13:39.246Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구름 부릉 (rain ver.)]]></title>
         <id>https://vibe.naver.com/album/10416908</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/10414984"/>
         <updated>2023-09-28T07:11:35.140Z</updated>
         <content type="html"><![CDATA[원어스 (ONEUS)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이리언 호휘효]]></title>
-        <id>https://vibe.naver.com/album/10416465</id>
-        <link href="https://vibe.naver.com/album/10416465"/>
-        <updated>2023-09-28T07:11:35.142Z</updated>
-        <content type="html"><![CDATA[에이리언 호휘효(이진호&amp;휘민&amp;던 (DAWN))]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반짝이는 워터멜론 OST Part 2]]></title>
-        <id>https://vibe.naver.com/album/10414665</id>
-        <link href="https://vibe.naver.com/album/10414665"/>
-        <updated>2023-09-28T07:11:35.144Z</updated>
-        <content type="html"><![CDATA[구준회]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장난감]]></title>
-        <id>https://vibe.naver.com/album/10349689</id>
-        <link href="https://vibe.naver.com/album/10349689"/>
-        <updated>2023-09-28T07:11:35.146Z</updated>
-        <content type="html"><![CDATA[참솜(Chamsom)]]></content>
     </entry>
 </feed>

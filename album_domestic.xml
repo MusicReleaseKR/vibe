@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-09-30T08:13:22.216Z</updated>
+    <updated>2023-09-30T09:10:09.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아라문의 검 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/10416906</id>
+        <link href="https://vibe.naver.com/album/10416906"/>
+        <updated>2023-09-30T09:09:53.161Z</updated>
+        <content type="html"><![CDATA[트웰브(twlv)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me wit u 4eva …]]></title>
+        <id>https://vibe.naver.com/album/10416835</id>
+        <link href="https://vibe.naver.com/album/10416835"/>
+        <updated>2023-09-30T09:09:53.180Z</updated>
+        <content type="html"><![CDATA[용용 (YongYong)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유성우]]></title>
+        <id>https://vibe.naver.com/album/10424443</id>
+        <link href="https://vibe.naver.com/album/10424443"/>
+        <updated>2023-09-30T09:09:53.180Z</updated>
+        <content type="html"><![CDATA[이주혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TALKING]]></title>
+        <id>https://vibe.naver.com/album/10416878</id>
+        <link href="https://vibe.naver.com/album/10416878"/>
+        <updated>2023-09-30T09:09:53.181Z</updated>
+        <content type="html"><![CDATA[림지 (LimJi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE REDSTRING Vol.10]]></title>
+        <id>https://vibe.naver.com/album/10415290</id>
+        <link href="https://vibe.naver.com/album/10415290"/>
+        <updated>2023-09-30T09:09:53.181Z</updated>
+        <content type="html"><![CDATA[박민호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노놀 VOL 22. 예은 ' 흘러가다 보면 ']]></title>
         <id>https://vibe.naver.com/album/10444291</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/10416540"/>
         <updated>2023-09-28T09:11:19.936Z</updated>
         <content type="html"><![CDATA[박현빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지하철을 타고 (2023)]]></title>
-        <id>https://vibe.naver.com/album/10416541</id>
-        <link href="https://vibe.naver.com/album/10416541"/>
-        <updated>2023-09-28T09:11:19.938Z</updated>
-        <content type="html"><![CDATA[왁스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너와 함께라면]]></title>
-        <id>https://vibe.naver.com/album/10414763</id>
-        <link href="https://vibe.naver.com/album/10414763"/>
-        <updated>2023-09-28T09:11:19.940Z</updated>
-        <content type="html"><![CDATA[SEINY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIGHT DRIVER]]></title>
-        <id>https://vibe.naver.com/album/10444278</id>
-        <link href="https://vibe.naver.com/album/10444278"/>
-        <updated>2023-09-28T09:11:19.942Z</updated>
-        <content type="html"><![CDATA[LIMZY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CONCRETE]]></title>
-        <id>https://vibe.naver.com/album/10416467</id>
-        <link href="https://vibe.naver.com/album/10416467"/>
-        <updated>2023-09-28T09:11:19.944Z</updated>
-        <content type="html"><![CDATA[seshin]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Abracadabra]]></title>
-        <id>https://vibe.naver.com/album/10416462</id>
-        <link href="https://vibe.naver.com/album/10416462"/>
-        <updated>2023-09-28T07:11:35.088Z</updated>
-        <content type="html"><![CDATA[백호]]></content>
     </entry>
 </feed>

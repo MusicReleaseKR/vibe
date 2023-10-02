@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-02T08:15:41.694Z</updated>
+    <updated>2023-10-02T09:12:28.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[J U S T F U N (with 죠지)]]></title>
+        <id>https://vibe.naver.com/album/10444412</id>
+        <link href="https://vibe.naver.com/album/10444412"/>
+        <updated>2023-10-02T09:12:07.409Z</updated>
+        <content type="html"><![CDATA[박문치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Doctrine Single Ver. ft. 백예린 (Prod. 가짜인간)]]></title>
+        <id>https://vibe.naver.com/album/10416074</id>
+        <link href="https://vibe.naver.com/album/10416074"/>
+        <updated>2023-10-02T09:12:07.410Z</updated>
+        <content type="html"><![CDATA[오도마(O'Domar)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해방]]></title>
+        <id>https://vibe.naver.com/album/10421722</id>
+        <link href="https://vibe.naver.com/album/10421722"/>
+        <updated>2023-10-02T09:12:07.413Z</updated>
+        <content type="html"><![CDATA[스카이민혁(Skyminhyuk)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생극장]]></title>
+        <id>https://vibe.naver.com/album/10444413</id>
+        <link href="https://vibe.naver.com/album/10444413"/>
+        <updated>2023-10-02T09:12:07.415Z</updated>
+        <content type="html"><![CDATA[민수현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Never]]></title>
+        <id>https://vibe.naver.com/album/10442150</id>
+        <link href="https://vibe.naver.com/album/10442150"/>
+        <updated>2023-10-02T09:12:07.421Z</updated>
+        <content type="html"><![CDATA[이진솔]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mean]]></title>
+        <id>https://vibe.naver.com/album/10416919</id>
+        <link href="https://vibe.naver.com/album/10416919"/>
+        <updated>2023-10-02T09:12:07.422Z</updated>
+        <content type="html"><![CDATA[Milena(밀레나)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3D : The Remixes]]></title>
         <id>https://vibe.naver.com/album/10444707</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/10423688"/>
         <updated>2023-10-02T04:13:24.692Z</updated>
         <content type="html"><![CDATA[HotSauce]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대만을 사랑할게요]]></title>
-        <id>https://vibe.naver.com/album/10416881</id>
-        <link href="https://vibe.naver.com/album/10416881"/>
-        <updated>2023-10-02T04:13:24.698Z</updated>
-        <content type="html"><![CDATA[천승찬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Act?]]></title>
-        <id>https://vibe.naver.com/album/10414704</id>
-        <link href="https://vibe.naver.com/album/10414704"/>
-        <updated>2023-10-02T04:13:24.700Z</updated>
-        <content type="html"><![CDATA[천둥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따듯하고 슬프고 좋고 어둡고]]></title>
-        <id>https://vibe.naver.com/album/10416708</id>
-        <link href="https://vibe.naver.com/album/10416708"/>
-        <updated>2023-10-02T04:13:24.702Z</updated>
-        <content type="html"><![CDATA[오곤]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하기싫어]]></title>
-        <id>https://vibe.naver.com/album/10416916</id>
-        <link href="https://vibe.naver.com/album/10416916"/>
-        <updated>2023-10-02T04:13:24.704Z</updated>
-        <content type="html"><![CDATA[LITTLE NICHOLAS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow Things]]></title>
-        <id>https://vibe.naver.com/album/10416199</id>
-        <link href="https://vibe.naver.com/album/10416199"/>
-        <updated>2023-10-02T04:13:24.707Z</updated>
-        <content type="html"><![CDATA[Kiik]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활동]]></title>
-        <id>https://vibe.naver.com/album/10352162</id>
-        <link href="https://vibe.naver.com/album/10352162"/>
-        <updated>2023-10-02T04:13:24.709Z</updated>
-        <content type="html"><![CDATA[동찬(Dongchan)]]></content>
     </entry>
 </feed>

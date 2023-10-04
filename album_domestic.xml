@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-04T04:13:53.793Z</updated>
+    <updated>2023-10-04T05:12:03.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 리그 오브 레전드 월드 챔피언십 주제곡]]></title>
+        <id>https://vibe.naver.com/album/10423234</id>
+        <link href="https://vibe.naver.com/album/10423234"/>
+        <updated>2023-10-04T05:11:43.245Z</updated>
+        <content type="html"><![CDATA[NewJeans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Paradise]]></title>
         <id>https://vibe.naver.com/album/10444327</id>
@@ -237,7 +244,7 @@
         <content type="html"><![CDATA[Jimmy Brown]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화초 〈산울림 50주년 기념 프로젝트〉]]></title>
+        <title type="html"><![CDATA[화초〈산울림 50주년 기념 프로젝트〉]]></title>
         <id>https://vibe.naver.com/album/10422932</id>
         <link href="https://vibe.naver.com/album/10422932"/>
         <updated>2023-10-03T15:12:31.374Z</updated>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10444707"/>
         <updated>2023-10-03T15:12:31.427Z</updated>
         <content type="html"><![CDATA[정국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아날로그 로맨스 (analog romance)]]></title>
-        <id>https://vibe.naver.com/album/10416709</id>
-        <link href="https://vibe.naver.com/album/10416709"/>
-        <updated>2023-10-03T15:12:31.430Z</updated>
-        <content type="html"><![CDATA[리플리(RIPLEY)]]></content>
     </entry>
 </feed>

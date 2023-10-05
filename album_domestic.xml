@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-05T00:50:11.499Z</updated>
+    <updated>2023-10-05T01:51:44.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마음]]></title>
+        <id>https://vibe.naver.com/album/10450523</id>
+        <link href="https://vibe.naver.com/album/10450523"/>
+        <updated>2023-10-05T01:51:24.862Z</updated>
+        <content type="html"><![CDATA[홀리원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LOVE EFFECT]]></title>
         <id>https://vibe.naver.com/album/10442756</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10422173"/>
         <updated>2023-10-03T15:12:31.399Z</updated>
         <content type="html"><![CDATA[비쥬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그러다 말았지만]]></title>
-        <id>https://vibe.naver.com/album/10416224</id>
-        <link href="https://vibe.naver.com/album/10416224"/>
-        <updated>2023-10-03T15:12:31.403Z</updated>
-        <content type="html"><![CDATA[강예섬]]></content>
     </entry>
 </feed>

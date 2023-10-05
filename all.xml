@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-05T00:50:11.482Z</updated>
+    <updated>2023-10-05T01:51:44.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마음 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/10450523</id>
+        <link href="https://vibe.naver.com/album/10450523"/>
+        <updated>2023-10-05T01:51:24.862Z</updated>
+        <content type="html"><![CDATA[홀리원]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LOVE EFFECT (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/10442756</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/10422173"/>
         <updated>2023-10-03T03:11:56.176Z</updated>
         <content type="html"><![CDATA[비쥬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그러다 말았지만 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/10416224</id>
-        <link href="https://vibe.naver.com/album/10416224"/>
-        <updated>2023-10-03T03:11:56.176Z</updated>
-        <content type="html"><![CDATA[강예섬]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NOT OK (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>

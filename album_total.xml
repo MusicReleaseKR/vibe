@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-10-06T13:15:33.982Z</updated>
+    <updated>2023-10-06T14:11:20.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/10484370"/>
         <updated>2023-10-06T04:13:46.409Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10484370" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Fact Check - The 5th Album</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/496463" class="link_artist"><span class="text">NCT 127</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For All The Dogs]]></title>
+        <id>https://vibe.naver.com/album/10491058</id>
+        <link href="https://vibe.naver.com/album/10491058"/>
+        <updated>2023-10-06T14:11:19.412Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10491058" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">For All The Dogs</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/120202" class="link_artist"><span class="text">Drake</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Off The Record]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/10479196"/>
         <updated>2023-10-05T03:12:28.962Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10479196" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">넌 가을 하늘</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/1691" class="link_artist"><span class="text">장호일</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시간이 지나도]]></title>
-        <id>https://vibe.naver.com/album/10479172</id>
-        <link href="https://vibe.naver.com/album/10479172"/>
-        <updated>2023-10-05T03:12:28.963Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/10479172" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">시간이 지나도</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/4036762" class="link_artist"><span class="text">김준범</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

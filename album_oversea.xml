@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-10-06T08:15:42.147Z</updated>
+    <updated>2023-10-06T09:11:57.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Javelin]]></title>
+        <id>https://vibe.naver.com/album/10485853</id>
+        <link href="https://vibe.naver.com/album/10485853"/>
+        <updated>2023-10-06T09:11:47.728Z</updated>
+        <content type="html"><![CDATA[Sufjan Stevens]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Way Back Home (Japanese Ver.)]]></title>
+        <id>https://vibe.naver.com/album/10484315</id>
+        <link href="https://vibe.naver.com/album/10484315"/>
+        <updated>2023-10-06T09:11:47.728Z</updated>
+        <content type="html"><![CDATA[숀(SHAUN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HEAT]]></title>
         <id>https://vibe.naver.com/album/10483968</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/10444306"/>
         <updated>2023-10-04T03:12:47.139Z</updated>
         <content type="html"><![CDATA[Mayer Hawthorne]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All I Want (For Christmas)]]></title>
-        <id>https://vibe.naver.com/album/10477517</id>
-        <link href="https://vibe.naver.com/album/10477517"/>
-        <updated>2023-10-04T03:12:47.141Z</updated>
-        <content type="html"><![CDATA[Zoe Wees]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Trip Pack]]></title>
-        <id>https://vibe.naver.com/album/10426527</id>
-        <link href="https://vibe.naver.com/album/10426527"/>
-        <updated>2023-10-04T03:12:47.142Z</updated>
-        <content type="html"><![CDATA[Jharrel Jerome]]></content>
     </entry>
 </feed>

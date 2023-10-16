@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-16T08:16:04.344Z</updated>
+    <updated>2023-10-16T09:12:50.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이석훈 네 번째 미니 앨범 '무제(無題)']]></title>
+        <id>https://vibe.naver.com/album/30056819</id>
+        <link href="https://vibe.naver.com/album/30056819"/>
+        <updated>2023-10-16T09:12:33.892Z</updated>
+        <content type="html"><![CDATA[이석훈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회고록]]></title>
+        <id>https://vibe.naver.com/album/30057144</id>
+        <link href="https://vibe.naver.com/album/30057144"/>
+        <updated>2023-10-16T09:12:33.892Z</updated>
+        <content type="html"><![CDATA[조광일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Give You My All]]></title>
+        <id>https://vibe.naver.com/album/30056811</id>
+        <link href="https://vibe.naver.com/album/30056811"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[하이라이트(Highlight)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[it's Live X 정용화]]></title>
+        <id>https://vibe.naver.com/album/30076225</id>
+        <link href="https://vibe.naver.com/album/30076225"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[정용화]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIPPEH]]></title>
+        <id>https://vibe.naver.com/album/30080267</id>
+        <link href="https://vibe.naver.com/album/30080267"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[REDDY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구간단속]]></title>
+        <id>https://vibe.naver.com/album/30054550</id>
+        <link href="https://vibe.naver.com/album/30054550"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[KURO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악인전기 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/30076224</id>
+        <link href="https://vibe.naver.com/album/30076224"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[일레인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 정말 힘들어 (2023)]]></title>
+        <id>https://vibe.naver.com/album/30056841</id>
+        <link href="https://vibe.naver.com/album/30056841"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[정창룡]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[으르렁 (Growl) (Orchestra Ver.)]]></title>
+        <id>https://vibe.naver.com/album/30056814</id>
+        <link href="https://vibe.naver.com/album/30056814"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[서울시립교향악단]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wen Moon]]></title>
+        <id>https://vibe.naver.com/album/30056821</id>
+        <link href="https://vibe.naver.com/album/30056821"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[이터니티(IITERNITI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전쟁]]></title>
+        <id>https://vibe.naver.com/album/30056831</id>
+        <link href="https://vibe.naver.com/album/30056831"/>
+        <updated>2023-10-16T09:12:33.902Z</updated>
+        <content type="html"><![CDATA[라네스터(Lanester)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEOULVIBES, MAYSON]]></title>
         <id>https://vibe.naver.com/album/30054363</id>
@@ -277,82 +354,5 @@
         <link href="https://vibe.naver.com/album/30055225"/>
         <updated>2023-10-15T03:11:30.609Z</updated>
         <content type="html"><![CDATA[IRI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[So Nice (GMF2023 Ver.)]]></title>
-        <id>https://vibe.naver.com/album/30054985</id>
-        <link href="https://vibe.naver.com/album/30054985"/>
-        <updated>2023-10-15T03:11:30.609Z</updated>
-        <content type="html"><![CDATA[Grand Mint Band(GMB)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ALL I WANT]]></title>
-        <id>https://vibe.naver.com/album/30055281</id>
-        <link href="https://vibe.naver.com/album/30055281"/>
-        <updated>2023-10-15T03:11:30.610Z</updated>
-        <content type="html"><![CDATA[로버스(Rovers)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[EARTHING]]></title>
-        <id>https://vibe.naver.com/album/30054812</id>
-        <link href="https://vibe.naver.com/album/30054812"/>
-        <updated>2023-10-15T03:11:30.612Z</updated>
-        <content type="html"><![CDATA[TENGGER]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Low Key]]></title>
-        <id>https://vibe.naver.com/album/30028863</id>
-        <link href="https://vibe.naver.com/album/30028863"/>
-        <updated>2023-10-15T03:11:30.618Z</updated>
-        <content type="html"><![CDATA[Johnyrighthere(조니라잇데어)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[First Love]]></title>
-        <id>https://vibe.naver.com/album/30039374</id>
-        <link href="https://vibe.naver.com/album/30039374"/>
-        <updated>2023-10-15T03:11:30.618Z</updated>
-        <content type="html"><![CDATA[OmO(오모)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월]]></title>
-        <id>https://vibe.naver.com/album/30054464</id>
-        <link href="https://vibe.naver.com/album/30054464"/>
-        <updated>2023-10-15T03:11:30.618Z</updated>
-        <content type="html"><![CDATA[서이경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You]]></title>
-        <id>https://vibe.naver.com/album/8232464</id>
-        <link href="https://vibe.naver.com/album/8232464"/>
-        <updated>2023-10-15T03:11:30.618Z</updated>
-        <content type="html"><![CDATA[로버스(Rovers)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Beautiful Scene]]></title>
-        <id>https://vibe.naver.com/album/30055267</id>
-        <link href="https://vibe.naver.com/album/30055267"/>
-        <updated>2023-10-15T03:11:30.618Z</updated>
-        <content type="html"><![CDATA[Born to Rock]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부질없는 시]]></title>
-        <id>https://vibe.naver.com/album/30055021</id>
-        <link href="https://vibe.naver.com/album/30055021"/>
-        <updated>2023-10-15T03:11:30.620Z</updated>
-        <content type="html"><![CDATA[Jc]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜 공녀님의 만렙 토끼 OST Part 7]]></title>
-        <id>https://vibe.naver.com/album/30055227</id>
-        <link href="https://vibe.naver.com/album/30055227"/>
-        <updated>2023-10-15T03:11:30.623Z</updated>
-        <content type="html"><![CDATA[더 데이지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Everything]]></title>
-        <id>https://vibe.naver.com/album/30041269</id>
-        <link href="https://vibe.naver.com/album/30041269"/>
-        <updated>2023-10-14T09:10:31.958Z</updated>
-        <content type="html"><![CDATA[신용재 (2F)]]></content>
     </entry>
 </feed>

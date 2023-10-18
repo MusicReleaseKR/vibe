@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-10-18T03:12:22.236Z</updated>
+    <updated>2023-10-18T04:14:05.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://vibe.naver.com/album/30023821"/>
         <updated>2023-10-18T03:12:21.391Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30023821" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Hands On Me (Feat. Meghan Trainor)</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/92240" class="link_artist"><span class="text">Jason Derulo</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RINGO]]></title>
+        <id>https://vibe.naver.com/album/30093484</id>
+        <link href="https://vibe.naver.com/album/30093484"/>
+        <updated>2023-10-18T04:14:05.013Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30093484" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">RINGO</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2708920" class="link_artist"><span class="text">ITZY(있지)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[History Of Kingdom : Part Ⅶ. Jahan]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30080443"/>
         <updated>2023-10-17T03:12:47.711Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30080443" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">WE GO</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/357789" class="link_artist"><span class="text">송지아</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Little More]]></title>
-        <id>https://vibe.naver.com/album/30076375</id>
-        <link href="https://vibe.naver.com/album/30076375"/>
-        <updated>2023-10-17T03:12:47.711Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30076375" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">A Little More</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/2226866" class="link_artist"><span class="text">임지수</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

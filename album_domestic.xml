@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-20T09:11:53.325Z</updated>
+    <updated>2023-10-20T10:13:10.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/30100323"/>
         <updated>2023-10-20T09:11:34.629Z</updated>
         <content type="html"><![CDATA[Miiro(미로)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연인 OST Part 8]]></title>
+        <id>https://vibe.naver.com/album/30100834</id>
+        <link href="https://vibe.naver.com/album/30100834"/>
+        <updated>2023-10-20T10:12:51.287Z</updated>
+        <content type="html"><![CDATA[스트레이(The Stray)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[21st century electronic duo]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30095189"/>
         <updated>2023-10-19T03:12:47.845Z</updated>
         <content type="html"><![CDATA[강민수(AQUINAS)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[alright]]></title>
-        <id>https://vibe.naver.com/album/30095197</id>
-        <link href="https://vibe.naver.com/album/30095197"/>
-        <updated>2023-10-19T03:12:47.845Z</updated>
-        <content type="html"><![CDATA[biskit!]]></content>
     </entry>
 </feed>

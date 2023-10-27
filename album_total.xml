@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-10-27T04:14:28.067Z</updated>
+    <updated>2023-10-27T05:11:09.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1989 (Taylor's Version)]]></title>
+        <id>https://vibe.naver.com/album/30117535</id>
+        <link href="https://vibe.naver.com/album/30117535"/>
+        <updated>2023-10-27T05:11:08.723Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30117535" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">1989 (Taylor's Version)</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/115875" class="link_artist"><span class="text">Taylor Swift</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Perfect Night]]></title>
         <id>https://vibe.naver.com/album/30116533</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30107446"/>
         <updated>2023-10-26T03:12:04.172Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30107446" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">내가 왜 여기 있는지 몰라〈산울림 50주년 기념 프로젝트〉</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/17611" class="link_artist"><span class="text">갤럭시 익스프레스(Galaxy Express)</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cleveland]]></title>
-        <id>https://vibe.naver.com/album/30101441</id>
-        <link href="https://vibe.naver.com/album/30101441"/>
-        <updated>2023-10-26T03:12:04.174Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-e72c2056="" href="/album/30101441" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">Cleveland</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><a href="/artist/6417410" class="link_artist"><span class="text">maryjo</span></a><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

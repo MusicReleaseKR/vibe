@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-10-27T04:14:28.084Z</updated>
+    <updated>2023-10-27T05:11:09.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1989 (Taylor's Version)]]></title>
+        <id>https://vibe.naver.com/album/30117535</id>
+        <link href="https://vibe.naver.com/album/30117535"/>
+        <updated>2023-10-27T05:11:00.458Z</updated>
+        <content type="html"><![CDATA[Taylor Swift]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHAT JUST HAPPENED]]></title>
         <id>https://vibe.naver.com/album/30113546</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30098786"/>
         <updated>2023-10-25T03:12:30.608Z</updated>
         <content type="html"><![CDATA[New West]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Journey]]></title>
-        <id>https://vibe.naver.com/album/30107953</id>
-        <link href="https://vibe.naver.com/album/30107953"/>
-        <updated>2023-10-25T03:12:30.609Z</updated>
-        <content type="html"><![CDATA[Special Others]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-30T03:12:57.702Z</updated>
+    <updated>2023-10-30T04:14:34.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Seven (Feat. Latto) - David Guetta Remix]]></title>
+        <id>https://vibe.naver.com/album/30119836</id>
+        <link href="https://vibe.naver.com/album/30119836"/>
+        <updated>2023-10-30T04:14:08.861Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Perfect Night (Remix)]]></title>
+        <id>https://vibe.naver.com/album/30119827</id>
+        <link href="https://vibe.naver.com/album/30119827"/>
+        <updated>2023-10-30T04:14:08.861Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[명곡제작소 EPISODE 8]]></title>
         <id>https://vibe.naver.com/album/30118439</id>
@@ -32,6 +46,13 @@
         <link href="https://vibe.naver.com/album/30116693"/>
         <updated>2023-10-30T03:12:39.390Z</updated>
         <content type="html"><![CDATA[아녹(Anoc)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D (Feat. Jack Harlow) - MK Remix]]></title>
+        <id>https://vibe.naver.com/album/30119831</id>
+        <link href="https://vibe.naver.com/album/30119831"/>
+        <updated>2023-10-30T04:14:08.875Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혼례대첩 OST Part 1]]></title>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/30112707"/>
         <updated>2023-10-29T03:11:41.022Z</updated>
         <content type="html"><![CDATA[Kiik]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer Tease]]></title>
-        <id>https://vibe.naver.com/album/30116711</id>
-        <link href="https://vibe.naver.com/album/30116711"/>
-        <updated>2023-10-29T03:11:41.024Z</updated>
-        <content type="html"><![CDATA[스모킹구스(Smoking Goose)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVER:LAST SINGLE]]></title>
-        <id>https://vibe.naver.com/album/30116631</id>
-        <link href="https://vibe.naver.com/album/30116631"/>
-        <updated>2023-10-29T03:11:41.025Z</updated>
-        <content type="html"><![CDATA[KODI GREEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sindy Holic Vol.10]]></title>
-        <id>https://vibe.naver.com/album/30116680</id>
-        <link href="https://vibe.naver.com/album/30116680"/>
-        <updated>2023-10-29T03:11:41.027Z</updated>
-        <content type="html"><![CDATA[신디(Sindy)]]></content>
     </entry>
 </feed>

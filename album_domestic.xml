@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-10-30T08:16:23.363Z</updated>
+    <updated>2023-10-30T09:12:38.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Guilty - The 4th Mini Album]]></title>
+        <id>https://vibe.naver.com/album/30120055</id>
+        <link href="https://vibe.naver.com/album/30120055"/>
+        <updated>2023-10-30T09:12:18.580Z</updated>
+        <content type="html"><![CDATA[태민 (TAEMIN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Press Play]]></title>
+        <id>https://vibe.naver.com/album/30119993</id>
+        <link href="https://vibe.naver.com/album/30119993"/>
+        <updated>2023-10-30T09:12:18.581Z</updated>
+        <content type="html"><![CDATA[NiziU (니쥬)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에세이 ep.2]]></title>
+        <id>https://vibe.naver.com/album/30118918</id>
+        <link href="https://vibe.naver.com/album/30118918"/>
+        <updated>2023-10-30T09:12:18.581Z</updated>
+        <content type="html"><![CDATA[장민호]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOME]]></title>
+        <id>https://vibe.naver.com/album/30112591</id>
+        <link href="https://vibe.naver.com/album/30112591"/>
+        <updated>2023-10-30T09:12:18.581Z</updated>
+        <content type="html"><![CDATA[문종업]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONLY FUN]]></title>
+        <id>https://vibe.naver.com/album/10223640</id>
+        <link href="https://vibe.naver.com/album/10223640"/>
+        <updated>2023-10-30T09:12:18.583Z</updated>
+        <content type="html"><![CDATA[XODIAC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Seven (Feat. Latto) - David Guetta Remix]]></title>
         <id>https://vibe.naver.com/album/30119836</id>
@@ -13,11 +48,67 @@
         <content type="html"><![CDATA[정국]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가슴 아파도 (웹툰 '선녀외전' X 장혜진)]]></title>
+        <id>https://vibe.naver.com/album/30112634</id>
+        <link href="https://vibe.naver.com/album/30112634"/>
+        <updated>2023-10-30T09:12:18.594Z</updated>
+        <content type="html"><![CDATA[장혜진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악인전기 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/30118197</id>
+        <link href="https://vibe.naver.com/album/30118197"/>
+        <updated>2023-10-30T09:12:18.597Z</updated>
+        <content type="html"><![CDATA[고영배]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Perfect Night (Remix)]]></title>
         <id>https://vibe.naver.com/album/30119827</id>
         <link href="https://vibe.naver.com/album/30119827"/>
         <updated>2023-10-30T04:14:08.861Z</updated>
         <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cry]]></title>
+        <id>https://vibe.naver.com/album/30118207</id>
+        <link href="https://vibe.naver.com/album/30118207"/>
+        <updated>2023-10-30T09:12:18.603Z</updated>
+        <content type="html"><![CDATA[젬스톤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Pretender]]></title>
+        <id>https://vibe.naver.com/album/30116712</id>
+        <link href="https://vibe.naver.com/album/30116712"/>
+        <updated>2023-10-30T09:12:18.606Z</updated>
+        <content type="html"><![CDATA[NOAH]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3D (Feat. Jack Harlow) - MK Remix]]></title>
+        <id>https://vibe.naver.com/album/30119831</id>
+        <link href="https://vibe.naver.com/album/30119831"/>
+        <updated>2023-10-30T04:14:08.875Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤의 의미 (Trust Yourself)]]></title>
+        <id>https://vibe.naver.com/album/30117957</id>
+        <link href="https://vibe.naver.com/album/30117957"/>
+        <updated>2023-10-30T09:12:18.616Z</updated>
+        <content type="html"><![CDATA[정인성]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 고막 남친 프로젝트 Part 1]]></title>
+        <id>https://vibe.naver.com/album/30116699</id>
+        <link href="https://vibe.naver.com/album/30116699"/>
+        <updated>2023-10-30T09:12:18.616Z</updated>
+        <content type="html"><![CDATA[김창연]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑은 너, 아픔은 너가 없는 거]]></title>
+        <id>https://vibe.naver.com/album/30116735</id>
+        <link href="https://vibe.naver.com/album/30116735"/>
+        <updated>2023-10-30T09:12:18.618Z</updated>
+        <content type="html"><![CDATA[ONSEEON(온시온)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[명곡제작소 EPISODE 8]]></title>
@@ -46,13 +137,6 @@
         <link href="https://vibe.naver.com/album/30116693"/>
         <updated>2023-10-30T03:12:39.390Z</updated>
         <content type="html"><![CDATA[아녹(Anoc)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3D (Feat. Jack Harlow) - MK Remix]]></title>
-        <id>https://vibe.naver.com/album/30119831</id>
-        <link href="https://vibe.naver.com/album/30119831"/>
-        <updated>2023-10-30T04:14:08.875Z</updated>
-        <content type="html"><![CDATA[정국]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[혼례대첩 OST Part 1]]></title>
@@ -94,7 +178,7 @@
         <id>https://vibe.naver.com/album/30117958</id>
         <link href="https://vibe.naver.com/album/30117958"/>
         <updated>2023-10-30T03:12:39.358Z</updated>
-        <content type="html"><![CDATA[<div data-v-e72c2056="" class="" data-v-4ed81ec3=""><div data-v-e72c2056="" class="thumb_area"><a data-v-e72c2056="" href="#" class="link"><img data-v-711064c9="" data-v-e72c2056="" src="https://musicmeta-phinf.pstatic.net/album/030/117/30117958.jpg?type=r360Fll&amp;v=20231027153705" class="thumb v-lazy-image v-lazy-image-loaded" alt="썸머, 러브머신 블루스 (O'PENing) (Original Score) 앨범 커버"><!----></a><a data-v-100a6273="" data-v-e72c2056="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-e72c2056="" class="more_option only"><!----><div data-v-6d28f87d="" class="dropdown_wrap"><a data-v-6d28f87d="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span data-v-6d28f87d="" class="blind">옵션 보기</span><span data-v-6d28f87d="" class="blind">비활성</span></a><div data-v-6d28f87d="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-6d28f87d="">좋아요</span></a><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-6d28f87d=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-6d28f87d="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/30117958" data-title="썸머, 러브머신 블루스 (O'PENing) (Original Score)" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-6d28f87d="" class="btn_close_area"><a data-v-6d28f87d="" href="#" class="btn_close"><span data-v-6d28f87d="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-e72c2056="" class="info"><!----><a data-v-e72c2056="" href="/album/30117958" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">썸머, 러브머신 블루스 (O'PENing) (Original Score)</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div data-v-e72c2056="" class="" data-v-4ed81ec3=""><div data-v-e72c2056="" class="thumb_area"><a data-v-e72c2056="" href="#" class="link"><img data-v-711064c9="" data-v-e72c2056="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="썸머, 러브머신 블루스 (O'PENing) (Original Score) 앨범 커버"><!----></a><a data-v-100a6273="" data-v-e72c2056="" href="#" role="button" aria-haspopup="dialog" class="btn_play_now"><span data-v-100a6273="" class="blind">재생하기</span><!----></a><div data-v-e72c2056="" class="more_option only"><!----><div data-v-6d28f87d="" class="dropdown_wrap"><a data-v-6d28f87d="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" class="btn_option_now"><span data-v-6d28f87d="" class="blind">옵션 보기</span><span data-v-6d28f87d="" class="blind">비활성</span></a><div data-v-6d28f87d="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-6d28f87d="">좋아요</span></a><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-6d28f87d="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-6d28f87d=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-6d28f87d="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/30117958" data-title="썸머, 러브머신 블루스 (O'PENing) (Original Score)" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-6d28f87d="" class="btn_close_area"><a data-v-6d28f87d="" href="#" class="btn_close"><span data-v-6d28f87d="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-e72c2056="" class="info"><!----><a data-v-e72c2056="" href="/album/30117958" class="title"><span data-v-e72c2056="" class="text_wrap"><span data-v-e72c2056="" class="text">썸머, 러브머신 블루스 (O'PENing) (Original Score)</span><!----><!----></span><span data-v-e72c2056="" class="blind">페이지로 이동</span></a><div data-v-e72c2056="" class="artist"><span data-v-e72c2056="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-e72c2056="" class="blind">아티스트명</span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리는 또]]></title>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/30116706"/>
         <updated>2023-10-29T03:11:41.006Z</updated>
         <content type="html"><![CDATA[알레프(ALEPH)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONCE]]></title>
-        <id>https://vibe.naver.com/album/30116734</id>
-        <link href="https://vibe.naver.com/album/30116734"/>
-        <updated>2023-10-29T03:11:41.006Z</updated>
-        <content type="html"><![CDATA[유다빈밴드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everything Everywhere All At Once]]></title>
-        <id>https://vibe.naver.com/album/30117451</id>
-        <link href="https://vibe.naver.com/album/30117451"/>
-        <updated>2023-10-29T03:11:41.006Z</updated>
-        <content type="html"><![CDATA[서액터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cheese]]></title>
-        <id>https://vibe.naver.com/album/30116851</id>
-        <link href="https://vibe.naver.com/album/30116851"/>
-        <updated>2023-10-29T03:11:41.006Z</updated>
-        <content type="html"><![CDATA[종한(JONGHAN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fallin']]></title>
-        <id>https://vibe.naver.com/album/30112732</id>
-        <link href="https://vibe.naver.com/album/30112732"/>
-        <updated>2023-10-29T03:11:41.008Z</updated>
-        <content type="html"><![CDATA[노르웨이 숲]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tenderboy2]]></title>
-        <id>https://vibe.naver.com/album/30113057</id>
-        <link href="https://vibe.naver.com/album/30113057"/>
-        <updated>2023-10-29T03:11:41.008Z</updated>
-        <content type="html"><![CDATA[Toru]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월간 더 스테이지]]></title>
-        <id>https://vibe.naver.com/album/30116703</id>
-        <link href="https://vibe.naver.com/album/30116703"/>
-        <updated>2023-10-29T03:11:41.009Z</updated>
-        <content type="html"><![CDATA[솔지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[완벽한 결혼의 정석 OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/30117739</id>
-        <link href="https://vibe.naver.com/album/30117739"/>
-        <updated>2023-10-29T03:11:41.011Z</updated>
-        <content type="html"><![CDATA[손예림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 필름의 끝에서]]></title>
-        <id>https://vibe.naver.com/album/30112524</id>
-        <link href="https://vibe.naver.com/album/30112524"/>
-        <updated>2023-10-29T03:11:41.013Z</updated>
-        <content type="html"><![CDATA[포더모어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet hug]]></title>
-        <id>https://vibe.naver.com/album/30112694</id>
-        <link href="https://vibe.naver.com/album/30112694"/>
-        <updated>2023-10-29T03:11:41.018Z</updated>
-        <content type="html"><![CDATA[디아니]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너 혹시 T야?]]></title>
-        <id>https://vibe.naver.com/album/30117940</id>
-        <link href="https://vibe.naver.com/album/30117940"/>
-        <updated>2023-10-29T03:11:41.018Z</updated>
-        <content type="html"><![CDATA[1% (원퍼센트)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가지 마 떠나지 마]]></title>
-        <id>https://vibe.naver.com/album/30116696</id>
-        <link href="https://vibe.naver.com/album/30116696"/>
-        <updated>2023-10-29T03:11:41.020Z</updated>
-        <content type="html"><![CDATA[란(RAN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Napping]]></title>
-        <id>https://vibe.naver.com/album/30112707</id>
-        <link href="https://vibe.naver.com/album/30112707"/>
-        <updated>2023-10-29T03:11:41.022Z</updated>
-        <content type="html"><![CDATA[Kiik]]></content>
     </entry>
 </feed>

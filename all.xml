@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-06T04:14:39.808Z</updated>
+    <updated>2023-11-06T05:12:22.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Standing Next to You : The Remixes (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/30184965</id>
+        <link href="https://vibe.naver.com/album/30184965"/>
+        <updated>2023-11-06T05:11:59.730Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 옷에 피 (REMIX) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/30159007</id>
@@ -12,7 +19,7 @@
         <content type="html"><![CDATA[비프리 (B-Free)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESPPRESSO MARTINI (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <title type="html"><![CDATA[ESPRESSO MARTINI (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/30159101</id>
         <link href="https://vibe.naver.com/album/30159101"/>
         <updated>2023-11-06T03:12:16.009Z</updated>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/30136997"/>
         <updated>2023-11-04T09:10:39.670Z</updated>
         <content type="html"><![CDATA[전기뱀장어]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힘쎈여자 강남순 OST Part 5 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/30158921</id>
-        <link href="https://vibe.naver.com/album/30158921"/>
-        <updated>2023-11-04T09:10:39.680Z</updated>
-        <content type="html"><![CDATA[ADORA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[BLEED (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[YONA YONA WEEKENDERS]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Standing Next to You : The Remixes (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30184965</id>
+        <link href="https://vibe.naver.com/album/30184965"/>
+        <updated>2023-11-06T05:12:21.015Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30184965" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Standing Next to You : The Remixes</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/274327" class="link_artist"><span class="text">정국</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[BLEED (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30138045</id>
         <link href="https://vibe.naver.com/album/30138045"/>
@@ -726,11 +733,11 @@
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30154177" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Cobra</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1823715" class="link_artist"><span class="text">Megan Thee Stallion</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESPPRESSO MARTINI (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <title type="html"><![CDATA[ESPRESSO MARTINI (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30159101</id>
         <link href="https://vibe.naver.com/album/30159101"/>
         <updated>2023-11-06T03:12:16.009Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30159101" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">ESPPRESSO MARTINI</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/94239" class="link_artist"><span class="text">알리(ALi)</span></a><span>, </span></span><span><a href="/artist/32490" class="link_artist"><span class="text">솔비</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30159101" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">ESPRESSO MARTINI</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/94239" class="link_artist"><span class="text">알리(ALi)</span></a><span>, </span></span><span><a href="/artist/32490" class="link_artist"><span class="text">솔비</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Block Revisited (Deluxe Edition) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/30154170"/>
         <updated>2023-11-04T09:10:39.690Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30154170" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">눈물잔</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8068688" class="link_artist"><span class="text">차민호</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATURE (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30154173</id>
-        <link href="https://vibe.naver.com/album/30154173"/>
-        <updated>2023-11-04T09:10:39.691Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30154173" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">MATURE</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/5434787" class="link_artist"><span class="text">li:vi</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

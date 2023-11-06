@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-11-06T04:14:39.816Z</updated>
+    <updated>2023-11-06T05:12:22.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Standing Next to You : The Remixes]]></title>
+        <id>https://vibe.naver.com/album/30184965</id>
+        <link href="https://vibe.naver.com/album/30184965"/>
+        <updated>2023-11-06T05:12:21.015Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30184965" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Standing Next to You : The Remixes</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/274327" class="link_artist"><span class="text">정국</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BLEED]]></title>
         <id>https://vibe.naver.com/album/30138045</id>
@@ -27,11 +34,11 @@
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30154177" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Cobra</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1823715" class="link_artist"><span class="text">Megan Thee Stallion</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ESPPRESSO MARTINI]]></title>
+        <title type="html"><![CDATA[ESPRESSO MARTINI]]></title>
         <id>https://vibe.naver.com/album/30159101</id>
         <link href="https://vibe.naver.com/album/30159101"/>
         <updated>2023-11-06T03:12:29.889Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30159101" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">ESPPRESSO MARTINI</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/94239" class="link_artist"><span class="text">알리(ALi)</span></a><span>, </span></span><span><a href="/artist/32490" class="link_artist"><span class="text">솔비</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30159101" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">ESPRESSO MARTINI</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/94239" class="link_artist"><span class="text">알리(ALi)</span></a><span>, </span></span><span><a href="/artist/32490" class="link_artist"><span class="text">솔비</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Block Revisited (Deluxe Edition)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30154170"/>
         <updated>2023-11-04T09:10:56.995Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30154170" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">눈물잔</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8068688" class="link_artist"><span class="text">차민호</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MATURE]]></title>
-        <id>https://vibe.naver.com/album/30154173</id>
-        <link href="https://vibe.naver.com/album/30154173"/>
-        <updated>2023-11-04T09:10:56.996Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30154173" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">MATURE</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/5434787" class="link_artist"><span class="text">li:vi</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

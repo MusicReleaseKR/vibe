@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-11-09T04:14:28.519Z</updated>
+    <updated>2023-11-09T05:11:09.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/30138067"/>
         <updated>2023-11-09T03:12:13.805Z</updated>
         <content type="html"><![CDATA[Giveon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fall In Love Again]]></title>
+        <id>https://vibe.naver.com/album/30220174</id>
+        <link href="https://vibe.naver.com/album/30220174"/>
+        <updated>2023-11-09T05:11:02.178Z</updated>
+        <content type="html"><![CDATA[P1Harmony]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm A Star (From "Wish")]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30139757"/>
         <updated>2023-11-07T03:12:00.124Z</updated>
         <content type="html"><![CDATA[Sam Tompkins]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KARAM]]></title>
-        <id>https://vibe.naver.com/album/30130644</id>
-        <link href="https://vibe.naver.com/album/30130644"/>
-        <updated>2023-11-07T03:12:00.125Z</updated>
-        <content type="html"><![CDATA[Kshmr]]></content>
     </entry>
 </feed>

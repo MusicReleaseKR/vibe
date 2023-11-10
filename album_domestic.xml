@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-11-10T07:10:41.850Z</updated>
+    <updated>2023-11-10T08:14:49.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Drama - The 4th Mini Album]]></title>
-        <id>https://vibe.naver.com/album/30254000</id>
-        <link href="https://vibe.naver.com/album/30254000"/>
-        <updated>2023-11-10T05:10:47.284Z</updated>
-        <content type="html"><![CDATA[aespa]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[樂-STAR]]></title>
         <id>https://vibe.naver.com/album/30255208</id>
@@ -20,11 +13,11 @@
         <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Love or Loved Part.2]]></title>
-        <id>https://vibe.naver.com/album/30275913</id>
-        <link href="https://vibe.naver.com/album/30275913"/>
+        <title type="html"><![CDATA[Drama - The 4th Mini Album]]></title>
+        <id>https://vibe.naver.com/album/30254000</id>
+        <link href="https://vibe.naver.com/album/30254000"/>
         <updated>2023-11-10T05:10:47.284Z</updated>
-        <content type="html"><![CDATA[B.I]]></content>
+        <content type="html"><![CDATA[aespa]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어떨것같애]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/30219437"/>
         <updated>2023-11-09T03:12:01.673Z</updated>
         <content type="html"><![CDATA[이다운]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지친 하루의 그대와]]></title>
+        <id>https://vibe.naver.com/album/30225008</id>
+        <link href="https://vibe.naver.com/album/30225008"/>
+        <updated>2023-11-10T08:14:28.069Z</updated>
+        <content type="html"><![CDATA[ARPT]]></content>
     </entry>
 </feed>

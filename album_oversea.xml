@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-11-13T08:15:35.671Z</updated>
+    <updated>2023-11-13T09:12:35.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Walkerworld]]></title>
+        <id>https://vibe.naver.com/album/30250472</id>
+        <link href="https://vibe.naver.com/album/30250472"/>
+        <updated>2023-11-13T09:12:29.681Z</updated>
+        <content type="html"><![CDATA[Alan Walker]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11:11]]></title>
         <id>https://vibe.naver.com/album/30265525</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30154217"/>
         <updated>2023-11-09T03:12:13.825Z</updated>
         <content type="html"><![CDATA[WanMor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hana (EP)]]></title>
-        <id>https://vibe.naver.com/album/30139419</id>
-        <link href="https://vibe.naver.com/album/30139419"/>
-        <updated>2023-11-09T03:12:13.826Z</updated>
-        <content type="html"><![CDATA[Fujii Kaze]]></content>
     </entry>
 </feed>

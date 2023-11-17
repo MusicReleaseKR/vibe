@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-11-17T05:11:42.648Z</updated>
+    <updated>2023-11-17T06:15:39.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/30357095"/>
         <updated>2023-11-17T05:11:41.934Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30357095" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">ORANGE BLOOD</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/3978589" class="link_artist"><span class="text">ENHYPEN</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[For All The Dogs Scary Hours Edition]]></title>
+        <id>https://vibe.naver.com/album/30357376</id>
+        <link href="https://vibe.naver.com/album/30357376"/>
+        <updated>2023-11-17T06:15:38.453Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30357376" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">For All The Dogs Scary Hours Edition</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/120202" class="link_artist"><span class="text">Drake</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MOONLIGHT SUNRISE (Jonas Blue Remix)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30247278"/>
         <updated>2023-11-16T03:12:38.019Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30247278" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Closer To Christmas</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/92240" class="link_artist"><span class="text">Jason Derulo</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그림자 괴물]]></title>
-        <id>https://vibe.naver.com/album/30299151</id>
-        <link href="https://vibe.naver.com/album/30299151"/>
-        <updated>2023-11-16T03:12:38.020Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30299151" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">그림자 괴물</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/3004393" class="link_artist"><span class="text">유자</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

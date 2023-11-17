@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-11-17T04:14:22.420Z</updated>
+    <updated>2023-11-17T05:11:42.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Broken Melodies (JVKE Remix)]]></title>
+        <id>https://vibe.naver.com/album/30357086</id>
+        <link href="https://vibe.naver.com/album/30357086"/>
+        <updated>2023-11-17T05:11:27.491Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ORANGE BLOOD]]></title>
+        <id>https://vibe.naver.com/album/30357095</id>
+        <link href="https://vibe.naver.com/album/30357095"/>
+        <updated>2023-11-17T05:11:27.493Z</updated>
+        <content type="html"><![CDATA[ENHYPEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MOONLIGHT SUNRISE (Jonas Blue Remix)]]></title>
+        <id>https://vibe.naver.com/album/30334106</id>
+        <link href="https://vibe.naver.com/album/30334106"/>
+        <updated>2023-11-17T05:11:27.493Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NOBODY]]></title>
         <id>https://vibe.naver.com/album/30299215</id>
@@ -52,7 +73,7 @@
         <id>https://vibe.naver.com/album/30331384</id>
         <link href="https://vibe.naver.com/album/30331384"/>
         <updated>2023-11-17T03:12:10.029Z</updated>
-        <content type="html"><![CDATA[Katch]]></content>
+        <content type="html"><![CDATA[캐치]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그래도, 천천히]]></title>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/30297727"/>
         <updated>2023-11-16T03:12:21.630Z</updated>
         <content type="html"><![CDATA[OHSHYTTTT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잉어님과 떡볶이 OST Part 22]]></title>
-        <id>https://vibe.naver.com/album/30298887</id>
-        <link href="https://vibe.naver.com/album/30298887"/>
-        <updated>2023-11-16T03:12:21.631Z</updated>
-        <content type="html"><![CDATA[천소아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Murmur of Earth]]></title>
-        <id>https://vibe.naver.com/album/30297632</id>
-        <link href="https://vibe.naver.com/album/30297632"/>
-        <updated>2023-11-16T03:12:21.632Z</updated>
-        <content type="html"><![CDATA[욘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1호선빌런]]></title>
-        <id>https://vibe.naver.com/album/30298907</id>
-        <link href="https://vibe.naver.com/album/30298907"/>
-        <updated>2023-11-16T03:12:21.634Z</updated>
-        <content type="html"><![CDATA[태선리]]></content>
     </entry>
 </feed>

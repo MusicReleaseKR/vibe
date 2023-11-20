@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-11-20T04:14:53.622Z</updated>
+    <updated>2023-11-20T05:11:56.812Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/30359099"/>
         <updated>2023-11-19T15:11:11.570Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30359099" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Dresscode (Prod. imase)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/5438597" class="link_artist"><span class="text">LE SSERAFIM (르세라핌)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TFT Remix Rumble (Steve Aoki Remix)]]></title>
+        <id>https://vibe.naver.com/album/30357283</id>
+        <link href="https://vibe.naver.com/album/30357283"/>
+        <updated>2023-11-20T05:11:56.050Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30357283" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">TFT Remix Rumble (Steve Aoki Remix)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/2138937" class="link_artist"><span class="text">League of Legends</span></a><span>, </span></span><span><a href="/artist/6728246" class="link_artist"><span class="text">TEAMFIGHT TACTICS</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무인도의 디바 OST Part 8]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30326243"/>
         <updated>2023-11-18T09:10:19.404Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30326243" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">이유가 있잖아</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1649150" class="link_artist"><span class="text">윤토벤</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[D에게]]></title>
-        <id>https://vibe.naver.com/album/30357178</id>
-        <link href="https://vibe.naver.com/album/30357178"/>
-        <updated>2023-11-18T09:10:19.405Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30357178" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">D에게</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/4047472" class="link_artist"><span class="text">류민희</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

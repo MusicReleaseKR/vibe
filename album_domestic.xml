@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-11-23T04:14:18.249Z</updated>
+    <updated>2023-11-23T05:11:59.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Perfect Night (Holiday Remix)]]></title>
+        <id>https://vibe.naver.com/album/30400120</id>
+        <link href="https://vibe.naver.com/album/30400120"/>
+        <updated>2023-11-23T05:11:46.447Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[VillainS]]]></title>
         <id>https://vibe.naver.com/album/30374388</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30373310"/>
         <updated>2023-11-22T03:12:32.561Z</updated>
         <content type="html"><![CDATA[혜화동 소년]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Muse]]></title>
-        <id>https://vibe.naver.com/album/30373559</id>
-        <link href="https://vibe.naver.com/album/30373559"/>
-        <updated>2023-11-22T03:12:32.562Z</updated>
-        <content type="html"><![CDATA[PYMEL(파이멜)]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-11-24T04:13:57.198Z</updated>
+    <updated>2023-11-24T05:11:20.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3D - Justin Timberlake Remix]]></title>
+        <id>https://vibe.naver.com/album/30404790</id>
+        <link href="https://vibe.naver.com/album/30404790"/>
+        <updated>2023-11-24T05:11:19.686Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30404790" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">3D - Justin Timberlake Remix</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/274327" class="link_artist"><span class="text">정국</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jingle Bell Rock]]></title>
+        <id>https://vibe.naver.com/album/30404890</id>
+        <link href="https://vibe.naver.com/album/30404890"/>
+        <updated>2023-11-24T05:11:19.686Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30404890" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Jingle Bell Rock</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/3980296" class="link_artist"><span class="text">aespa</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가끔 이런 생각들을 해요]]></title>
         <id>https://vibe.naver.com/album/10249594</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30357326"/>
         <updated>2023-11-23T03:12:20.646Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30357326" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Before and After, Pt. 2: On The Way Home/If You Got Love/A Dream That Can Last (Streaming Ver.)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/927" class="link_artist"><span class="text">Neil Young</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Musical Piece Vol.1 로기수 (Original version)]]></title>
-        <id>https://vibe.naver.com/album/30400124</id>
-        <link href="https://vibe.naver.com/album/30400124"/>
-        <updated>2023-11-23T03:12:20.647Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30400124" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Musical Piece Vol.1 로기수 (Original version)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wrap Me Up]]></title>
-        <id>https://vibe.naver.com/album/30312512</id>
-        <link href="https://vibe.naver.com/album/30312512"/>
-        <updated>2023-11-23T03:12:20.648Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30312512" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Wrap Me Up</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/265327" class="link_artist"><span class="text">Jimmy Fallon</span></a><span>, </span></span><span><a href="/artist/339764" class="link_artist"><span class="text">Meghan Trainor</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

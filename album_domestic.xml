@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-11-24T04:13:57.202Z</updated>
+    <updated>2023-11-24T05:11:20.346Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3D - Justin Timberlake Remix]]></title>
+        <id>https://vibe.naver.com/album/30404790</id>
+        <link href="https://vibe.naver.com/album/30404790"/>
+        <updated>2023-11-24T05:11:07.025Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jingle Bell Rock]]></title>
+        <id>https://vibe.naver.com/album/30404890</id>
+        <link href="https://vibe.naver.com/album/30404890"/>
+        <updated>2023-11-24T05:11:07.031Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가끔 이런 생각들을 해요]]></title>
         <id>https://vibe.naver.com/album/10249594</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30375778"/>
         <updated>2023-11-23T03:12:06.427Z</updated>
         <content type="html"><![CDATA[김보아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조금 더 아끼려다 결국 전하지 못한]]></title>
-        <id>https://vibe.naver.com/album/30400117</id>
-        <link href="https://vibe.naver.com/album/30400117"/>
-        <updated>2023-11-23T03:12:06.430Z</updated>
-        <content type="html"><![CDATA[merrymerryseoul]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도화]]></title>
-        <id>https://vibe.naver.com/album/30376578</id>
-        <link href="https://vibe.naver.com/album/30376578"/>
-        <updated>2023-11-23T03:12:06.431Z</updated>
-        <content type="html"><![CDATA[시황]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-26T14:09:41.662Z</updated>
+    <updated>2023-11-26T15:11:08.200Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[BABYMONSTER Debut Digital Single [BATTER UP] (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/30406976</id>
+        <link href="https://vibe.naver.com/album/30406976"/>
+        <updated>2023-11-26T15:10:53.961Z</updated>
+        <content type="html"><![CDATA[BABYMONSTER]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lovers (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/30407012</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/30405056"/>
         <updated>2023-11-24T09:12:05.981Z</updated>
         <content type="html"><![CDATA[노라조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이불 (A WINTER BLANKET) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/30400176</id>
-        <link href="https://vibe.naver.com/album/30400176"/>
-        <updated>2023-11-24T09:12:05.982Z</updated>
-        <content type="html"><![CDATA[팔칠댄스 (87dance)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Brave (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Ari Lennox]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[BABYMONSTER Debut Digital Single [BATTER UP] (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30406976</id>
+        <link href="https://vibe.naver.com/album/30406976"/>
+        <updated>2023-11-26T15:11:07.367Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30406976" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">BABYMONSTER Debut Digital Single [BATTER UP]</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8209110" class="link_artist"><span class="text">BABYMONSTER</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Lovers (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30407012</id>
         <link href="https://vibe.naver.com/album/30407012"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/30405056"/>
         <updated>2023-11-24T09:12:05.981Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30405056" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">소년시대 OST Part 1</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/11857" class="link_artist"><span class="text">노라조</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이불 (A WINTER BLANKET) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30400176</id>
-        <link href="https://vibe.naver.com/album/30400176"/>
-        <updated>2023-11-24T09:12:05.982Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30400176" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">겨울이불 (A WINTER BLANKET)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1523555" class="link_artist"><span class="text">팔칠댄스 (87dance)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

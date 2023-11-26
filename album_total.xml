@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-11-26T14:09:41.658Z</updated>
+    <updated>2023-11-26T15:11:08.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BABYMONSTER Debut Digital Single [BATTER UP]]]></title>
+        <id>https://vibe.naver.com/album/30406976</id>
+        <link href="https://vibe.naver.com/album/30406976"/>
+        <updated>2023-11-26T15:11:07.367Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30406976" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">BABYMONSTER Debut Digital Single [BATTER UP]</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8209110" class="link_artist"><span class="text">BABYMONSTER</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lovers]]></title>
         <id>https://vibe.naver.com/album/30407012</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30405056"/>
         <updated>2023-11-24T09:12:16.928Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30405056" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">소년시대 OST Part 1</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/11857" class="link_artist"><span class="text">노라조</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이불 (A WINTER BLANKET)]]></title>
-        <id>https://vibe.naver.com/album/30400176</id>
-        <link href="https://vibe.naver.com/album/30400176"/>
-        <updated>2023-11-24T09:12:16.928Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30400176" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">겨울이불 (A WINTER BLANKET)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1523555" class="link_artist"><span class="text">팔칠댄스 (87dance)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-11-26T14:09:41.651Z</updated>
+    <updated>2023-11-26T15:11:08.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BABYMONSTER Debut Digital Single [BATTER UP]]]></title>
+        <id>https://vibe.naver.com/album/30406976</id>
+        <link href="https://vibe.naver.com/album/30406976"/>
+        <updated>2023-11-26T15:10:53.961Z</updated>
+        <content type="html"><![CDATA[BABYMONSTER]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lovers]]></title>
         <id>https://vibe.naver.com/album/30407012</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30405056"/>
         <updated>2023-11-24T09:12:05.981Z</updated>
         <content type="html"><![CDATA[노라조]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겨울이불 (A WINTER BLANKET)]]></title>
-        <id>https://vibe.naver.com/album/30400176</id>
-        <link href="https://vibe.naver.com/album/30400176"/>
-        <updated>2023-11-24T09:12:05.982Z</updated>
-        <content type="html"><![CDATA[팔칠댄스 (87dance)]]></content>
     </entry>
 </feed>

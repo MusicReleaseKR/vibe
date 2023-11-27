@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-11-27T03:12:42.139Z</updated>
+    <updated>2023-11-27T04:14:26.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -81,6 +81,13 @@
         <link href="https://vibe.naver.com/album/30399853"/>
         <updated>2023-11-27T03:12:34.443Z</updated>
         <content type="html"><![CDATA[Martin Jensen]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rum Tonight]]></title>
+        <id>https://vibe.naver.com/album/30407283</id>
+        <link href="https://vibe.naver.com/album/30407283"/>
+        <updated>2023-11-27T04:14:18.779Z</updated>
+        <content type="html"><![CDATA[YAOCHEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mr. Cupid]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30400010"/>
         <updated>2023-11-23T03:12:14.460Z</updated>
         <content type="html"><![CDATA[Saree McIntosh]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Empty]]></title>
-        <id>https://vibe.naver.com/album/30400059</id>
-        <link href="https://vibe.naver.com/album/30400059"/>
-        <updated>2023-11-23T03:12:14.460Z</updated>
-        <content type="html"><![CDATA[Poppy Fusée]]></content>
     </entry>
 </feed>

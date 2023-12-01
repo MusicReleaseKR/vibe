@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-12-01T08:15:12.419Z</updated>
+    <updated>2023-12-01T09:13:11.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MY HOUSE]]></title>
+        <id>https://vibe.naver.com/album/30419422</id>
+        <link href="https://vibe.naver.com/album/30419422"/>
+        <updated>2023-12-01T09:13:04.467Z</updated>
+        <content type="html"><![CDATA[Beyonce]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gem Mint]]></title>
+        <id>https://vibe.naver.com/album/30416142</id>
+        <link href="https://vibe.naver.com/album/30416142"/>
+        <updated>2023-12-01T09:13:04.468Z</updated>
+        <content type="html"><![CDATA[Michael Carreon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TYLA]]></title>
         <id>https://vibe.naver.com/album/30416404</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30402283"/>
         <updated>2023-11-28T03:12:07.325Z</updated>
         <content type="html"><![CDATA[The Maine]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kimino Shiawasewo]]></title>
-        <id>https://vibe.naver.com/album/30385363</id>
-        <link href="https://vibe.naver.com/album/30385363"/>
-        <updated>2023-11-28T03:12:07.327Z</updated>
-        <content type="html"><![CDATA[URU]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Party No Dey Stop (Major League Djz and Omit ST Remix)]]></title>
-        <id>https://vibe.naver.com/album/30312760</id>
-        <link href="https://vibe.naver.com/album/30312760"/>
-        <updated>2023-11-28T03:12:07.328Z</updated>
-        <content type="html"><![CDATA[Adekunle Gold]]></content>
     </entry>
 </feed>

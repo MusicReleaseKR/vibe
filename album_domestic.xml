@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-12-01T04:14:31.735Z</updated>
+    <updated>2023-12-01T05:11:38.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Standing Next to You - Usher Remix]]></title>
+        <id>https://vibe.naver.com/album/30416401</id>
+        <link href="https://vibe.naver.com/album/30416401"/>
+        <updated>2023-12-01T05:11:24.261Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE WORLD EP.FIN : WILL]]></title>
+        <id>https://vibe.naver.com/album/30416215</id>
+        <link href="https://vibe.naver.com/album/30416215"/>
+        <updated>2023-12-01T05:11:24.264Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ready for the World]]></title>
+        <id>https://vibe.naver.com/album/30416454</id>
+        <link href="https://vibe.naver.com/album/30416454"/>
+        <updated>2023-12-01T05:11:24.266Z</updated>
+        <content type="html"><![CDATA[VCHA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[싱어게인3 - 무명가수전 Episode.6]]></title>
         <id>https://vibe.naver.com/album/30416428</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/30412287"/>
         <updated>2023-11-30T03:12:07.296Z</updated>
         <content type="html"><![CDATA[24 플라코]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life On Air]]></title>
-        <id>https://vibe.naver.com/album/30410865</id>
-        <link href="https://vibe.naver.com/album/30410865"/>
-        <updated>2023-11-30T03:12:07.298Z</updated>
-        <content type="html"><![CDATA[임형주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레벨업 닥터최기석 X HON_D]]></title>
-        <id>https://vibe.naver.com/album/30412400</id>
-        <link href="https://vibe.naver.com/album/30412400"/>
-        <updated>2023-11-30T03:12:07.299Z</updated>
-        <content type="html"><![CDATA[Hon_D(혼디)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STAR]]></title>
-        <id>https://vibe.naver.com/album/30416120</id>
-        <link href="https://vibe.naver.com/album/30416120"/>
-        <updated>2023-11-30T03:12:07.300Z</updated>
-        <content type="html"><![CDATA[조이스(Joyce)]]></content>
     </entry>
 </feed>

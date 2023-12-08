@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-12-08T04:14:43.045Z</updated>
+    <updated>2023-12-08T05:11:36.334Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pink Friday 2]]></title>
+        <id>https://vibe.naver.com/album/30437904</id>
+        <link href="https://vibe.naver.com/album/30437904"/>
+        <updated>2023-12-08T05:11:29.620Z</updated>
+        <content type="html"><![CDATA[Nicki Minaj]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THINK LATER]]></title>
         <id>https://vibe.naver.com/album/30430598</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30430420"/>
         <updated>2023-12-06T03:12:48.740Z</updated>
         <content type="html"><![CDATA[ASTAA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bark At The Moon]]></title>
-        <id>https://vibe.naver.com/album/30419211</id>
-        <link href="https://vibe.naver.com/album/30419211"/>
-        <updated>2023-12-06T03:12:48.741Z</updated>
-        <content type="html"><![CDATA[Powerwolf]]></content>
     </entry>
 </feed>

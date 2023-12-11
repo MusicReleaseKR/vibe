@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-12-11T14:12:20.187Z</updated>
+    <updated>2023-12-11T15:13:02.786Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Dance Again]]></title>
+        <id>https://vibe.naver.com/album/30450979</id>
+        <link href="https://vibe.naver.com/album/30450979"/>
+        <updated>2023-12-11T15:12:56.018Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Black Out (JO1 ver.)]]></title>
+        <id>https://vibe.naver.com/album/30449421</id>
+        <link href="https://vibe.naver.com/album/30449421"/>
+        <updated>2023-12-11T15:12:56.018Z</updated>
+        <content type="html"><![CDATA[JO1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Airplane Tickets]]></title>
         <id>https://vibe.naver.com/album/30431712</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30422658"/>
         <updated>2023-12-07T03:12:35.055Z</updated>
         <content type="html"><![CDATA[Victor Thompson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Wish You A Merry Christmas (From "The Santa Clauses: Season 2")]]></title>
-        <id>https://vibe.naver.com/album/30415402</id>
-        <link href="https://vibe.naver.com/album/30415402"/>
-        <updated>2023-12-07T03:12:35.055Z</updated>
-        <content type="html"><![CDATA[The Santa Clauses - Cast]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loveland]]></title>
-        <id>https://vibe.naver.com/album/30412386</id>
-        <link href="https://vibe.naver.com/album/30412386"/>
-        <updated>2023-12-07T03:12:35.055Z</updated>
-        <content type="html"><![CDATA[Raiche]]></content>
     </entry>
 </feed>

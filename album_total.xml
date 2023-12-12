@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-12-12T01:56:03.914Z</updated>
+    <updated>2023-12-12T02:26:51.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PINK CHRISTMAS]]></title>
+        <id>https://vibe.naver.com/album/30437985</id>
+        <link href="https://vibe.naver.com/album/30437985"/>
+        <updated>2023-12-11T09:13:08.437Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30437985" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">PINK CHRISTMAS</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/155052" class="link_artist"><span class="text">에이핑크(Apink)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dance Again]]></title>
+        <id>https://vibe.naver.com/album/30450979</id>
+        <link href="https://vibe.naver.com/album/30450979"/>
+        <updated>2023-12-11T15:13:02.114Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30450979" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Dance Again</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 같은 날]]></title>
         <id>https://vibe.naver.com/album/30438024</id>
@@ -32,20 +46,6 @@
         <link href="https://vibe.naver.com/album/30437413"/>
         <updated>2023-12-11T09:13:08.437Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30437413" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">어느 날, 언젠가</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/221145" class="link_artist"><span class="text">봉구(길구봉구)</span></a><span>, </span></span><span><a href="/artist/3092700" class="link_artist"><span class="text">신예영</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINK CHRISTMAS]]></title>
-        <id>https://vibe.naver.com/album/30437985</id>
-        <link href="https://vibe.naver.com/album/30437985"/>
-        <updated>2023-12-11T09:13:08.437Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30437985" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">PINK CHRISTMAS</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/155052" class="link_artist"><span class="text">에이핑크(Apink)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance Again]]></title>
-        <id>https://vibe.naver.com/album/30450979</id>
-        <link href="https://vibe.naver.com/album/30450979"/>
-        <updated>2023-12-11T15:13:02.114Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30450979" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Dance Again</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[힘겨워하는 아이들을 위하여 (2023)]]></title>

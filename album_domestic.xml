@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-12-12T01:56:03.894Z</updated>
+    <updated>2023-12-12T02:26:51.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[PINK CHRISTMAS]]></title>
+        <id>https://vibe.naver.com/album/30437985</id>
+        <link href="https://vibe.naver.com/album/30437985"/>
+        <updated>2023-12-11T09:12:55.518Z</updated>
+        <content type="html"><![CDATA[에이핑크(Apink)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘 같은 날]]></title>
         <id>https://vibe.naver.com/album/30438024</id>
@@ -32,13 +39,6 @@
         <link href="https://vibe.naver.com/album/30437413"/>
         <updated>2023-12-11T09:12:55.517Z</updated>
         <content type="html"><![CDATA[봉구(길구봉구)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINK CHRISTMAS]]></title>
-        <id>https://vibe.naver.com/album/30437985</id>
-        <link href="https://vibe.naver.com/album/30437985"/>
-        <updated>2023-12-11T09:12:55.518Z</updated>
-        <content type="html"><![CDATA[에이핑크(Apink)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[힘겨워하는 아이들을 위하여 (2023)]]></title>

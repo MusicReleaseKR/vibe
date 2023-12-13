@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-13T01:55:54.095Z</updated>
+    <updated>2023-12-13T02:26:26.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[골목길 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://vibe.naver.com/album/30449524"/>
         <updated>2023-12-12T09:12:19.593Z</updated>
         <content type="html"><![CDATA[이하이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Go Round (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/30451566</id>
+        <link href="https://vibe.naver.com/album/30451566"/>
+        <updated>2023-12-12T09:12:19.594Z</updated>
+        <content type="html"><![CDATA[볼빨간사춘기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Merry PLLIstmas (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -24,13 +31,6 @@
         <link href="https://vibe.naver.com/album/30449453"/>
         <updated>2023-12-12T03:12:41.200Z</updated>
         <content type="html"><![CDATA[전소미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Go Round (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/30451566</id>
-        <link href="https://vibe.naver.com/album/30451566"/>
-        <updated>2023-12-12T09:12:19.594Z</updated>
-        <content type="html"><![CDATA[볼빨간사춘기]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나 없이 잘 살텐데 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -712,6 +712,13 @@
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30449524" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">골목길</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/214210" class="link_artist"><span class="text">이하이</span></a><span>, </span></span><span><a href="/artist/4037" class="link_artist"><span class="text">성시경</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Merry Go Round (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30451566</id>
+        <link href="https://vibe.naver.com/album/30451566"/>
+        <updated>2023-12-12T09:12:19.594Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30451566" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Merry Go Round</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/362264" class="link_artist"><span class="text">볼빨간사춘기</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Merry PLLIstmas (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30449461</id>
         <link href="https://vibe.naver.com/album/30449461"/>
@@ -724,13 +731,6 @@
         <link href="https://vibe.naver.com/album/30449453"/>
         <updated>2023-12-12T03:12:41.200Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30449453" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Ex-Mas</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/484725" class="link_artist"><span class="text">전소미</span></a><span>, </span></span><span><a href="/artist/2988467" class="link_artist"><span class="text">BIG Naughty (서동현)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Go Round (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30451566</id>
-        <link href="https://vibe.naver.com/album/30451566"/>
-        <updated>2023-12-12T09:12:19.594Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30451566" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Merry Go Round</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/362264" class="link_artist"><span class="text">볼빨간사춘기</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나 없이 잘 살텐데 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-12-14T09:12:38.411Z</updated>
+    <updated>2023-12-14T10:12:46.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fire! (Feat. YUQI ((G)I-DLE), JVKE)]]></title>
+        <id>https://vibe.naver.com/album/30451018</id>
+        <link href="https://vibe.naver.com/album/30451018"/>
+        <updated>2023-12-14T10:12:39.696Z</updated>
+        <content type="html"><![CDATA[Alan Walker]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FREE 6LACK (Sped Up)]]></title>
         <id>https://vibe.naver.com/album/30434576</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30430350"/>
         <updated>2023-12-11T03:12:59.923Z</updated>
         <content type="html"><![CDATA[Pitbull]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Astronaut]]></title>
-        <id>https://vibe.naver.com/album/30422128</id>
-        <link href="https://vibe.naver.com/album/30422128"/>
-        <updated>2023-12-11T03:12:59.926Z</updated>
-        <content type="html"><![CDATA[Griff]]></content>
     </entry>
 </feed>

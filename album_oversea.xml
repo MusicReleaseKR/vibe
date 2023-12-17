@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-12-17T14:10:02.322Z</updated>
+    <updated>2023-12-17T15:11:00.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Miracle]]></title>
+        <id>https://vibe.naver.com/album/30554713</id>
+        <link href="https://vibe.naver.com/album/30554713"/>
+        <updated>2023-12-17T15:10:53.817Z</updated>
+        <content type="html"><![CDATA[NEXZ(넥스지)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fire! (Feat. YUQI ((G)I-DLE), JVKE)]]></title>
         <id>https://vibe.naver.com/album/30451018</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30436184"/>
         <updated>2023-12-13T03:13:01.454Z</updated>
         <content type="html"><![CDATA[Neil Young]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ride]]></title>
-        <id>https://vibe.naver.com/album/30449496</id>
-        <link href="https://vibe.naver.com/album/30449496"/>
-        <updated>2023-12-13T03:13:01.455Z</updated>
-        <content type="html"><![CDATA[Christian Kuria]]></content>
     </entry>
 </feed>

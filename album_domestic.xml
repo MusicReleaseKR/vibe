@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-12-17T14:10:02.334Z</updated>
+    <updated>2023-12-17T15:11:00.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Miracle (Korean Ver.)]]></title>
+        <id>https://vibe.naver.com/album/30554711</id>
+        <link href="https://vibe.naver.com/album/30554711"/>
+        <updated>2023-12-17T15:10:46.477Z</updated>
+        <content type="html"><![CDATA[NEXZ(넥스지)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웰컴투 삼달리 OST Part 3]]></title>
         <id>https://vibe.naver.com/album/30554651</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30554484"/>
         <updated>2023-12-15T09:12:07.291Z</updated>
         <content type="html"><![CDATA[효린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재, 곧 죽습니다 OST Part 2]]></title>
-        <id>https://vibe.naver.com/album/30533109</id>
-        <link href="https://vibe.naver.com/album/30533109"/>
-        <updated>2023-12-15T09:12:07.291Z</updated>
-        <content type="html"><![CDATA[서인국]]></content>
     </entry>
 </feed>

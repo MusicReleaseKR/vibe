@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-17T14:10:02.329Z</updated>
+    <updated>2023-12-17T15:11:00.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Miracle (Korean Ver.) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/30554711</id>
+        <link href="https://vibe.naver.com/album/30554711"/>
+        <updated>2023-12-17T15:10:46.477Z</updated>
+        <content type="html"><![CDATA[NEXZ(넥스지)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웰컴투 삼달리 OST Part 3 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/30554651</id>
@@ -348,11 +355,11 @@
         <content type="html"><![CDATA[효린]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이재, 곧 죽습니다 OST Part 2 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/30533109</id>
-        <link href="https://vibe.naver.com/album/30533109"/>
-        <updated>2023-12-15T09:12:07.291Z</updated>
-        <content type="html"><![CDATA[서인국]]></content>
+        <title type="html"><![CDATA[Miracle (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/30554713</id>
+        <link href="https://vibe.naver.com/album/30554713"/>
+        <updated>2023-12-17T15:10:53.817Z</updated>
+        <content type="html"><![CDATA[NEXZ(넥스지)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Fire! (Feat. YUQI ((G)I-DLE), JVKE) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -698,13 +705,6 @@
         <content type="html"><![CDATA[Neil Young]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ride (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/30449496</id>
-        <link href="https://vibe.naver.com/album/30449496"/>
-        <updated>2023-12-13T03:13:01.455Z</updated>
-        <content type="html"><![CDATA[Christian Kuria]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[웰컴투 삼달리 OST Part 3 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30554651</id>
         <link href="https://vibe.naver.com/album/30554651"/>
@@ -731,6 +731,13 @@
         <link href="https://vibe.naver.com/album/30536968"/>
         <updated>2023-12-17T09:11:00.297Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30536968" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">돌아갈 수 있을까</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/204654" class="link_artist"><span class="text">주호</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miracle (Korean Ver.) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30554711</id>
+        <link href="https://vibe.naver.com/album/30554711"/>
+        <updated>2023-12-17T15:10:59.909Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554711" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Miracle (Korean Ver.)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8269975" class="link_artist"><span class="text">NEXZ(넥스지)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Circle (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -766,6 +773,13 @@
         <link href="https://vibe.naver.com/album/30554507"/>
         <updated>2023-12-17T09:11:00.298Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554507" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">효심이네 각자도생 OST Part 4</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/97451" class="link_artist"><span class="text">DK(디셈버)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miracle (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30554713</id>
+        <link href="https://vibe.naver.com/album/30554713"/>
+        <updated>2023-12-17T15:10:59.916Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554713" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Miracle</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8269975" class="link_artist"><span class="text">NEXZ(넥스지)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보통의 고백 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/30482999"/>
         <updated>2023-12-15T09:12:07.290Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30482999" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">별책</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/200958" class="link_artist"><span class="text">기리보이</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이플스토리M : ADELE (Original Game Soundtrack) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30554484</id>
-        <link href="https://vibe.naver.com/album/30554484"/>
-        <updated>2023-12-15T09:12:07.291Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554484" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">메이플스토리M : ADELE (Original Game Soundtrack)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/135667" class="link_artist"><span class="text">효린</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재, 곧 죽습니다 OST Part 2 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30533109</id>
-        <link href="https://vibe.naver.com/album/30533109"/>
-        <updated>2023-12-15T09:12:07.291Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30533109" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">이재, 곧 죽습니다 OST Part 2</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/121611" class="link_artist"><span class="text">서인국</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

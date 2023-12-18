@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-12-18T01:55:36.720Z</updated>
+    <updated>2023-12-18T02:26:15.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/30554651"/>
         <updated>2023-12-17T09:11:12.163Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554651" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">웰컴투 삼달리 OST Part 3</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/35551" class="link_artist"><span class="text">태연 (TAEYEON)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Miracle (Korean Ver.)]]></title>
+        <id>https://vibe.naver.com/album/30554711</id>
+        <link href="https://vibe.naver.com/album/30554711"/>
+        <updated>2023-12-17T15:10:59.909Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554711" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Miracle (Korean Ver.)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8269975" class="link_artist"><span class="text">NEXZ(넥스지)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그대, 그대, 그대]]></title>
@@ -32,13 +39,6 @@
         <link href="https://vibe.naver.com/album/30536968"/>
         <updated>2023-12-17T09:11:12.166Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30536968" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">돌아갈 수 있을까</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/204654" class="link_artist"><span class="text">주호</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Miracle (Korean Ver.)]]></title>
-        <id>https://vibe.naver.com/album/30554711</id>
-        <link href="https://vibe.naver.com/album/30554711"/>
-        <updated>2023-12-17T15:10:59.909Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30554711" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Miracle (Korean Ver.)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/8269975" class="link_artist"><span class="text">NEXZ(넥스지)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Circle]]></title>

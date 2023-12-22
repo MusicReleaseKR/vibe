@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2023-12-22T09:12:21.446Z</updated>
+    <updated>2023-12-22T10:12:56.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -223,13 +223,6 @@
         <content type="html"><![CDATA[J Scienide]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Final Outsider EP]]></title>
-        <id>https://vibe.naver.com/album/30530209</id>
-        <link href="https://vibe.naver.com/album/30530209"/>
-        <updated>2023-12-21T03:12:26.240Z</updated>
-        <content type="html"><![CDATA[Pawlowski]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Grapes Upon The Vine]]></title>
         <id>https://vibe.naver.com/album/30561367</id>
         <link href="https://vibe.naver.com/album/30561367"/>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/30516457"/>
         <updated>2023-12-20T03:10:35.257Z</updated>
         <content type="html"><![CDATA[Garena Free Fire]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Water]]></title>
+        <id>https://vibe.naver.com/album/30557740</id>
+        <link href="https://vibe.naver.com/album/30557740"/>
+        <updated>2023-12-22T10:12:50.151Z</updated>
+        <content type="html"><![CDATA[Marco Wolf(마르코 울프)]]></content>
     </entry>
 </feed>

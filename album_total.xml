@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-12-22T01:51:55.279Z</updated>
+    <updated>2023-12-22T02:22:59.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[YOUNHA 20th Anniversary Digital Single '기다리다']]></title>
+        <id>https://vibe.naver.com/album/30563490</id>
+        <link href="https://vibe.naver.com/album/30563490"/>
+        <updated>2023-12-21T15:12:02.276Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30563490" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">YOUNHA 20th Anniversary Digital Single '기다리다'</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/15649" class="link_artist"><span class="text">윤하</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화이트 (White)]]></title>
         <id>https://vibe.naver.com/album/30561353</id>
@@ -25,13 +32,6 @@
         <link href="https://vibe.naver.com/album/30560848"/>
         <updated>2023-12-21T09:11:58.001Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30560848" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">우린 I</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/348895" class="link_artist"><span class="text">소연(LABOUM)</span></a><span>, </span></span><span><a href="/artist/496910" class="link_artist"><span class="text">우석(펜타곤)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YOUNHA 20th Anniversary Digital Single '기다리다']]></title>
-        <id>https://vibe.naver.com/album/30563490</id>
-        <link href="https://vibe.naver.com/album/30563490"/>
-        <updated>2023-12-21T15:12:02.276Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30563490" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">YOUNHA 20th Anniversary Digital Single '기다리다'</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/15649" class="link_artist"><span class="text">윤하</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Warm is better than hot]]></title>

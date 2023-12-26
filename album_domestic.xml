@@ -2,9 +2,79 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-12-26T08:14:32.284Z</updated>
+    <updated>2023-12-26T09:11:59.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20&2 - The 9th Album]]></title>
+        <id>https://vibe.naver.com/album/30422193</id>
+        <link href="https://vibe.naver.com/album/30422193"/>
+        <updated>2023-12-26T09:11:47.350Z</updated>
+        <content type="html"><![CDATA[동방신기 (TVXQ!)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Day After You Said Goodbye]]></title>
+        <id>https://vibe.naver.com/album/30564805</id>
+        <link href="https://vibe.naver.com/album/30564805"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[SURAN(수란)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑한다고 말해줘 OST Part 5]]></title>
+        <id>https://vibe.naver.com/album/30564738</id>
+        <link href="https://vibe.naver.com/album/30564738"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[서영주(너드커넥션)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 널]]></title>
+        <id>https://vibe.naver.com/album/30564808</id>
+        <link href="https://vibe.naver.com/album/30564808"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[어쿠루브]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Needy]]></title>
+        <id>https://vibe.naver.com/album/30564684</id>
+        <link href="https://vibe.naver.com/album/30564684"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[Green]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너에게 닿기를]]></title>
+        <id>https://vibe.naver.com/album/30564800</id>
+        <link href="https://vibe.naver.com/album/30564800"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[더 크로스(The Cross)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남과여 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/30564722</id>
+        <link href="https://vibe.naver.com/album/30564722"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[설아(우주소녀)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼잣말 (2023)]]></title>
+        <id>https://vibe.naver.com/album/30563320</id>
+        <link href="https://vibe.naver.com/album/30563320"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[12월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루살이]]></title>
+        <id>https://vibe.naver.com/album/30564688</id>
+        <link href="https://vibe.naver.com/album/30564688"/>
+        <updated>2023-12-26T09:11:47.359Z</updated>
+        <content type="html"><![CDATA[한로로]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GET IT GET IT (Prod. by NorthEasternBeats)]]></title>
+        <id>https://vibe.naver.com/album/30564726</id>
+        <link href="https://vibe.naver.com/album/30564726"/>
+        <updated>2023-12-26T09:11:47.361Z</updated>
+        <content type="html"><![CDATA[원카인(1kyne)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답답해]]></title>
         <id>https://vibe.naver.com/album/30563297</id>
@@ -284,75 +354,5 @@
         <link href="https://vibe.naver.com/album/30563672"/>
         <updated>2023-12-25T03:12:28.498Z</updated>
         <content type="html"><![CDATA[공중그늘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제4집단]]></title>
-        <id>https://vibe.naver.com/album/30563364</id>
-        <link href="https://vibe.naver.com/album/30563364"/>
-        <updated>2023-12-25T03:12:28.498Z</updated>
-        <content type="html"><![CDATA[제4집단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 꿈의 요람]]></title>
-        <id>https://vibe.naver.com/album/30563684</id>
-        <link href="https://vibe.naver.com/album/30563684"/>
-        <updated>2023-12-25T03:12:28.500Z</updated>
-        <content type="html"><![CDATA[김준서]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12월]]></title>
-        <id>https://vibe.naver.com/album/30563349</id>
-        <link href="https://vibe.naver.com/album/30563349"/>
-        <updated>2023-12-25T03:12:28.502Z</updated>
-        <content type="html"><![CDATA[조승아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이름 없는 사랑에 대하여]]></title>
-        <id>https://vibe.naver.com/album/30563674</id>
-        <link href="https://vibe.naver.com/album/30563674"/>
-        <updated>2023-12-25T03:12:28.507Z</updated>
-        <content type="html"><![CDATA[김규도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그럴 땐 춤을 춰 봐]]></title>
-        <id>https://vibe.naver.com/album/30563368</id>
-        <link href="https://vibe.naver.com/album/30563368"/>
-        <updated>2023-12-25T03:12:28.509Z</updated>
-        <content type="html"><![CDATA[0do]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blue Christmas]]></title>
-        <id>https://vibe.naver.com/album/30563257</id>
-        <link href="https://vibe.naver.com/album/30563257"/>
-        <updated>2023-12-25T03:12:28.510Z</updated>
-        <content type="html"><![CDATA[Vanana]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[겁쟁이]]></title>
-        <id>https://vibe.naver.com/album/30564784</id>
-        <link href="https://vibe.naver.com/album/30564784"/>
-        <updated>2023-12-24T09:11:51.001Z</updated>
-        <content type="html"><![CDATA[이지영(빅마마)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웰컴투 삼달리 OST Part 4]]></title>
-        <id>https://vibe.naver.com/album/30564790</id>
-        <link href="https://vibe.naver.com/album/30564790"/>
-        <updated>2023-12-24T09:11:51.002Z</updated>
-        <content type="html"><![CDATA[신승훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 이브]]></title>
-        <id>https://vibe.naver.com/album/30564777</id>
-        <link href="https://vibe.naver.com/album/30564777"/>
-        <updated>2023-12-24T09:11:51.002Z</updated>
-        <content type="html"><![CDATA[송하예]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Christmas Time]]></title>
-        <id>https://vibe.naver.com/album/30564787</id>
-        <link href="https://vibe.naver.com/album/30564787"/>
-        <updated>2023-12-24T09:11:51.002Z</updated>
-        <content type="html"><![CDATA[경서]]></content>
     </entry>
 </feed>

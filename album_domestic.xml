@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-12-31T08:13:46.328Z</updated>
+    <updated>2023-12-31T09:11:28.432Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Winter Fairy]]></title>
+        <id>https://vibe.naver.com/album/30574322</id>
+        <link href="https://vibe.naver.com/album/30574322"/>
+        <updated>2023-12-31T09:11:14.697Z</updated>
+        <content type="html"><![CDATA[마크툽(Maktub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 하루도 고생했어]]></title>
+        <id>https://vibe.naver.com/album/30577694</id>
+        <link href="https://vibe.naver.com/album/30577694"/>
+        <updated>2023-12-31T09:11:14.697Z</updated>
+        <content type="html"><![CDATA[DOKO(도코)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작]]></title>
+        <id>https://vibe.naver.com/album/30575296</id>
+        <link href="https://vibe.naver.com/album/30575296"/>
+        <updated>2023-12-31T09:11:14.697Z</updated>
+        <content type="html"><![CDATA[시연(드림캐쳐)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마에스트라 OST Part 4]]></title>
+        <id>https://vibe.naver.com/album/30583888</id>
+        <link href="https://vibe.naver.com/album/30583888"/>
+        <updated>2023-12-31T09:11:14.698Z</updated>
+        <content type="html"><![CDATA[제아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Auto]]></title>
+        <id>https://vibe.naver.com/album/30603928</id>
+        <link href="https://vibe.naver.com/album/30603928"/>
+        <updated>2023-12-31T09:11:14.701Z</updated>
+        <content type="html"><![CDATA[SYCHO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[World (feat. 유승우, 예함 (YEHAM))]]></title>
         <id>https://vibe.naver.com/album/30577695</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/30575838"/>
         <updated>2023-12-29T09:12:15.202Z</updated>
         <content type="html"><![CDATA[이아영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Anymore]]></title>
-        <id>https://vibe.naver.com/album/30575489</id>
-        <link href="https://vibe.naver.com/album/30575489"/>
-        <updated>2023-12-29T09:12:15.204Z</updated>
-        <content type="html"><![CDATA[정초하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죄의식 (Feat. ROSPHOR)]]></title>
-        <id>https://vibe.naver.com/album/30574279</id>
-        <link href="https://vibe.naver.com/album/30574279"/>
-        <updated>2023-12-29T09:12:15.205Z</updated>
-        <content type="html"><![CDATA[CuRvY(커비)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기다리고 있을게]]></title>
-        <id>https://vibe.naver.com/album/30574321</id>
-        <link href="https://vibe.naver.com/album/30574321"/>
-        <updated>2023-12-29T09:12:15.205Z</updated>
-        <content type="html"><![CDATA[유서하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Night]]></title>
-        <id>https://vibe.naver.com/album/30575321</id>
-        <link href="https://vibe.naver.com/album/30575321"/>
-        <updated>2023-12-29T09:12:15.206Z</updated>
-        <content type="html"><![CDATA[웰리(Wellie)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달빛 내린 눈 (with 정동환)]]></title>
-        <id>https://vibe.naver.com/album/30575277</id>
-        <link href="https://vibe.naver.com/album/30575277"/>
-        <updated>2023-12-29T09:12:15.207Z</updated>
-        <content type="html"><![CDATA[멜로우 키친(Mellow Kitchen)]]></content>
     </entry>
 </feed>

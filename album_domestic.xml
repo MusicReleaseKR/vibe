@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2023-12-31T14:10:08.567Z</updated>
+    <updated>2023-12-31T15:11:19.324Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1조]]></title>
+        <id>https://vibe.naver.com/album/30599754</id>
+        <link href="https://vibe.naver.com/album/30599754"/>
+        <updated>2023-12-31T15:11:06.318Z</updated>
+        <content type="html"><![CDATA[이찬혁]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Winter Fairy]]></title>
         <id>https://vibe.naver.com/album/30574322</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30575839"/>
         <updated>2023-12-29T09:12:15.202Z</updated>
         <content type="html"><![CDATA[IMLAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑했단 말이야]]></title>
-        <id>https://vibe.naver.com/album/30575838</id>
-        <link href="https://vibe.naver.com/album/30575838"/>
-        <updated>2023-12-29T09:12:15.202Z</updated>
-        <content type="html"><![CDATA[이아영]]></content>
     </entry>
 </feed>

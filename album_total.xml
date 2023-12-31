@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2023-12-31T14:10:08.564Z</updated>
+    <updated>2023-12-31T15:11:19.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[1조]]></title>
+        <id>https://vibe.naver.com/album/30599754</id>
+        <link href="https://vibe.naver.com/album/30599754"/>
+        <updated>2023-12-31T15:11:18.653Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30599754" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">1조</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/243101" class="link_artist"><span class="text">이찬혁</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wherever u r (ft. V of BTS)]]></title>
         <id>https://vibe.naver.com/album/30570300</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30574286"/>
         <updated>2023-12-29T09:12:27.659Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30574286" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Knlls</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/3003399" class="link_artist"><span class="text">Maalib &amp; WRKMS (말립 &amp; 워크맨쉽)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STARDUST]]></title>
-        <id>https://vibe.naver.com/album/30575839</id>
-        <link href="https://vibe.naver.com/album/30575839"/>
-        <updated>2023-12-29T09:12:27.659Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30575839" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">STARDUST</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/375848" class="link_artist"><span class="text">IMLAY</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

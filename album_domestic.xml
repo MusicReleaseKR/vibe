@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-01T08:15:06.114Z</updated>
+    <updated>2024-01-01T09:12:29.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,41 @@
         <link href="https://vibe.naver.com/album/30599754"/>
         <updated>2023-12-31T15:11:06.318Z</updated>
         <content type="html"><![CDATA[이찬혁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feeling]]></title>
+        <id>https://vibe.naver.com/album/30574287</id>
+        <link href="https://vibe.naver.com/album/30574287"/>
+        <updated>2024-01-01T09:12:16.552Z</updated>
+        <content type="html"><![CDATA[김성규]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[And(그리고,)]]></title>
+        <id>https://vibe.naver.com/album/30603271</id>
+        <link href="https://vibe.naver.com/album/30603271"/>
+        <updated>2024-01-01T09:12:16.552Z</updated>
+        <content type="html"><![CDATA[조미(ZHOUMI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청색 시대 (Bleu Picasso) LP]]></title>
+        <id>https://vibe.naver.com/album/30599716</id>
+        <link href="https://vibe.naver.com/album/30599716"/>
+        <updated>2024-01-01T09:12:16.553Z</updated>
+        <content type="html"><![CDATA[제이키(J;KEY)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그때 우리 둘]]></title>
+        <id>https://vibe.naver.com/album/30603272</id>
+        <link href="https://vibe.naver.com/album/30603272"/>
+        <updated>2024-01-01T09:12:16.565Z</updated>
+        <content type="html"><![CDATA[이진이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BURN UP]]></title>
+        <id>https://vibe.naver.com/album/30603540</id>
+        <link href="https://vibe.naver.com/album/30603540"/>
+        <updated>2024-01-01T09:12:16.565Z</updated>
+        <content type="html"><![CDATA[DXMON]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한방이 터질 거야]]></title>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/30575355"/>
         <updated>2023-12-30T03:11:59.344Z</updated>
         <content type="html"><![CDATA[Heon Seo(헌서)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Frog Man]]></title>
-        <id>https://vibe.naver.com/album/30575536</id>
-        <link href="https://vibe.naver.com/album/30575536"/>
-        <updated>2023-12-30T03:11:59.344Z</updated>
-        <content type="html"><![CDATA[어텀(Autumn)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LUKETHAT]]></title>
-        <id>https://vibe.naver.com/album/30575533</id>
-        <link href="https://vibe.naver.com/album/30575533"/>
-        <updated>2023-12-30T03:11:59.344Z</updated>
-        <content type="html"><![CDATA[루크(Luke)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트루버]]></title>
-        <id>https://vibe.naver.com/album/30576845</id>
-        <link href="https://vibe.naver.com/album/30576845"/>
-        <updated>2023-12-30T03:11:59.344Z</updated>
-        <content type="html"><![CDATA[유트루]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunshine Me]]></title>
-        <id>https://vibe.naver.com/album/30574169</id>
-        <link href="https://vibe.naver.com/album/30574169"/>
-        <updated>2023-12-30T03:11:59.344Z</updated>
-        <content type="html"><![CDATA[Kiik]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해일같은 사랑 Part 1]]></title>
-        <id>https://vibe.naver.com/album/30583745</id>
-        <link href="https://vibe.naver.com/album/30583745"/>
-        <updated>2023-12-30T03:11:59.344Z</updated>
-        <content type="html"><![CDATA[해일럽(Hailluv)]]></content>
     </entry>
 </feed>

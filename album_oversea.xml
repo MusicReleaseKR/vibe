@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-01-01T02:01:48.751Z</updated>
+    <updated>2024-01-01T03:13:34.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[leave in five]]></title>
+        <id>https://vibe.naver.com/album/30574980</id>
+        <link href="https://vibe.naver.com/album/30574980"/>
+        <updated>2024-01-01T03:13:27.525Z</updated>
+        <content type="html"><![CDATA[The Maine]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Han Solo]]></title>
+        <id>https://vibe.naver.com/album/30545239</id>
+        <link href="https://vibe.naver.com/album/30545239"/>
+        <updated>2024-01-01T03:13:27.529Z</updated>
+        <content type="html"><![CDATA[John Mackk]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vienna Calling]]></title>
+        <id>https://vibe.naver.com/album/30574997</id>
+        <link href="https://vibe.naver.com/album/30574997"/>
+        <updated>2024-01-01T03:13:27.529Z</updated>
+        <content type="html"><![CDATA[Stereoact]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Inestable]]></title>
+        <id>https://vibe.naver.com/album/30545228</id>
+        <link href="https://vibe.naver.com/album/30545228"/>
+        <updated>2024-01-01T03:13:27.529Z</updated>
+        <content type="html"><![CDATA[Justin Quiles]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tales Of Mystery And Imagination (Original 1976 Version)]]></title>
+        <id>https://vibe.naver.com/album/30575033</id>
+        <link href="https://vibe.naver.com/album/30575033"/>
+        <updated>2024-01-01T03:13:27.529Z</updated>
+        <content type="html"><![CDATA[The Alan Parsons Project]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wherever u r (ft. V of BTS)]]></title>
         <id>https://vibe.naver.com/album/30570300</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/30563407"/>
         <updated>2023-12-26T03:12:23.036Z</updated>
         <content type="html"><![CDATA[SAFE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life Is Life (C'est La Vie)]]></title>
-        <id>https://vibe.naver.com/album/30563299</id>
-        <link href="https://vibe.naver.com/album/30563299"/>
-        <updated>2023-12-26T03:12:23.037Z</updated>
-        <content type="html"><![CDATA[Willy William]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SantaStyle]]></title>
-        <id>https://vibe.naver.com/album/30568155</id>
-        <link href="https://vibe.naver.com/album/30568155"/>
-        <updated>2023-12-26T03:12:23.037Z</updated>
-        <content type="html"><![CDATA[Leostaytrill]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Harvey Dent]]></title>
-        <id>https://vibe.naver.com/album/30564918</id>
-        <link href="https://vibe.naver.com/album/30564918"/>
-        <updated>2023-12-26T03:12:23.037Z</updated>
-        <content type="html"><![CDATA[Ricky Mapes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ken The EP]]></title>
-        <id>https://vibe.naver.com/album/30561462</id>
-        <link href="https://vibe.naver.com/album/30561462"/>
-        <updated>2023-12-25T03:12:34.938Z</updated>
-        <content type="html"><![CDATA[Ryan Gosling]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Little Blue – Mahogany Sessions]]></title>
-        <id>https://vibe.naver.com/album/30562797</id>
-        <link href="https://vibe.naver.com/album/30562797"/>
-        <updated>2023-12-25T03:12:34.939Z</updated>
-        <content type="html"><![CDATA[Jacob Collier]]></content>
     </entry>
 </feed>

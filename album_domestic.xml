@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-05T07:11:12.951Z</updated>
+    <updated>2024-01-05T08:15:26.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Quiz]]></title>
-        <id>https://vibe.naver.com/album/30626699</id>
-        <link href="https://vibe.naver.com/album/30626699"/>
-        <updated>2024-01-04T09:11:53.013Z</updated>
-        <content type="html"><![CDATA[정세운]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Tic Tac?]]></title>
         <id>https://vibe.naver.com/album/30093296</id>
         <link href="https://vibe.naver.com/album/30093296"/>
         <updated>2024-01-05T03:12:31.805Z</updated>
         <content type="html"><![CDATA[홍다빈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quiz]]></title>
+        <id>https://vibe.naver.com/album/30626699</id>
+        <link href="https://vibe.naver.com/album/30626699"/>
+        <updated>2024-01-04T09:11:53.013Z</updated>
+        <content type="html"><![CDATA[정세운]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Present]]></title>

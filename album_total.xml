@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-01-05T01:54:10.929Z</updated>
+    <updated>2024-01-05T02:25:32.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30626699" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Quiz</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/320589" class="link_artist"><span class="text">정세운</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Somozu Fury]]></title>
-        <id>https://vibe.naver.com/album/30626695</id>
-        <link href="https://vibe.naver.com/album/30626695"/>
-        <updated>2024-01-04T16:14:27.451Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30626695" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Somozu Fury</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1620782" class="link_artist"><span class="text">쿤디판다(Khundi Panda)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Present]]></title>
         <id>https://vibe.naver.com/album/30626701</id>
         <link href="https://vibe.naver.com/album/30626701"/>
         <updated>2024-01-04T16:14:27.451Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30626701" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Present</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/119278" class="link_artist"><span class="text">박은빈</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somozu Fury]]></title>
+        <id>https://vibe.naver.com/album/30626695</id>
+        <link href="https://vibe.naver.com/album/30626695"/>
+        <updated>2024-01-04T16:14:27.451Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30626695" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Somozu Fury</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1620782" class="link_artist"><span class="text">쿤디판다(Khundi Panda)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[AGAPE]]></title>

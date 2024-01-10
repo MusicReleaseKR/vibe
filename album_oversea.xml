@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-01-10T08:15:32.189Z</updated>
+    <updated>2024-01-10T09:12:36.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Back In Love]]></title>
+        <id>https://vibe.naver.com/album/30692689</id>
+        <link href="https://vibe.naver.com/album/30692689"/>
+        <updated>2024-01-10T09:12:29.201Z</updated>
+        <content type="html"><![CDATA[김민석]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kool-Aid]]></title>
         <id>https://vibe.naver.com/album/30640975</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30641629"/>
         <updated>2024-01-05T03:12:39.754Z</updated>
         <content type="html"><![CDATA[Nafe Smallz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Happy Together]]></title>
-        <id>https://vibe.naver.com/album/30626540</id>
-        <link href="https://vibe.naver.com/album/30626540"/>
-        <updated>2024-01-05T03:12:39.754Z</updated>
-        <content type="html"><![CDATA[Tahiti 80]]></content>
     </entry>
 </feed>

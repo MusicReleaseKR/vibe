@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-10T04:14:39.130Z</updated>
+    <updated>2024-01-10T05:11:53.056Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fallen Angel (Feat. XYLØ)]]></title>
+        <id>https://vibe.naver.com/album/30673499</id>
+        <link href="https://vibe.naver.com/album/30673499"/>
+        <updated>2024-01-10T05:11:38.872Z</updated>
+        <content type="html"><![CDATA[류수정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Restart]]></title>
         <id>https://vibe.naver.com/album/30649436</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30647211"/>
         <updated>2024-01-09T03:13:06.029Z</updated>
         <content type="html"><![CDATA[나을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[my youth is mine]]></title>
-        <id>https://vibe.naver.com/album/30648703</id>
-        <link href="https://vibe.naver.com/album/30648703"/>
-        <updated>2024-01-09T03:13:06.029Z</updated>
-        <content type="html"><![CDATA[ASHH]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-01-12T04:15:10.232Z</updated>
+    <updated>2024-01-12T05:13:13.314Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[yes, and?]]></title>
+        <id>https://vibe.naver.com/album/30750063</id>
+        <link href="https://vibe.naver.com/album/30750063"/>
+        <updated>2024-01-12T05:13:12.709Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30750063" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">yes, and?</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/204378" class="link_artist"><span class="text">Ariana Grande</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ORQUÍDEAS]]></title>
         <id>https://vibe.naver.com/album/30707779</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30693492"/>
         <updated>2024-01-11T03:12:45.773Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30693492" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">NEVER AGAIN</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/4686412" class="link_artist"><span class="text">MICHELLE</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NANANA]]></title>
-        <id>https://vibe.naver.com/album/30674751</id>
-        <link href="https://vibe.naver.com/album/30674751"/>
-        <updated>2024-01-11T03:12:45.774Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30674751" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">NANANA</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/1992593" class="link_artist"><span class="text">나린</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

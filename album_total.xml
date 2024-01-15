@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-01-15T01:58:56.364Z</updated>
+    <updated>2024-01-15T02:33:19.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[How Deep Is Your Love]]></title>
+        <id>https://vibe.naver.com/album/30747622</id>
+        <link href="https://vibe.naver.com/album/30747622"/>
+        <updated>2024-01-14T09:11:14.676Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30747622" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">How Deep Is Your Love</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/462477" class="link_artist"><span class="text">dress</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[처음]]></title>
         <id>https://vibe.naver.com/album/30712700</id>
@@ -18,13 +25,6 @@
         <link href="https://vibe.naver.com/album/30747624"/>
         <updated>2024-01-14T09:11:14.676Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30747624" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">우리들</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/9846" class="link_artist"><span class="text">KCM</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How Deep Is Your Love]]></title>
-        <id>https://vibe.naver.com/album/30747622</id>
-        <link href="https://vibe.naver.com/album/30747622"/>
-        <updated>2024-01-14T09:11:14.676Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30747622" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">How Deep Is Your Love</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/462477" class="link_artist"><span class="text">dress</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PL#LOVE 3]]></title>

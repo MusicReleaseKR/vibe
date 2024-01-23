@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-23T01:58:05.687Z</updated>
+    <updated>2024-01-23T02:30:36.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[THE FUTURE IS OURS : FOUND]]></title>
-        <id>https://vibe.naver.com/album/30795116</id>
-        <link href="https://vibe.naver.com/album/30795116"/>
-        <updated>2024-01-22T09:13:04.531Z</updated>
-        <content type="html"><![CDATA[AB6IX (에이비식스)]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[TWS 1st Mini Album 'Sparkling Blue']]></title>
         <id>https://vibe.naver.com/album/30624437</id>
         <link href="https://vibe.naver.com/album/30624437"/>
         <updated>2024-01-22T09:13:04.531Z</updated>
         <content type="html"><![CDATA[TWS(투어스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THE FUTURE IS OURS : FOUND]]></title>
+        <id>https://vibe.naver.com/album/30795116</id>
+        <link href="https://vibe.naver.com/album/30795116"/>
+        <updated>2024-01-22T09:13:04.531Z</updated>
+        <content type="html"><![CDATA[AB6IX (에이비식스)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저 헤어졌어요]]></title>

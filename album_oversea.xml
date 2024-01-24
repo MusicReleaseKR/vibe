@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-01-24T08:15:51.888Z</updated>
+    <updated>2024-01-24T09:12:21.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Love 119 (Japanese Ver.)]]></title>
+        <id>https://vibe.naver.com/album/30796675</id>
+        <link href="https://vibe.naver.com/album/30796675"/>
+        <updated>2024-01-24T09:12:15.223Z</updated>
+        <content type="html"><![CDATA[RIIZE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mi Corazón]]></title>
         <id>https://vibe.naver.com/album/30781644</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30792445"/>
         <updated>2024-01-22T03:13:27.659Z</updated>
         <content type="html"><![CDATA[Fat Trout Trailer Park]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Goodbye My Baby]]></title>
-        <id>https://vibe.naver.com/album/30692862</id>
-        <link href="https://vibe.naver.com/album/30692862"/>
-        <updated>2024-01-22T03:13:27.661Z</updated>
-        <content type="html"><![CDATA[Jace June]]></content>
     </entry>
 </feed>

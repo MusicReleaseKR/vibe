@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-01-24T04:15:00.798Z</updated>
+    <updated>2024-01-24T05:12:09.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2ROX]]></title>
+        <id>https://vibe.naver.com/album/30796380</id>
+        <link href="https://vibe.naver.com/album/30796380"/>
+        <updated>2024-01-24T05:12:09.090Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30796380" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">2ROX</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/362234" class="link_artist"><span class="text">류수정</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[INSIDE OUT]]></title>
         <id>https://vibe.naver.com/album/30795427</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30790985"/>
         <updated>2024-01-22T09:13:16.332Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30790985" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Un: SEEN</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/6962595" class="link_artist"><span class="text">EVNNE(이븐)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suit Up]]></title>
-        <id>https://vibe.naver.com/album/30792283</id>
-        <link href="https://vibe.naver.com/album/30792283"/>
-        <updated>2024-01-22T09:13:16.333Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30792283" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Suit Up</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/6867596" class="link_artist"><span class="text">SUPER JUNIOR-L.S.S.(슈퍼주니어-L.S.S.)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

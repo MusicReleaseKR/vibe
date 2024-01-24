@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-24T01:57:31.779Z</updated>
+    <updated>2024-01-24T02:29:48.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Giggles (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Jelani Aryeh]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[INSIDE OUT (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30795427</id>
+        <link href="https://vibe.naver.com/album/30795427"/>
+        <updated>2024-01-23T09:12:11.129Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30795427" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">INSIDE OUT</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/480022" class="link_artist"><span class="text">설아(우주소녀)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Giggles (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30093296</id>
         <link href="https://vibe.naver.com/album/30093296"/>
@@ -724,13 +731,6 @@
         <link href="https://vibe.naver.com/album/30795495"/>
         <updated>2024-01-23T09:12:11.120Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30795495" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">track by YOON: 괜찮아지겠지</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/234403" class="link_artist"><span class="text">에디킴</span></a><span>, </span></span><span><a href="/artist/182" class="link_artist"><span class="text">윤종신</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[INSIDE OUT (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30795427</id>
-        <link href="https://vibe.naver.com/album/30795427"/>
-        <updated>2024-01-23T09:12:11.129Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30795427" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">INSIDE OUT</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/480022" class="link_artist"><span class="text">설아(우주소녀)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wish (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-25T14:12:27.722Z</updated>
+    <updated>2024-01-25T15:12:47.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어떤 미래]]></title>
+        <id>https://vibe.naver.com/album/30802843</id>
+        <link href="https://vibe.naver.com/album/30802843"/>
+        <updated>2024-01-25T15:12:32.168Z</updated>
+        <content type="html"><![CDATA[WOOZI(SEVENTEEN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소품집 (Studio Live)]]></title>
         <id>https://vibe.naver.com/album/30798487</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30796777"/>
         <updated>2024-01-24T03:13:05.940Z</updated>
         <content type="html"><![CDATA[merrymerryseoul]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 우리 헤어질 수가 있어]]></title>
-        <id>https://vibe.naver.com/album/30796700</id>
-        <link href="https://vibe.naver.com/album/30796700"/>
-        <updated>2024-01-24T03:13:05.940Z</updated>
-        <content type="html"><![CDATA[주현민]]></content>
     </entry>
 </feed>

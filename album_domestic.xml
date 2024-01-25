@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-25T06:16:17.166Z</updated>
+    <updated>2024-01-25T07:11:16.751Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://vibe.naver.com/album/30798271"/>
         <updated>2024-01-25T03:12:51.930Z</updated>
         <content type="html"><![CDATA[Osshun Gum]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 별 (사내연애 사절! X JINI (지니))]]></title>
+        <id>https://vibe.naver.com/album/30798278</id>
+        <link href="https://vibe.naver.com/album/30798278"/>
+        <updated>2024-01-25T07:11:02.790Z</updated>
+        <content type="html"><![CDATA[JINI(지니)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자꾸 왜]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30795216"/>
         <updated>2024-01-24T03:13:05.943Z</updated>
         <content type="html"><![CDATA[Hanbyeol(한별)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미워 죽겠어]]></title>
-        <id>https://vibe.naver.com/album/30795307</id>
-        <link href="https://vibe.naver.com/album/30795307"/>
-        <updated>2024-01-24T03:13:05.944Z</updated>
-        <content type="html"><![CDATA[동경]]></content>
     </entry>
 </feed>

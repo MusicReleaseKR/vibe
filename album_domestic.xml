@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-26T04:14:41.601Z</updated>
+    <updated>2024-01-26T05:11:09.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.29 : Fact Check (불가사의; 不可思議) Remixes]]></title>
+        <id>https://vibe.naver.com/album/30805686</id>
+        <link href="https://vibe.naver.com/album/30805686"/>
+        <updated>2024-01-26T05:10:54.757Z</updated>
+        <content type="html"><![CDATA[NCT 127]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떤 미래]]></title>
         <id>https://vibe.naver.com/album/30802843</id>
         <link href="https://vibe.naver.com/album/30802843"/>
         <updated>2024-01-25T15:12:32.168Z</updated>
         <content type="html"><![CDATA[WOOZI(SEVENTEEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Girls of the Year]]></title>
+        <id>https://vibe.naver.com/album/30811999</id>
+        <link href="https://vibe.naver.com/album/30811999"/>
+        <updated>2024-01-26T05:10:54.771Z</updated>
+        <content type="html"><![CDATA[VCHA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Love wins all]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30798203"/>
         <updated>2024-01-25T03:12:51.943Z</updated>
         <content type="html"><![CDATA[온세린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sunday Brunch]]></title>
-        <id>https://vibe.naver.com/album/30798260</id>
-        <link href="https://vibe.naver.com/album/30798260"/>
-        <updated>2024-01-25T03:12:51.944Z</updated>
-        <content type="html"><![CDATA[리슨(LYSON)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나]]></title>
-        <id>https://vibe.naver.com/album/30798246</id>
-        <link href="https://vibe.naver.com/album/30798246"/>
-        <updated>2024-01-25T03:12:51.946Z</updated>
-        <content type="html"><![CDATA[234]]></content>
     </entry>
 </feed>

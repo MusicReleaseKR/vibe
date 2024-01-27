@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-01-27T08:13:43.189Z</updated>
+    <updated>2024-01-27T09:10:19.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[닥터슬럼프 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/30811820</id>
+        <link href="https://vibe.naver.com/album/30811820"/>
+        <updated>2024-01-27T09:10:06.915Z</updated>
+        <content type="html"><![CDATA[슬기 (SEULGI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Worm In The Apple]]></title>
+        <id>https://vibe.naver.com/album/30810556</id>
+        <link href="https://vibe.naver.com/album/30810556"/>
+        <updated>2024-01-27T09:10:06.917Z</updated>
+        <content type="html"><![CDATA[유라(youra)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TOO YOUNG]]></title>
+        <id>https://vibe.naver.com/album/30807234</id>
+        <link href="https://vibe.naver.com/album/30807234"/>
+        <updated>2024-01-27T09:10:06.919Z</updated>
+        <content type="html"><![CDATA[노윤하]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 해피엔드 OST Part 5]]></title>
+        <id>https://vibe.naver.com/album/30802846</id>
+        <link href="https://vibe.naver.com/album/30802846"/>
+        <updated>2024-01-27T09:10:06.919Z</updated>
+        <content type="html"><![CDATA[알레프(ALEPH)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이]]></title>
+        <id>https://vibe.naver.com/album/30811961</id>
+        <link href="https://vibe.naver.com/album/30811961"/>
+        <updated>2024-01-27T09:10:06.920Z</updated>
+        <content type="html"><![CDATA[연서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 귀에 띵곡 Part 11]]></title>
+        <id>https://vibe.naver.com/album/30811824</id>
+        <link href="https://vibe.naver.com/album/30811824"/>
+        <updated>2024-01-27T09:10:06.922Z</updated>
+        <content type="html"><![CDATA[별]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 사랑했던 그때는]]></title>
+        <id>https://vibe.naver.com/album/30810407</id>
+        <link href="https://vibe.naver.com/album/30810407"/>
+        <updated>2024-01-27T09:10:06.925Z</updated>
+        <content type="html"><![CDATA[정이한(더 넛츠)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[골든걸스 THE LIVE2]]></title>
         <id>https://vibe.naver.com/album/30811928</id>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/30802841"/>
         <updated>2024-01-26T03:13:07.151Z</updated>
         <content type="html"><![CDATA[톡식(TOXIC)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The End]]></title>
-        <id>https://vibe.naver.com/album/30802878</id>
-        <link href="https://vibe.naver.com/album/30802878"/>
-        <updated>2024-01-26T03:13:07.153Z</updated>
-        <content type="html"><![CDATA[에일린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북촌한옥마을 로맨스]]></title>
-        <id>https://vibe.naver.com/album/30803476</id>
-        <link href="https://vibe.naver.com/album/30803476"/>
-        <updated>2024-01-26T03:13:07.154Z</updated>
-        <content type="html"><![CDATA[멜로틱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소품집 (Studio Live)]]></title>
-        <id>https://vibe.naver.com/album/30798487</id>
-        <link href="https://vibe.naver.com/album/30798487"/>
-        <updated>2024-01-25T09:12:22.232Z</updated>
-        <content type="html"><![CDATA[곽진언]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Stranger]]></title>
-        <id>https://vibe.naver.com/album/30798488</id>
-        <link href="https://vibe.naver.com/album/30798488"/>
-        <updated>2024-01-25T09:12:22.240Z</updated>
-        <content type="html"><![CDATA[Weeekly(위클리)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸른동경]]></title>
-        <id>https://vibe.naver.com/album/30798497</id>
-        <link href="https://vibe.naver.com/album/30798497"/>
-        <updated>2024-01-25T09:12:22.240Z</updated>
-        <content type="html"><![CDATA[스웨덴세탁소]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대의 세계]]></title>
-        <id>https://vibe.naver.com/album/30798277</id>
-        <link href="https://vibe.naver.com/album/30798277"/>
-        <updated>2024-01-25T09:12:22.240Z</updated>
-        <content type="html"><![CDATA[김범수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Valentine]]></title>
-        <id>https://vibe.naver.com/album/30802789</id>
-        <link href="https://vibe.naver.com/album/30802789"/>
-        <updated>2024-01-25T09:12:22.240Z</updated>
-        <content type="html"><![CDATA[POW(파우)]]></content>
     </entry>
 </feed>

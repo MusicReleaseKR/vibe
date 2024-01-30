@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-30T07:11:42.343Z</updated>
+    <updated>2024-01-30T08:14:13.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,13 +355,6 @@
         <content type="html"><![CDATA[JKo]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Big Foot (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/30814681</id>
-        <link href="https://vibe.naver.com/album/30814681"/>
-        <updated>2024-01-30T03:11:57.648Z</updated>
-        <content type="html"><![CDATA[Nicki Minaj]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Mars To Liverpool (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/30810488</id>
         <link href="https://vibe.naver.com/album/30810488"/>
@@ -376,11 +369,11 @@
         <content type="html"><![CDATA[The Kid LAROI]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[RNS (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/30801639</id>
-        <link href="https://vibe.naver.com/album/30801639"/>
-        <updated>2024-01-30T03:11:57.649Z</updated>
-        <content type="html"><![CDATA[ATL Jacob]]></content>
+        <title type="html"><![CDATA[Big Foot (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/30814681</id>
+        <link href="https://vibe.naver.com/album/30814681"/>
+        <updated>2024-01-30T03:11:57.648Z</updated>
+        <content type="html"><![CDATA[Nicki Minaj]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Can't Get Enough (Feat. Latto) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -388,6 +381,13 @@
         <link href="https://vibe.naver.com/album/30798556"/>
         <updated>2024-01-30T03:11:57.649Z</updated>
         <content type="html"><![CDATA[Jennifer Lopez]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RNS (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/30801639</id>
+        <link href="https://vibe.naver.com/album/30801639"/>
+        <updated>2024-01-30T03:11:57.649Z</updated>
+        <content type="html"><![CDATA[ATL Jacob]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[4Me 4Me (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,18 +705,11 @@
         <content type="html"><![CDATA[The Score]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30792280</id>
-        <link href="https://vibe.naver.com/album/30792280"/>
-        <updated>2024-01-29T09:11:43.708Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30792280" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">2</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/2388740" class="link_artist"><span class="text">(여자)아이들</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Big Foot (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30814681</id>
-        <link href="https://vibe.naver.com/album/30814681"/>
-        <updated>2024-01-30T03:11:57.648Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30814681" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Big Foot</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/124884" class="link_artist"><span class="text">Nicki Minaj</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+        <title type="html"><![CDATA[HEAVEN (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30809829</id>
+        <link href="https://vibe.naver.com/album/30809829"/>
+        <updated>2024-01-30T03:11:57.649Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30809829" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">HEAVEN</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/2978307" class="link_artist"><span class="text">The Kid LAROI</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Mars To Liverpool (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -726,18 +719,32 @@
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30810488" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Mars To Liverpool</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/104917" class="link_artist"><span class="text">Liam Gallagher</span></a><span>, </span></span><span><a href="/artist/107230" class="link_artist"><span class="text">John Squire</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Big Foot (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30814681</id>
+        <link href="https://vibe.naver.com/album/30814681"/>
+        <updated>2024-01-30T03:11:57.648Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30814681" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Big Foot</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/124884" class="link_artist"><span class="text">Nicki Minaj</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Can't Get Enough (Feat. Latto) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30798556</id>
+        <link href="https://vibe.naver.com/album/30798556"/>
+        <updated>2024-01-30T03:11:57.649Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30798556" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Can't Get Enough (Feat. Latto)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/749" class="link_artist"><span class="text">Jennifer Lopez</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30792280</id>
+        <link href="https://vibe.naver.com/album/30792280"/>
+        <updated>2024-01-29T09:11:43.708Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30792280" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">2</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/2388740" class="link_artist"><span class="text">(여자)아이들</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[ARTIST. floryy (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30814756</id>
         <link href="https://vibe.naver.com/album/30814756"/>
         <updated>2024-01-30T03:11:49.318Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30814756" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">ARTIST. floryy</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/2390253" class="link_artist"><span class="text">Anonymous Artists(어나니머스 아티스트)</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEAVEN (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30809829</id>
-        <link href="https://vibe.naver.com/album/30809829"/>
-        <updated>2024-01-30T03:11:57.649Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30809829" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">HEAVEN</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/2978307" class="link_artist"><span class="text">The Kid LAROI</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[RNS (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -759,13 +766,6 @@
         <link href="https://vibe.naver.com/album/30814994"/>
         <updated>2024-01-30T03:11:49.304Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30814994" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">불타는장미단 PART 10</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can't Get Enough (Feat. Latto) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30798556</id>
-        <link href="https://vibe.naver.com/album/30798556"/>
-        <updated>2024-01-30T03:11:57.649Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-15ccf190="" href="/album/30798556" class="title"><span data-v-15ccf190="" class="text_wrap"><span data-v-15ccf190="" class="text">Can't Get Enough (Feat. Latto)</span><!----><!----></span><span data-v-15ccf190="" class="blind">페이지로 이동</span></a><div data-v-15ccf190="" class="artist"><span data-v-15ccf190="" class="artist_sub_inner"><span><a href="/artist/749" class="link_artist"><span class="text">Jennifer Lopez</span></a><!----></span></span><span data-v-15ccf190="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TNTN (Tonight Is The Night) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-02-02T04:14:31.005Z</updated>
+    <updated>2024-02-02T05:12:03.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I GOT YOU]]></title>
+        <id>https://vibe.naver.com/album/30827496</id>
+        <link href="https://vibe.naver.com/album/30827496"/>
+        <updated>2024-02-02T05:11:50.854Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KINEMA]]></title>
+        <id>https://vibe.naver.com/album/30827663</id>
+        <link href="https://vibe.naver.com/album/30827663"/>
+        <updated>2024-02-02T05:11:50.854Z</updated>
+        <content type="html"><![CDATA[DPR&nbsp;ARTIC]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회상]]></title>
         <id>https://vibe.naver.com/album/30818830</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30818445"/>
         <updated>2024-02-01T03:12:34.756Z</updated>
         <content type="html"><![CDATA[란(RAN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LA SOL MI]]></title>
-        <id>https://vibe.naver.com/album/30816155</id>
-        <link href="https://vibe.naver.com/album/30816155"/>
-        <updated>2024-01-31T09:11:04.659Z</updated>
-        <content type="html"><![CDATA[유겸(YUGYEOM)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Broken]]></title>
-        <id>https://vibe.naver.com/album/30816176</id>
-        <link href="https://vibe.naver.com/album/30816176"/>
-        <updated>2024-01-31T09:11:04.659Z</updated>
-        <content type="html"><![CDATA[Seori]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-02-02T04:14:31.008Z</updated>
+    <updated>2024-02-02T05:12:03.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I GOT YOU]]></title>
+        <id>https://vibe.naver.com/album/30827496</id>
+        <link href="https://vibe.naver.com/album/30827496"/>
+        <updated>2024-02-02T05:12:02.797Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30827496" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30827496" class="text">I GOT YOU</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KINEMA]]></title>
+        <id>https://vibe.naver.com/album/30827663</id>
+        <link href="https://vibe.naver.com/album/30827663"/>
+        <updated>2024-02-02T05:12:02.805Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30827663" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30827663" class="text">KINEMA</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/5439950" class="link_artist"><span class="text">DPR&nbsp;ARTIC</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회상]]></title>
         <id>https://vibe.naver.com/album/30818830</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30816176"/>
         <updated>2024-01-31T09:11:18.548Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30816176" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30816176" class="text">Broken</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/3620962" class="link_artist"><span class="text">Seori</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광(狂)]]></title>
-        <id>https://vibe.naver.com/album/30816669</id>
-        <link href="https://vibe.naver.com/album/30816669"/>
-        <updated>2024-01-31T09:11:18.548Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30816669" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30816669" class="text">광(狂)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/213457" class="link_artist"><span class="text">2BIC(투빅)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희재]]></title>
-        <id>https://vibe.naver.com/album/30816561</id>
-        <link href="https://vibe.naver.com/album/30816561"/>
-        <updated>2024-01-31T09:11:18.549Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30816561" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30816561" class="text">희재</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/2473467" class="link_artist"><span class="text">보라미유</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-06T05:11:34.693Z</updated>
+    <updated>2024-02-06T06:14:47.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[I GOT YOU (Voyage ver.) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/30839668</id>
+        <link href="https://vibe.naver.com/album/30839668"/>
+        <updated>2024-02-06T06:14:34.150Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KC (BUST IT DOWN) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/30837018</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/30832716"/>
         <updated>2024-02-05T03:13:02.214Z</updated>
         <content type="html"><![CDATA[holden hann]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우당탕탕 패밀리 OST Part 20 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/30832631</id>
-        <link href="https://vibe.naver.com/album/30832631"/>
-        <updated>2024-02-05T03:13:02.215Z</updated>
-        <content type="html"><![CDATA[하진우]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Waiting In Vain (Bob Marley: One Love - Music Inspired By The Film) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Tierra Whack]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I GOT YOU (Voyage ver.) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30839668</id>
+        <link href="https://vibe.naver.com/album/30839668"/>
+        <updated>2024-02-06T06:14:46.535Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30839668" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30839668" class="text">I GOT YOU (Voyage ver.)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KC (BUST IT DOWN) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30837018</id>
         <link href="https://vibe.naver.com/album/30837018"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/30832724"/>
         <updated>2024-02-05T03:13:02.209Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30832724" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30832724" class="text">조진원의 연</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/37918" class="link_artist"><span class="text">조진원</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30832624</id>
-        <link href="https://vibe.naver.com/album/30832624"/>
-        <updated>2024-02-04T09:11:04.941Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30832624" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30832624" class="text">하루</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/209064" class="link_artist"><span class="text">에일리(Ailee)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

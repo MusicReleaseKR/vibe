@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-02-08T14:10:20.342Z</updated>
+    <updated>2024-02-08T15:12:17.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STUPID IN LOVE (Feat. 허윤진 of LE SSERAFIM)]]></title>
+        <id>https://vibe.naver.com/album/30858067</id>
+        <link href="https://vibe.naver.com/album/30858067"/>
+        <updated>2024-02-08T15:12:16.372Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30858067" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30858067" class="text">STUPID IN LOVE (Feat. 허윤진 of LE SSERAFIM)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/332662" class="link_artist"><span class="text">MAX</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2009]]></title>
         <id>https://vibe.naver.com/album/30845408</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30838860"/>
         <updated>2024-02-07T03:13:29.236Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30838860" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30838860" class="text">Philadelphia (with Searows)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/533414" class="link_artist"><span class="text">Matt Maltese</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 떠난다면 (feat. 이 한)]]></title>
-        <id>https://vibe.naver.com/album/30840348</id>
-        <link href="https://vibe.naver.com/album/30840348"/>
-        <updated>2024-02-07T03:13:29.237Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30840348" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30840348" class="text">내가 떠난다면 (feat. 이 한)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/8270804" class="link_artist"><span class="text">물결(mulkyul)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

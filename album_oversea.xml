@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-02-08T14:10:20.337Z</updated>
+    <updated>2024-02-08T15:12:17.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STUPID IN LOVE (Feat. 허윤진 of LE SSERAFIM)]]></title>
+        <id>https://vibe.naver.com/album/30858067</id>
+        <link href="https://vibe.naver.com/album/30858067"/>
+        <updated>2024-02-08T15:12:10.222Z</updated>
+        <content type="html"><![CDATA[MAX]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Head Underwater]]></title>
         <id>https://vibe.naver.com/album/30829353</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30828163"/>
         <updated>2024-02-08T10:11:47.123Z</updated>
         <content type="html"><![CDATA[Raphael Saadiq]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Loneliness]]></title>
-        <id>https://vibe.naver.com/album/30816195</id>
-        <link href="https://vibe.naver.com/album/30816195"/>
-        <updated>2024-02-08T10:11:47.124Z</updated>
-        <content type="html"><![CDATA[Pet Shop Boys]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-02-14T03:13:13.545Z</updated>
+    <updated>2024-02-14T04:14:21.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864083" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864083" class="text">밤양갱</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/2563841" class="link_artist"><span class="text">비비(BIBI)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Chocolate]]></title>
+        <id>https://vibe.naver.com/album/30857994</id>
+        <link href="https://vibe.naver.com/album/30857994"/>
+        <updated>2024-02-13T09:11:36.734Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30857994" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30857994" class="text">Chocolate</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/2196282" class="link_artist"><span class="text">츄(CHUU)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Coming Home]]></title>
         <id>https://vibe.naver.com/album/30864383</id>
         <link href="https://vibe.naver.com/album/30864383"/>
@@ -39,13 +46,6 @@
         <link href="https://vibe.naver.com/album/30864161"/>
         <updated>2024-02-14T03:13:12.915Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864161" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864161" class="text">마중</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/340883" class="link_artist"><span class="text">406호 프로젝트</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolate (English Ver.)]]></title>
-        <id>https://vibe.naver.com/album/30864103</id>
-        <link href="https://vibe.naver.com/album/30864103"/>
-        <updated>2024-02-14T03:13:12.923Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864103" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864103" class="text">Chocolate (English Ver.)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/2196282" class="link_artist"><span class="text">츄(CHUU)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잠을 자야해 (Zzz..)]]></title>
@@ -158,13 +158,6 @@
         <link href="https://vibe.naver.com/album/30864412"/>
         <updated>2024-02-14T03:13:12.933Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864412" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864412" class="text">남자답게</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/6712361" class="link_artist"><span class="text">UnderRock19</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolate]]></title>
-        <id>https://vibe.naver.com/album/30857994</id>
-        <link href="https://vibe.naver.com/album/30857994"/>
-        <updated>2024-02-13T09:11:36.734Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30857994" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30857994" class="text">Chocolate</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/2196282" class="link_artist"><span class="text">츄(CHUU)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SAVE ME]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/30841459"/>
         <updated>2024-02-12T09:13:13.482Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30841459" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30841459" class="text">Elliot</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/3069044" class="link_artist"><span class="text">DOMO CHEFF</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[didit]]></title>
+        <id>https://vibe.naver.com/album/30841433</id>
+        <link href="https://vibe.naver.com/album/30841433"/>
+        <updated>2024-02-14T04:14:20.478Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30841433" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30841433" class="text">didit</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/2386947" class="link_artist"><span class="text">윌라(WILLA)</span></a><span>, </span></span><span><a href="/artist/4114298" class="link_artist"><span class="text">oddjun</span></a><span>, </span></span><span><a href="/artist/4075385" class="link_artist"><span class="text">Woolenciah</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

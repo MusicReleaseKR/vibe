@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-02-14T03:13:13.541Z</updated>
+    <updated>2024-02-14T04:14:21.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TEN - The 1st Mini Album]]></title>
+        <id>https://vibe.naver.com/album/30835832</id>
+        <link href="https://vibe.naver.com/album/30835832"/>
+        <updated>2024-02-13T09:11:23.259Z</updated>
+        <content type="html"><![CDATA[텐 (TEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤양갱]]></title>
+        <id>https://vibe.naver.com/album/30864083</id>
+        <link href="https://vibe.naver.com/album/30864083"/>
+        <updated>2024-02-13T09:11:23.259Z</updated>
+        <content type="html"><![CDATA[비비(BIBI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chocolate]]></title>
+        <id>https://vibe.naver.com/album/30857994</id>
+        <link href="https://vibe.naver.com/album/30857994"/>
+        <updated>2024-02-13T09:11:23.263Z</updated>
+        <content type="html"><![CDATA[츄(CHUU)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마중]]></title>
         <id>https://vibe.naver.com/album/30864161</id>
         <link href="https://vibe.naver.com/album/30864161"/>
         <updated>2024-02-14T03:12:58.864Z</updated>
         <content type="html"><![CDATA[406호 프로젝트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolate (English Ver.)]]></title>
-        <id>https://vibe.naver.com/album/30864103</id>
-        <link href="https://vibe.naver.com/album/30864103"/>
-        <updated>2024-02-14T03:12:58.866Z</updated>
-        <content type="html"><![CDATA[츄(CHUU)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잠을 자야해 (Zzz..)]]></title>
@@ -137,27 +151,6 @@
         <link href="https://vibe.naver.com/album/30864499"/>
         <updated>2024-02-14T03:12:58.881Z</updated>
         <content type="html"><![CDATA[나운]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TEN - The 1st Mini Album]]></title>
-        <id>https://vibe.naver.com/album/30835832</id>
-        <link href="https://vibe.naver.com/album/30835832"/>
-        <updated>2024-02-13T09:11:23.259Z</updated>
-        <content type="html"><![CDATA[텐 (TEN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤양갱]]></title>
-        <id>https://vibe.naver.com/album/30864083</id>
-        <link href="https://vibe.naver.com/album/30864083"/>
-        <updated>2024-02-13T09:11:23.259Z</updated>
-        <content type="html"><![CDATA[비비(BIBI)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Chocolate]]></title>
-        <id>https://vibe.naver.com/album/30857994</id>
-        <link href="https://vibe.naver.com/album/30857994"/>
-        <updated>2024-02-13T09:11:23.263Z</updated>
-        <content type="html"><![CDATA[츄(CHUU)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SAVE ME]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/30858029"/>
         <updated>2024-02-12T09:13:02.134Z</updated>
         <content type="html"><![CDATA[이병찬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Elliot]]></title>
+        <id>https://vibe.naver.com/album/30841459</id>
+        <link href="https://vibe.naver.com/album/30841459"/>
+        <updated>2024-02-14T04:14:05.748Z</updated>
+        <content type="html"><![CDATA[DOMO CHEFF]]></content>
     </entry>
 </feed>

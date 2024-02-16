@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-02-16T04:13:45.807Z</updated>
+    <updated>2024-02-16T05:12:49.606Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[yes, and?]]></title>
+        <id>https://vibe.naver.com/album/30871930</id>
+        <link href="https://vibe.naver.com/album/30871930"/>
+        <updated>2024-02-16T05:12:42.912Z</updated>
+        <content type="html"><![CDATA[Ariana Grande]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Training Season]]></title>
         <id>https://vibe.naver.com/album/30871944</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30864102"/>
         <updated>2024-02-14T03:13:06.560Z</updated>
         <content type="html"><![CDATA[Henry Young]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'm A Problem]]></title>
-        <id>https://vibe.naver.com/album/30857373</id>
-        <link href="https://vibe.naver.com/album/30857373"/>
-        <updated>2024-02-14T03:13:06.562Z</updated>
-        <content type="html"><![CDATA[Caity Baser]]></content>
     </entry>
 </feed>

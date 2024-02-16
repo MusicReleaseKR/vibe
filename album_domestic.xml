@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-02-16T04:13:45.788Z</updated>
+    <updated>2024-02-16T05:12:49.609Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손오공 (Workout Remix)]]></title>
+        <id>https://vibe.naver.com/album/30872057</id>
+        <link href="https://vibe.naver.com/album/30872057"/>
+        <updated>2024-02-16T05:12:35.020Z</updated>
+        <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ENTITY]]></title>
         <id>https://vibe.naver.com/album/30867592</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30867349"/>
         <updated>2024-02-15T03:13:15.843Z</updated>
         <content type="html"><![CDATA[우이경]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hitch]]></title>
-        <id>https://vibe.naver.com/album/30867758</id>
-        <link href="https://vibe.naver.com/album/30867758"/>
-        <updated>2024-02-15T03:13:15.852Z</updated>
-        <content type="html"><![CDATA[캠퍼(kvmper)]]></content>
     </entry>
 </feed>

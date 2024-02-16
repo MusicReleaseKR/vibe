@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-02-16T04:13:45.775Z</updated>
+    <updated>2024-02-16T05:12:49.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[손오공 (Workout Remix)]]></title>
+        <id>https://vibe.naver.com/album/30872057</id>
+        <link href="https://vibe.naver.com/album/30872057"/>
+        <updated>2024-02-16T05:12:48.932Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30872057" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30872057" class="text">손오공 (Workout Remix)</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴 (SEVENTEEN)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[yes, and?]]></title>
+        <id>https://vibe.naver.com/album/30871930</id>
+        <link href="https://vibe.naver.com/album/30871930"/>
+        <updated>2024-02-16T05:12:48.933Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30871930" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30871930" class="text">yes, and?</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/204378" class="link_artist"><span class="text">Ariana Grande</span></a><span>, </span></span><span><a href="/artist/870" class="link_artist"><span class="text">Mariah Carey</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Training Season]]></title>
         <id>https://vibe.naver.com/album/30871944</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30864122"/>
         <updated>2024-02-14T09:11:18.387Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864122" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864122" class="text">Our : YouthTeen</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/6596060" class="link_artist"><span class="text">더윈드(The Wind)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O.o]]></title>
-        <id>https://vibe.naver.com/album/30864530</id>
-        <link href="https://vibe.naver.com/album/30864530"/>
-        <updated>2024-02-14T09:11:18.390Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864530" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864530" class="text">O.o</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/5577370" class="link_artist"><span class="text">시온</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[베이베]]></title>
-        <id>https://vibe.naver.com/album/30864514</id>
-        <link href="https://vibe.naver.com/album/30864514"/>
-        <updated>2024-02-14T09:11:18.391Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30864514" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30864514" class="text">베이베</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/4796284" class="link_artist"><span class="text">Polodared</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-02-17T08:13:51.376Z</updated>
+    <updated>2024-02-17T09:10:43.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sweatshirt]]></title>
+        <id>https://vibe.naver.com/album/30874578</id>
+        <link href="https://vibe.naver.com/album/30874578"/>
+        <updated>2024-02-17T09:10:36.562Z</updated>
+        <content type="html"><![CDATA[Patrick Hizon]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[yes, and?]]></title>
         <id>https://vibe.naver.com/album/30871930</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30857075"/>
         <updated>2024-02-14T03:13:06.560Z</updated>
         <content type="html"><![CDATA[Olivia Newton-John]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovesick]]></title>
-        <id>https://vibe.naver.com/album/30864102</id>
-        <link href="https://vibe.naver.com/album/30864102"/>
-        <updated>2024-02-14T03:13:06.560Z</updated>
-        <content type="html"><![CDATA[Henry Young]]></content>
     </entry>
 </feed>

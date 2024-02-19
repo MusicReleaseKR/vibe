@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-02-19T06:16:02.313Z</updated>
+    <updated>2024-02-19T07:12:35.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -17,7 +17,7 @@
         <id>https://vibe.naver.com/album/30867782</id>
         <link href="https://vibe.naver.com/album/30867782"/>
         <updated>2024-02-19T03:12:41.788Z</updated>
-        <content type="html"><![CDATA[Royãl]]></content>
+        <content type="html"><![CDATA[Royal &amp; The Serpent]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Your Town]]></title>
@@ -39,6 +39,13 @@
         <link href="https://vibe.naver.com/album/30874368"/>
         <updated>2024-02-19T03:12:41.803Z</updated>
         <content type="html"><![CDATA[JO1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ooh Wee]]></title>
+        <id>https://vibe.naver.com/album/30877080</id>
+        <link href="https://vibe.naver.com/album/30877080"/>
+        <updated>2024-02-19T07:12:28.703Z</updated>
+        <content type="html"><![CDATA[Orion Song]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Your Love]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30858992"/>
         <updated>2024-02-15T03:13:23.911Z</updated>
         <content type="html"><![CDATA[Tori Kelly]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is This Love (Bob Marley: One Love - Music Inspired By The Film)]]></title>
-        <id>https://vibe.naver.com/album/30863576</id>
-        <link href="https://vibe.naver.com/album/30863576"/>
-        <updated>2024-02-15T03:13:23.912Z</updated>
-        <content type="html"><![CDATA[Jessie Reyez]]></content>
     </entry>
 </feed>

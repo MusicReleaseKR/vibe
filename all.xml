@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-21T07:11:09.583Z</updated>
+    <updated>2024-02-21T08:15:11.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[3=1 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/30878845</id>
+        <link href="https://vibe.naver.com/album/30878845"/>
+        <updated>2024-02-21T03:12:08.214Z</updated>
+        <content type="html"><![CDATA[릴러말즈 (Leellamarz)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Winning (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/30796788</id>
@@ -17,13 +24,6 @@
         <link href="https://vibe.naver.com/album/30840496"/>
         <updated>2024-02-20T09:16:29.670Z</updated>
         <content type="html"><![CDATA[문별(마마무)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3=1 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/30878845</id>
-        <link href="https://vibe.naver.com/album/30878845"/>
-        <updated>2024-02-21T03:12:08.214Z</updated>
-        <content type="html"><![CDATA[릴러말즈 (Leellamarz)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그대의 차가운 손 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Nicky Youre]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[3=1 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/30878845</id>
+        <link href="https://vibe.naver.com/album/30878845"/>
+        <updated>2024-02-21T03:12:08.214Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30878845" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30878845" class="text">3=1</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/487092" class="link_artist"><span class="text">릴러말즈 (Leellamarz)</span></a><span>, </span></span><span><a href="/artist/331653" class="link_artist"><span class="text">식케이 (Sik-K)</span></a><span>, </span></span><span><a href="/artist/2371237" class="link_artist"><span class="text">김하온(HAON)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Winning (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/30796788</id>
         <link href="https://vibe.naver.com/album/30796788"/>
@@ -717,13 +724,6 @@
         <link href="https://vibe.naver.com/album/30840496"/>
         <updated>2024-02-20T09:16:29.670Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30840496" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30840496" class="text">Starlit of Muse</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/313699" class="link_artist"><span class="text">문별(마마무)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3=1 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/30878845</id>
-        <link href="https://vibe.naver.com/album/30878845"/>
-        <updated>2024-02-21T03:12:08.214Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30878845" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30878845" class="text">3=1</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/487092" class="link_artist"><span class="text">릴러말즈 (Leellamarz)</span></a><span>, </span></span><span><a href="/artist/331653" class="link_artist"><span class="text">식케이 (Sik-K)</span></a><span>, </span></span><span><a href="/artist/2371237" class="link_artist"><span class="text">김하온(HAON)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그대의 차가운 손 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

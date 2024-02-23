@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-02-23T04:13:33.978Z</updated>
+    <updated>2024-02-23T05:12:08.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Run Back To You]]></title>
+        <id>https://vibe.naver.com/album/30880815</id>
+        <link href="https://vibe.naver.com/album/30880815"/>
+        <updated>2024-02-23T05:12:01.414Z</updated>
+        <content type="html"><![CDATA[레이(LAY)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love On]]></title>
         <id>https://vibe.naver.com/album/30887889</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30873264"/>
         <updated>2024-02-21T03:12:17.565Z</updated>
         <content type="html"><![CDATA[Chromeo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAN YOU SEE ME?]]></title>
-        <id>https://vibe.naver.com/album/30870785</id>
-        <link href="https://vibe.naver.com/album/30870785"/>
-        <updated>2024-02-21T03:12:17.567Z</updated>
-        <content type="html"><![CDATA[REZZ]]></content>
     </entry>
 </feed>

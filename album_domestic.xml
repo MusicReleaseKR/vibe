@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-02-23T04:13:33.981Z</updated>
+    <updated>2024-02-23T05:12:08.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[With YOU-th]]></title>
+        <id>https://vibe.naver.com/album/30884190</id>
+        <link href="https://vibe.naver.com/album/30884190"/>
+        <updated>2024-02-23T05:11:54.129Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행]]></title>
         <id>https://vibe.naver.com/album/30798277</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30880793"/>
         <updated>2024-02-22T03:12:26.270Z</updated>
         <content type="html"><![CDATA[수빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All to Zero]]></title>
-        <id>https://vibe.naver.com/album/30880547</id>
-        <link href="https://vibe.naver.com/album/30880547"/>
-        <updated>2024-02-22T03:12:26.272Z</updated>
-        <content type="html"><![CDATA[Jade]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-02-23T04:13:33.984Z</updated>
+    <updated>2024-02-23T05:12:08.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[With YOU-th]]></title>
+        <id>https://vibe.naver.com/album/30884190</id>
+        <link href="https://vibe.naver.com/album/30884190"/>
+        <updated>2024-02-23T05:12:07.529Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30884190" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30884190" class="text">With YOU-th</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Run Back To You]]></title>
+        <id>https://vibe.naver.com/album/30880815</id>
+        <link href="https://vibe.naver.com/album/30880815"/>
+        <updated>2024-02-23T05:12:07.529Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30880815" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30880815" class="text">Run Back To You</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/237001" class="link_artist"><span class="text">레이(LAY)</span></a><span>, </span></span><span><a href="/artist/1866171" class="link_artist"><span class="text">Lauv</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여행]]></title>
         <id>https://vibe.naver.com/album/30798277</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30880560"/>
         <updated>2024-02-22T03:12:40.152Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30880560" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30880560" class="text">Need to Know</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/14980" class="link_artist"><span class="text">이용신</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fall Into Me]]></title>
-        <id>https://vibe.naver.com/album/30878695</id>
-        <link href="https://vibe.naver.com/album/30878695"/>
-        <updated>2024-02-22T03:12:40.153Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30878695" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30878695" class="text">Fall Into Me</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/5420316" class="link_artist"><span class="text">Sylo</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Your Dream]]></title>
-        <id>https://vibe.naver.com/album/30880625</id>
-        <link href="https://vibe.naver.com/album/30880625"/>
-        <updated>2024-02-22T03:12:40.155Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30880625" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30880625" class="text">Your Dream</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/8063916" class="link_artist"><span class="text">TOVE</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

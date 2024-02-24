@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-02-24T08:12:50.638Z</updated>
+    <updated>2024-02-24T09:09:58.764Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Empty Paper]]></title>
+        <id>https://vibe.naver.com/album/30888279</id>
+        <link href="https://vibe.naver.com/album/30888279"/>
+        <updated>2024-02-24T09:09:45.597Z</updated>
+        <content type="html"><![CDATA[우석(펜타곤)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날 그만 잊어요]]></title>
+        <id>https://vibe.naver.com/album/30884093</id>
+        <link href="https://vibe.naver.com/album/30884093"/>
+        <updated>2024-02-24T09:09:45.598Z</updated>
+        <content type="html"><![CDATA[마크툽(Maktub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닥터슬럼프 OST Part 4]]></title>
+        <id>https://vibe.naver.com/album/30888109</id>
+        <link href="https://vibe.naver.com/album/30888109"/>
+        <updated>2024-02-24T09:09:45.598Z</updated>
+        <content type="html"><![CDATA[정기고(Junggigo)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤성준]]></title>
+        <id>https://vibe.naver.com/album/30885257</id>
+        <link href="https://vibe.naver.com/album/30885257"/>
+        <updated>2024-02-24T09:09:45.599Z</updated>
+        <content type="html"><![CDATA[윤토벤]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Souly. (deluxe)]]></title>
+        <id>https://vibe.naver.com/album/30885256</id>
+        <link href="https://vibe.naver.com/album/30885256"/>
+        <updated>2024-02-24T09:09:45.600Z</updated>
+        <content type="html"><![CDATA[Marv]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛 조각]]></title>
+        <id>https://vibe.naver.com/album/30884351</id>
+        <link href="https://vibe.naver.com/album/30884351"/>
+        <updated>2024-02-24T09:09:45.601Z</updated>
+        <content type="html"><![CDATA[시호(SIHO)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[With YOU-th]]></title>
         <id>https://vibe.naver.com/album/30884190</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/30884102"/>
         <updated>2024-02-23T03:12:18.834Z</updated>
         <content type="html"><![CDATA[김두수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[36.2℃]]></title>
-        <id>https://vibe.naver.com/album/30884065</id>
-        <link href="https://vibe.naver.com/album/30884065"/>
-        <updated>2024-02-23T03:12:18.835Z</updated>
-        <content type="html"><![CDATA[청하나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀고 댕기는 건 질색이야]]></title>
-        <id>https://vibe.naver.com/album/30884123</id>
-        <link href="https://vibe.naver.com/album/30884123"/>
-        <updated>2024-02-23T03:12:18.836Z</updated>
-        <content type="html"><![CDATA[INDOW(인도우)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[New World]]></title>
-        <id>https://vibe.naver.com/album/30884230</id>
-        <link href="https://vibe.naver.com/album/30884230"/>
-        <updated>2024-02-23T03:12:18.838Z</updated>
-        <content type="html"><![CDATA[충완]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새벽산책]]></title>
-        <id>https://vibe.naver.com/album/30884050</id>
-        <link href="https://vibe.naver.com/album/30884050"/>
-        <updated>2024-02-23T03:12:18.839Z</updated>
-        <content type="html"><![CDATA[정흠밴드(Jungheum Band)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서래]]></title>
-        <id>https://vibe.naver.com/album/30887992</id>
-        <link href="https://vibe.naver.com/album/30887992"/>
-        <updated>2024-02-23T03:12:18.840Z</updated>
-        <content type="html"><![CDATA[하예지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[항해]]></title>
-        <id>https://vibe.naver.com/album/30884048</id>
-        <link href="https://vibe.naver.com/album/30884048"/>
-        <updated>2024-02-23T03:12:18.841Z</updated>
-        <content type="html"><![CDATA[장현웅]]></content>
     </entry>
 </feed>

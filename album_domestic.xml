@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-02-26T08:14:53.621Z</updated>
+    <updated>2024-02-26T09:13:00.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[민들레]]></title>
-        <id>https://vibe.naver.com/album/30888265</id>
-        <link href="https://vibe.naver.com/album/30888265"/>
-        <updated>2024-02-26T03:13:44.127Z</updated>
-        <content type="html"><![CDATA[승관(SEVENTEEN)]]></content>
+        <title type="html"><![CDATA[ASTERUM : 134-1]]></title>
+        <id>https://vibe.naver.com/album/30888263</id>
+        <link href="https://vibe.naver.com/album/30888263"/>
+        <updated>2024-02-26T09:12:46.793Z</updated>
+        <content type="html"><![CDATA[PLAVE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TAP - The 2nd Mini Album]]></title>
+        <id>https://vibe.naver.com/album/30880484</id>
+        <link href="https://vibe.naver.com/album/30880484"/>
+        <updated>2024-02-26T09:12:46.794Z</updated>
+        <content type="html"><![CDATA[태용 (TAEYONG)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미춰버리겠어]]></title>
+        <id>https://vibe.naver.com/album/30888500</id>
+        <link href="https://vibe.naver.com/album/30888500"/>
+        <updated>2024-02-26T09:12:46.796Z</updated>
+        <content type="html"><![CDATA[기리보이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[EVERSHINE]]></title>
+        <id>https://vibe.naver.com/album/30888378</id>
+        <link href="https://vibe.naver.com/album/30888378"/>
+        <updated>2024-02-26T09:12:46.797Z</updated>
+        <content type="html"><![CDATA[CRAVITY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파도]]></title>
+        <id>https://vibe.naver.com/album/30888467</id>
+        <link href="https://vibe.naver.com/album/30888467"/>
+        <updated>2024-02-26T09:12:46.798Z</updated>
+        <content type="html"><![CDATA[재만(JAEMAN)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ONE SPARK]]></title>
@@ -18,6 +46,27 @@
         <link href="https://vibe.naver.com/album/30888719"/>
         <updated>2024-02-26T05:12:07.681Z</updated>
         <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어쩌다가]]></title>
+        <id>https://vibe.naver.com/album/30888075</id>
+        <link href="https://vibe.naver.com/album/30888075"/>
+        <updated>2024-02-26T09:12:46.800Z</updated>
+        <content type="html"><![CDATA[SER!N]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시시콜콜한 이야기]]></title>
+        <id>https://vibe.naver.com/album/30888181</id>
+        <link href="https://vibe.naver.com/album/30888181"/>
+        <updated>2024-02-26T09:12:46.801Z</updated>
+        <content type="html"><![CDATA[허회경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[민들레]]></title>
+        <id>https://vibe.naver.com/album/30888265</id>
+        <link href="https://vibe.naver.com/album/30888265"/>
+        <updated>2024-02-26T03:13:44.127Z</updated>
+        <content type="html"><![CDATA[승관(SEVENTEEN)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노웨이홈 OST]]></title>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/30888088"/>
         <updated>2024-02-25T03:12:14.632Z</updated>
         <content type="html"><![CDATA[heyden]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈치게임]]></title>
-        <id>https://vibe.naver.com/album/30888054</id>
-        <link href="https://vibe.naver.com/album/30888054"/>
-        <updated>2024-02-25T03:12:14.632Z</updated>
-        <content type="html"><![CDATA[1DAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[How to love]]></title>
-        <id>https://vibe.naver.com/album/30888048</id>
-        <link href="https://vibe.naver.com/album/30888048"/>
-        <updated>2024-02-25T03:12:14.632Z</updated>
-        <content type="html"><![CDATA[유용민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[M.L.I.A.S (My Love Is Always Standing)]]></title>
-        <id>https://vibe.naver.com/album/30888035</id>
-        <link href="https://vibe.naver.com/album/30888035"/>
-        <updated>2024-02-25T03:12:14.632Z</updated>
-        <content type="html"><![CDATA[릴피쉬(LilFISH)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TONIGHT]]></title>
-        <id>https://vibe.naver.com/album/30884181</id>
-        <link href="https://vibe.naver.com/album/30884181"/>
-        <updated>2024-02-25T03:12:14.632Z</updated>
-        <content type="html"><![CDATA[GERONIMO(제로니모)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BAAM]]></title>
-        <id>https://vibe.naver.com/album/30888132</id>
-        <link href="https://vibe.naver.com/album/30888132"/>
-        <updated>2024-02-25T03:12:14.632Z</updated>
-        <content type="html"><![CDATA[GWON(권)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love sick]]></title>
-        <id>https://vibe.naver.com/album/30888030</id>
-        <link href="https://vibe.naver.com/album/30888030"/>
-        <updated>2024-02-25T03:12:14.635Z</updated>
-        <content type="html"><![CDATA[YOUNGKEEM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또각]]></title>
-        <id>https://vibe.naver.com/album/30888179</id>
-        <link href="https://vibe.naver.com/album/30888179"/>
-        <updated>2024-02-25T03:12:14.636Z</updated>
-        <content type="html"><![CDATA[켈리(Kelly)]]></content>
     </entry>
 </feed>

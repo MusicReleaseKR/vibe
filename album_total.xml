@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-02-26T04:13:43.657Z</updated>
+    <updated>2024-02-26T05:12:22.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/30888265"/>
         <updated>2024-02-26T03:13:58.848Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30888265" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30888265" class="text">민들레</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/421399" class="link_artist"><span class="text">승관(SEVENTEEN)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE SPARK]]></title>
+        <id>https://vibe.naver.com/album/30888719</id>
+        <link href="https://vibe.naver.com/album/30888719"/>
+        <updated>2024-02-26T05:12:21.623Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30888719" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30888719" class="text">ONE SPARK</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[노웨이홈 OST]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30884351"/>
         <updated>2024-02-24T09:09:58.105Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30884351" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30884351" class="text">빛 조각</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/6534526" class="link_artist"><span class="text">시호(SIHO)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With YOU-th]]></title>
-        <id>https://vibe.naver.com/album/30884190</id>
-        <link href="https://vibe.naver.com/album/30884190"/>
-        <updated>2024-02-23T05:12:07.529Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-50987fb6="" href="/album/30884190" class="title"><span data-v-50987fb6="" class="text_wrap"><span data-v-50987fb6="" id="30884190" class="text">With YOU-th</span><!----><!----></span><span data-v-50987fb6="" class="blind">페이지로 이동</span></a><div data-v-50987fb6="" class="artist"><span data-v-50987fb6="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-50987fb6="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

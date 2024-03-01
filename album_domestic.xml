@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-01T08:14:19.461Z</updated>
+    <updated>2024-03-01T09:13:41.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blue Rain [THE 시즌즈: 이효리의 레드카펫]]]></title>
+        <id>https://vibe.naver.com/album/30929421</id>
+        <link href="https://vibe.naver.com/album/30929421"/>
+        <updated>2024-03-01T09:13:27.677Z</updated>
+        <content type="html"><![CDATA[김민석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가끔 네 생각이 나]]></title>
+        <id>https://vibe.naver.com/album/30937802</id>
+        <link href="https://vibe.naver.com/album/30937802"/>
+        <updated>2024-03-01T09:13:27.680Z</updated>
+        <content type="html"><![CDATA[주대건]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Don't Cry]]></title>
+        <id>https://vibe.naver.com/album/30937457</id>
+        <link href="https://vibe.naver.com/album/30937457"/>
+        <updated>2024-03-01T09:13:27.681Z</updated>
+        <content type="html"><![CDATA[Yuwol]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[밤이 되니까 2024]]></title>
+        <id>https://vibe.naver.com/album/30937614</id>
+        <link href="https://vibe.naver.com/album/30937614"/>
+        <updated>2024-03-01T09:13:27.683Z</updated>
+        <content type="html"><![CDATA[ADORA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환승연애3 OST Part 7]]></title>
         <id>https://vibe.naver.com/album/30929417</id>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/30894275"/>
         <updated>2024-02-29T03:12:58.392Z</updated>
         <content type="html"><![CDATA[모닝커피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우린 서로]]></title>
-        <id>https://vibe.naver.com/album/30919856</id>
-        <link href="https://vibe.naver.com/album/30919856"/>
-        <updated>2024-02-29T03:12:58.393Z</updated>
-        <content type="html"><![CDATA[등]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Willy]]></title>
-        <id>https://vibe.naver.com/album/30893806</id>
-        <link href="https://vibe.naver.com/album/30893806"/>
-        <updated>2024-02-29T03:12:58.395Z</updated>
-        <content type="html"><![CDATA[Orca9 (오르카9)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서서히]]></title>
-        <id>https://vibe.naver.com/album/30925061</id>
-        <link href="https://vibe.naver.com/album/30925061"/>
-        <updated>2024-02-29T03:12:58.396Z</updated>
-        <content type="html"><![CDATA[데이무드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleep Tight]]></title>
-        <id>https://vibe.naver.com/album/30920590</id>
-        <link href="https://vibe.naver.com/album/30920590"/>
-        <updated>2024-02-29T03:12:58.399Z</updated>
-        <content type="html"><![CDATA[Jayd(제이드)]]></content>
     </entry>
 </feed>

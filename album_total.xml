@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-03-05T03:13:10.074Z</updated>
+    <updated>2024-03-05T04:14:03.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/30938971"/>
         <updated>2024-03-05T03:13:09.365Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-0bea70c2="" href="/album/30938971" class="title"><span data-v-0bea70c2="" class="text_wrap"><span data-v-0bea70c2="" id="30938971" class="text">Still Yours (From The Doc)</span><!----><!----></span><span data-v-0bea70c2="" class="blind">페이지로 이동</span></a><div data-v-0bea70c2="" class="artist"><span data-v-0bea70c2="" class="artist_sub_inner"><span><a href="/artist/2978307" class="link_artist"><span class="text">The Kid LAROI</span></a><!----></span></span><span data-v-0bea70c2="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Von dutch]]></title>
+        <id>https://vibe.naver.com/album/30937693</id>
+        <link href="https://vibe.naver.com/album/30937693"/>
+        <updated>2024-03-05T04:14:03.060Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-0bea70c2="" href="/album/30937693" class="title"><span data-v-0bea70c2="" class="text_wrap"><span data-v-0bea70c2="" id="30937693" class="text">Von dutch</span><!----><!----></span><span data-v-0bea70c2="" class="blind">페이지로 이동</span></a><div data-v-0bea70c2="" class="artist"><span data-v-0bea70c2="" class="artist_sub_inner"><span><a href="/artist/162067" class="link_artist"><span class="text">Charli XCX</span></a><!----></span></span><span data-v-0bea70c2="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[희로애락 (喜怒哀樂)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/30938079"/>
         <updated>2024-03-04T03:04:36.673Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-0bea70c2="" href="/album/30938079" class="title"><span data-v-0bea70c2="" class="text_wrap"><span data-v-0bea70c2="" id="30938079" class="text">우리의 사랑은 불안하고 영원할거야</span><!----><!----></span><span data-v-0bea70c2="" class="blind">페이지로 이동</span></a><div data-v-0bea70c2="" class="artist"><span data-v-0bea70c2="" class="artist_sub_inner"><span><a href="/artist/3561636" class="link_artist"><span class="text">고경빈</span></a><!----></span></span><span data-v-0bea70c2="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년의 고백]]></title>
-        <id>https://vibe.naver.com/album/30934141</id>
-        <link href="https://vibe.naver.com/album/30934141"/>
-        <updated>2024-03-03T09:11:27.548Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-0bea70c2="" href="/album/30934141" class="title"><span data-v-0bea70c2="" class="text_wrap"><span data-v-0bea70c2="" id="30934141" class="text">소년의 고백</span><!----><!----></span><span data-v-0bea70c2="" class="blind">페이지로 이동</span></a><div data-v-0bea70c2="" class="artist"><span data-v-0bea70c2="" class="artist_sub_inner"><span><a href="/artist/2394392" class="link_artist"><span class="text">범진</span></a><!----></span></span><span data-v-0bea70c2="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

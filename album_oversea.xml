@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-03-12T08:14:18.673Z</updated>
+    <updated>2024-03-12T09:15:11.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[별이되어라2 : 絶望の女神]]></title>
+        <id>https://vibe.naver.com/album/31027326</id>
+        <link href="https://vibe.naver.com/album/31027326"/>
+        <updated>2024-03-12T09:15:04.399Z</updated>
+        <content type="html"><![CDATA[Yurina Hirate]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Alley Rose]]></title>
         <id>https://vibe.naver.com/album/30998627</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31016912"/>
         <updated>2024-03-08T03:12:10.869Z</updated>
         <content type="html"><![CDATA[11 Acorn Lane]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jiggy Woogie]]></title>
-        <id>https://vibe.naver.com/album/31010948</id>
-        <link href="https://vibe.naver.com/album/31010948"/>
-        <updated>2024-03-08T03:12:10.870Z</updated>
-        <content type="html"><![CDATA[Don Diablo]]></content>
     </entry>
 </feed>

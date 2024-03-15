@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-15T03:13:36.037Z</updated>
+    <updated>2024-03-15T04:14:25.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FRI(END)S]]></title>
+        <id>https://vibe.naver.com/album/31038964</id>
+        <link href="https://vibe.naver.com/album/31038964"/>
+        <updated>2024-03-15T04:14:10.563Z</updated>
+        <content type="html"><![CDATA[V]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Only One]]></title>
+        <id>https://vibe.naver.com/album/31035203</id>
+        <link href="https://vibe.naver.com/album/31035203"/>
+        <updated>2024-03-15T04:14:10.563Z</updated>
+        <content type="html"><![CDATA[VCHA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Borderline]]></title>
         <id>https://vibe.naver.com/album/31030451</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/30890957"/>
         <updated>2024-03-14T03:12:52.545Z</updated>
         <content type="html"><![CDATA[노르웨이 숲]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOGIC]]></title>
-        <id>https://vibe.naver.com/album/31030248</id>
-        <link href="https://vibe.naver.com/album/31030248"/>
-        <updated>2024-03-14T03:12:52.546Z</updated>
-        <content type="html"><![CDATA[머디레드(Muddy Red)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고전시가 Part 1 : 비운의 소년 군주]]></title>
-        <id>https://vibe.naver.com/album/31030198</id>
-        <link href="https://vibe.naver.com/album/31030198"/>
-        <updated>2024-03-14T03:12:52.546Z</updated>
-        <content type="html"><![CDATA[유주]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-15T09:11:37.923Z</updated>
+    <updated>2024-03-15T10:11:42.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[V]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장마 (남은 인생 10년 X 휘인 (Whee In))]]></title>
-        <id>https://vibe.naver.com/album/31035551</id>
-        <link href="https://vibe.naver.com/album/31035551"/>
-        <updated>2024-03-15T09:11:24.658Z</updated>
-        <content type="html"><![CDATA[휘인(Whee In)]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[40]]></title>
         <id>https://vibe.naver.com/album/31035546</id>
         <link href="https://vibe.naver.com/album/31035546"/>
         <updated>2024-03-15T09:11:24.658Z</updated>
         <content type="html"><![CDATA[옥상달빛]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[장마 (남은 인생 10년 X 휘인 (Whee In))]]></title>
+        <id>https://vibe.naver.com/album/31035551</id>
+        <link href="https://vibe.naver.com/album/31035551"/>
+        <updated>2024-03-15T09:11:24.658Z</updated>
+        <content type="html"><![CDATA[휘인(Whee In)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Beautiful (사주왕 X 김성규, 남우현)]]></title>

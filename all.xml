@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-18T04:13:49.215Z</updated>
+    <updated>2024-03-18T05:13:28.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[봄이 되어요 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/31039364</id>
+        <link href="https://vibe.naver.com/album/31039364"/>
+        <updated>2024-03-18T05:13:15.093Z</updated>
+        <content type="html"><![CDATA[여림]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조금만 기다려줄래 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/31039487</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/31039205"/>
         <updated>2024-03-16T09:10:35.851Z</updated>
         <content type="html"><![CDATA[다이애나 (Diana)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FRI(END)S (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/31038964</id>
-        <link href="https://vibe.naver.com/album/31038964"/>
-        <updated>2024-03-15T04:14:10.563Z</updated>
-        <content type="html"><![CDATA[V]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Enough (Miami) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>

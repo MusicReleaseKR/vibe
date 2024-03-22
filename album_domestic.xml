@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-22T03:13:06.011Z</updated>
+    <updated>2024-03-22T04:13:51.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Smart (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31062253</id>
+        <link href="https://vibe.naver.com/album/31062253"/>
+        <updated>2024-03-22T04:13:36.594Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빌드업 : 보컬 보이그룹 서바이벌 SEMI FINAL]]></title>
         <id>https://vibe.naver.com/album/31061650</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31054976"/>
         <updated>2024-03-21T03:13:50.044Z</updated>
         <content type="html"><![CDATA[란(RAN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water In The World]]></title>
-        <id>https://vibe.naver.com/album/31055307</id>
-        <link href="https://vibe.naver.com/album/31055307"/>
-        <updated>2024-03-21T03:13:50.044Z</updated>
-        <content type="html"><![CDATA[메이트리(Maytree)]]></content>
     </entry>
 </feed>

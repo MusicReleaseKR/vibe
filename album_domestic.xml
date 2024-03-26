@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-26T08:14:59.891Z</updated>
+    <updated>2024-03-26T09:12:28.955Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[606]]></title>
+        <id>https://vibe.naver.com/album/31052638</id>
+        <link href="https://vibe.naver.com/album/31052638"/>
+        <updated>2024-03-26T09:12:16.043Z</updated>
+        <content type="html"><![CDATA[SUPER JUNIOR-D&amp;E]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너의 편이 돼 줄게]]></title>
+        <id>https://vibe.naver.com/album/31069423</id>
+        <link href="https://vibe.naver.com/album/31069423"/>
+        <updated>2024-03-26T09:12:16.043Z</updated>
+        <content type="html"><![CDATA[다비치]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ONE HEARTED]]></title>
+        <id>https://vibe.naver.com/album/31069666</id>
+        <link href="https://vibe.naver.com/album/31069666"/>
+        <updated>2024-03-26T09:12:16.055Z</updated>
+        <content type="html"><![CDATA[앰퍼샌드원(AMPERS&amp;ONE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정말, 없니? (Emptiness)]]></title>
+        <id>https://vibe.naver.com/album/31069647</id>
+        <link href="https://vibe.naver.com/album/31069647"/>
+        <updated>2024-03-26T09:12:16.057Z</updated>
+        <content type="html"><![CDATA[보아 (BoA)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOMMELIER]]></title>
+        <id>https://vibe.naver.com/album/31069608</id>
+        <link href="https://vibe.naver.com/album/31069608"/>
+        <updated>2024-03-26T09:12:16.067Z</updated>
+        <content type="html"><![CDATA[Kid Wine]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑해 줘 (Our Pie X 스트레이(The Stray))]]></title>
+        <id>https://vibe.naver.com/album/31069748</id>
+        <link href="https://vibe.naver.com/album/31069748"/>
+        <updated>2024-03-26T09:12:16.067Z</updated>
+        <content type="html"><![CDATA[스트레이(The Stray)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Honesty (Pink Sweat$ Cover)]]></title>
+        <id>https://vibe.naver.com/album/31071494</id>
+        <link href="https://vibe.naver.com/album/31071494"/>
+        <updated>2024-03-26T09:12:16.069Z</updated>
+        <content type="html"><![CDATA[빈센트 블루(Vincent Blue)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웃고 있지만 우린 슬픈거야]]></title>
+        <id>https://vibe.naver.com/album/31069347</id>
+        <link href="https://vibe.naver.com/album/31069347"/>
+        <updated>2024-03-26T09:12:16.071Z</updated>
+        <content type="html"><![CDATA[4BOUT(어바웃)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Feel so alive]]></title>
+        <id>https://vibe.naver.com/album/31069533</id>
+        <link href="https://vibe.naver.com/album/31069533"/>
+        <updated>2024-03-26T09:12:16.072Z</updated>
+        <content type="html"><![CDATA[entoy]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Re:Scene]]></title>
+        <id>https://vibe.naver.com/album/31069645</id>
+        <link href="https://vibe.naver.com/album/31069645"/>
+        <updated>2024-03-26T09:12:16.074Z</updated>
+        <content type="html"><![CDATA[RESCENE(리센느)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어디까지]]></title>
+        <id>https://vibe.naver.com/album/31069564</id>
+        <link href="https://vibe.naver.com/album/31069564"/>
+        <updated>2024-03-26T09:12:16.075Z</updated>
+        <content type="html"><![CDATA[안재우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Drippin' Tear]]></title>
+        <id>https://vibe.naver.com/album/31069350</id>
+        <link href="https://vibe.naver.com/album/31069350"/>
+        <updated>2024-03-26T09:12:16.077Z</updated>
+        <content type="html"><![CDATA[THUGBOYY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DREAM( )SCAPE]]></title>
         <id>https://vibe.naver.com/album/31069521</id>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/31066470"/>
         <updated>2024-03-25T03:14:34.354Z</updated>
         <content type="html"><![CDATA[장희원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Can't Stop the Feeling]]></title>
-        <id>https://vibe.naver.com/album/31066475</id>
-        <link href="https://vibe.naver.com/album/31066475"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[윤새 (Yunsae)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wake Up!]]></title>
-        <id>https://vibe.naver.com/album/31066440</id>
-        <link href="https://vibe.naver.com/album/31066440"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[진동욱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어제처럼 우리]]></title>
-        <id>https://vibe.naver.com/album/31066386</id>
-        <link href="https://vibe.naver.com/album/31066386"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[영오(05)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[핫하]]></title>
-        <id>https://vibe.naver.com/album/31066434</id>
-        <link href="https://vibe.naver.com/album/31066434"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[유니버스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's our day]]></title>
-        <id>https://vibe.naver.com/album/31066428</id>
-        <link href="https://vibe.naver.com/album/31066428"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[유용민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/31066401</id>
-        <link href="https://vibe.naver.com/album/31066401"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[SER!N]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midnight Ride]]></title>
-        <id>https://vibe.naver.com/album/31049035</id>
-        <link href="https://vibe.naver.com/album/31049035"/>
-        <updated>2024-03-25T03:14:34.354Z</updated>
-        <content type="html"><![CDATA[Kiera]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셋]]></title>
-        <id>https://vibe.naver.com/album/31062131</id>
-        <link href="https://vibe.naver.com/album/31062131"/>
-        <updated>2024-03-25T03:14:34.355Z</updated>
-        <content type="html"><![CDATA[234]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starry Night]]></title>
-        <id>https://vibe.naver.com/album/31061722</id>
-        <link href="https://vibe.naver.com/album/31061722"/>
-        <updated>2024-03-25T03:14:34.355Z</updated>
-        <content type="html"><![CDATA[박서령]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 꿈은 쓰일 가치가 있습니다]]></title>
-        <id>https://vibe.naver.com/album/31066758</id>
-        <link href="https://vibe.naver.com/album/31066758"/>
-        <updated>2024-03-25T03:14:34.355Z</updated>
-        <content type="html"><![CDATA[쓰는 정원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이어른]]></title>
-        <id>https://vibe.naver.com/album/31066430</id>
-        <link href="https://vibe.naver.com/album/31066430"/>
-        <updated>2024-03-25T03:14:34.355Z</updated>
-        <content type="html"><![CDATA[재연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't You Wanna]]></title>
-        <id>https://vibe.naver.com/album/31066390</id>
-        <link href="https://vibe.naver.com/album/31066390"/>
-        <updated>2024-03-25T03:14:34.357Z</updated>
-        <content type="html"><![CDATA[yooji(유지)]]></content>
     </entry>
 </feed>

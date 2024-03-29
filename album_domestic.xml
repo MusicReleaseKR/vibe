@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-29T03:12:50.507Z</updated>
+    <updated>2024-03-29T04:14:58.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HOPE ON THE STREET VOL.1]]></title>
+        <id>https://vibe.naver.com/album/31088774</id>
+        <link href="https://vibe.naver.com/album/31088774"/>
+        <updated>2024-03-29T04:14:43.036Z</updated>
+        <content type="html"><![CDATA[j-hope]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<Pre1 : Birth>]]></title>
+        <id>https://vibe.naver.com/album/31087840</id>
+        <link href="https://vibe.naver.com/album/31087840"/>
+        <updated>2024-03-29T04:14:43.036Z</updated>
+        <content type="html"><![CDATA[ARTMS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet Venom (Seeb Remix)]]></title>
+        <id>https://vibe.naver.com/album/31088928</id>
+        <link href="https://vibe.naver.com/album/31088928"/>
+        <updated>2024-03-29T04:14:43.036Z</updated>
+        <content type="html"><![CDATA[ENHYPEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2 Kids On The Block]]></title>
         <id>https://vibe.naver.com/album/8104085</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/31082314"/>
         <updated>2024-03-28T03:12:52.232Z</updated>
         <content type="html"><![CDATA[박은빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낙화]]></title>
-        <id>https://vibe.naver.com/album/31082348</id>
-        <link href="https://vibe.naver.com/album/31082348"/>
-        <updated>2024-03-28T03:12:52.234Z</updated>
-        <content type="html"><![CDATA[BehindtheMoon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Complicated you]]></title>
-        <id>https://vibe.naver.com/album/31071241</id>
-        <link href="https://vibe.naver.com/album/31071241"/>
-        <updated>2024-03-28T03:12:52.234Z</updated>
-        <content type="html"><![CDATA[kenessi(케네시)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마의 봄 (Feat. 이효리)]]></title>
-        <id>https://vibe.naver.com/album/31082012</id>
-        <link href="https://vibe.naver.com/album/31082012"/>
-        <updated>2024-03-28T03:12:52.237Z</updated>
-        <content type="html"><![CDATA[정미조]]></content>
     </entry>
 </feed>

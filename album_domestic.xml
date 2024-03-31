@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-03-31T08:14:21.556Z</updated>
+    <updated>2024-03-31T09:11:37.235Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[칵테일 사랑]]></title>
+        <id>https://vibe.naver.com/album/31121352</id>
+        <link href="https://vibe.naver.com/album/31121352"/>
+        <updated>2024-03-31T09:11:24.976Z</updated>
+        <content type="html"><![CDATA[경서]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEAD LOVE]]></title>
+        <id>https://vibe.naver.com/album/31121969</id>
+        <link href="https://vibe.naver.com/album/31121969"/>
+        <updated>2024-03-31T09:11:24.976Z</updated>
+        <content type="html"><![CDATA[민서(MINSEO)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Psycho, Loveholic [THE 시즌즈: 이효리의 레드카펫]]]></title>
+        <id>https://vibe.naver.com/album/31120132</id>
+        <link href="https://vibe.naver.com/album/31120132"/>
+        <updated>2024-03-31T09:11:24.976Z</updated>
+        <content type="html"><![CDATA[볼빨간사춘기]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3]]></title>
+        <id>https://vibe.naver.com/album/31086562</id>
+        <link href="https://vibe.naver.com/album/31086562"/>
+        <updated>2024-03-31T09:11:24.976Z</updated>
+        <content type="html"><![CDATA[방용국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매일 재회해 드립니다 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/31121816</id>
+        <link href="https://vibe.naver.com/album/31121816"/>
+        <updated>2024-03-31T09:11:24.976Z</updated>
+        <content type="html"><![CDATA[후아유]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그 사람]]></title>
+        <id>https://vibe.naver.com/album/31121970</id>
+        <link href="https://vibe.naver.com/album/31121970"/>
+        <updated>2024-03-31T09:11:24.976Z</updated>
+        <content type="html"><![CDATA[이우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[궁궐의 맹수 OST Part 13]]></title>
+        <id>https://vibe.naver.com/album/31120739</id>
+        <link href="https://vibe.naver.com/album/31120739"/>
+        <updated>2024-03-31T09:11:24.977Z</updated>
+        <content type="html"><![CDATA[리디아(Lydia)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[4월의 눈]]></title>
         <id>https://vibe.naver.com/album/31121817</id>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/31086464"/>
         <updated>2024-03-29T03:12:35.390Z</updated>
         <content type="html"><![CDATA[<div data-v-6b5edd7d="" class="" data-v-4639e6ee=""><div data-v-6b5edd7d="" class="thumb_area"><a data-v-6b5edd7d="" href="/album/31086464" class="link"><img data-v-cbb0f7a8="" data-v-6b5edd7d="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="빌드업 : 보컬 보이그룹 서바이벌 FINAL 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-6b5edd7d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="31086464"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-6b5edd7d="" class="more_option only"><!----><div data-v-892aaac6="" class="dropdown_wrap"><a data-v-892aaac6="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="31086464" class="btn_option_now"><span data-v-892aaac6="" class="blind">옵션 보기</span></a><div data-v-892aaac6="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-892aaac6="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-892aaac6="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-892aaac6="">좋아요</span></a><a data-v-892aaac6="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-892aaac6="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-892aaac6=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-892aaac6="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/31086464" data-title="빌드업 : 보컬 보이그룹 서바이벌 FINAL" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-892aaac6="" class="btn_close_area"><a data-v-892aaac6="" href="#" class="btn_close"><span data-v-892aaac6="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-6b5edd7d="" class="info"><!----><a data-v-6b5edd7d="" href="/album/31086464" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31086464" class="text">빌드업 : 보컬 보이그룹 서바이벌 FINAL</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그리움은 불시에]]></title>
-        <id>https://vibe.naver.com/album/31087839</id>
-        <link href="https://vibe.naver.com/album/31087839"/>
-        <updated>2024-03-29T03:12:35.400Z</updated>
-        <content type="html"><![CDATA[한경일]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Used To Be]]></title>
-        <id>https://vibe.naver.com/album/31086461</id>
-        <link href="https://vibe.naver.com/album/31086461"/>
-        <updated>2024-03-29T03:12:35.401Z</updated>
-        <content type="html"><![CDATA[pH-1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SISI]]></title>
-        <id>https://vibe.naver.com/album/31086470</id>
-        <link href="https://vibe.naver.com/album/31086470"/>
-        <updated>2024-03-29T03:12:35.403Z</updated>
-        <content type="html"><![CDATA[SOI(소이)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Smoking With The Angel]]></title>
-        <id>https://vibe.naver.com/album/31082319</id>
-        <link href="https://vibe.naver.com/album/31082319"/>
-        <updated>2024-03-29T03:12:35.403Z</updated>
-        <content type="html"><![CDATA[Vanillare(바닐레어)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[흐르는 대로]]></title>
-        <id>https://vibe.naver.com/album/31071607</id>
-        <link href="https://vibe.naver.com/album/31071607"/>
-        <updated>2024-03-29T03:12:35.403Z</updated>
-        <content type="html"><![CDATA[Adios Audio]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관계(2017)]]></title>
-        <id>https://vibe.naver.com/album/31082345</id>
-        <link href="https://vibe.naver.com/album/31082345"/>
-        <updated>2024-03-29T03:12:35.409Z</updated>
-        <content type="html"><![CDATA[주용정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내게 오는 그 길에]]></title>
-        <id>https://vibe.naver.com/album/31089063</id>
-        <link href="https://vibe.naver.com/album/31089063"/>
-        <updated>2024-03-29T03:12:35.409Z</updated>
-        <content type="html"><![CDATA[란(RAN)]]></content>
     </entry>
 </feed>

@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-01T08:16:25.758Z</updated>
+    <updated>2024-04-01T09:13:44.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Happy Order?]]></title>
+        <id>https://vibe.naver.com/album/31171912</id>
+        <link href="https://vibe.naver.com/album/31171912"/>
+        <updated>2024-04-01T09:13:37.470Z</updated>
+        <content type="html"><![CDATA[imase]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Non Believer]]></title>
+        <id>https://vibe.naver.com/album/31118045</id>
+        <link href="https://vibe.naver.com/album/31118045"/>
+        <updated>2024-04-01T09:13:37.470Z</updated>
+        <content type="html"><![CDATA[Kodak Black]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Split Screen]]></title>
+        <id>https://vibe.naver.com/album/31085630</id>
+        <link href="https://vibe.naver.com/album/31085630"/>
+        <updated>2024-04-01T09:13:37.470Z</updated>
+        <content type="html"><![CDATA[Kings Of Leon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GALA Y DALÍ]]></title>
+        <id>https://vibe.naver.com/album/31114161</id>
+        <link href="https://vibe.naver.com/album/31114161"/>
+        <updated>2024-04-01T09:13:37.470Z</updated>
+        <content type="html"><![CDATA[Nelly Furtado]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where? (Remastered 2024)]]></title>
+        <id>https://vibe.naver.com/album/31085611</id>
+        <link href="https://vibe.naver.com/album/31085611"/>
+        <updated>2024-04-01T09:13:37.472Z</updated>
+        <content type="html"><![CDATA[Ron Carter]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Mary Boone]]></title>
         <id>https://vibe.naver.com/album/31097912</id>
@@ -38,7 +73,7 @@
         <id>https://vibe.naver.com/album/31082403</id>
         <link href="https://vibe.naver.com/album/31082403"/>
         <updated>2024-04-01T03:12:58.005Z</updated>
-        <content type="html"><![CDATA[Neiked]]></content>
+        <content type="html"><![CDATA[NEIKED]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Psalm 23]]></title>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/31064213"/>
         <updated>2024-03-28T03:13:00.743Z</updated>
         <content type="html"><![CDATA[Johnny Yukon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Minute]]></title>
-        <id>https://vibe.naver.com/album/31082123</id>
-        <link href="https://vibe.naver.com/album/31082123"/>
-        <updated>2024-03-28T03:13:00.747Z</updated>
-        <content type="html"><![CDATA[Yann Muller]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Die Alone]]></title>
-        <id>https://vibe.naver.com/album/31059861</id>
-        <link href="https://vibe.naver.com/album/31059861"/>
-        <updated>2024-03-28T03:13:00.748Z</updated>
-        <content type="html"><![CDATA[K-391]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Far Away]]></title>
-        <id>https://vibe.naver.com/album/31082119</id>
-        <link href="https://vibe.naver.com/album/31082119"/>
-        <updated>2024-03-28T03:13:00.749Z</updated>
-        <content type="html"><![CDATA[SCOTT &amp; LILA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Joke's On Me]]></title>
-        <id>https://vibe.naver.com/album/31059738</id>
-        <link href="https://vibe.naver.com/album/31059738"/>
-        <updated>2024-03-28T03:13:00.750Z</updated>
-        <content type="html"><![CDATA[Sofia Carson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Little Bit Off]]></title>
-        <id>https://vibe.naver.com/album/31081296</id>
-        <link href="https://vibe.naver.com/album/31081296"/>
-        <updated>2024-03-28T03:13:00.752Z</updated>
-        <content type="html"><![CDATA[Theo Tams]]></content>
     </entry>
 </feed>

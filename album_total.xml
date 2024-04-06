@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-04-06T03:13:20.133Z</updated>
+    <updated>2024-04-06T04:15:18.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VACATION]]></title>
+        <id>https://vibe.naver.com/album/31239741</id>
+        <link href="https://vibe.naver.com/album/31239741"/>
+        <updated>2024-04-06T04:15:18.224Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31239741" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31239741" class="text">VACATION</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5842479" class="link_artist"><span class="text">보이후드(BOYHOOD)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[티라미수 케익 (남은 인생 10년 X 10CM)]]></title>
         <id>https://vibe.naver.com/album/31264473</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31225893"/>
         <updated>2024-04-04T03:15:48.995Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31225893" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31225893" class="text">나도</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2954213" class="link_artist"><span class="text">Mingginyu(밍기뉴)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IMMM]]></title>
-        <id>https://vibe.naver.com/album/31223168</id>
-        <link href="https://vibe.naver.com/album/31223168"/>
-        <updated>2024-04-04T03:15:48.995Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31223168" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31223168" class="text">IMMM</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5348091" class="link_artist"><span class="text">아일리원(ILY:1)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

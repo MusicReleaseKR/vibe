@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-11T14:12:45.746Z</updated>
+    <updated>2024-04-11T15:12:47.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MARNI (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[Shyun]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[WHY? (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/31416201</id>
+        <link href="https://vibe.naver.com/album/31416201"/>
+        <updated>2024-04-11T15:12:41.503Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Femme Fatale (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/31238901</id>
         <link href="https://vibe.naver.com/album/31238901"/>
@@ -698,11 +705,11 @@
         <content type="html"><![CDATA[Olivia Dean]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Weather (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31205917</id>
-        <link href="https://vibe.naver.com/album/31205917"/>
-        <updated>2024-04-08T03:13:12.369Z</updated>
-        <content type="html"><![CDATA[Fly By Midnight]]></content>
+        <title type="html"><![CDATA[WHY? (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31416201</id>
+        <link href="https://vibe.naver.com/album/31416201"/>
+        <updated>2024-04-11T15:12:46.842Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31416201" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31416201" class="text">WHY?</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MARNI (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31243343"/>
         <updated>2024-04-10T03:14:28.248Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31243343" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31243343" class="text">Comin' Around Again</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1409331" class="link_artist"><span class="text">Amber Mark</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eat Pray Love (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31274556</id>
-        <link href="https://vibe.naver.com/album/31274556"/>
-        <updated>2024-04-10T03:14:28.248Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31274556" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31274556" class="text">Eat Pray Love</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/864582" class="link_artist"><span class="text">Paul Russell</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

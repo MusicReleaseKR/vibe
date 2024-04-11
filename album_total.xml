@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-04-11T14:12:45.743Z</updated>
+    <updated>2024-04-11T15:12:47.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHY?]]></title>
+        <id>https://vibe.naver.com/album/31416201</id>
+        <link href="https://vibe.naver.com/album/31416201"/>
+        <updated>2024-04-11T15:12:46.842Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31416201" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31416201" class="text">WHY?</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MARNI]]></title>
         <id>https://vibe.naver.com/album/31039045</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31243343"/>
         <updated>2024-04-10T03:14:34.353Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31243343" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31243343" class="text">Comin' Around Again</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1409331" class="link_artist"><span class="text">Amber Mark</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Eat Pray Love]]></title>
-        <id>https://vibe.naver.com/album/31274556</id>
-        <link href="https://vibe.naver.com/album/31274556"/>
-        <updated>2024-04-10T03:14:34.353Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31274556" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31274556" class="text">Eat Pray Love</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/864582" class="link_artist"><span class="text">Paul Russell</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-04-11T03:13:19.016Z</updated>
+    <updated>2024-04-11T04:14:01.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[<Pre2 : Flower Rhythm>]]></title>
+        <id>https://vibe.naver.com/album/31410619</id>
+        <link href="https://vibe.naver.com/album/31410619"/>
+        <updated>2024-04-11T04:14:00.384Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31410619" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31410619" class="text">&lt;Pre2 : Flower Rhythm&gt;</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/8213231" class="link_artist"><span class="text">ARTMS</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Holiday]]></title>
         <id>https://vibe.naver.com/album/31411962</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31395809"/>
         <updated>2024-04-09T09:12:59.547Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31395809" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31395809" class="text">야한(夜限) 사진관 OST Part 5</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1972466" class="link_artist"><span class="text">승민 (Stray Kids)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어루만져 줄게요]]></title>
-        <id>https://vibe.naver.com/album/31404432</id>
-        <link href="https://vibe.naver.com/album/31404432"/>
-        <updated>2024-04-09T09:12:59.547Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31404432" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31404432" class="text">어루만져 줄게요</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/370257" class="link_artist"><span class="text">은하(EUNHA)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-04-12T03:13:34.636Z</updated>
+    <updated>2024-04-12T04:14:04.143Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[savage]]></title>
+        <id>https://vibe.naver.com/album/31416020</id>
+        <link href="https://vibe.naver.com/album/31416020"/>
+        <updated>2024-04-12T04:13:50.770Z</updated>
+        <content type="html"><![CDATA[DPR CREAM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.31 : Smoothie Remix]]></title>
+        <id>https://vibe.naver.com/album/31416014</id>
+        <link href="https://vibe.naver.com/album/31416014"/>
+        <updated>2024-04-12T04:13:50.770Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[꿈처럼 (Feat. Mingginyu, TRADE L, Touch the Sky)]]></title>
         <id>https://vibe.naver.com/album/31416325</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31410251"/>
         <updated>2024-04-11T03:13:04.968Z</updated>
         <content type="html"><![CDATA[송예린]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄이잖아요]]></title>
-        <id>https://vibe.naver.com/album/31410864</id>
-        <link href="https://vibe.naver.com/album/31410864"/>
-        <updated>2024-04-11T03:13:04.968Z</updated>
-        <content type="html"><![CDATA[한림(Hanlim)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In Heaven]]></title>
-        <id>https://vibe.naver.com/album/31410802</id>
-        <link href="https://vibe.naver.com/album/31410802"/>
-        <updated>2024-04-11T03:13:04.968Z</updated>
-        <content type="html"><![CDATA[Yooni(유니)]]></content>
     </entry>
 </feed>

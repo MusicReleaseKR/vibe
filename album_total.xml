@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-04-12T03:13:34.641Z</updated>
+    <updated>2024-04-12T04:14:04.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[savage]]></title>
+        <id>https://vibe.naver.com/album/31416020</id>
+        <link href="https://vibe.naver.com/album/31416020"/>
+        <updated>2024-04-12T04:14:03.480Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31416020" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31416020" class="text">savage</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/332891" class="link_artist"><span class="text">DPR CREAM</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.31 : Smoothie Remix]]></title>
+        <id>https://vibe.naver.com/album/31416014</id>
+        <link href="https://vibe.naver.com/album/31416014"/>
+        <updated>2024-04-12T04:14:03.480Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31416014" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31416014" class="text">iScreaM Vol.31 : Smoothie Remix</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/502700" class="link_artist"><span class="text">NCT DREAM</span></a><span>, </span></span><span><a href="/artist/4954165" class="link_artist"><span class="text">Arkins</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Illusion]]></title>
         <id>https://vibe.naver.com/album/31416248</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31410803"/>
         <updated>2024-04-11T03:13:18.352Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31410803" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31410803" class="text">신기루정원</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/6952821" class="link_artist"><span class="text">김초월</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The One]]></title>
-        <id>https://vibe.naver.com/album/31412009</id>
-        <link href="https://vibe.naver.com/album/31412009"/>
-        <updated>2024-04-11T03:13:18.354Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31412009" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31412009" class="text">The One</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/3546817" class="link_artist"><span class="text">SEMIN(세민)</span></a><span>, </span></span><span><a href="/artist/4946009" class="link_artist"><span class="text">Wiz-B</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Boy]]></title>
-        <id>https://vibe.naver.com/album/31274594</id>
-        <link href="https://vibe.naver.com/album/31274594"/>
-        <updated>2024-04-11T03:13:18.355Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31274594" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31274594" class="text">Sweet Boy</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/6525675" class="link_artist"><span class="text">Malcolm Todd</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

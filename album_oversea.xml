@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-16T14:11:53.200Z</updated>
+    <updated>2024-04-16T15:12:19.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I wonder]]></title>
+        <id>https://vibe.naver.com/album/31423382</id>
+        <link href="https://vibe.naver.com/album/31423382"/>
+        <updated>2024-04-16T15:12:12.739Z</updated>
+        <content type="html"><![CDATA[Da-iCE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dark Vacay]]></title>
         <id>https://vibe.naver.com/album/31421305</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31416159"/>
         <updated>2024-04-12T03:13:28.357Z</updated>
         <content type="html"><![CDATA[JTwo0]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Face 2 Face (Feat. Justin J. Moore)]]></title>
-        <id>https://vibe.naver.com/album/31415808</id>
-        <link href="https://vibe.naver.com/album/31415808"/>
-        <updated>2024-04-12T03:13:28.362Z</updated>
-        <content type="html"><![CDATA[Jay Eskar]]></content>
     </entry>
 </feed>

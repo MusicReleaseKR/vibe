@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-04-17T04:15:12.116Z</updated>
+    <updated>2024-04-17T05:12:30.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Psychic (Korean Version)]]></title>
+        <id>https://vibe.naver.com/album/31423102</id>
+        <link href="https://vibe.naver.com/album/31423102"/>
+        <updated>2024-04-17T05:12:18.245Z</updated>
+        <content type="html"><![CDATA[레이(LAY)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동경으로부터]]></title>
         <id>https://vibe.naver.com/album/31423270</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31421405"/>
         <updated>2024-04-16T03:13:49.990Z</updated>
         <content type="html"><![CDATA[문민철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 숲, 나의 정원]]></title>
-        <id>https://vibe.naver.com/album/31421790</id>
-        <link href="https://vibe.naver.com/album/31421790"/>
-        <updated>2024-04-16T03:13:49.995Z</updated>
-        <content type="html"><![CDATA[김꽃]]></content>
     </entry>
 </feed>

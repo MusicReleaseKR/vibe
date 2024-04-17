@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-17T04:15:12.106Z</updated>
+    <updated>2024-04-17T05:12:30.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Psychic (Korean Version) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/31423102</id>
+        <link href="https://vibe.naver.com/album/31423102"/>
+        <updated>2024-04-17T05:12:18.245Z</updated>
+        <content type="html"><![CDATA[레이(LAY)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동경으로부터 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/31423270</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/31421405"/>
         <updated>2024-04-16T03:13:49.990Z</updated>
         <content type="html"><![CDATA[문민철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작은 숲, 나의 정원 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/31421790</id>
-        <link href="https://vibe.naver.com/album/31421790"/>
-        <updated>2024-04-16T03:13:49.995Z</updated>
-        <content type="html"><![CDATA[김꽃]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Chasing (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[MAISONdes]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Psychic (Korean Version) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31423102</id>
+        <link href="https://vibe.naver.com/album/31423102"/>
+        <updated>2024-04-17T05:12:29.782Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31423102" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31423102" class="text">Psychic (Korean Version)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/237001" class="link_artist"><span class="text">레이(LAY)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[동경으로부터 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/31423270</id>
         <link href="https://vibe.naver.com/album/31423270"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31421405"/>
         <updated>2024-04-16T03:13:49.990Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31421405" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31421405" class="text">매일</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5826814" class="link_artist"><span class="text">문민철</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[chasing feelings (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31416533</id>
-        <link href="https://vibe.naver.com/album/31416533"/>
-        <updated>2024-04-16T03:13:57.624Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31416533" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31416533" class="text">chasing feelings</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5922440" class="link_artist"><span class="text">Chase Elliott</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

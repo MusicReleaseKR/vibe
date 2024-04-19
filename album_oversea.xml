@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-19T07:13:11.557Z</updated>
+    <updated>2024-04-19T10:13:58.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,34 @@
         <link href="https://vibe.naver.com/album/31487112"/>
         <updated>2024-04-19T04:13:55.280Z</updated>
         <content type="html"><![CDATA[Nas]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HERicane]]></title>
+        <id>https://vibe.naver.com/album/31485759</id>
+        <link href="https://vibe.naver.com/album/31485759"/>
+        <updated>2024-04-19T10:13:52.313Z</updated>
+        <content type="html"><![CDATA[Lucky Daye]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let Me Go]]></title>
+        <id>https://vibe.naver.com/album/31485920</id>
+        <link href="https://vibe.naver.com/album/31485920"/>
+        <updated>2024-04-19T10:13:52.313Z</updated>
+        <content type="html"><![CDATA[Realestk]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[cold (Feat. Marco Vernice)]]></title>
+        <id>https://vibe.naver.com/album/31421338</id>
+        <link href="https://vibe.naver.com/album/31421338"/>
+        <updated>2024-04-19T10:13:52.317Z</updated>
+        <content type="html"><![CDATA[NOIS Project]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[hanataba]]></title>
+        <id>https://vibe.naver.com/album/31420641</id>
+        <link href="https://vibe.naver.com/album/31420641"/>
+        <updated>2024-04-19T10:13:52.319Z</updated>
+        <content type="html"><![CDATA[Milet]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Imaginary]]></title>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/31421058"/>
         <updated>2024-04-17T03:12:35.790Z</updated>
         <content type="html"><![CDATA[Been Stellar]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Big Four]]></title>
-        <id>https://vibe.naver.com/album/31423097</id>
-        <link href="https://vibe.naver.com/album/31423097"/>
-        <updated>2024-04-17T03:12:35.791Z</updated>
-        <content type="html"><![CDATA[WEDNESDAY CAMPANELLA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[numb]]></title>
-        <id>https://vibe.naver.com/album/31435688</id>
-        <link href="https://vibe.naver.com/album/31435688"/>
-        <updated>2024-04-17T03:12:35.793Z</updated>
-        <content type="html"><![CDATA[Sam Tompkins]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Let The Door Hit You]]></title>
-        <id>https://vibe.naver.com/album/31423412</id>
-        <link href="https://vibe.naver.com/album/31423412"/>
-        <updated>2024-04-17T03:12:35.794Z</updated>
-        <content type="html"><![CDATA[Ken Wank(켄 웽크)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Robot Lovers]]></title>
-        <id>https://vibe.naver.com/album/31422240</id>
-        <link href="https://vibe.naver.com/album/31422240"/>
-        <updated>2024-04-17T03:12:35.795Z</updated>
-        <content type="html"><![CDATA[Willow Kayne]]></content>
     </entry>
 </feed>

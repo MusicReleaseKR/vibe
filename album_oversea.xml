@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-19T03:12:32.004Z</updated>
+    <updated>2024-04-19T04:14:01.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[THE TORTURED POETS DEPARTMENT]]></title>
+        <id>https://vibe.naver.com/album/31487219</id>
+        <link href="https://vibe.naver.com/album/31487219"/>
+        <updated>2024-04-19T04:13:55.280Z</updated>
+        <content type="html"><![CDATA[Taylor Swift]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Define My Name]]></title>
+        <id>https://vibe.naver.com/album/31487112</id>
+        <link href="https://vibe.naver.com/album/31487112"/>
+        <updated>2024-04-19T04:13:55.280Z</updated>
+        <content type="html"><![CDATA[Nas]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Imaginary]]></title>
         <id>https://vibe.naver.com/album/31465427</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31422240"/>
         <updated>2024-04-17T03:12:35.795Z</updated>
         <content type="html"><![CDATA[Willow Kayne]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yummy]]></title>
-        <id>https://vibe.naver.com/album/31415201</id>
-        <link href="https://vibe.naver.com/album/31415201"/>
-        <updated>2024-04-17T03:12:35.797Z</updated>
-        <content type="html"><![CDATA[James]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling In Love]]></title>
-        <id>https://vibe.naver.com/album/31423279</id>
-        <link href="https://vibe.naver.com/album/31423279"/>
-        <updated>2024-04-17T03:12:35.802Z</updated>
-        <content type="html"><![CDATA[Nostalgic Feeling]]></content>
     </entry>
 </feed>

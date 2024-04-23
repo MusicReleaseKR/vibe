@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-23T14:11:19.363Z</updated>
+    <updated>2024-04-23T15:12:22.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Masterplan]]></title>
+        <id>https://vibe.naver.com/album/31491436</id>
+        <link href="https://vibe.naver.com/album/31491436"/>
+        <updated>2024-04-23T15:12:16.138Z</updated>
+        <content type="html"><![CDATA[BE:FIRST]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY]]></title>
         <id>https://vibe.naver.com/album/31487308</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31421061"/>
         <updated>2024-04-19T03:12:25.362Z</updated>
         <content type="html"><![CDATA[Escape The Fate]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Here It Is]]></title>
-        <id>https://vibe.naver.com/album/31473805</id>
-        <link href="https://vibe.naver.com/album/31473805"/>
-        <updated>2024-04-19T03:12:25.362Z</updated>
-        <content type="html"><![CDATA[Cian Ducrot]]></content>
     </entry>
 </feed>

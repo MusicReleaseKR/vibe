@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-04-25T03:13:10.998Z</updated>
+    <updated>2024-04-25T04:14:34.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pinnacle (Feat. PhiloSofie)]]></title>
+        <id>https://vibe.naver.com/album/31498649</id>
+        <link href="https://vibe.naver.com/album/31498649"/>
+        <updated>2024-04-25T04:14:33.793Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31498649" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31498649" class="text">Pinnacle (Feat. PhiloSofie)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/3526870" class="link_artist"><span class="text">4URA</span></a><span>, </span></span><span><a href="/artist/2855267" class="link_artist"><span class="text">Philosofie</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<Pre3 : Candy Crush>]]></title>
+        <id>https://vibe.naver.com/album/31498653</id>
+        <link href="https://vibe.naver.com/album/31498653"/>
+        <updated>2024-04-25T04:14:33.793Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31498653" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31498653" class="text">&lt;Pre3 : Candy Crush&gt;</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/8213231" class="link_artist"><span class="text">ARTMS</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SWEAT]]></title>
         <id>https://vibe.naver.com/album/31492376</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31491436"/>
         <updated>2024-04-23T15:12:21.743Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31491436" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31491436" class="text">Masterplan</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/4748038" class="link_artist"><span class="text">BE:FIRST</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEW QUEST: JUNGLE]]></title>
-        <id>https://vibe.naver.com/album/31489857</id>
-        <link href="https://vibe.naver.com/album/31489857"/>
-        <updated>2024-04-23T09:12:36.689Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31489857" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31489857" class="text">NEW QUEST: JUNGLE</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/463319" class="link_artist"><span class="text">이진혁</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야한(夜限) 사진관 OST Part 7]]></title>
-        <id>https://vibe.naver.com/album/31490099</id>
-        <link href="https://vibe.naver.com/album/31490099"/>
-        <updated>2024-04-23T09:12:36.689Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31490099" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31490099" class="text">야한(夜限) 사진관 OST Part 7</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/14452" class="link_artist"><span class="text">케이윌</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

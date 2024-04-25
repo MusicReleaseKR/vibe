@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-04-25T14:09:39.320Z</updated>
+    <updated>2024-04-25T15:12:26.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://vibe.naver.com/album/31491765"/>
         <updated>2024-04-25T09:12:11.341Z</updated>
         <content type="html"><![CDATA[히읗(hieut)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스텔라 블레이드 미니 사운드트랙]]></title>
+        <id>https://vibe.naver.com/album/31509315</id>
+        <link href="https://vibe.naver.com/album/31509315"/>
+        <updated>2024-04-25T15:12:14.856Z</updated>
+        <content type="html"><![CDATA[SHIFT UP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pinnacle (Feat. PhiloSofie)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31491562"/>
         <updated>2024-04-24T09:11:52.724Z</updated>
         <content type="html"><![CDATA[잔망루피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YUQ1]]></title>
-        <id>https://vibe.naver.com/album/31264628</id>
-        <link href="https://vibe.naver.com/album/31264628"/>
-        <updated>2024-04-23T09:12:26.021Z</updated>
-        <content type="html"><![CDATA[우기((여자)아이들)]]></content>
     </entry>
 </feed>

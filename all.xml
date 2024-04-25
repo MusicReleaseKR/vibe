@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-25T14:09:39.311Z</updated>
+    <updated>2024-04-25T15:12:26.192Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[관능소설 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -87,6 +87,13 @@
         <link href="https://vibe.naver.com/album/31491765"/>
         <updated>2024-04-25T09:12:11.341Z</updated>
         <content type="html"><![CDATA[히읗(hieut)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스텔라 블레이드 미니 사운드트랙 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/31509315</id>
+        <link href="https://vibe.naver.com/album/31509315"/>
+        <updated>2024-04-25T15:12:14.856Z</updated>
+        <content type="html"><![CDATA[SHIFT UP]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pinnacle (Feat. PhiloSofie) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/31491562"/>
         <updated>2024-04-24T09:11:52.724Z</updated>
         <content type="html"><![CDATA[잔망루피]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[YUQ1 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/31264628</id>
-        <link href="https://vibe.naver.com/album/31264628"/>
-        <updated>2024-04-23T09:12:26.021Z</updated>
-        <content type="html"><![CDATA[우기((여자)아이들)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Vitamins (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -789,6 +789,13 @@
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31491765" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31491765" class="text">among</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/4893465" class="link_artist"><span class="text">히읗(hieut)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[스텔라 블레이드 미니 사운드트랙 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31509315</id>
+        <link href="https://vibe.naver.com/album/31509315"/>
+        <updated>2024-04-25T15:12:25.485Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31509315" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31509315" class="text">스텔라 블레이드 미니 사운드트랙</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/8668304" class="link_artist"><span class="text">SHIFT UP</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Pinnacle (Feat. PhiloSofie) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/31498649</id>
         <link href="https://vibe.naver.com/album/31498649"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31491298"/>
         <updated>2024-04-24T03:13:38.208Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31491298" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31491298" class="text">New Edition 58</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1" class="link_artist"><span class="text">015B</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 아프다 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31491951</id>
-        <link href="https://vibe.naver.com/album/31491951"/>
-        <updated>2024-04-24T03:13:38.208Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31491951" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31491951" class="text">내가 아프다</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/17645" class="link_artist"><span class="text">연규성</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

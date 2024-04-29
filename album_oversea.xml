@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-29T03:13:47.409Z</updated>
+    <updated>2024-04-29T04:14:37.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[L.I.V.E.]]></title>
+        <id>https://vibe.naver.com/album/31538636</id>
+        <link href="https://vibe.naver.com/album/31538636"/>
+        <updated>2024-04-29T04:14:30.315Z</updated>
+        <content type="html"><![CDATA[YAOCHEN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Backslide]]></title>
         <id>https://vibe.naver.com/album/31509361</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31487064"/>
         <updated>2024-04-25T03:13:03.905Z</updated>
         <content type="html"><![CDATA[Los Navarro]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Days]]></title>
-        <id>https://vibe.naver.com/album/31491464</id>
-        <link href="https://vibe.naver.com/album/31491464"/>
-        <updated>2024-04-25T03:13:03.906Z</updated>
-        <content type="html"><![CDATA[Nostalgic Feeling]]></content>
     </entry>
 </feed>

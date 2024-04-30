@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-30T08:15:22.161Z</updated>
+    <updated>2024-04-30T09:13:22.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Everything At Once]]></title>
+        <id>https://vibe.naver.com/album/31540343</id>
+        <link href="https://vibe.naver.com/album/31540343"/>
+        <updated>2024-04-30T09:13:16.383Z</updated>
+        <content type="html"><![CDATA[Hippo Campus]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Feeling Lucky]]></title>
         <id>https://vibe.naver.com/album/31507831</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31509304"/>
         <updated>2024-04-26T03:13:46.422Z</updated>
         <content type="html"><![CDATA[J. Rey Soul]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Saturation]]></title>
-        <id>https://vibe.naver.com/album/31496286</id>
-        <link href="https://vibe.naver.com/album/31496286"/>
-        <updated>2024-04-26T03:13:46.424Z</updated>
-        <content type="html"><![CDATA[FJELIZI]]></content>
     </entry>
 </feed>

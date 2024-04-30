@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-04-30T14:12:09.969Z</updated>
+    <updated>2024-04-30T15:11:21.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Algorhythm]]></title>
+        <id>https://vibe.naver.com/album/31540358</id>
+        <link href="https://vibe.naver.com/album/31540358"/>
+        <updated>2024-04-30T15:11:14.535Z</updated>
+        <content type="html"><![CDATA[ITZY(있지)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MY LIFE]]></title>
+        <id>https://vibe.naver.com/album/31540664</id>
+        <link href="https://vibe.naver.com/album/31540664"/>
+        <updated>2024-04-30T15:11:14.535Z</updated>
+        <content type="html"><![CDATA[LANA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Everything At Once]]></title>
         <id>https://vibe.naver.com/album/31540343</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31509317"/>
         <updated>2024-04-26T03:13:46.417Z</updated>
         <content type="html"><![CDATA[DISH//]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Teething]]></title>
-        <id>https://vibe.naver.com/album/31509472</id>
-        <link href="https://vibe.naver.com/album/31509472"/>
-        <updated>2024-04-26T03:13:46.418Z</updated>
-        <content type="html"><![CDATA[Porij]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[It's Saturday]]></title>
-        <id>https://vibe.naver.com/album/31509304</id>
-        <link href="https://vibe.naver.com/album/31509304"/>
-        <updated>2024-04-26T03:13:46.422Z</updated>
-        <content type="html"><![CDATA[J. Rey Soul]]></content>
     </entry>
 </feed>

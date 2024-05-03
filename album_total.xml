@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-05-03T03:14:33.415Z</updated>
+    <updated>2024-05-03T04:15:54.130Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MAESTRO (Orchestra Remix)]]></title>
+        <id>https://vibe.naver.com/album/31546456</id>
+        <link href="https://vibe.naver.com/album/31546456"/>
+        <updated>2024-05-03T04:15:53.438Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31546456" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31546456" class="text">MAESTRO (Orchestra Remix)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴 (SEVENTEEN)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[psyche: red]]></title>
+        <id>https://vibe.naver.com/album/31548071</id>
+        <link href="https://vibe.naver.com/album/31548071"/>
+        <updated>2024-05-03T04:15:53.438Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31548071" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31548071" class="text">psyche: red</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/332891" class="link_artist"><span class="text">DPR CREAM</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Attitude]]></title>
         <id>https://vibe.naver.com/album/31542242</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31490485"/>
         <updated>2024-05-02T03:13:17.596Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31490485" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31490485" class="text">day i die</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1317552" class="link_artist"><span class="text">Alexander Stewart</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Wrapped Up]]></title>
-        <id>https://vibe.naver.com/album/31508421</id>
-        <link href="https://vibe.naver.com/album/31508421"/>
-        <updated>2024-05-02T03:13:17.597Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31508421" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31508421" class="text">All Wrapped Up</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1587" class="link_artist"><span class="text">Take That</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천국과 지옥 사이]]></title>
-        <id>https://vibe.naver.com/album/31540336</id>
-        <link href="https://vibe.naver.com/album/31540336"/>
-        <updated>2024-05-01T09:14:23.080Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31540336" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31540336" class="text">천국과 지옥 사이</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/106" class="link_artist"><span class="text">백지영</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-03T03:14:33.413Z</updated>
+    <updated>2024-05-03T04:15:54.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MAESTRO (Orchestra Remix)]]></title>
+        <id>https://vibe.naver.com/album/31546456</id>
+        <link href="https://vibe.naver.com/album/31546456"/>
+        <updated>2024-05-03T04:15:42.025Z</updated>
+        <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[psyche: red]]></title>
+        <id>https://vibe.naver.com/album/31548071</id>
+        <link href="https://vibe.naver.com/album/31548071"/>
+        <updated>2024-05-03T04:15:42.025Z</updated>
+        <content type="html"><![CDATA[DPR CREAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Attitude]]></title>
         <id>https://vibe.naver.com/album/31542242</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31542344"/>
         <updated>2024-05-02T03:13:05.372Z</updated>
         <content type="html"><![CDATA[예빛]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메멘토 (feat. 머띵)]]></title>
-        <id>https://vibe.naver.com/album/31541738</id>
-        <link href="https://vibe.naver.com/album/31541738"/>
-        <updated>2024-05-02T03:13:05.375Z</updated>
-        <content type="html"><![CDATA[물결(mulkyul)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOTE,]]></title>
-        <id>https://vibe.naver.com/album/31542240</id>
-        <link href="https://vibe.naver.com/album/31542240"/>
-        <updated>2024-05-02T03:13:05.375Z</updated>
-        <content type="html"><![CDATA[ZEREE]]></content>
     </entry>
 </feed>

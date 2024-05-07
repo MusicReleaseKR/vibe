@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-05-07T14:11:33.692Z</updated>
+    <updated>2024-05-07T15:11:45.875Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Samidare]]></title>
+        <id>https://vibe.naver.com/album/31562950</id>
+        <link href="https://vibe.naver.com/album/31562950"/>
+        <updated>2024-05-07T15:11:39.954Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reasonable Woman]]></title>
         <id>https://vibe.naver.com/album/31546468</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31510206"/>
         <updated>2024-05-02T03:13:11.883Z</updated>
         <content type="html"><![CDATA[Elle King]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I've Tried Everything But Therapy (Part 1.5)]]></title>
-        <id>https://vibe.naver.com/album/31501431</id>
-        <link href="https://vibe.naver.com/album/31501431"/>
-        <updated>2024-05-02T03:13:11.884Z</updated>
-        <content type="html"><![CDATA[Teddy Swims]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-07T14:11:33.700Z</updated>
+    <updated>2024-05-07T15:11:45.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[성장 - THE 3RD MINI ALBUM (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[하도권]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Samidare (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/31562950</id>
+        <link href="https://vibe.naver.com/album/31562950"/>
+        <updated>2024-05-07T15:11:39.954Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Reasonable Woman (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/31546468</id>
         <link href="https://vibe.naver.com/album/31546468"/>
@@ -698,11 +705,11 @@
         <content type="html"><![CDATA[Elle King]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I've Tried Everything But Therapy (Part 1.5) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31501431</id>
-        <link href="https://vibe.naver.com/album/31501431"/>
-        <updated>2024-05-02T03:13:11.884Z</updated>
-        <content type="html"><![CDATA[Teddy Swims]]></content>
+        <title type="html"><![CDATA[Samidare (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31562950</id>
+        <link href="https://vibe.naver.com/album/31562950"/>
+        <updated>2024-05-07T15:11:45.183Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31562950" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31562950" class="text">Samidare</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5889303" class="link_artist"><span class="text">&amp;TEAM</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성장 - THE 3RD MINI ALBUM (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31542901"/>
         <updated>2024-05-06T03:14:09.150Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31542901" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31542901" class="text">falling or flying (Reimagined)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/496260" class="link_artist"><span class="text">Jorja Smith</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결핍 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31549211</id>
-        <link href="https://vibe.naver.com/album/31549211"/>
-        <updated>2024-05-06T03:14:01.703Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31549211" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31549211" class="text">결핍</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/3158978" class="link_artist"><span class="text">YYOi(요이)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

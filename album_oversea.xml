@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-05-08T08:13:27.417Z</updated>
+    <updated>2024-05-08T09:12:52.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Moonlight]]></title>
+        <id>https://vibe.naver.com/album/31563013</id>
+        <link href="https://vibe.naver.com/album/31563013"/>
+        <updated>2024-05-08T09:12:47.311Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Call It (Feat. Eddie Chacon)]]></title>
         <id>https://vibe.naver.com/album/31562349</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31539066"/>
         <updated>2024-05-03T03:14:27.058Z</updated>
         <content type="html"><![CDATA[Alan Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tennessee]]></title>
-        <id>https://vibe.naver.com/album/31547324</id>
-        <link href="https://vibe.naver.com/album/31547324"/>
-        <updated>2024-05-03T03:14:27.058Z</updated>
-        <content type="html"><![CDATA[Kevin Abstract]]></content>
     </entry>
 </feed>

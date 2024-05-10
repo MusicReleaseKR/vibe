@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-10T03:13:11.234Z</updated>
+    <updated>2024-05-10T04:14:24.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Come back to me]]></title>
+        <id>https://vibe.naver.com/album/31571298</id>
+        <link href="https://vibe.naver.com/album/31571298"/>
+        <updated>2024-05-10T04:14:11.271Z</updated>
+        <content type="html"><![CDATA[RM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lose My Breath (Feat. Charlie Puth)]]></title>
+        <id>https://vibe.naver.com/album/31571303</id>
+        <link href="https://vibe.naver.com/album/31571303"/>
+        <updated>2024-05-10T04:14:11.271Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<Pre4 : Air>]]></title>
+        <id>https://vibe.naver.com/album/31568858</id>
+        <link href="https://vibe.naver.com/album/31568858"/>
+        <updated>2024-05-10T04:14:11.271Z</updated>
+        <content type="html"><![CDATA[ARTMS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[EXHIBITION : Look Closely]]></title>
         <id>https://vibe.naver.com/album/31565192</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/31565184"/>
         <updated>2024-05-09T03:13:06.458Z</updated>
         <content type="html"><![CDATA[HD BL4CK]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황금빛 강 (Gold River)]]></title>
-        <id>https://vibe.naver.com/album/31564917</id>
-        <link href="https://vibe.naver.com/album/31564917"/>
-        <updated>2024-05-09T03:13:06.458Z</updated>
-        <content type="html"><![CDATA[파란노을(Parannoul)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heartbeat Arpeggio]]></title>
-        <id>https://vibe.naver.com/album/31565135</id>
-        <link href="https://vibe.naver.com/album/31565135"/>
-        <updated>2024-05-09T03:13:06.458Z</updated>
-        <content type="html"><![CDATA[Moah Lee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름다웠던 우리의 그날처럼 (Beautiful Days)]]></title>
-        <id>https://vibe.naver.com/album/31565224</id>
-        <link href="https://vibe.naver.com/album/31565224"/>
-        <updated>2024-05-09T03:13:06.459Z</updated>
-        <content type="html"><![CDATA[ROYDO]]></content>
     </entry>
 </feed>

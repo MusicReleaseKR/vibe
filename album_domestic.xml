@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-11T08:14:29.295Z</updated>
+    <updated>2024-05-11T09:13:15.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[세자가 사라졌다 OST Part 2 : 내 곁에 있어요]]></title>
+        <id>https://vibe.naver.com/album/31571564</id>
+        <link href="https://vibe.naver.com/album/31571564"/>
+        <updated>2024-05-11T09:13:03.078Z</updated>
+        <content type="html"><![CDATA[태일 (TAEIL)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[송스틸러 - 건물 사이에 피어난 장미 (Rose Blossom)]]></title>
+        <id>https://vibe.naver.com/album/31571466</id>
+        <link href="https://vibe.naver.com/album/31571466"/>
+        <updated>2024-05-11T09:13:03.078Z</updated>
+        <content type="html"><![CDATA[정인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mean For You]]></title>
+        <id>https://vibe.naver.com/album/31568855</id>
+        <link href="https://vibe.naver.com/album/31568855"/>
+        <updated>2024-05-11T09:13:03.080Z</updated>
+        <content type="html"><![CDATA[오왠(O.WHEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Summer In Paris]]></title>
+        <id>https://vibe.naver.com/album/31568848</id>
+        <link href="https://vibe.naver.com/album/31568848"/>
+        <updated>2024-05-11T09:13:03.080Z</updated>
+        <content type="html"><![CDATA[oftn(오픈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flower]]></title>
+        <id>https://vibe.naver.com/album/31571675</id>
+        <link href="https://vibe.naver.com/album/31571675"/>
+        <updated>2024-05-11T09:13:03.084Z</updated>
+        <content type="html"><![CDATA[유리(YURI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[집으로]]></title>
+        <id>https://vibe.naver.com/album/31571703</id>
+        <link href="https://vibe.naver.com/album/31571703"/>
+        <updated>2024-05-11T09:13:03.084Z</updated>
+        <content type="html"><![CDATA[몽돌]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화100 OST Part 9]]></title>
+        <id>https://vibe.naver.com/album/31571356</id>
+        <link href="https://vibe.naver.com/album/31571356"/>
+        <updated>2024-05-11T09:13:03.085Z</updated>
+        <content type="html"><![CDATA[류수정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Papa]]></title>
+        <id>https://vibe.naver.com/album/31568837</id>
+        <link href="https://vibe.naver.com/album/31568837"/>
+        <updated>2024-05-11T09:13:03.085Z</updated>
+        <content type="html"><![CDATA[김여명(KIM YEO MYUNG)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미녀와 순정남 OST Part 8]]></title>
+        <id>https://vibe.naver.com/album/31571336</id>
+        <link href="https://vibe.naver.com/album/31571336"/>
+        <updated>2024-05-11T09:13:03.089Z</updated>
+        <content type="html"><![CDATA[제이세라(J-Cera)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Come back to me]]></title>
         <id>https://vibe.naver.com/album/31571298</id>
@@ -291,68 +354,5 @@
         <link href="https://vibe.naver.com/album/31565210"/>
         <updated>2024-05-10T03:12:56.885Z</updated>
         <content type="html"><![CDATA[한철]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let Me Dance]]></title>
-        <id>https://vibe.naver.com/album/31565058</id>
-        <link href="https://vibe.naver.com/album/31565058"/>
-        <updated>2024-05-10T03:12:56.885Z</updated>
-        <content type="html"><![CDATA[Modal.s]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우린 딱]]></title>
-        <id>https://vibe.naver.com/album/31568571</id>
-        <link href="https://vibe.naver.com/album/31568571"/>
-        <updated>2024-05-10T03:12:56.885Z</updated>
-        <content type="html"><![CDATA[티엠씨(TMC)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spring]]></title>
-        <id>https://vibe.naver.com/album/31568559</id>
-        <link href="https://vibe.naver.com/album/31568559"/>
-        <updated>2024-05-10T03:12:56.887Z</updated>
-        <content type="html"><![CDATA[송하람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Only Melody Remains]]></title>
-        <id>https://vibe.naver.com/album/31568598</id>
-        <link href="https://vibe.naver.com/album/31568598"/>
-        <updated>2024-05-10T03:12:56.887Z</updated>
-        <content type="html"><![CDATA[최보통]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환희의 춤 속 재즈 : 리듬의 환희 (Jazz In Ecstatic Dance : Rhythmic Elation)]]></title>
-        <id>https://vibe.naver.com/album/31564993</id>
-        <link href="https://vibe.naver.com/album/31564993"/>
-        <updated>2024-05-10T03:12:56.887Z</updated>
-        <content type="html"><![CDATA[제이(Jei)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무슨 일 있었니]]></title>
-        <id>https://vibe.naver.com/album/31565149</id>
-        <link href="https://vibe.naver.com/album/31565149"/>
-        <updated>2024-05-09T09:13:06.785Z</updated>
-        <content type="html"><![CDATA[박재정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 취하면 너의 사진을 봐]]></title>
-        <id>https://vibe.naver.com/album/31565144</id>
-        <link href="https://vibe.naver.com/album/31565144"/>
-        <updated>2024-05-09T09:13:06.785Z</updated>
-        <content type="html"><![CDATA[#안녕]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌 어떻게 생각해? (사내연애 사절! X 더보이즈(THE BOYZ))]]></title>
-        <id>https://vibe.naver.com/album/31565295</id>
-        <link href="https://vibe.naver.com/album/31565295"/>
-        <updated>2024-05-09T09:13:06.785Z</updated>
-        <content type="html"><![CDATA[더보이즈(THE BOYZ)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[COME CLOSER]]></title>
-        <id>https://vibe.naver.com/album/31568673</id>
-        <link href="https://vibe.naver.com/album/31568673"/>
-        <updated>2024-05-09T09:13:06.785Z</updated>
-        <content type="html"><![CDATA[리오(LEO)]]></content>
     </entry>
 </feed>

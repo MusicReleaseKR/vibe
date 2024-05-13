@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-13T04:16:10.129Z</updated>
+    <updated>2024-05-13T05:14:23.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[때깔 (Killin' It) (English Version)]]></title>
+        <id>https://vibe.naver.com/album/31571785</id>
+        <link href="https://vibe.naver.com/album/31571785"/>
+        <updated>2024-05-13T05:14:09.868Z</updated>
+        <content type="html"><![CDATA[P1Harmony]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lose My Breath (Remixes)]]></title>
         <id>https://vibe.naver.com/album/31577963</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31568837"/>
         <updated>2024-05-11T09:13:03.085Z</updated>
         <content type="html"><![CDATA[김여명(KIM YEO MYUNG)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미녀와 순정남 OST Part 8]]></title>
-        <id>https://vibe.naver.com/album/31571336</id>
-        <link href="https://vibe.naver.com/album/31571336"/>
-        <updated>2024-05-11T09:13:03.089Z</updated>
-        <content type="html"><![CDATA[제이세라(J-Cera)]]></content>
     </entry>
 </feed>

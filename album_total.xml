@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-05-13T04:16:10.080Z</updated>
+    <updated>2024-05-13T05:14:23.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[때깔 (Killin' It) (English Version)]]></title>
+        <id>https://vibe.naver.com/album/31571785</id>
+        <link href="https://vibe.naver.com/album/31571785"/>
+        <updated>2024-05-13T05:14:22.739Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31571785" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31571785" class="text">때깔 (Killin' It) (English Version)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/3968424" class="link_artist"><span class="text">P1Harmony</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lose My Breath (Remixes)]]></title>
         <id>https://vibe.naver.com/album/31577963</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31571298"/>
         <updated>2024-05-10T04:14:24.056Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31571298" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31571298" class="text">Come back to me</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/274317" class="link_artist"><span class="text">RM</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lose My Breath (Feat. Charlie Puth)]]></title>
-        <id>https://vibe.naver.com/album/31571303</id>
-        <link href="https://vibe.naver.com/album/31571303"/>
-        <updated>2024-05-10T04:14:24.059Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31571303" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31571303" class="text">Lose My Breath (Feat. Charlie Puth)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

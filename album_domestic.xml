@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-13T08:16:49.178Z</updated>
+    <updated>2024-05-13T09:13:19.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[You had me at HELLO]]></title>
+        <id>https://vibe.naver.com/album/31492376</id>
+        <link href="https://vibe.naver.com/album/31492376"/>
+        <updated>2024-05-13T09:13:06.110Z</updated>
+        <content type="html"><![CDATA[ZEROBASEONE(제로베이스원)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Armageddon - The 1st Album]]></title>
+        <id>https://vibe.naver.com/album/31577945</id>
+        <link href="https://vibe.naver.com/album/31577945"/>
+        <updated>2024-05-13T09:13:06.110Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DARK MOON SPECIAL ALBUM <MEMORABILIA>]]></title>
+        <id>https://vibe.naver.com/album/31577428</id>
+        <link href="https://vibe.naver.com/album/31577428"/>
+        <updated>2024-05-13T09:13:06.110Z</updated>
+        <content type="html"><![CDATA[ENHYPEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[크래시 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/31577427</id>
+        <link href="https://vibe.naver.com/album/31577427"/>
+        <updated>2024-05-13T09:13:06.110Z</updated>
+        <content type="html"><![CDATA[김경호]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lose My Breath (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31577963</id>
+        <link href="https://vibe.naver.com/album/31577963"/>
+        <updated>2024-05-13T04:15:55.573Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MILKY WAY]]></title>
+        <id>https://vibe.naver.com/album/31571783</id>
+        <link href="https://vibe.naver.com/album/31571783"/>
+        <updated>2024-05-13T09:13:06.111Z</updated>
+        <content type="html"><![CDATA[앨리스(ALICE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[About you]]></title>
+        <id>https://vibe.naver.com/album/31571767</id>
+        <link href="https://vibe.naver.com/album/31571767"/>
+        <updated>2024-05-13T09:13:06.111Z</updated>
+        <content type="html"><![CDATA[기수(KISU)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[때깔 (Killin' It) (English Version)]]></title>
         <id>https://vibe.naver.com/album/31571785</id>
@@ -13,11 +62,18 @@
         <content type="html"><![CDATA[P1Harmony]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lose My Breath (Remixes)]]></title>
-        <id>https://vibe.naver.com/album/31577963</id>
-        <link href="https://vibe.naver.com/album/31577963"/>
-        <updated>2024-05-13T04:15:55.573Z</updated>
-        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+        <title type="html"><![CDATA[이사장님은 9등급 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/31577928</id>
+        <link href="https://vibe.naver.com/album/31577928"/>
+        <updated>2024-05-13T09:13:06.112Z</updated>
+        <content type="html"><![CDATA[ADYA(에이디야)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[툭 (Talk)]]></title>
+        <id>https://vibe.naver.com/album/31571755</id>
+        <link href="https://vibe.naver.com/album/31571755"/>
+        <updated>2024-05-13T09:13:06.112Z</updated>
+        <content type="html"><![CDATA[서예안]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[For 2000 Ad (ver. 2024)]]></title>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/31568895"/>
         <updated>2024-05-12T03:13:04.221Z</updated>
         <content type="html"><![CDATA[Movin(무빈)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세자가 사라졌다 OST Part 2 : 내 곁에 있어요]]></title>
-        <id>https://vibe.naver.com/album/31571564</id>
-        <link href="https://vibe.naver.com/album/31571564"/>
-        <updated>2024-05-11T09:13:03.078Z</updated>
-        <content type="html"><![CDATA[태일 (TAEIL)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[송스틸러 - 건물 사이에 피어난 장미 (Rose Blossom)]]></title>
-        <id>https://vibe.naver.com/album/31571466</id>
-        <link href="https://vibe.naver.com/album/31571466"/>
-        <updated>2024-05-11T09:13:03.078Z</updated>
-        <content type="html"><![CDATA[정인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mean For You]]></title>
-        <id>https://vibe.naver.com/album/31568855</id>
-        <link href="https://vibe.naver.com/album/31568855"/>
-        <updated>2024-05-11T09:13:03.080Z</updated>
-        <content type="html"><![CDATA[오왠(O.WHEN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Summer In Paris]]></title>
-        <id>https://vibe.naver.com/album/31568848</id>
-        <link href="https://vibe.naver.com/album/31568848"/>
-        <updated>2024-05-11T09:13:03.080Z</updated>
-        <content type="html"><![CDATA[oftn(오픈)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flower]]></title>
-        <id>https://vibe.naver.com/album/31571675</id>
-        <link href="https://vibe.naver.com/album/31571675"/>
-        <updated>2024-05-11T09:13:03.084Z</updated>
-        <content type="html"><![CDATA[유리(YURI)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[집으로]]></title>
-        <id>https://vibe.naver.com/album/31571703</id>
-        <link href="https://vibe.naver.com/album/31571703"/>
-        <updated>2024-05-11T09:13:03.084Z</updated>
-        <content type="html"><![CDATA[몽돌]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화100 OST Part 9]]></title>
-        <id>https://vibe.naver.com/album/31571356</id>
-        <link href="https://vibe.naver.com/album/31571356"/>
-        <updated>2024-05-11T09:13:03.085Z</updated>
-        <content type="html"><![CDATA[류수정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Papa]]></title>
-        <id>https://vibe.naver.com/album/31568837</id>
-        <link href="https://vibe.naver.com/album/31568837"/>
-        <updated>2024-05-11T09:13:03.085Z</updated>
-        <content type="html"><![CDATA[김여명(KIM YEO MYUNG)]]></content>
     </entry>
 </feed>

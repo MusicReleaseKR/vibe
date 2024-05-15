@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-05-15T02:30:29.161Z</updated>
+    <updated>2024-05-15T03:15:39.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,76 @@
         <link href="https://vibe.naver.com/album/31540358"/>
         <updated>2024-05-14T15:14:24.674Z</updated>
         <content type="html"><![CDATA[ITZY(있지)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BONSAI (Korean Edition)]]></title>
+        <id>https://vibe.naver.com/album/31589130</id>
+        <link href="https://vibe.naver.com/album/31589130"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[imase]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[360]]></title>
+        <id>https://vibe.naver.com/album/31568682</id>
+        <link href="https://vibe.naver.com/album/31568682"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Charli XCX]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Picasso]]></title>
+        <id>https://vibe.naver.com/album/31569838</id>
+        <link href="https://vibe.naver.com/album/31569838"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Bradley Simpson]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CASSANDRA (cherith)]]></title>
+        <id>https://vibe.naver.com/album/31568677</id>
+        <link href="https://vibe.naver.com/album/31568677"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Andra Day]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Look At My Body (Pt. II)]]></title>
+        <id>https://vibe.naver.com/album/31567715</id>
+        <link href="https://vibe.naver.com/album/31567715"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Mabel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Still Your Girl]]></title>
+        <id>https://vibe.naver.com/album/31563327</id>
+        <link href="https://vibe.naver.com/album/31563327"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Destiny Rogers]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I AM BLACK]]></title>
+        <id>https://vibe.naver.com/album/31607058</id>
+        <link href="https://vibe.naver.com/album/31607058"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Berwyn]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Some Type Of Skin (Acoustic)]]></title>
+        <id>https://vibe.naver.com/album/31567899</id>
+        <link href="https://vibe.naver.com/album/31567899"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[Aurora]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Archimedes]]></title>
+        <id>https://vibe.naver.com/album/31606823</id>
+        <link href="https://vibe.naver.com/album/31606823"/>
+        <updated>2024-05-15T03:15:33.798Z</updated>
+        <content type="html"><![CDATA[WEDNESDAY CAMPANELLA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Friend Zone (프렌드 존)]]></title>
+        <id>https://vibe.naver.com/album/31607034</id>
+        <link href="https://vibe.naver.com/album/31607034"/>
+        <updated>2024-05-15T03:15:33.799Z</updated>
+        <content type="html"><![CDATA[Dream Catchers Studio]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12 Notes]]></title>
@@ -284,75 +354,5 @@
         <link href="https://vibe.naver.com/album/31565177"/>
         <updated>2024-05-10T09:13:41.747Z</updated>
         <content type="html"><![CDATA[eaJ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Had Some Help]]></title>
-        <id>https://vibe.naver.com/album/31567921</id>
-        <link href="https://vibe.naver.com/album/31567921"/>
-        <updated>2024-05-10T03:13:04.365Z</updated>
-        <content type="html"><![CDATA[Post Malone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PINKBERRY]]></title>
-        <id>https://vibe.naver.com/album/31568675</id>
-        <link href="https://vibe.naver.com/album/31568675"/>
-        <updated>2024-05-10T03:13:04.366Z</updated>
-        <content type="html"><![CDATA[MAX]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Edge of Tomorrow]]></title>
-        <id>https://vibe.naver.com/album/31568258</id>
-        <link href="https://vibe.naver.com/album/31568258"/>
-        <updated>2024-05-10T03:13:04.369Z</updated>
-        <content type="html"><![CDATA[iann dior]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cape Forestier]]></title>
-        <id>https://vibe.naver.com/album/31568750</id>
-        <link href="https://vibe.naver.com/album/31568750"/>
-        <updated>2024-05-10T03:13:04.369Z</updated>
-        <content type="html"><![CDATA[Angus &amp; Julia Stone]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Villain (Take the Shot)]]></title>
-        <id>https://vibe.naver.com/album/31568849</id>
-        <link href="https://vibe.naver.com/album/31568849"/>
-        <updated>2024-05-10T03:13:04.373Z</updated>
-        <content type="html"><![CDATA[Barns Courtney]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acoustic Sessions - Live From Nashville]]></title>
-        <id>https://vibe.naver.com/album/31567664</id>
-        <link href="https://vibe.naver.com/album/31567664"/>
-        <updated>2024-05-10T03:13:04.374Z</updated>
-        <content type="html"><![CDATA[Cody Fry]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Youth]]></title>
-        <id>https://vibe.naver.com/album/31568693</id>
-        <link href="https://vibe.naver.com/album/31568693"/>
-        <updated>2024-05-10T03:13:04.374Z</updated>
-        <content type="html"><![CDATA[Rowan Drake]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bleeding heart]]></title>
-        <id>https://vibe.naver.com/album/31563319</id>
-        <link href="https://vibe.naver.com/album/31563319"/>
-        <updated>2024-05-10T03:13:04.375Z</updated>
-        <content type="html"><![CDATA[Alexander Stewart]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I DON'T CARE]]></title>
-        <id>https://vibe.naver.com/album/31568253</id>
-        <link href="https://vibe.naver.com/album/31568253"/>
-        <updated>2024-05-10T03:13:04.375Z</updated>
-        <content type="html"><![CDATA[윤제이(YOON JAY)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Believe]]></title>
-        <id>https://vibe.naver.com/album/31568688</id>
-        <link href="https://vibe.naver.com/album/31568688"/>
-        <updated>2024-05-10T03:13:04.376Z</updated>
-        <content type="html"><![CDATA[Gus Dapperton]]></content>
     </entry>
 </feed>

@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-15T08:16:01.785Z</updated>
+    <updated>2024-05-15T09:15:34.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[내 입술 따뜻한 커피처럼 (남은 인생 10년 X 조이 (JOY), BIG Naughty (서동현))]]></title>
+        <id>https://vibe.naver.com/album/31607006</id>
+        <link href="https://vibe.naver.com/album/31607006"/>
+        <updated>2024-05-15T09:15:22.344Z</updated>
+        <content type="html"><![CDATA[조이 (JOY)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비밀은 없어 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/31603028</id>
+        <link href="https://vibe.naver.com/album/31603028"/>
+        <updated>2024-05-15T09:15:22.347Z</updated>
+        <content type="html"><![CDATA[문별(마마무)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[빛을 담아 너에게 줄게 Part 2]]></title>
+        <id>https://vibe.naver.com/album/31608152</id>
+        <link href="https://vibe.naver.com/album/31608152"/>
+        <updated>2024-05-15T09:15:22.347Z</updated>
+        <content type="html"><![CDATA[더윈드(The Wind)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네 생각 (Our Pie X 탑현)]]></title>
+        <id>https://vibe.naver.com/album/31607002</id>
+        <link href="https://vibe.naver.com/album/31607002"/>
+        <updated>2024-05-15T09:15:22.347Z</updated>
+        <content type="html"><![CDATA[탑현]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DEADLINE]]></title>
+        <id>https://vibe.naver.com/album/31606848</id>
+        <link href="https://vibe.naver.com/album/31606848"/>
+        <updated>2024-05-15T09:15:22.347Z</updated>
+        <content type="html"><![CDATA[모브닝(MOVNING)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 헤어지자]]></title>
+        <id>https://vibe.naver.com/album/31603316</id>
+        <link href="https://vibe.naver.com/album/31603316"/>
+        <updated>2024-05-15T09:15:22.347Z</updated>
+        <content type="html"><![CDATA[여은]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혼술 (feat. 중식이)]]></title>
         <id>https://vibe.naver.com/album/31602886</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/31578071"/>
         <updated>2024-05-14T03:14:16.008Z</updated>
         <content type="html"><![CDATA[루딕(Ludwig)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모든 게 좋아져]]></title>
-        <id>https://vibe.naver.com/album/31579077</id>
-        <link href="https://vibe.naver.com/album/31579077"/>
-        <updated>2024-05-14T03:14:16.008Z</updated>
-        <content type="html"><![CDATA[Millez]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤하늘아래,우리이야기]]></title>
-        <id>https://vibe.naver.com/album/31578016</id>
-        <link href="https://vibe.naver.com/album/31578016"/>
-        <updated>2024-05-14T03:14:16.008Z</updated>
-        <content type="html"><![CDATA[은빛나래]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suzy！]]></title>
-        <id>https://vibe.naver.com/album/31571794</id>
-        <link href="https://vibe.naver.com/album/31571794"/>
-        <updated>2024-05-14T03:14:16.009Z</updated>
-        <content type="html"><![CDATA[시문]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DARK MOON SPECIAL ALBUM <MEMORABILIA>]]></title>
-        <id>https://vibe.naver.com/album/31577428</id>
-        <link href="https://vibe.naver.com/album/31577428"/>
-        <updated>2024-05-13T09:13:06.110Z</updated>
-        <content type="html"><![CDATA[ENHYPEN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크래시 OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/31577427</id>
-        <link href="https://vibe.naver.com/album/31577427"/>
-        <updated>2024-05-13T09:13:06.110Z</updated>
-        <content type="html"><![CDATA[김경호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lose My Breath (Remixes)]]></title>
-        <id>https://vibe.naver.com/album/31577963</id>
-        <link href="https://vibe.naver.com/album/31577963"/>
-        <updated>2024-05-13T04:15:55.573Z</updated>
-        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
     </entry>
 </feed>

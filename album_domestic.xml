@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-16T03:15:36.134Z</updated>
+    <updated>2024-05-16T04:12:38.178Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Homesick]]></title>
+        <id>https://vibe.naver.com/album/31608162</id>
+        <link href="https://vibe.naver.com/album/31608162"/>
+        <updated>2024-05-16T04:12:24.233Z</updated>
+        <content type="html"><![CDATA[YUNGIN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Normal Life]]></title>
         <id>https://vibe.naver.com/album/31604091</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31578164"/>
         <updated>2024-05-14T09:13:25.129Z</updated>
         <content type="html"><![CDATA[경제환]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비긴즈유스 OST Part 2]]></title>
-        <id>https://vibe.naver.com/album/31579050</id>
-        <link href="https://vibe.naver.com/album/31579050"/>
-        <updated>2024-05-14T09:13:25.130Z</updated>
-        <content type="html"><![CDATA[젬마(JEMMA)]]></content>
     </entry>
 </feed>

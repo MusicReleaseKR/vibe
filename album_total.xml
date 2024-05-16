@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-05-16T03:15:36.089Z</updated>
+    <updated>2024-05-16T04:12:38.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Homesick]]></title>
+        <id>https://vibe.naver.com/album/31608162</id>
+        <link href="https://vibe.naver.com/album/31608162"/>
+        <updated>2024-05-16T04:12:37.433Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31608162" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31608162" class="text">Homesick</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2294532" class="link_artist"><span class="text">YUNGIN</span></a><span>, </span></span><span><a href="/artist/474402" class="link_artist"><span class="text">Paul Blanco</span></a><span>, </span></span><span><a href="/artist/330966" class="link_artist"><span class="text">창모(CHANGMO)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[New Normal Life]]></title>
         <id>https://vibe.naver.com/album/31604091</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31578164"/>
         <updated>2024-05-14T09:13:36.089Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31578164" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31578164" class="text">-1, +1</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2698758" class="link_artist"><span class="text">경제환</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비긴즈유스 OST Part 2]]></title>
-        <id>https://vibe.naver.com/album/31579050</id>
-        <link href="https://vibe.naver.com/album/31579050"/>
-        <updated>2024-05-14T09:13:36.089Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31579050" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31579050" class="text">비긴즈유스 OST Part 2</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/4053596" class="link_artist"><span class="text">젬마(JEMMA)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

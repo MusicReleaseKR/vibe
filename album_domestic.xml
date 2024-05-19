@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-19T08:14:24.070Z</updated>
+    <updated>2024-05-19T09:13:14.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑과 우정사이]]></title>
+        <id>https://vibe.naver.com/album/31619572</id>
+        <link href="https://vibe.naver.com/album/31619572"/>
+        <updated>2024-05-19T09:13:03.263Z</updated>
+        <content type="html"><![CDATA[멜로망스(Melomance)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머리가 어떻게 됐나 봐]]></title>
+        <id>https://vibe.naver.com/album/31619566</id>
+        <link href="https://vibe.naver.com/album/31619566"/>
+        <updated>2024-05-19T09:13:03.267Z</updated>
+        <content type="html"><![CDATA[이예준]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꿈에선]]></title>
+        <id>https://vibe.naver.com/album/31619769</id>
+        <link href="https://vibe.naver.com/album/31619769"/>
+        <updated>2024-05-19T09:13:03.267Z</updated>
+        <content type="html"><![CDATA[안재우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날 그만 잊어요]]></title>
+        <id>https://vibe.naver.com/album/31619771</id>
+        <link href="https://vibe.naver.com/album/31619771"/>
+        <updated>2024-05-19T09:13:03.267Z</updated>
+        <content type="html"><![CDATA[황인욱]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[졸업 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/31619743</id>
+        <link href="https://vibe.naver.com/album/31619743"/>
+        <updated>2024-05-19T09:13:03.267Z</updated>
+        <content type="html"><![CDATA[The Restless Age]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화100 OST Part 11]]></title>
+        <id>https://vibe.naver.com/album/31619739</id>
+        <link href="https://vibe.naver.com/album/31619739"/>
+        <updated>2024-05-19T09:13:03.267Z</updated>
+        <content type="html"><![CDATA[수퍼비(SUPERBEE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주인공 (Feat. 유림)]]></title>
+        <id>https://vibe.naver.com/album/31619774</id>
+        <link href="https://vibe.naver.com/album/31619774"/>
+        <updated>2024-05-19T09:13:03.268Z</updated>
+        <content type="html"><![CDATA[양정승]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Teenage Love]]></title>
         <id>https://vibe.naver.com/album/31619747</id>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/31613850"/>
         <updated>2024-05-17T03:13:29.868Z</updated>
         <content type="html"><![CDATA[KIRARA(키라라)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What Are We Out Here For]]></title>
-        <id>https://vibe.naver.com/album/31613836</id>
-        <link href="https://vibe.naver.com/album/31613836"/>
-        <updated>2024-05-17T03:13:29.868Z</updated>
-        <content type="html"><![CDATA[SURAN(수란)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스쓰리랑 베스트 PART 4]]></title>
-        <id>https://vibe.naver.com/album/31613924</id>
-        <link href="https://vibe.naver.com/album/31613924"/>
-        <updated>2024-05-17T03:13:29.860Z</updated>
-        <content type="html"><![CDATA[<div data-v-6b5edd7d="" class="" data-v-4639e6ee=""><div data-v-6b5edd7d="" class="thumb_area"><a data-v-6b5edd7d="" href="/album/31613924" class="link"><img data-v-cbb0f7a8="" data-v-6b5edd7d="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="미스쓰리랑 베스트 PART 4 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-6b5edd7d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="31613924"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-6b5edd7d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="31613924" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/31613924" data-title="미스쓰리랑 베스트 PART 4" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-6b5edd7d="" class="info"><!----><a data-v-6b5edd7d="" href="/album/31613924" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31613924" class="text">미스쓰리랑 베스트 PART 4</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SO I SAY (REMIX)]]></title>
-        <id>https://vibe.naver.com/album/31609753</id>
-        <link href="https://vibe.naver.com/album/31609753"/>
-        <updated>2024-05-17T03:13:29.868Z</updated>
-        <content type="html"><![CDATA[싸비(XAVII)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고백을 못하고 OST Part 4]]></title>
-        <id>https://vibe.naver.com/album/31613840</id>
-        <link href="https://vibe.naver.com/album/31613840"/>
-        <updated>2024-05-17T03:13:29.868Z</updated>
-        <content type="html"><![CDATA[리영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[crazy stupid lovers]]></title>
-        <id>https://vibe.naver.com/album/31613928</id>
-        <link href="https://vibe.naver.com/album/31613928"/>
-        <updated>2024-05-17T03:13:29.868Z</updated>
-        <content type="html"><![CDATA[Sorn (손)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먹물 우화 (전략적 팀 전투 사운드 트랙)]]></title>
-        <id>https://vibe.naver.com/album/31613763</id>
-        <link href="https://vibe.naver.com/album/31613763"/>
-        <updated>2024-05-17T03:13:29.868Z</updated>
-        <content type="html"><![CDATA[전략적 팀 전투]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Onion Girl]]></title>
-        <id>https://vibe.naver.com/album/31613640</id>
-        <link href="https://vibe.naver.com/album/31613640"/>
-        <updated>2024-05-17T03:13:29.868Z</updated>
-        <content type="html"><![CDATA[That]]></content>
     </entry>
 </feed>

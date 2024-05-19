@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-05-19T14:11:13.404Z</updated>
+    <updated>2024-05-19T15:11:43.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/31619774"/>
         <updated>2024-05-19T09:13:13.985Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31619774" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31619774" class="text">주인공 (Feat. 유림)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/40986" class="link_artist"><span class="text">양정승</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIGHER EX]]></title>
+        <id>https://vibe.naver.com/album/31619795</id>
+        <link href="https://vibe.naver.com/album/31619795"/>
+        <updated>2024-05-19T15:11:42.859Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31619795" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31619795" class="text">HIGHER EX</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2901612" class="link_artist"><span class="text">BALLISTIK BOYZ from EXILE TRIBE</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Teenage Love]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31618060"/>
         <updated>2024-05-17T03:13:43.212Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31618060" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31618060" class="text">HIT ME HARD AND SOFT</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1465252" class="link_artist"><span class="text">Billie Eilish</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs In My Head]]></title>
-        <id>https://vibe.naver.com/album/31614186</id>
-        <link href="https://vibe.naver.com/album/31614186"/>
-        <updated>2024-05-17T03:13:43.212Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31614186" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31614186" class="text">Songs In My Head</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/380813" class="link_artist"><span class="text">HONNE</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

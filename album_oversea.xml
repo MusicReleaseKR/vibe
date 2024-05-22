@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-05-22T14:11:50.662Z</updated>
+    <updated>2024-05-22T15:13:37.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Colors]]></title>
+        <id>https://vibe.naver.com/album/31631137</id>
+        <link href="https://vibe.naver.com/album/31631137"/>
+        <updated>2024-05-22T15:13:30.876Z</updated>
+        <content type="html"><![CDATA[NCT 127]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cozy]]></title>
         <id>https://vibe.naver.com/album/31623779</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31622721"/>
         <updated>2024-05-20T03:14:21.717Z</updated>
         <content type="html"><![CDATA[Mrs. GREEN APPLE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't Leave]]></title>
-        <id>https://vibe.naver.com/album/31619809</id>
-        <link href="https://vibe.naver.com/album/31619809"/>
-        <updated>2024-05-20T03:14:21.717Z</updated>
-        <content type="html"><![CDATA[Tom Frane]]></content>
     </entry>
 </feed>

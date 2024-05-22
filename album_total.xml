@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-05-22T14:11:50.666Z</updated>
+    <updated>2024-05-22T15:13:37.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Colors]]></title>
+        <id>https://vibe.naver.com/album/31631137</id>
+        <link href="https://vibe.naver.com/album/31631137"/>
+        <updated>2024-05-22T15:13:36.771Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31631137" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31631137" class="text">Colors</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/496463" class="link_artist"><span class="text">NCT 127</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넌 내게 특별하고 (남은 인생 10년 X 적재)]]></title>
         <id>https://vibe.naver.com/album/31627446</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31623129"/>
         <updated>2024-05-21T03:14:10.729Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31623129" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31623129" class="text">Our Season</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5245604" class="link_artist"><span class="text">레몬시티(Lemon City)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춤을 춰! (Feat. 슬리피)]]></title>
-        <id>https://vibe.naver.com/album/31620442</id>
-        <link href="https://vibe.naver.com/album/31620442"/>
-        <updated>2024-05-21T03:14:10.729Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31620442" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31620442" class="text">춤을 춰! (Feat. 슬리피)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2562732" class="link_artist"><span class="text">라코스타(Lacostar)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

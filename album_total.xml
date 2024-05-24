@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-05-24T03:14:28.333Z</updated>
+    <updated>2024-05-24T04:15:57.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Right Place, Wrong Person]]></title>
+        <id>https://vibe.naver.com/album/31635512</id>
+        <link href="https://vibe.naver.com/album/31635512"/>
+        <updated>2024-05-24T04:15:56.581Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31635512" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31635512" class="text">Right Place, Wrong Person</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/274317" class="link_artist"><span class="text">RM</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sweet]]></title>
+        <id>https://vibe.naver.com/album/31512201</id>
+        <link href="https://vibe.naver.com/album/31512201"/>
+        <updated>2024-05-24T04:15:56.581Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31512201" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31512201" class="text">How Sweet</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/5615371" class="link_artist"><span class="text">NewJeans</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hero]]></title>
         <id>https://vibe.naver.com/album/31631231</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31629315"/>
         <updated>2024-05-23T03:13:40.620Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31629315" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31629315" class="text">운명이야 분명</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/461105" class="link_artist"><span class="text">1% (원퍼센트)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌 내게 특별하고 (남은 인생 10년 X 적재)]]></title>
-        <id>https://vibe.naver.com/album/31627446</id>
-        <link href="https://vibe.naver.com/album/31627446"/>
-        <updated>2024-05-22T09:14:32.025Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31627446" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31627446" class="text">넌 내게 특별하고 (남은 인생 10년 X 적재)</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/329023" class="link_artist"><span class="text">적재</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌 걸어와 난 달려갈게]]></title>
-        <id>https://vibe.naver.com/album/31624758</id>
-        <link href="https://vibe.naver.com/album/31624758"/>
-        <updated>2024-05-22T09:14:32.026Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31624758" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31624758" class="text">넌 걸어와 난 달려갈게</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/36820" class="link_artist"><span class="text">써니힐</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

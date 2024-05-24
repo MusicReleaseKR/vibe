@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-24T03:14:28.360Z</updated>
+    <updated>2024-05-24T04:15:57.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Right Place, Wrong Person]]></title>
+        <id>https://vibe.naver.com/album/31635512</id>
+        <link href="https://vibe.naver.com/album/31635512"/>
+        <updated>2024-05-24T04:15:45.033Z</updated>
+        <content type="html"><![CDATA[RM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How Sweet]]></title>
+        <id>https://vibe.naver.com/album/31512201</id>
+        <link href="https://vibe.naver.com/album/31512201"/>
+        <updated>2024-05-24T04:15:45.040Z</updated>
+        <content type="html"><![CDATA[NewJeans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ERROR 405]]></title>
         <id>https://vibe.naver.com/album/31631182</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31511581"/>
         <updated>2024-05-23T03:13:26.929Z</updated>
         <content type="html"><![CDATA[량유]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운명이야 분명]]></title>
-        <id>https://vibe.naver.com/album/31629315</id>
-        <link href="https://vibe.naver.com/album/31629315"/>
-        <updated>2024-05-23T03:13:26.931Z</updated>
-        <content type="html"><![CDATA[1% (원퍼센트)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONE MORE TIME! (승리의 여신 : 니케 OST)]]></title>
-        <id>https://vibe.naver.com/album/31629316</id>
-        <link href="https://vibe.naver.com/album/31629316"/>
-        <updated>2024-05-23T03:13:26.931Z</updated>
-        <content type="html"><![CDATA[LEVEL NINE]]></content>
     </entry>
 </feed>

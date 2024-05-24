@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-05-24T08:15:38.660Z</updated>
+    <updated>2024-05-24T09:13:36.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Clear the Smoke]]></title>
+        <id>https://vibe.naver.com/album/31637991</id>
+        <link href="https://vibe.naver.com/album/31637991"/>
+        <updated>2024-05-24T09:13:31.138Z</updated>
+        <content type="html"><![CDATA[Quavo]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling]]></title>
+        <id>https://vibe.naver.com/album/31635321</id>
+        <link href="https://vibe.naver.com/album/31635321"/>
+        <updated>2024-05-24T09:13:31.138Z</updated>
+        <content type="html"><![CDATA[Issermann]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Horizons]]></title>
+        <id>https://vibe.naver.com/album/31631783</id>
+        <link href="https://vibe.naver.com/album/31631783"/>
+        <updated>2024-05-24T09:13:31.139Z</updated>
+        <content type="html"><![CDATA[Alex Sipiagin]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hero]]></title>
         <id>https://vibe.naver.com/album/31631231</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/31618231"/>
         <updated>2024-05-22T03:15:15.994Z</updated>
         <content type="html"><![CDATA[Elle Darlington]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NANi]]></title>
-        <id>https://vibe.naver.com/album/31614840</id>
-        <link href="https://vibe.naver.com/album/31614840"/>
-        <updated>2024-05-22T03:15:15.994Z</updated>
-        <content type="html"><![CDATA[Saweetie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unmei e.p]]></title>
-        <id>https://vibe.naver.com/album/31608245</id>
-        <link href="https://vibe.naver.com/album/31608245"/>
-        <updated>2024-05-22T03:15:15.994Z</updated>
-        <content type="html"><![CDATA[sumika]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NEWTRO WAVE]]></title>
-        <id>https://vibe.naver.com/album/31624094</id>
-        <link href="https://vibe.naver.com/album/31624094"/>
-        <updated>2024-05-22T03:15:15.995Z</updated>
-        <content type="html"><![CDATA[다즈비(DAZBEE)]]></content>
     </entry>
 </feed>

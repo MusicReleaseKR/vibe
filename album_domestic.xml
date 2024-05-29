@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-29T01:59:46.646Z</updated>
+    <updated>2024-05-29T02:34:38.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jay Park Season 2]]></title>
+        <id>https://vibe.naver.com/album/31641073</id>
+        <link href="https://vibe.naver.com/album/31641073"/>
+        <updated>2024-05-28T09:13:22.701Z</updated>
+        <content type="html"><![CDATA[박재범]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KING KONG]]></title>
         <id>https://vibe.naver.com/album/31646258</id>
@@ -18,13 +25,6 @@
         <link href="https://vibe.naver.com/album/31646251"/>
         <updated>2024-05-28T09:13:22.701Z</updated>
         <content type="html"><![CDATA[첸(CHEN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jay Park Season 2]]></title>
-        <id>https://vibe.naver.com/album/31641073</id>
-        <link href="https://vibe.naver.com/album/31641073"/>
-        <updated>2024-05-28T09:13:22.701Z</updated>
-        <content type="html"><![CDATA[박재범]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[비긴즈유스 OST Part 3]]></title>

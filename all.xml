@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-30T04:17:44.935Z</updated>
+    <updated>2024-05-30T05:12:54.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[The Cello (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/31647762</id>
+        <link href="https://vibe.naver.com/album/31647762"/>
+        <updated>2024-05-30T05:12:41.033Z</updated>
+        <content type="html"><![CDATA[윤한(Yoonhan)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아름다워 (Beautiful you are) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/31647703</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/31646236"/>
         <updated>2024-05-29T03:14:16.297Z</updated>
         <content type="html"><![CDATA[정우진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance Dance Dance (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/31645994</id>
-        <link href="https://vibe.naver.com/album/31645994"/>
-        <updated>2024-05-29T03:14:16.298Z</updated>
-        <content type="html"><![CDATA[LEAFY(리피)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[She's Gone, Dance On (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-05-31T03:14:28.829Z</updated>
+    <updated>2024-05-31T04:16:34.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Houdini]]></title>
+        <id>https://vibe.naver.com/album/31655708</id>
+        <link href="https://vibe.naver.com/album/31655708"/>
+        <updated>2024-05-31T04:16:28.255Z</updated>
+        <content type="html"><![CDATA[Eminem]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[places to be]]></title>
         <id>https://vibe.naver.com/album/31652781</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31629331"/>
         <updated>2024-05-29T03:14:24.036Z</updated>
         <content type="html"><![CDATA[Ikimonogakari]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[What's Love If It Don't Hurt]]></title>
-        <id>https://vibe.naver.com/album/31636983</id>
-        <link href="https://vibe.naver.com/album/31636983"/>
-        <updated>2024-05-29T03:14:24.037Z</updated>
-        <content type="html"><![CDATA[Keano Lee]]></content>
     </entry>
 </feed>

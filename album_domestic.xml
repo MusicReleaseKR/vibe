@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-31T03:14:28.836Z</updated>
+    <updated>2024-05-31T04:16:34.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GOLDEN HOUR : Part 1]]></title>
+        <id>https://vibe.naver.com/album/31653040</id>
+        <link href="https://vibe.naver.com/album/31653040"/>
+        <updated>2024-05-31T04:16:22.042Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<Dall>]]></title>
+        <id>https://vibe.naver.com/album/31653194</id>
+        <link href="https://vibe.naver.com/album/31653194"/>
+        <updated>2024-05-31T04:16:22.042Z</updated>
+        <content type="html"><![CDATA[ARTMS]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왔다 갔다 해]]></title>
         <id>https://vibe.naver.com/album/31652986</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31646430"/>
         <updated>2024-05-30T03:13:47.654Z</updated>
         <content type="html"><![CDATA[카디코기(Kadi Korgi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의명복을빕니다 OST Part 6]]></title>
-        <id>https://vibe.naver.com/album/31646018</id>
-        <link href="https://vibe.naver.com/album/31646018"/>
-        <updated>2024-05-30T03:13:47.655Z</updated>
-        <content type="html"><![CDATA[Various Artists]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마피아 보스가 나에게 집착한다 OST Part 7]]></title>
-        <id>https://vibe.naver.com/album/31647642</id>
-        <link href="https://vibe.naver.com/album/31647642"/>
-        <updated>2024-05-30T03:13:47.656Z</updated>
-        <content type="html"><![CDATA[유수현(미니마니)]]></content>
     </entry>
 </feed>

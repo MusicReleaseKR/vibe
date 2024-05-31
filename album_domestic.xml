@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-05-31T08:16:11.336Z</updated>
+    <updated>2024-05-31T09:15:00.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,53 @@
         <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[점선면 (1 to 3) - The 3rd Mini Album]]></title>
+        <id>https://vibe.naver.com/album/31622863</id>
+        <link href="https://vibe.naver.com/album/31622863"/>
+        <updated>2024-05-31T09:14:48.237Z</updated>
+        <content type="html"><![CDATA[수호 (SUHO)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Maze Runner]]></title>
+        <id>https://vibe.naver.com/album/31652982</id>
+        <link href="https://vibe.naver.com/album/31652982"/>
+        <updated>2024-05-31T09:14:48.243Z</updated>
+        <content type="html"><![CDATA[Chillin Homie]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Supernatural]]></title>
+        <id>https://vibe.naver.com/album/31653144</id>
+        <link href="https://vibe.naver.com/album/31653144"/>
+        <updated>2024-05-31T09:14:48.245Z</updated>
+        <content type="html"><![CDATA[에이스(A.C.E)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[<Dall>]]></title>
         <id>https://vibe.naver.com/album/31653194</id>
         <link href="https://vibe.naver.com/album/31653194"/>
         <updated>2024-05-31T04:16:22.042Z</updated>
         <content type="html"><![CDATA[ARTMS]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 월간 윤종신 5월호]]></title>
+        <id>https://vibe.naver.com/album/31653295</id>
+        <link href="https://vibe.naver.com/album/31653295"/>
+        <updated>2024-05-31T09:14:48.245Z</updated>
+        <content type="html"><![CDATA[윤종신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[omw]]></title>
+        <id>https://vibe.naver.com/album/31652894</id>
+        <link href="https://vibe.naver.com/album/31652894"/>
+        <updated>2024-05-31T09:14:48.245Z</updated>
+        <content type="html"><![CDATA[xooos(수스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 밤은 가지마]]></title>
+        <id>https://vibe.naver.com/album/31653262</id>
+        <link href="https://vibe.naver.com/album/31653262"/>
+        <updated>2024-05-31T09:14:48.245Z</updated>
+        <content type="html"><![CDATA[KOYO(코요)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왔다 갔다 해]]></title>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/31646356"/>
         <updated>2024-05-30T03:13:47.642Z</updated>
         <content type="html"><![CDATA[조문근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민사위]]></title>
-        <id>https://vibe.naver.com/album/31646475</id>
-        <link href="https://vibe.naver.com/album/31646475"/>
-        <updated>2024-05-30T03:13:47.644Z</updated>
-        <content type="html"><![CDATA[마커스강]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go To The Dogs]]></title>
-        <id>https://vibe.naver.com/album/31647629</id>
-        <link href="https://vibe.naver.com/album/31647629"/>
-        <updated>2024-05-30T03:13:47.645Z</updated>
-        <content type="html"><![CDATA[Yonge Jaundice(영 잔디스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[someone or something]]></title>
-        <id>https://vibe.naver.com/album/31647551</id>
-        <link href="https://vibe.naver.com/album/31647551"/>
-        <updated>2024-05-30T03:13:47.647Z</updated>
-        <content type="html"><![CDATA[Night of Lifetime]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너라는 봄]]></title>
-        <id>https://vibe.naver.com/album/31647701</id>
-        <link href="https://vibe.naver.com/album/31647701"/>
-        <updated>2024-05-30T03:13:47.651Z</updated>
-        <content type="html"><![CDATA[Aalia(알리아)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 이렇게 살어!]]></title>
-        <id>https://vibe.naver.com/album/31646481</id>
-        <link href="https://vibe.naver.com/album/31646481"/>
-        <updated>2024-05-30T03:13:47.652Z</updated>
-        <content type="html"><![CDATA[디브퍼(DIVPER)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안단테]]></title>
-        <id>https://vibe.naver.com/album/31646430</id>
-        <link href="https://vibe.naver.com/album/31646430"/>
-        <updated>2024-05-30T03:13:47.654Z</updated>
-        <content type="html"><![CDATA[카디코기(Kadi Korgi)]]></content>
     </entry>
 </feed>

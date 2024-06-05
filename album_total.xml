@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-05T03:16:39.777Z</updated>
+    <updated>2024-06-05T04:17:39.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WORK Pt.2 - ATEEZ X Don Diablo]]></title>
+        <id>https://vibe.naver.com/album/31664093</id>
+        <link href="https://vibe.naver.com/album/31664093"/>
+        <updated>2024-06-05T04:17:38.681Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31664093" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31664093" class="text">WORK Pt.2 - ATEEZ X Don Diablo</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2475793" class="link_artist"><span class="text">ATEEZ(에이티즈)</span></a><span>, </span></span><span><a href="/artist/15765" class="link_artist"><span class="text">Don Diablo</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Soul Pop City]]></title>
         <id>https://vibe.naver.com/album/31660025</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31659193"/>
         <updated>2024-06-03T09:14:06.105Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31659193" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31659193" class="text">OVERSTEP</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/8722370" class="link_artist"><span class="text">BADVILLAIN(배드빌런)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[르네상스]]></title>
-        <id>https://vibe.naver.com/album/31655595</id>
-        <link href="https://vibe.naver.com/album/31655595"/>
-        <updated>2024-06-03T09:14:06.105Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31655595" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31655595" class="text">르네상스</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1487574" class="link_artist"><span class="text">알레프(ALEPH)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

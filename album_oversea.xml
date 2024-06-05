@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-05T08:15:51.226Z</updated>
+    <updated>2024-06-05T09:15:23.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Moonlight]]></title>
+        <id>https://vibe.naver.com/album/31664252</id>
+        <link href="https://vibe.naver.com/album/31664252"/>
+        <updated>2024-06-05T09:15:16.907Z</updated>
+        <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Fantasy (Deluxe)]]></title>
         <id>https://vibe.naver.com/album/31651946</id>
@@ -178,7 +185,7 @@
         <id>https://vibe.naver.com/album/31652789</id>
         <link href="https://vibe.naver.com/album/31652789"/>
         <updated>2024-06-04T03:14:54.427Z</updated>
-        <content type="html"><![CDATA[Charli XCX]]></content>
+        <content type="html"><![CDATA[Charli xcx]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[To Be Alright]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31652799"/>
         <updated>2024-06-03T03:14:34.429Z</updated>
         <content type="html"><![CDATA[Cheat Codes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dead to me]]></title>
-        <id>https://vibe.naver.com/album/31651938</id>
-        <link href="https://vibe.naver.com/album/31651938"/>
-        <updated>2024-06-03T03:14:34.430Z</updated>
-        <content type="html"><![CDATA[Sam Tompkins]]></content>
     </entry>
 </feed>

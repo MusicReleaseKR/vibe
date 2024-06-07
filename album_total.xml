@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-07T03:14:52.030Z</updated>
+    <updated>2024-06-07T04:16:08.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Never Let Go]]></title>
+        <id>https://vibe.naver.com/album/31674562</id>
+        <link href="https://vibe.naver.com/album/31674562"/>
+        <updated>2024-06-07T04:16:07.963Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31674562" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31674562" class="text">Never Let Go</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/274327" class="link_artist"><span class="text">정국</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAINT]]></title>
+        <id>https://vibe.naver.com/album/31666642</id>
+        <link href="https://vibe.naver.com/album/31666642"/>
+        <updated>2024-06-07T04:16:07.963Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31666642" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31666642" class="text">SAINT</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/3565976" class="link_artist"><span class="text">DPR IAN</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Please Please Please]]></title>
         <id>https://vibe.naver.com/album/31674492</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31664253"/>
         <updated>2024-06-05T09:15:22.809Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31664253" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31664253" class="text">SCENE</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/1124820" class="link_artist"><span class="text">한승우</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonlight]]></title>
-        <id>https://vibe.naver.com/album/31664252</id>
-        <link href="https://vibe.naver.com/album/31664252"/>
-        <updated>2024-06-05T09:15:22.812Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31664252" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31664252" class="text">Moonlight</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/502700" class="link_artist"><span class="text">NCT DREAM</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oooo]]></title>
-        <id>https://vibe.naver.com/album/31664098</id>
-        <link href="https://vibe.naver.com/album/31664098"/>
-        <updated>2024-06-05T09:15:22.814Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31664098" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31664098" class="text">oooo</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2843117" class="link_artist"><span class="text">잠비노(Jambino)</span></a><span>, </span></span><span><a href="/artist/2877067" class="link_artist"><span class="text">토이고(toigo)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

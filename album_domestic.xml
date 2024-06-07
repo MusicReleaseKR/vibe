@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-06-07T03:14:52.027Z</updated>
+    <updated>2024-06-07T04:16:08.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Never Let Go]]></title>
+        <id>https://vibe.naver.com/album/31674562</id>
+        <link href="https://vibe.naver.com/album/31674562"/>
+        <updated>2024-06-07T04:15:57.094Z</updated>
+        <content type="html"><![CDATA[정국]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SAINT]]></title>
+        <id>https://vibe.naver.com/album/31666642</id>
+        <link href="https://vibe.naver.com/album/31666642"/>
+        <updated>2024-06-07T04:15:57.094Z</updated>
+        <content type="html"><![CDATA[DPR IAN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Full Count]]></title>
         <id>https://vibe.naver.com/album/31666944</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31659188"/>
         <updated>2024-06-05T03:16:25.945Z</updated>
         <content type="html"><![CDATA[2단지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Notes]]></title>
-        <id>https://vibe.naver.com/album/31664286</id>
-        <link href="https://vibe.naver.com/album/31664286"/>
-        <updated>2024-06-05T03:16:25.945Z</updated>
-        <content type="html"><![CDATA[umu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 하늘 다른 시간]]></title>
-        <id>https://vibe.naver.com/album/31663931</id>
-        <link href="https://vibe.naver.com/album/31663931"/>
-        <updated>2024-06-05T03:16:25.945Z</updated>
-        <content type="html"><![CDATA[범진]]></content>
     </entry>
 </feed>

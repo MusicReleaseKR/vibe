@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-10T03:14:36.060Z</updated>
+    <updated>2024-06-10T04:17:57.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Love Me No More]]></title>
+        <id>https://vibe.naver.com/album/31676805</id>
+        <link href="https://vibe.naver.com/album/31676805"/>
+        <updated>2024-06-10T04:17:56.493Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31676805" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31676805" class="text">Love Me No More</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2294532" class="link_artist"><span class="text">YUNGIN</span></a><span>, </span></span><span><a href="/artist/2389301" class="link_artist"><span class="text">SINCE</span></a><span>, </span></span><span><a href="/artist/2684262" class="link_artist"><span class="text">sokodomo</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[털어버리자 (Feat. 하현상)]]></title>
         <id>https://vibe.naver.com/album/31666930</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31666964"/>
         <updated>2024-06-08T09:14:40.217Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31666964" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31666964" class="text">미녀와 순정남 OST Part 12</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/36820" class="link_artist"><span class="text">써니힐</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Let Go]]></title>
-        <id>https://vibe.naver.com/album/31674562</id>
-        <link href="https://vibe.naver.com/album/31674562"/>
-        <updated>2024-06-07T04:16:07.963Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31674562" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31674562" class="text">Never Let Go</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/274327" class="link_artist"><span class="text">정국</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

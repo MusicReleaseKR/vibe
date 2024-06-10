@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-06-10T03:14:36.074Z</updated>
+    <updated>2024-06-10T04:17:57.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Love Me No More]]></title>
+        <id>https://vibe.naver.com/album/31676805</id>
+        <link href="https://vibe.naver.com/album/31676805"/>
+        <updated>2024-06-10T04:17:45.201Z</updated>
+        <content type="html"><![CDATA[YUNGIN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[털어버리자 (Feat. 하현상)]]></title>
         <id>https://vibe.naver.com/album/31666930</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31666964"/>
         <updated>2024-06-08T09:14:29.157Z</updated>
         <content type="html"><![CDATA[써니힐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Never Let Go]]></title>
-        <id>https://vibe.naver.com/album/31674562</id>
-        <link href="https://vibe.naver.com/album/31674562"/>
-        <updated>2024-06-07T04:15:57.094Z</updated>
-        <content type="html"><![CDATA[정국]]></content>
     </entry>
 </feed>

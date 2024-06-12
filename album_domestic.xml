@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-06-12T03:14:26.228Z</updated>
+    <updated>2024-06-12T04:15:27.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WORK Pt.3 - ATEEZ X Eden-ary]]></title>
+        <id>https://vibe.naver.com/album/31711685</id>
+        <link href="https://vibe.naver.com/album/31711685"/>
+        <updated>2024-06-12T04:15:13.354Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show Time]]></title>
         <id>https://vibe.naver.com/album/31677765</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31677598"/>
         <updated>2024-06-11T03:14:19.770Z</updated>
         <content type="html"><![CDATA[NOIS Project]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[널 생각해]]></title>
-        <id>https://vibe.naver.com/album/31680870</id>
-        <link href="https://vibe.naver.com/album/31680870"/>
-        <updated>2024-06-11T03:14:19.771Z</updated>
-        <content type="html"><![CDATA[너와 (neowa)]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-12T03:14:26.235Z</updated>
+    <updated>2024-06-12T04:15:27.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WORK Pt.3 - ATEEZ X Eden-ary]]></title>
+        <id>https://vibe.naver.com/album/31711685</id>
+        <link href="https://vibe.naver.com/album/31711685"/>
+        <updated>2024-06-12T04:15:26.450Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31711685" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31711685" class="text">WORK Pt.3 - ATEEZ X Eden-ary</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2475793" class="link_artist"><span class="text">ATEEZ(에이티즈)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Show Time]]></title>
         <id>https://vibe.naver.com/album/31677765</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31676823"/>
         <updated>2024-06-10T09:15:18.148Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31676823" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31676823" class="text">﻿cignature 5th EP Album 'Sweetie but Saltie'</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/3531958" class="link_artist"><span class="text">cignature(시그니처)</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Me No More]]></title>
-        <id>https://vibe.naver.com/album/31676805</id>
-        <link href="https://vibe.naver.com/album/31676805"/>
-        <updated>2024-06-10T04:17:56.493Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-6b5edd7d="" href="/album/31676805" class="title"><span data-v-6b5edd7d="" class="text_wrap"><span data-v-6b5edd7d="" id="31676805" class="text">Love Me No More</span><!----><!----></span><span data-v-6b5edd7d="" class="blind">페이지로 이동</span></a><div data-v-6b5edd7d="" class="artist"><span data-v-6b5edd7d="" class="artist_sub_inner"><span><a href="/artist/2294532" class="link_artist"><span class="text">YUNGIN</span></a><span>, </span></span><span><a href="/artist/2389301" class="link_artist"><span class="text">SINCE</span></a><span>, </span></span><span><a href="/artist/2684262" class="link_artist"><span class="text">sokodomo</span></a><!----></span></span><span data-v-6b5edd7d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

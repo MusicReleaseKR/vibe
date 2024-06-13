@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-13T08:16:28.139Z</updated>
+    <updated>2024-06-13T09:14:29.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Barcelona]]></title>
+        <id>https://vibe.naver.com/album/31703858</id>
+        <link href="https://vibe.naver.com/album/31703858"/>
+        <updated>2024-06-13T09:14:23.219Z</updated>
+        <content type="html"><![CDATA[Alan Walker]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brat and it's the same but there's three more songs so it's not]]></title>
         <id>https://vibe.naver.com/album/31675335</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31681472"/>
         <updated>2024-06-11T03:14:26.693Z</updated>
         <content type="html"><![CDATA[Fulmo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEPARTURE]]></title>
-        <id>https://vibe.naver.com/album/31679418</id>
-        <link href="https://vibe.naver.com/album/31679418"/>
-        <updated>2024-06-11T03:14:26.693Z</updated>
-        <content type="html"><![CDATA[IMP.]]></content>
     </entry>
 </feed>

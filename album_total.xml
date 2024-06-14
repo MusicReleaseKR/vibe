@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-14T03:14:07.110Z</updated>
+    <updated>2024-06-14T04:15:35.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NA]]></title>
+        <id>https://vibe.naver.com/album/31786806</id>
+        <link href="https://vibe.naver.com/album/31786806"/>
+        <updated>2024-06-14T04:15:35.030Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31786806" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31786806" class="text">NA</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/461670" class="link_artist"><span class="text">나연 (TWICE)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iris]]></title>
+        <id>https://vibe.naver.com/album/31784482</id>
+        <link href="https://vibe.naver.com/album/31784482"/>
+        <updated>2024-06-14T04:15:35.030Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31784482" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31784482" class="text">Iris</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2687879" class="link_artist"><span class="text">Kanallia</span></a><span>, </span></span><span><a href="/artist/363568" class="link_artist"><span class="text">사람12사람</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balloon in Love]]></title>
         <id>https://vibe.naver.com/album/31748972</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31706980"/>
         <updated>2024-06-12T09:14:06.934Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31706980" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31706980" class="text">죽지 않은 연인에게</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1630122" class="link_artist"><span class="text">데이먼스 이어(Damons year)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋단 말야]]></title>
-        <id>https://vibe.naver.com/album/31711534</id>
-        <link href="https://vibe.naver.com/album/31711534"/>
-        <updated>2024-06-12T09:14:06.935Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31711534" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31711534" class="text">좋단 말야</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/64209" class="link_artist"><span class="text">짙은(Zitten)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOMINO]]></title>
-        <id>https://vibe.naver.com/album/31741267</id>
-        <link href="https://vibe.naver.com/album/31741267"/>
-        <updated>2024-06-12T09:14:06.935Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31741267" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31741267" class="text">DOMINO</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1749922" class="link_artist"><span class="text">SAAY</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

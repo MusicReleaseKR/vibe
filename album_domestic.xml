@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-06-14T03:14:07.106Z</updated>
+    <updated>2024-06-14T04:15:35.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NA]]></title>
+        <id>https://vibe.naver.com/album/31786806</id>
+        <link href="https://vibe.naver.com/album/31786806"/>
+        <updated>2024-06-14T04:15:22.340Z</updated>
+        <content type="html"><![CDATA[나연 (TWICE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iris]]></title>
+        <id>https://vibe.naver.com/album/31784482</id>
+        <link href="https://vibe.naver.com/album/31784482"/>
+        <updated>2024-06-14T04:15:22.352Z</updated>
+        <content type="html"><![CDATA[Kanallia]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Balloon in Love]]></title>
         <id>https://vibe.naver.com/album/31748972</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31716723"/>
         <updated>2024-06-13T03:14:11.579Z</updated>
         <content type="html"><![CDATA[리영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arms Of Mine]]></title>
-        <id>https://vibe.naver.com/album/31750786</id>
-        <link href="https://vibe.naver.com/album/31750786"/>
-        <updated>2024-06-13T03:14:11.581Z</updated>
-        <content type="html"><![CDATA[$KELETON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night On The Highway]]></title>
-        <id>https://vibe.naver.com/album/31742250</id>
-        <link href="https://vibe.naver.com/album/31742250"/>
-        <updated>2024-06-13T03:14:11.582Z</updated>
-        <content type="html"><![CDATA[1% (원퍼센트)]]></content>
     </entry>
 </feed>

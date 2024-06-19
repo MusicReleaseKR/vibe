@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-19T10:14:22.318Z</updated>
+    <updated>2024-06-19T11:12:58.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Earth, Wind & Fire (Japanese Ver.)]]></title>
+        <id>https://vibe.naver.com/album/31857750</id>
+        <link href="https://vibe.naver.com/album/31857750"/>
+        <updated>2024-06-19T11:12:52.261Z</updated>
+        <content type="html"><![CDATA[BOYNEXTDOOR]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Look Who's Laughing Now]]></title>
         <id>https://vibe.naver.com/album/31763757</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31764043"/>
         <updated>2024-06-17T03:15:31.791Z</updated>
         <content type="html"><![CDATA[Mabel]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LEMON TREES]]></title>
-        <id>https://vibe.naver.com/album/31750956</id>
-        <link href="https://vibe.naver.com/album/31750956"/>
-        <updated>2024-06-17T03:15:31.792Z</updated>
-        <content type="html"><![CDATA[Dylan Sinclair]]></content>
     </entry>
 </feed>

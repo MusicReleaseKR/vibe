@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-21T08:16:29.604Z</updated>
+    <updated>2024-06-21T09:13:17.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/31851676"/>
         <updated>2024-06-21T04:15:29.727Z</updated>
         <content type="html"><![CDATA[NewJeans]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[the boy is mine (Remix) (Streaming Ver.)]]></title>
+        <id>https://vibe.naver.com/album/31864696</id>
+        <link href="https://vibe.naver.com/album/31864696"/>
+        <updated>2024-06-21T09:13:11.959Z</updated>
+        <content type="html"><![CDATA[Ariana Grande]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[YOU]]></title>
+        <id>https://vibe.naver.com/album/31862631</id>
+        <link href="https://vibe.naver.com/album/31862631"/>
+        <updated>2024-06-21T09:13:11.959Z</updated>
+        <content type="html"><![CDATA[우석(펜타곤)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[feelslikeimfallinginlove]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31776897"/>
         <updated>2024-06-19T03:14:14.021Z</updated>
         <content type="html"><![CDATA[Sophie Powers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[As It Ever Was, So It Will Be Again]]></title>
-        <id>https://vibe.naver.com/album/31750960</id>
-        <link href="https://vibe.naver.com/album/31750960"/>
-        <updated>2024-06-19T03:14:14.022Z</updated>
-        <content type="html"><![CDATA[The Decemberists]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ggsanzen]]></title>
-        <id>https://vibe.naver.com/album/31763819</id>
-        <link href="https://vibe.naver.com/album/31763819"/>
-        <updated>2024-06-19T03:14:14.022Z</updated>
-        <content type="html"><![CDATA[10-FEET]]></content>
     </entry>
 </feed>

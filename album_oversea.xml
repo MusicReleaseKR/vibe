@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-21T03:15:24.792Z</updated>
+    <updated>2024-06-21T04:15:36.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Supernatural]]></title>
+        <id>https://vibe.naver.com/album/31851676</id>
+        <link href="https://vibe.naver.com/album/31851676"/>
+        <updated>2024-06-21T04:15:29.727Z</updated>
+        <content type="html"><![CDATA[NewJeans]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[feelslikeimfallinginlove]]></title>
         <id>https://vibe.naver.com/album/31862270</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31763819"/>
         <updated>2024-06-19T03:14:14.022Z</updated>
         <content type="html"><![CDATA[10-FEET]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gas You Up (Feat. Hunxho)]]></title>
-        <id>https://vibe.naver.com/album/31777186</id>
-        <link href="https://vibe.naver.com/album/31777186"/>
-        <updated>2024-06-19T03:14:14.023Z</updated>
-        <content type="html"><![CDATA[Kaliii]]></content>
     </entry>
 </feed>

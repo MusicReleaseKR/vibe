@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-21T03:15:24.784Z</updated>
+    <updated>2024-06-21T04:15:36.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Supernatural]]></title>
+        <id>https://vibe.naver.com/album/31851676</id>
+        <link href="https://vibe.naver.com/album/31851676"/>
+        <updated>2024-06-21T04:15:35.662Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31851676" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31851676" class="text">Supernatural</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5615371" class="link_artist"><span class="text">NewJeans</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iris (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31862628</id>
+        <link href="https://vibe.naver.com/album/31862628"/>
+        <updated>2024-06-21T04:15:35.663Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31862628" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31862628" class="text">Iris (Remixes)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2687879" class="link_artist"><span class="text">Kanallia</span></a><span>, </span></span><span><a href="/artist/363568" class="link_artist"><span class="text">사람12사람</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[feelslikeimfallinginlove]]></title>
         <id>https://vibe.naver.com/album/31862270</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31857777"/>
         <updated>2024-06-19T09:17:07.606Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31857777" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31857777" class="text">H1-KEY 3rd Mini Album [LOVE or HATE]</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4996547" class="link_artist"><span class="text">H1-KEY(하이키)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웃을 수 있을까]]></title>
-        <id>https://vibe.naver.com/album/31855138</id>
-        <link href="https://vibe.naver.com/album/31855138"/>
-        <updated>2024-06-19T09:17:07.606Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31855138" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31855138" class="text">웃을 수 있을까</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8476" class="link_artist"><span class="text">노을</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 SINGLE ALBUM [SEO IN GUK]]]></title>
-        <id>https://vibe.naver.com/album/31750785</id>
-        <link href="https://vibe.naver.com/album/31750785"/>
-        <updated>2024-06-19T09:17:07.606Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31750785" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31750785" class="text">2024 SINGLE ALBUM [SEO IN GUK]</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/121611" class="link_artist"><span class="text">서인국</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

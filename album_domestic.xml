@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-06-21T03:15:24.794Z</updated>
+    <updated>2024-06-21T04:15:36.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Iris (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31862628</id>
+        <link href="https://vibe.naver.com/album/31862628"/>
+        <updated>2024-06-21T04:15:22.252Z</updated>
+        <content type="html"><![CDATA[Kanallia]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PUMP]]></title>
         <id>https://vibe.naver.com/album/31855768</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31855609"/>
         <updated>2024-06-20T03:14:31.119Z</updated>
         <content type="html"><![CDATA[leebaek]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let loose]]></title>
-        <id>https://vibe.naver.com/album/31857752</id>
-        <link href="https://vibe.naver.com/album/31857752"/>
-        <updated>2024-06-20T03:14:31.119Z</updated>
-        <content type="html"><![CDATA[Jinee(지니)]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-06-25T14:13:34.465Z</updated>
+    <updated>2024-06-25T15:13:24.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[20]]></title>
+        <id>https://vibe.naver.com/album/31872070</id>
+        <link href="https://vibe.naver.com/album/31872070"/>
+        <updated>2024-06-25T15:13:10.886Z</updated>
+        <content type="html"><![CDATA[챤미나(CHANMINA)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Strawberry Rush]]></title>
         <id>https://vibe.naver.com/album/31871990</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31864816"/>
         <updated>2024-06-24T03:14:32.352Z</updated>
         <content type="html"><![CDATA[달수빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너는 어때]]></title>
-        <id>https://vibe.naver.com/album/31858163</id>
-        <link href="https://vibe.naver.com/album/31858163"/>
-        <updated>2024-06-24T03:14:32.352Z</updated>
-        <content type="html"><![CDATA[Wool]]></content>
     </entry>
 </feed>

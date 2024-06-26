@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-26T14:12:09.620Z</updated>
+    <updated>2024-06-26T15:14:22.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Cry]]></title>
+        <id>https://vibe.naver.com/album/31875779</id>
+        <link href="https://vibe.naver.com/album/31875779"/>
+        <updated>2024-06-26T15:14:16.653Z</updated>
+        <content type="html"><![CDATA[도영 (DOYOUNG)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Peak]]></title>
         <id>https://vibe.naver.com/album/31872039</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31859765"/>
         <updated>2024-06-24T03:14:39.647Z</updated>
         <content type="html"><![CDATA[I Mean Us]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Closer]]></title>
-        <id>https://vibe.naver.com/album/31863090</id>
-        <link href="https://vibe.naver.com/album/31863090"/>
-        <updated>2024-06-24T03:14:39.647Z</updated>
-        <content type="html"><![CDATA[August Moon]]></content>
     </entry>
 </feed>

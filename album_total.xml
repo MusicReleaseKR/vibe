@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-26T14:12:09.627Z</updated>
+    <updated>2024-06-26T15:14:22.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/31872310"/>
         <updated>2024-06-26T09:15:28.612Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31872310" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31872310" class="text">Wishpool</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8814520" class="link_artist"><span class="text">B.D.U(비디유)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cry]]></title>
+        <id>https://vibe.naver.com/album/31875779</id>
+        <link href="https://vibe.naver.com/album/31875779"/>
+        <updated>2024-06-26T15:14:21.944Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31875779" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31875779" class="text">Cry</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/484820" class="link_artist"><span class="text">도영 (DOYOUNG)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여름이잖아]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31868817"/>
         <updated>2024-06-25T03:14:09.106Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31868817" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31868817" class="text">Love Dumb</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1889157" class="link_artist"><span class="text">Eian</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내안의 세상]]></title>
-        <id>https://vibe.naver.com/album/31868587</id>
-        <link href="https://vibe.naver.com/album/31868587"/>
-        <updated>2024-06-25T03:14:09.106Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31868587" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31868587" class="text">내안의 세상</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6539465" class="link_artist"><span class="text">재경</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

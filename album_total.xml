@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-06-27T23:14:23.750Z</updated>
+    <updated>2024-06-28T00:56:58.741Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Rockstar]]></title>
+        <id>https://vibe.naver.com/album/31879889</id>
+        <link href="https://vibe.naver.com/album/31879889"/>
+        <updated>2024-06-28T00:56:58.058Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31879889" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31879889" class="text">Rockstar</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/500569" class="link_artist"><span class="text">리사 (LISA)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BURN IT]]></title>
         <id>https://vibe.naver.com/album/31875775</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31868768"/>
         <updated>2024-06-26T03:14:51.759Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31868768" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31868768" class="text">살고 싶어요</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2954213" class="link_artist"><span class="text">Mingginyu(밍기뉴)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Counting Star (더 매직스타 X RESCENE (리센느))]]></title>
-        <id>https://vibe.naver.com/album/31872678</id>
-        <link href="https://vibe.naver.com/album/31872678"/>
-        <updated>2024-06-26T03:14:51.760Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31872678" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31872678" class="text">Counting Star (더 매직스타 X RESCENE (리센느))</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8416557" class="link_artist"><span class="text">RESCENE(리센느)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

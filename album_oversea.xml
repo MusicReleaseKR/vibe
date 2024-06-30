@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-06-30T14:11:35.431Z</updated>
+    <updated>2024-06-30T15:13:18.732Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hush-Hush]]></title>
+        <id>https://vibe.naver.com/album/31883710</id>
+        <link href="https://vibe.naver.com/album/31883710"/>
+        <updated>2024-06-30T15:13:12.139Z</updated>
+        <content type="html"><![CDATA[BE:FIRST]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Believe in You]]></title>
         <id>https://vibe.naver.com/album/31879579</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31861667"/>
         <updated>2024-06-26T03:14:46.222Z</updated>
         <content type="html"><![CDATA[Lola Young]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Parking Lot]]></title>
-        <id>https://vibe.naver.com/album/31863708</id>
-        <link href="https://vibe.naver.com/album/31863708"/>
-        <updated>2024-06-26T03:14:46.228Z</updated>
-        <content type="html"><![CDATA[Mustard]]></content>
     </entry>
 </feed>

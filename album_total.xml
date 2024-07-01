@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-01T14:12:21.516Z</updated>
+    <updated>2024-07-01T15:13:40.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -46,6 +46,13 @@
         <link href="https://vibe.naver.com/album/31883806"/>
         <updated>2024-06-30T15:13:18.134Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31883806" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31883806" class="text">Sticky</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6731797" class="link_artist"><span class="text">KISS OF LIFE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gibberish]]></title>
+        <id>https://vibe.naver.com/album/31888202</id>
+        <link href="https://vibe.naver.com/album/31888202"/>
+        <updated>2024-07-01T15:13:40.180Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31888202" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31888202" class="text">Gibberish</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2138891" class="link_artist"><span class="text">더보이즈(THE BOYZ)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[물빛여름]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31880000"/>
         <updated>2024-06-29T09:14:08.538Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31880000" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31880000" class="text">Luxury Flow</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/11852" class="link_artist"><span class="text">The Quiett</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[덜익은아보카도]]></title>
-        <id>https://vibe.naver.com/album/31879852</id>
-        <link href="https://vibe.naver.com/album/31879852"/>
-        <updated>2024-06-29T09:14:08.538Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31879852" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31879852" class="text">덜익은아보카도</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4301085" class="link_artist"><span class="text">네이비쿼카(NavyQuokka)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

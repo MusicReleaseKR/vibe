@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-02T14:12:18.569Z</updated>
+    <updated>2024-07-02T15:13:29.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hot Mess]]></title>
+        <id>https://vibe.naver.com/album/31890897</id>
+        <link href="https://vibe.naver.com/album/31890897"/>
+        <updated>2024-07-02T15:13:23.354Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[誓い (CHIKAI)]]></title>
+        <id>https://vibe.naver.com/album/31890937</id>
+        <link href="https://vibe.naver.com/album/31890937"/>
+        <updated>2024-07-02T15:13:23.355Z</updated>
+        <content type="html"><![CDATA[투모로우바이투게더]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Wait On It (Feat. Bryson Tiller & Chris Brown)]]></title>
         <id>https://vibe.naver.com/album/31878600</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31879556"/>
         <updated>2024-06-28T03:14:50.770Z</updated>
         <content type="html"><![CDATA[Omar Apollo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Make It Back]]></title>
-        <id>https://vibe.naver.com/album/31777502</id>
-        <link href="https://vibe.naver.com/album/31777502"/>
-        <updated>2024-06-28T03:14:50.770Z</updated>
-        <content type="html"><![CDATA[French Montana]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hearts Get Broken]]></title>
-        <id>https://vibe.naver.com/album/31881188</id>
-        <link href="https://vibe.naver.com/album/31881188"/>
-        <updated>2024-06-28T03:14:50.770Z</updated>
-        <content type="html"><![CDATA[Thomas Day]]></content>
     </entry>
 </feed>

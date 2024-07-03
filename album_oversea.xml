@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-03T14:14:12.712Z</updated>
+    <updated>2024-07-03T15:13:55.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[創造／Souzou]]></title>
+        <id>https://vibe.naver.com/album/31895157</id>
+        <link href="https://vibe.naver.com/album/31895157"/>
+        <updated>2024-07-03T15:13:48.856Z</updated>
+        <content type="html"><![CDATA[アイナ・ジ・エンド]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tobey]]></title>
         <id>https://vibe.naver.com/album/31893765</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31881225"/>
         <updated>2024-07-01T03:14:55.799Z</updated>
         <content type="html"><![CDATA[Masaki Suda]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance With The Devil]]></title>
-        <id>https://vibe.naver.com/album/31872251</id>
-        <link href="https://vibe.naver.com/album/31872251"/>
-        <updated>2024-07-01T03:14:55.799Z</updated>
-        <content type="html"><![CDATA[Blxst]]></content>
     </entry>
 </feed>

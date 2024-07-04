@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-04T02:00:47.793Z</updated>
+    <updated>2024-07-04T02:37:39.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/31890933"/>
         <updated>2024-07-03T09:14:08.846Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31890933" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31890933" class="text">PRE-RELEASE 3RD ALBUM [YEOK SEONG]</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/243458" class="link_artist"><span class="text">이승윤</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[創造／Souzou]]></title>
+        <id>https://vibe.naver.com/album/31895157</id>
+        <link href="https://vibe.naver.com/album/31895157"/>
+        <updated>2024-07-03T15:13:54.503Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31895157" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31895157" class="text">創造／Souzou</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3088741" class="link_artist"><span class="text">アイナ・ジ・エンド</span></a><span>, </span></span><span><a href="/artist/4033796" class="link_artist"><span class="text">坂東祐大</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Young Man]]></title>
@@ -67,13 +74,6 @@
         <link href="https://vibe.naver.com/album/31891316"/>
         <updated>2024-07-03T09:14:08.859Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31891316" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31891316" class="text">Ain't Nobody</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8463216" class="link_artist"><span class="text">VVUP(비비업)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[創造／Souzou]]></title>
-        <id>https://vibe.naver.com/album/31895157</id>
-        <link href="https://vibe.naver.com/album/31895157"/>
-        <updated>2024-07-03T15:13:54.503Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31895157" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31895157" class="text">創造／Souzou</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3088741" class="link_artist"><span class="text">アイナ・ジ・エンド</span></a><span>, </span></span><span><a href="/artist/4033796" class="link_artist"><span class="text">坂東祐大</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[잔향 (殘香)]]></title>

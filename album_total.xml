@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-05T03:14:28.729Z</updated>
+    <updated>2024-07-05T04:17:24.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -109,6 +109,13 @@
         <link href="https://vibe.naver.com/album/31902092"/>
         <updated>2024-07-05T03:14:27.909Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31902092" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31902092" class="text">UFO (Extraterrestrial Version) (Feat. YOUHA(유하))</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1528135" class="link_artist"><span class="text">Chymes</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hush-Hush (☆Taku Takahashi (m-flo) Remix)]]></title>
+        <id>https://vibe.naver.com/album/31899242</id>
+        <link href="https://vibe.naver.com/album/31899242"/>
+        <updated>2024-07-05T04:17:23.545Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31899242" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31899242" class="text">Hush-Hush (☆Taku Takahashi (m-flo) Remix)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4748038" class="link_artist"><span class="text">BE:FIRST</span></a><span>, </span></span><span><a href="/artist/2475793" class="link_artist"><span class="text">ATEEZ(에이티즈)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[신청곡]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31890116"/>
         <updated>2024-07-03T03:14:13.864Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31890116" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31890116" class="text">Young Man</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/353359" class="link_artist"><span class="text">혁오(HYUKOH)</span></a><span>, </span></span><span><a href="/artist/2396689" class="link_artist"><span class="text">Sunset Rollercoaster</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SHOWDOWN]]></title>
-        <id>https://vibe.naver.com/album/31894805</id>
-        <link href="https://vibe.naver.com/album/31894805"/>
-        <updated>2024-07-03T09:14:08.854Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31894805" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31894805" class="text">SHOWDOWN</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2478996" class="link_artist"><span class="text">이채연</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

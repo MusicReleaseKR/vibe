@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-05T03:14:28.727Z</updated>
+    <updated>2024-07-05T04:17:24.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[Chymes]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hush-Hush (☆Taku Takahashi (m-flo) Remix)]]></title>
+        <id>https://vibe.naver.com/album/31899242</id>
+        <link href="https://vibe.naver.com/album/31899242"/>
+        <updated>2024-07-05T04:17:18.175Z</updated>
+        <content type="html"><![CDATA[BE:FIRST]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Fatal]]></title>
         <id>https://vibe.naver.com/album/31896278</id>
         <link href="https://vibe.naver.com/album/31896278"/>
@@ -60,6 +67,13 @@
         <link href="https://vibe.naver.com/album/31895011"/>
         <updated>2024-07-05T03:14:22.759Z</updated>
         <content type="html"><![CDATA[Thomas Rhett]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hush-Hush (Inst.)]]></title>
+        <id>https://vibe.naver.com/album/31899239</id>
+        <link href="https://vibe.naver.com/album/31899239"/>
+        <updated>2024-07-05T04:17:18.180Z</updated>
+        <content type="html"><![CDATA[BE:FIRST]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ready For Your Love]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31883781"/>
         <updated>2024-07-03T03:14:08.422Z</updated>
         <content type="html"><![CDATA[Keith Urban]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lullaby]]></title>
-        <id>https://vibe.naver.com/album/31890112</id>
-        <link href="https://vibe.naver.com/album/31890112"/>
-        <updated>2024-07-03T03:14:08.423Z</updated>
-        <content type="html"><![CDATA[ILYAA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ophelia Presents: Advent Volume 9]]></title>
-        <id>https://vibe.naver.com/album/31891656</id>
-        <link href="https://vibe.naver.com/album/31891656"/>
-        <updated>2024-07-03T03:14:08.425Z</updated>
-        <content type="html"><![CDATA[Various Artists]]></content>
     </entry>
 </feed>

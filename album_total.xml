@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-06T14:10:38.460Z</updated>
+    <updated>2024-07-06T15:13:07.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RISE UP (English & Korean ver.)]]></title>
+        <id>https://vibe.naver.com/album/31902226</id>
+        <link href="https://vibe.naver.com/album/31902226"/>
+        <updated>2024-07-06T15:13:06.401Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31902226" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31902226" class="text">RISE UP (English &amp; Korean ver.)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3654002" class="link_artist"><span class="text">NiziU (니쥬)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여우비]]></title>
         <id>https://vibe.naver.com/album/31902337</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31902092"/>
         <updated>2024-07-05T03:14:27.909Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31902092" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31902092" class="text">UFO (Extraterrestrial Version) (Feat. YOUHA(유하))</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1528135" class="link_artist"><span class="text">Chymes</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hush-Hush (☆Taku Takahashi (m-flo) Remix)]]></title>
-        <id>https://vibe.naver.com/album/31899242</id>
-        <link href="https://vibe.naver.com/album/31899242"/>
-        <updated>2024-07-05T04:17:23.545Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31899242" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31899242" class="text">Hush-Hush (☆Taku Takahashi (m-flo) Remix)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4748038" class="link_artist"><span class="text">BE:FIRST</span></a><span>, </span></span><span><a href="/artist/2475793" class="link_artist"><span class="text">ATEEZ(에이티즈)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

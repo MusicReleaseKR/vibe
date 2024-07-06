@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-06T14:10:38.467Z</updated>
+    <updated>2024-07-06T15:13:07.068Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RISE UP (English & Korean ver.)]]></title>
+        <id>https://vibe.naver.com/album/31902226</id>
+        <link href="https://vibe.naver.com/album/31902226"/>
+        <updated>2024-07-06T15:12:54.991Z</updated>
+        <content type="html"><![CDATA[NiziU (니쥬)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여우비]]></title>
         <id>https://vibe.naver.com/album/31902337</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31899362"/>
         <updated>2024-07-05T03:14:15.996Z</updated>
         <content type="html"><![CDATA[케일라]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한여름의 겨울]]></title>
-        <id>https://vibe.naver.com/album/31899117</id>
-        <link href="https://vibe.naver.com/album/31899117"/>
-        <updated>2024-07-05T03:14:15.997Z</updated>
-        <content type="html"><![CDATA[모닝커피]]></content>
     </entry>
 </feed>

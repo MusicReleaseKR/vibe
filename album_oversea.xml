@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-07T14:11:26.951Z</updated>
+    <updated>2024-07-07T15:13:14.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Story]]></title>
+        <id>https://vibe.naver.com/album/31902409</id>
+        <link href="https://vibe.naver.com/album/31902409"/>
+        <updated>2024-07-07T15:13:07.790Z</updated>
+        <content type="html"><![CDATA[Da-iCE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Walk]]></title>
+        <id>https://vibe.naver.com/album/31902455</id>
+        <link href="https://vibe.naver.com/album/31902455"/>
+        <updated>2024-07-07T15:13:07.791Z</updated>
+        <content type="html"><![CDATA[LIL LEAGUE from EXILE TRIBE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ride the Vibe (Japanese Ver.) / Keep on Moving -Special Edition-]]></title>
         <id>https://vibe.naver.com/album/31899449</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31883680"/>
         <updated>2024-07-03T03:14:08.419Z</updated>
         <content type="html"><![CDATA[王以太]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cowboy Killers]]></title>
-        <id>https://vibe.naver.com/album/31892362</id>
-        <link href="https://vibe.naver.com/album/31892362"/>
-        <updated>2024-07-03T03:14:08.421Z</updated>
-        <content type="html"><![CDATA[RYMAN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WILDSIDE]]></title>
-        <id>https://vibe.naver.com/album/31883781</id>
-        <link href="https://vibe.naver.com/album/31883781"/>
-        <updated>2024-07-03T03:14:08.422Z</updated>
-        <content type="html"><![CDATA[Keith Urban]]></content>
     </entry>
 </feed>

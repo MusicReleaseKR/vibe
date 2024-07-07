@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-07T14:11:26.959Z</updated>
+    <updated>2024-07-07T15:13:14.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Story]]></title>
+        <id>https://vibe.naver.com/album/31902409</id>
+        <link href="https://vibe.naver.com/album/31902409"/>
+        <updated>2024-07-07T15:13:13.736Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31902409" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31902409" class="text">Story</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/360032" class="link_artist"><span class="text">Da-iCE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Walk]]></title>
+        <id>https://vibe.naver.com/album/31902455</id>
+        <link href="https://vibe.naver.com/album/31902455"/>
+        <updated>2024-07-07T15:13:13.736Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31902455" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31902455" class="text">The Walk</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5667984" class="link_artist"><span class="text">LIL LEAGUE from EXILE TRIBE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너를 품에 안으면]]></title>
         <id>https://vibe.naver.com/album/31902193</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31899705"/>
         <updated>2024-07-05T09:15:16.170Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31899705" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31899705" class="text">친구도 될 수 없는 우리</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4726110" class="link_artist"><span class="text">일층남</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sleepwalking]]></title>
-        <id>https://vibe.naver.com/album/31899204</id>
-        <link href="https://vibe.naver.com/album/31899204"/>
-        <updated>2024-07-05T09:15:16.170Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31899204" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31899204" class="text">Sleepwalking</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5444343" class="link_artist"><span class="text">DallMun</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[천천히 내게 와줘요]]></title>
-        <id>https://vibe.naver.com/album/31899223</id>
-        <link href="https://vibe.naver.com/album/31899223"/>
-        <updated>2024-07-05T09:15:16.170Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31899223" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31899223" class="text">천천히 내게 와줘요</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/128244" class="link_artist"><span class="text">리디아(Lydia)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

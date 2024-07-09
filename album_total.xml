@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-09T14:12:26.903Z</updated>
+    <updated>2024-07-09T15:13:30.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AND,]]></title>
+        <id>https://vibe.naver.com/album/31857750</id>
+        <link href="https://vibe.naver.com/album/31857750"/>
+        <updated>2024-07-09T15:13:28.949Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31857750" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31857750" class="text">AND,</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6705593" class="link_artist"><span class="text">BOYNEXTDOOR</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[T.P.O]]></title>
         <id>https://vibe.naver.com/album/31905294</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31905192"/>
         <updated>2024-07-08T03:15:30.628Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31905192" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31905192" class="text">Freaky Love</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5686143" class="link_artist"><span class="text">ma1ro(마일로)</span></a><span>, </span></span><span><a href="/artist/1598904" class="link_artist"><span class="text">티거(TIGER)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백야]]></title>
-        <id>https://vibe.naver.com/album/31903164</id>
-        <link href="https://vibe.naver.com/album/31903164"/>
-        <updated>2024-07-08T03:15:30.629Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31903164" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31903164" class="text">백야</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3638683" class="link_artist"><span class="text">헤온(Heon)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-10T08:18:06.825Z</updated>
+    <updated>2024-07-10T09:13:38.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AAA]]></title>
+        <id>https://vibe.naver.com/album/31890116</id>
+        <link href="https://vibe.naver.com/album/31890116"/>
+        <updated>2024-07-10T09:13:26.100Z</updated>
+        <content type="html"><![CDATA[혁오(HYUKOH)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[VirtuouS]]]></title>
+        <id>https://vibe.naver.com/album/31907300</id>
+        <link href="https://vibe.naver.com/album/31907300"/>
+        <updated>2024-07-10T09:13:26.101Z</updated>
+        <content type="html"><![CDATA[드림캐쳐]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Serious]]></title>
+        <id>https://vibe.naver.com/album/31907279</id>
+        <link href="https://vibe.naver.com/album/31907279"/>
+        <updated>2024-07-10T09:13:26.108Z</updated>
+        <content type="html"><![CDATA[FTISLAND (FT아일랜드)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IN A ROW]]></title>
+        <id>https://vibe.naver.com/album/31907337</id>
+        <link href="https://vibe.naver.com/album/31907337"/>
+        <updated>2024-07-10T09:13:26.108Z</updated>
+        <content type="html"><![CDATA[ZENE THE ZILLA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7월의 시]]></title>
+        <id>https://vibe.naver.com/album/31909406</id>
+        <link href="https://vibe.naver.com/album/31909406"/>
+        <updated>2024-07-10T09:13:26.108Z</updated>
+        <content type="html"><![CDATA[박창근]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[놀아주는 여자 OST Part 7]]></title>
+        <id>https://vibe.naver.com/album/31907410</id>
+        <link href="https://vibe.naver.com/album/31907410"/>
+        <updated>2024-07-10T09:13:26.108Z</updated>
+        <content type="html"><![CDATA[유정석]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[널 파고든 지금이 영원]]></title>
+        <id>https://vibe.naver.com/album/31907110</id>
+        <link href="https://vibe.naver.com/album/31907110"/>
+        <updated>2024-07-10T09:13:26.117Z</updated>
+        <content type="html"><![CDATA[프롬 (Fromm)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너와의 하루가 다시 주어진다면]]></title>
+        <id>https://vibe.naver.com/album/31908946</id>
+        <link href="https://vibe.naver.com/album/31908946"/>
+        <updated>2024-07-10T09:13:26.117Z</updated>
+        <content type="html"><![CDATA[시안]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시 만난 날]]></title>
+        <id>https://vibe.naver.com/album/31906979</id>
+        <link href="https://vibe.naver.com/album/31906979"/>
+        <updated>2024-07-10T09:13:26.118Z</updated>
+        <content type="html"><![CDATA[Gist]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Golden Door]]></title>
+        <id>https://vibe.naver.com/album/31907107</id>
+        <link href="https://vibe.naver.com/album/31907107"/>
+        <updated>2024-07-10T09:13:26.118Z</updated>
+        <content type="html"><![CDATA[heyden]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음음]]></title>
+        <id>https://vibe.naver.com/album/31906994</id>
+        <link href="https://vibe.naver.com/album/31906994"/>
+        <updated>2024-07-10T09:13:26.119Z</updated>
+        <content type="html"><![CDATA[임세모]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화인가 스캔들 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/31907287</id>
+        <link href="https://vibe.naver.com/album/31907287"/>
+        <updated>2024-07-10T09:13:26.123Z</updated>
+        <content type="html"><![CDATA[김호연]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[75]]></title>
         <id>https://vibe.naver.com/album/31907057</id>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/31906018"/>
         <updated>2024-07-09T03:15:20.688Z</updated>
         <content type="html"><![CDATA[NTX(엔티엑스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화[Kulture]]]></title>
-        <id>https://vibe.naver.com/album/31905342</id>
-        <link href="https://vibe.naver.com/album/31905342"/>
-        <updated>2024-07-09T03:15:20.688Z</updated>
-        <content type="html"><![CDATA[BanggerDope(뱅거돞)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS 중독]]></title>
-        <id>https://vibe.naver.com/album/31905212</id>
-        <link href="https://vibe.naver.com/album/31905212"/>
-        <updated>2024-07-09T03:15:20.694Z</updated>
-        <content type="html"><![CDATA[DOKO(도코)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't ring me up]]></title>
-        <id>https://vibe.naver.com/album/31905391</id>
-        <link href="https://vibe.naver.com/album/31905391"/>
-        <updated>2024-07-09T03:15:20.694Z</updated>
-        <content type="html"><![CDATA[Bros]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOMETRIP#3]]></title>
-        <id>https://vibe.naver.com/album/31905756</id>
-        <link href="https://vibe.naver.com/album/31905756"/>
-        <updated>2024-07-09T03:15:20.695Z</updated>
-        <content type="html"><![CDATA[khild]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24hrs REMIX]]></title>
-        <id>https://vibe.naver.com/album/31905346</id>
-        <link href="https://vibe.naver.com/album/31905346"/>
-        <updated>2024-07-09T03:15:20.695Z</updated>
-        <content type="html"><![CDATA[Manny]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뱀은 꽃을 먹는가 OST Part 13]]></title>
-        <id>https://vibe.naver.com/album/31905503</id>
-        <link href="https://vibe.naver.com/album/31905503"/>
-        <updated>2024-07-09T03:15:20.697Z</updated>
-        <content type="html"><![CDATA[소밍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽이고 싶은 나의 전복 왕자님 OST Part 15]]></title>
-        <id>https://vibe.naver.com/album/31905241</id>
-        <link href="https://vibe.naver.com/album/31905241"/>
-        <updated>2024-07-09T03:15:20.699Z</updated>
-        <content type="html"><![CDATA[한송이(미니마니)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet]]></title>
-        <id>https://vibe.naver.com/album/31905495</id>
-        <link href="https://vibe.naver.com/album/31905495"/>
-        <updated>2024-07-09T03:15:20.700Z</updated>
-        <content type="html"><![CDATA[YUNI HA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey July]]></title>
-        <id>https://vibe.naver.com/album/31905319</id>
-        <link href="https://vibe.naver.com/album/31905319"/>
-        <updated>2024-07-09T03:15:20.702Z</updated>
-        <content type="html"><![CDATA[김각성(Kim Kak Sung)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GO CRAZY]]></title>
-        <id>https://vibe.naver.com/album/31905345</id>
-        <link href="https://vibe.naver.com/album/31905345"/>
-        <updated>2024-07-09T03:15:20.706Z</updated>
-        <content type="html"><![CDATA[유로겸]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이렇게 잊혀지긴 싫어요]]></title>
-        <id>https://vibe.naver.com/album/31905243</id>
-        <link href="https://vibe.naver.com/album/31905243"/>
-        <updated>2024-07-09T03:15:20.707Z</updated>
-        <content type="html"><![CDATA[리디아(Lydia)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너에게 간다]]></title>
-        <id>https://vibe.naver.com/album/31905280</id>
-        <link href="https://vibe.naver.com/album/31905280"/>
-        <updated>2024-07-09T03:15:20.708Z</updated>
-        <content type="html"><![CDATA[자크케이(Zacch.K)]]></content>
     </entry>
 </feed>

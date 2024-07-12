@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-12T04:15:16.192Z</updated>
+    <updated>2024-07-12T05:13:04.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Death of Slim Shady (Coup De Grâce)]]></title>
+        <id>https://vibe.naver.com/album/31917132</id>
+        <link href="https://vibe.naver.com/album/31917132"/>
+        <updated>2024-07-12T05:12:58.424Z</updated>
+        <content type="html"><![CDATA[Eminem]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UP]]></title>
         <id>https://vibe.naver.com/album/31914859</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31907357"/>
         <updated>2024-07-10T03:15:30.100Z</updated>
         <content type="html"><![CDATA[Last Heroes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fire (Turno Remix)]]></title>
-        <id>https://vibe.naver.com/album/31898392</id>
-        <link href="https://vibe.naver.com/album/31898392"/>
-        <updated>2024-07-10T03:15:30.109Z</updated>
-        <content type="html"><![CDATA[MeduZa]]></content>
     </entry>
 </feed>

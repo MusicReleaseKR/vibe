@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-12T08:17:31.699Z</updated>
+    <updated>2024-07-12T09:14:44.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,48 @@
         <link href="https://vibe.naver.com/album/31917037"/>
         <updated>2024-07-12T04:15:02.599Z</updated>
         <content type="html"><![CDATA[ENHYPEN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OST]]></title>
+        <id>https://vibe.naver.com/album/31914865</id>
+        <link href="https://vibe.naver.com/album/31914865"/>
+        <updated>2024-07-12T09:14:32.842Z</updated>
+        <content type="html"><![CDATA[ASH ISLAND]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[coco water]]></title>
+        <id>https://vibe.naver.com/album/31916530</id>
+        <link href="https://vibe.naver.com/album/31916530"/>
+        <updated>2024-07-12T09:14:32.842Z</updated>
+        <content type="html"><![CDATA[휘인(Whee In)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알라릴라릴랄루]]></title>
+        <id>https://vibe.naver.com/album/31915036</id>
+        <link href="https://vibe.naver.com/album/31915036"/>
+        <updated>2024-07-12T09:14:32.842Z</updated>
+        <content type="html"><![CDATA[박경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아리아]]></title>
+        <id>https://vibe.naver.com/album/31914858</id>
+        <link href="https://vibe.naver.com/album/31914858"/>
+        <updated>2024-07-12T09:14:32.842Z</updated>
+        <content type="html"><![CDATA[양정승]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제가 어른이 라네요]]></title>
+        <id>https://vibe.naver.com/album/31914820</id>
+        <link href="https://vibe.naver.com/album/31914820"/>
+        <updated>2024-07-12T09:14:32.844Z</updated>
+        <content type="html"><![CDATA[수진(Sujin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[못났어]]></title>
+        <id>https://vibe.naver.com/album/31915093</id>
+        <link href="https://vibe.naver.com/album/31915093"/>
+        <updated>2024-07-12T09:14:32.844Z</updated>
+        <content type="html"><![CDATA[이미블루]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Sweetie]]></title>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/31909645"/>
         <updated>2024-07-11T03:16:48.761Z</updated>
         <content type="html"><![CDATA[윤수현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놀아주는 여자 OST Part 8]]></title>
-        <id>https://vibe.naver.com/album/31909838</id>
-        <link href="https://vibe.naver.com/album/31909838"/>
-        <updated>2024-07-11T03:16:48.761Z</updated>
-        <content type="html"><![CDATA[백예슬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비를 내리는 아이]]></title>
-        <id>https://vibe.naver.com/album/31909512</id>
-        <link href="https://vibe.naver.com/album/31909512"/>
-        <updated>2024-07-11T03:16:48.761Z</updated>
-        <content type="html"><![CDATA[kumira]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lustful Nostalgia]]></title>
-        <id>https://vibe.naver.com/album/31910100</id>
-        <link href="https://vibe.naver.com/album/31910100"/>
-        <updated>2024-07-11T03:16:48.761Z</updated>
-        <content type="html"><![CDATA[William Son(윌리엄 손)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기다리다 그리워지면]]></title>
-        <id>https://vibe.naver.com/album/31913897</id>
-        <link href="https://vibe.naver.com/album/31913897"/>
-        <updated>2024-07-11T03:16:48.761Z</updated>
-        <content type="html"><![CDATA[이민정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용감무쌍 용수정 OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/31909901</id>
-        <link href="https://vibe.naver.com/album/31909901"/>
-        <updated>2024-07-11T03:16:48.761Z</updated>
-        <content type="html"><![CDATA[한영주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 20]]></title>
-        <id>https://vibe.naver.com/album/31909510</id>
-        <link href="https://vibe.naver.com/album/31909510"/>
-        <updated>2024-07-11T03:16:48.762Z</updated>
-        <content type="html"><![CDATA[누구(NUGU)]]></content>
     </entry>
 </feed>

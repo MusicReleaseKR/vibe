@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-13T14:10:38.894Z</updated>
+    <updated>2024-07-13T15:12:42.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[참아본다 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[아우릴고트(OUREALGOAT)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Same Key (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/31917543</id>
+        <link href="https://vibe.naver.com/album/31917543"/>
+        <updated>2024-07-13T15:12:36.159Z</updated>
+        <content type="html"><![CDATA[RIIZE]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Death of Slim Shady (Coup De Grâce) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/31917132</id>
         <link href="https://vibe.naver.com/album/31917132"/>
@@ -698,11 +705,11 @@
         <content type="html"><![CDATA[Yuzu]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLEEZY BASTARD (SLASHER PT. 1) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31898407</id>
-        <link href="https://vibe.naver.com/album/31898407"/>
-        <updated>2024-07-10T03:15:30.097Z</updated>
-        <content type="html"><![CDATA[SosMula]]></content>
+        <title type="html"><![CDATA[Same Key (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31917543</id>
+        <link href="https://vibe.naver.com/album/31917543"/>
+        <updated>2024-07-13T15:12:41.914Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31917543" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31917543" class="text">Same Key</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6923142" class="link_artist"><span class="text">RIIZE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[참아본다 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31909575"/>
         <updated>2024-07-11T09:14:18.825Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31909575" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31909575" class="text">다시 돌아와 준다면</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5870561" class="link_artist"><span class="text">유림</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작두 [네이버 웹툰 '작두' OST] (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31909570</id>
-        <link href="https://vibe.naver.com/album/31909570"/>
-        <updated>2024-07-11T09:14:18.825Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31909570" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31909570" class="text">작두&nbsp;[네이버 웹툰 '작두' OST]&nbsp;</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/63388" class="link_artist"><span class="text">Tula</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

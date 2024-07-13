@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-13T14:10:38.889Z</updated>
+    <updated>2024-07-13T15:12:42.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Same Key]]></title>
+        <id>https://vibe.naver.com/album/31917543</id>
+        <link href="https://vibe.naver.com/album/31917543"/>
+        <updated>2024-07-13T15:12:36.159Z</updated>
+        <content type="html"><![CDATA[RIIZE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Death of Slim Shady (Coup De Grâce)]]></title>
         <id>https://vibe.naver.com/album/31917132</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31906465"/>
         <updated>2024-07-10T03:15:30.096Z</updated>
         <content type="html"><![CDATA[Yuzu]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLEEZY BASTARD (SLASHER PT. 1)]]></title>
-        <id>https://vibe.naver.com/album/31898407</id>
-        <link href="https://vibe.naver.com/album/31898407"/>
-        <updated>2024-07-10T03:15:30.097Z</updated>
-        <content type="html"><![CDATA[SosMula]]></content>
     </entry>
 </feed>

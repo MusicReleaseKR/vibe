@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-16T03:17:40.205Z</updated>
+    <updated>2024-07-16T04:16:24.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/31917286"/>
         <updated>2024-07-15T09:14:39.107Z</updated>
         <content type="html"><![CDATA[선우정아]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XO (Only If You Say Yes) (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31921134</id>
+        <link href="https://vibe.naver.com/album/31921134"/>
+        <updated>2024-07-16T04:16:12.135Z</updated>
+        <content type="html"><![CDATA[ENHYPEN]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[STORY#30]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31917195"/>
         <updated>2024-07-15T03:16:43.280Z</updated>
         <content type="html"><![CDATA[Kyra&nbsp;Jun]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Finale]]></title>
-        <id>https://vibe.naver.com/album/31917399</id>
-        <link href="https://vibe.naver.com/album/31917399"/>
-        <updated>2024-07-15T03:16:43.281Z</updated>
-        <content type="html"><![CDATA[ONSEEON(온시온)]]></content>
     </entry>
 </feed>

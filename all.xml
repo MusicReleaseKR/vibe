@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-16T14:13:29.794Z</updated>
+    <updated>2024-07-16T15:11:52.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[FLAT COKE (Feat. 이영지) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -362,6 +362,13 @@
         <content type="html"><![CDATA[Denzel Curry]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[DIVE (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/31922818</id>
+        <link href="https://vibe.naver.com/album/31922818"/>
+        <updated>2024-07-16T15:11:46.293Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Bass Player's Brother (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/31913115</id>
         <link href="https://vibe.naver.com/album/31913115"/>
@@ -698,13 +705,6 @@
         <content type="html"><![CDATA[Cults]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't Stop (The Music) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31913585</id>
-        <link href="https://vibe.naver.com/album/31913585"/>
-        <updated>2024-07-12T03:15:10.773Z</updated>
-        <content type="html"><![CDATA[Dimitri Vegas]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[FLAT COKE (Feat. 이영지) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/31917149</id>
         <link href="https://vibe.naver.com/album/31917149"/>
@@ -717,6 +717,13 @@
         <link href="https://vibe.naver.com/album/31922555"/>
         <updated>2024-07-16T09:14:45.557Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31922555" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31922555" class="text">오늘도 응원할게</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1124853" class="link_artist"><span class="text">HYNN(박혜원)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DIVE (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31922818</id>
+        <link href="https://vibe.naver.com/album/31922818"/>
+        <updated>2024-07-16T15:11:52.183Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31922818" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31922818" class="text">DIVE</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Havin' a Good Time (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31917071"/>
         <updated>2024-07-15T03:16:43.258Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31917071" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31917071" class="text">널 기억하는 일</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8462219" class="link_artist"><span class="text">오현준</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delusion:All (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31915714</id>
-        <link href="https://vibe.naver.com/album/31915714"/>
-        <updated>2024-07-15T03:16:49.470Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31915714" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31915714" class="text">Delusion:All</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/162840" class="link_artist"><span class="text">ONE OK ROCK</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

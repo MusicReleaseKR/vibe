@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-17T03:15:38.399Z</updated>
+    <updated>2024-07-17T04:15:32.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Open Always Wins]]></title>
+        <id>https://vibe.naver.com/album/31929047</id>
+        <link href="https://vibe.naver.com/album/31929047"/>
+        <updated>2024-07-17T04:15:31.622Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31929047" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31929047" class="text">Open Always Wins</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2751244" class="link_artist"><span class="text">투모로우바이투게더</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUPERGREEN]]></title>
         <id>https://vibe.naver.com/album/31922554</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31915515"/>
         <updated>2024-07-16T03:17:39.479Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31915515" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31915515" class="text">Free Fall</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3974561" class="link_artist"><span class="text">YDE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SilverLine]]></title>
-        <id>https://vibe.naver.com/album/31920966</id>
-        <link href="https://vibe.naver.com/album/31920966"/>
-        <updated>2024-07-16T03:17:39.480Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31920966" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31920966" class="text">SilverLine</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8822588" class="link_artist"><span class="text">플로리스 로에</span></a><span>, </span></span><span><a href="/artist/8822586" class="link_artist"><span class="text">에피오네 나시아</span></a><span>, </span></span><span><a href="/artist/8822585" class="link_artist"><span class="text">아스테리 에프타</span></a><span>, </span></span><span><a href="/artist/8834235" class="link_artist"><span class="text">쿠로가미 사샤</span></a><span>, </span></span><span><a href="/artist/8582125" class="link_artist"><span class="text">티그리스 카닌</span></a><span>, </span></span><span><a href="/artist/8834236" class="link_artist"><span class="text">코오리 세라</span></a><span>, </span></span><span><a href="/artist/8822590" class="link_artist"><span class="text">요나</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

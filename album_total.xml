@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-18T14:12:46.797Z</updated>
+    <updated>2024-07-18T15:16:02.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Gibberish]]></title>
+        <id>https://vibe.naver.com/album/31888202</id>
+        <link href="https://vibe.naver.com/album/31888202"/>
+        <updated>2024-07-18T15:16:02.099Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31888202" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31888202" class="text">Gibberish</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2138891" class="link_artist"><span class="text">더보이즈(THE BOYZ)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어떤 무엇도 아닌]]></title>
         <id>https://vibe.naver.com/album/31929679</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31929327"/>
         <updated>2024-07-17T03:15:37.665Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31929327" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31929327" class="text">Venom</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8836043" class="link_artist"><span class="text">KAVE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roots]]></title>
-        <id>https://vibe.naver.com/album/31913276</id>
-        <link href="https://vibe.naver.com/album/31913276"/>
-        <updated>2024-07-17T03:15:37.668Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31913276" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31913276" class="text">Roots</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/493601" class="link_artist"><span class="text">Calum Scott</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

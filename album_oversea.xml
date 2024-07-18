@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-18T08:16:50.592Z</updated>
+    <updated>2024-07-18T09:13:55.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Koegawari]]></title>
+        <id>https://vibe.naver.com/album/31935009</id>
+        <link href="https://vibe.naver.com/album/31935009"/>
+        <updated>2024-07-18T09:13:48.614Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[L.A. Times]]></title>
         <id>https://vibe.naver.com/album/31915560</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31915495"/>
         <updated>2024-07-15T03:16:49.470Z</updated>
         <content type="html"><![CDATA[quinnie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love You Got]]></title>
-        <id>https://vibe.naver.com/album/31915187</id>
-        <link href="https://vibe.naver.com/album/31915187"/>
-        <updated>2024-07-15T03:16:49.470Z</updated>
-        <content type="html"><![CDATA[Kelly Lee Owens]]></content>
     </entry>
 </feed>

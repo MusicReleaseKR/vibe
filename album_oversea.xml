@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-19T08:16:35.670Z</updated>
+    <updated>2024-07-19T09:13:43.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BOSE x NME: C24]]></title>
+        <id>https://vibe.naver.com/album/31939417</id>
+        <link href="https://vibe.naver.com/album/31939417"/>
+        <updated>2024-07-19T09:13:36.799Z</updated>
+        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/31939417" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="https://musicmeta-phinf.pstatic.net/album/031/939/31939417.jpg?type=r360Fll&amp;v=20240719102715" class="thumb v-lazy-image v-lazy-image-loaded" alt="BOSE x NME: C24 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="31939417"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="31939417" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/31939417" data-title="BOSE x NME: C24" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/31939417" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31939417" class="text">BOSE x NME: C24</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ground]]></title>
         <id>https://vibe.naver.com/album/31935604</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31922603"/>
         <updated>2024-07-17T03:15:32.028Z</updated>
         <content type="html"><![CDATA[Trivecta]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backwards]]></title>
-        <id>https://vibe.naver.com/album/31922641</id>
-        <link href="https://vibe.naver.com/album/31922641"/>
-        <updated>2024-07-17T03:15:32.028Z</updated>
-        <content type="html"><![CDATA[Shingo Suzuki]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-19T03:15:23.466Z</updated>
+    <updated>2024-07-19T04:17:36.013Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MUSE]]></title>
+        <id>https://vibe.naver.com/album/31883617</id>
+        <link href="https://vibe.naver.com/album/31883617"/>
+        <updated>2024-07-19T04:17:35.197Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31883617" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31883617" class="text">MUSE</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ATE]]></title>
+        <id>https://vibe.naver.com/album/31939437</id>
+        <link href="https://vibe.naver.com/album/31939437"/>
+        <updated>2024-07-19T04:17:35.198Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31939437" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31939437" class="text">ATE</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ground]]></title>
         <id>https://vibe.naver.com/album/31935604</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31929760"/>
         <updated>2024-07-18T03:16:24.602Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31929760" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31929760" class="text">여름 아닌 모든 것들</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6871662" class="link_artist"><span class="text">마리솔</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 22]]></title>
-        <id>https://vibe.naver.com/album/31929052</id>
-        <link href="https://vibe.naver.com/album/31929052"/>
-        <updated>2024-07-18T03:16:24.603Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31929052" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31929052" class="text">수지맞은 우리 OST Part 22</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4953975" class="link_artist"><span class="text">이형구</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Blessed]]></title>
-        <id>https://vibe.naver.com/album/31922799</id>
-        <link href="https://vibe.naver.com/album/31922799"/>
-        <updated>2024-07-17T09:16:03.384Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31922799" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31922799" class="text">Blessed</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/359532" class="link_artist"><span class="text">하성운</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

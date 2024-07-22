@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-22T05:14:10.100Z</updated>
+    <updated>2024-07-22T06:18:38.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -83,7 +83,7 @@
         <content type="html"><![CDATA[Cocktail Club]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마비노기 영웅전 OST : 들꽃]]></title>
+        <title type="html"><![CDATA[마비노기 영웅전 OST : 너에게 나아간다 (My Answer)]]></title>
         <id>https://vibe.naver.com/album/31943113</id>
         <link href="https://vibe.naver.com/album/31943113"/>
         <updated>2024-07-22T03:15:43.989Z</updated>
@@ -200,13 +200,6 @@
         <link href="https://vibe.naver.com/album/31939964"/>
         <updated>2024-07-22T03:15:44.009Z</updated>
         <content type="html"><![CDATA[콘텐츠코어㈜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Our God is faithful]]></title>
-        <id>https://vibe.naver.com/album/31944116</id>
-        <link href="https://vibe.naver.com/album/31944116"/>
-        <updated>2024-07-22T05:13:57.802Z</updated>
-        <content type="html"><![CDATA[Ark Anthems]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린왕자]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/31939924"/>
         <updated>2024-07-20T09:13:09.773Z</updated>
         <content type="html"><![CDATA[JAEHA(재하)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[추억이 하나 더 쌓이기 전에]]></title>
+        <id>https://vibe.naver.com/album/31939886</id>
+        <link href="https://vibe.naver.com/album/31939886"/>
+        <updated>2024-07-22T06:18:25.632Z</updated>
+        <content type="html"><![CDATA[카진]]></content>
     </entry>
 </feed>

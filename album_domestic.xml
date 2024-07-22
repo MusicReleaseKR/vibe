@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-22T03:15:56.540Z</updated>
+    <updated>2024-07-22T04:16:09.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Chk Chk Boom (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31939854</id>
+        <link href="https://vibe.naver.com/album/31939854"/>
+        <updated>2024-07-22T04:15:56.054Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[송스틸러 - 한계]]></title>
         <id>https://vibe.naver.com/album/31940168</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31939886"/>
         <updated>2024-07-20T09:13:09.773Z</updated>
         <content type="html"><![CDATA[카진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tray Show]]></title>
-        <id>https://vibe.naver.com/album/31939972</id>
-        <link href="https://vibe.naver.com/album/31939972"/>
-        <updated>2024-07-20T09:13:09.776Z</updated>
-        <content type="html"><![CDATA[Tray B]]></content>
     </entry>
 </feed>

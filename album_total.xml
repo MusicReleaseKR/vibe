@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-23T03:15:44.395Z</updated>
+    <updated>2024-07-23T04:15:58.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Who (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31946672</id>
+        <link href="https://vibe.naver.com/album/31946672"/>
+        <updated>2024-07-23T04:15:57.980Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31946672" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31946672" class="text">Who (Remixes)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Run It Up]]></title>
         <id>https://vibe.naver.com/album/31944895</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31939925"/>
         <updated>2024-07-21T09:13:01.321Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31939925" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31939925" class="text">어린왕자</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/214539" class="link_artist"><span class="text">서은광(비투비)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Project[심금], Part 1]]></title>
-        <id>https://vibe.naver.com/album/31939772</id>
-        <link href="https://vibe.naver.com/album/31939772"/>
-        <updated>2024-07-21T09:13:01.322Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31939772" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31939772" class="text">Project[심금], Part 1</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/329750" class="link_artist"><span class="text">반하나</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-25T14:12:17.295Z</updated>
+    <updated>2024-07-25T15:13:25.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BAD4US]]></title>
+        <id>https://vibe.naver.com/album/31954110</id>
+        <link href="https://vibe.naver.com/album/31954110"/>
+        <updated>2024-07-25T15:13:18.737Z</updated>
+        <content type="html"><![CDATA[SORN &amp; J.Tajor]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SOMETHING AIN'T RIGHT]]></title>
+        <id>https://vibe.naver.com/album/31953503</id>
+        <link href="https://vibe.naver.com/album/31953503"/>
+        <updated>2024-07-25T15:13:18.737Z</updated>
+        <content type="html"><![CDATA[XG]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Yes]]></title>
         <id>https://vibe.naver.com/album/31934464</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31945197"/>
         <updated>2024-07-23T03:15:37.413Z</updated>
         <content type="html"><![CDATA[Hidden Fortress]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better Place]]></title>
-        <id>https://vibe.naver.com/album/31945583</id>
-        <link href="https://vibe.naver.com/album/31945583"/>
-        <updated>2024-07-23T03:15:37.414Z</updated>
-        <content type="html"><![CDATA[Cale]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Oblivion]]></title>
-        <id>https://vibe.naver.com/album/31934053</id>
-        <link href="https://vibe.naver.com/album/31934053"/>
-        <updated>2024-07-23T03:15:37.416Z</updated>
-        <content type="html"><![CDATA[David Kushner]]></content>
     </entry>
 </feed>

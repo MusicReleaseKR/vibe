@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-26T03:15:35.122Z</updated>
+    <updated>2024-07-26T04:16:14.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Touch]]></title>
+        <id>https://vibe.naver.com/album/31956413</id>
+        <link href="https://vibe.naver.com/album/31956413"/>
+        <updated>2024-07-26T04:16:14.194Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31956413" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31956413" class="text">Touch</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8817378" class="link_artist"><span class="text">KATSEYE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[dummy]]></title>
+        <id>https://vibe.naver.com/album/31954539</id>
+        <link href="https://vibe.naver.com/album/31954539"/>
+        <updated>2024-07-26T04:16:14.194Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31954539" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31954539" class="text">dummy</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8843796" class="link_artist"><span class="text">ARrC (아크)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guy For That]]></title>
         <id>https://vibe.naver.com/album/31955059</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31948600"/>
         <updated>2024-07-25T03:14:48.173Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31948600" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31948600" class="text">또다시 사랑일까</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/7130" class="link_artist"><span class="text">한경일</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Something's Wrong]]></title>
-        <id>https://vibe.naver.com/album/31948959</id>
-        <link href="https://vibe.naver.com/album/31948959"/>
-        <updated>2024-07-25T03:14:48.174Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31948959" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31948959" class="text">Something's Wrong</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/269342" class="link_artist"><span class="text">리코(Rico)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Show Me]]></title>
-        <id>https://vibe.naver.com/album/31946748</id>
-        <link href="https://vibe.naver.com/album/31946748"/>
-        <updated>2024-07-24T09:13:55.951Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31946748" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31946748" class="text">Show Me</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/122658" class="link_artist"><span class="text">KIRIN (기린)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

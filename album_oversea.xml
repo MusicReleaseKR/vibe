@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-26T03:15:35.053Z</updated>
+    <updated>2024-07-26T04:16:14.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Touch]]></title>
+        <id>https://vibe.naver.com/album/31956413</id>
+        <link href="https://vibe.naver.com/album/31956413"/>
+        <updated>2024-07-26T04:16:08.071Z</updated>
+        <content type="html"><![CDATA[KATSEYE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Guy For That]]></title>
         <id>https://vibe.naver.com/album/31955059</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31932359"/>
         <updated>2024-07-24T03:14:58.692Z</updated>
         <content type="html"><![CDATA[bby]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Look Mom, No Hands]]></title>
-        <id>https://vibe.naver.com/album/31933943</id>
-        <link href="https://vibe.naver.com/album/31933943"/>
-        <updated>2024-07-24T03:14:58.692Z</updated>
-        <content type="html"><![CDATA[Zachary Knowles]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-26T03:15:35.064Z</updated>
+    <updated>2024-07-26T04:16:14.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[dummy]]></title>
+        <id>https://vibe.naver.com/album/31954539</id>
+        <link href="https://vibe.naver.com/album/31954539"/>
+        <updated>2024-07-26T04:16:01.578Z</updated>
+        <content type="html"><![CDATA[ARrC (아크)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 전부 나만의 사랑]]></title>
         <id>https://vibe.naver.com/album/31953528</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31948892"/>
         <updated>2024-07-25T03:14:35.292Z</updated>
         <content type="html"><![CDATA[정그림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[준비가 안돼서]]></title>
-        <id>https://vibe.naver.com/album/31948778</id>
-        <link href="https://vibe.naver.com/album/31948778"/>
-        <updated>2024-07-25T03:14:35.293Z</updated>
-        <content type="html"><![CDATA[문민철]]></content>
     </entry>
 </feed>

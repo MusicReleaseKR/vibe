@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-07-26T06:18:41.474Z</updated>
+    <updated>2024-07-26T07:12:35.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Guy For That]]></title>
+        <id>https://vibe.naver.com/album/31955059</id>
+        <link href="https://vibe.naver.com/album/31955059"/>
+        <updated>2024-07-26T03:15:34.295Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31955059" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31955059" class="text">Guy For That</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/453028" class="link_artist"><span class="text">Post Malone</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Touch]]></title>
         <id>https://vibe.naver.com/album/31956413</id>
@@ -18,13 +25,6 @@
         <link href="https://vibe.naver.com/album/31954539"/>
         <updated>2024-07-26T04:16:14.194Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31954539" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31954539" class="text">dummy</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8843796" class="link_artist"><span class="text">ARrC (아크)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guy For That]]></title>
-        <id>https://vibe.naver.com/album/31955059</id>
-        <link href="https://vibe.naver.com/album/31955059"/>
-        <updated>2024-07-26T03:15:34.295Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31955059" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31955059" class="text">Guy For That</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/453028" class="link_artist"><span class="text">Post Malone</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Illusion (Creepy Nuts Remix)]]></title>

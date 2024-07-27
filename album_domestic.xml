@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-07-27T09:13:00.373Z</updated>
+    <updated>2024-07-27T10:13:34.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/31956441"/>
         <updated>2024-07-27T09:12:47.629Z</updated>
         <content type="html"><![CDATA[장한나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[High Definition]]></title>
+        <id>https://vibe.naver.com/album/31956725</id>
+        <link href="https://vibe.naver.com/album/31956725"/>
+        <updated>2024-07-27T10:13:22.914Z</updated>
+        <content type="html"><![CDATA[OXYNOVA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ms. Summer]]></title>
@@ -25,6 +32,13 @@
         <link href="https://vibe.naver.com/album/31956796"/>
         <updated>2024-07-27T09:12:47.629Z</updated>
         <content type="html"><![CDATA[윤민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[냉면 (2024 PINKVERSE Remake Ver.)]]></title>
+        <id>https://vibe.naver.com/album/31956732</id>
+        <link href="https://vibe.naver.com/album/31956732"/>
+        <updated>2024-07-27T10:13:22.914Z</updated>
+        <content type="html"><![CDATA[PINKVERSE(핑크버스)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Love in Summer]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31948956"/>
         <updated>2024-07-25T09:15:04.128Z</updated>
         <content type="html"><![CDATA[로꼬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love is U]]></title>
-        <id>https://vibe.naver.com/album/31948937</id>
-        <link href="https://vibe.naver.com/album/31948937"/>
-        <updated>2024-07-25T09:15:04.136Z</updated>
-        <content type="html"><![CDATA[그_냥]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[푸른 보석과 어린 용]]></title>
-        <id>https://vibe.naver.com/album/31953465</id>
-        <link href="https://vibe.naver.com/album/31953465"/>
-        <updated>2024-07-25T09:15:04.136Z</updated>
-        <content type="html"><![CDATA[아이리 칸나]]></content>
     </entry>
 </feed>

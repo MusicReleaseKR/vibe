@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-07-30T02:04:34.352Z</updated>
+    <updated>2024-07-30T03:17:06.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“&” (Ampersand), Part One]]></title>
+        <id>https://vibe.naver.com/album/31952328</id>
+        <link href="https://vibe.naver.com/album/31952328"/>
+        <updated>2024-07-30T03:16:59.452Z</updated>
+        <content type="html"><![CDATA[Bastille]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saturday Mornings (Feat. Lil Wayne)]]></title>
+        <id>https://vibe.naver.com/album/31945515</id>
+        <link href="https://vibe.naver.com/album/31945515"/>
+        <updated>2024-07-30T03:16:59.452Z</updated>
+        <content type="html"><![CDATA[Cordae]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Matches]]></title>
+        <id>https://vibe.naver.com/album/31953950</id>
+        <link href="https://vibe.naver.com/album/31953950"/>
+        <updated>2024-07-30T03:16:59.452Z</updated>
+        <content type="html"><![CDATA[Jonah Kagen]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WORK OF ART (Feat. Jaden)]]></title>
+        <id>https://vibe.naver.com/album/31949063</id>
+        <link href="https://vibe.naver.com/album/31949063"/>
+        <updated>2024-07-30T03:16:59.455Z</updated>
+        <content type="html"><![CDATA[Will Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I2I (From "A Whole New Sound")]]></title>
+        <id>https://vibe.naver.com/album/31952115</id>
+        <link href="https://vibe.naver.com/album/31952115"/>
+        <updated>2024-07-30T03:16:59.455Z</updated>
+        <content type="html"><![CDATA[Magnolia Park]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gold Mine]]></title>
+        <id>https://vibe.naver.com/album/31956177</id>
+        <link href="https://vibe.naver.com/album/31956177"/>
+        <updated>2024-07-30T03:16:59.455Z</updated>
+        <content type="html"><![CDATA[Aitch]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tears Of War]]></title>
+        <id>https://vibe.naver.com/album/31952309</id>
+        <link href="https://vibe.naver.com/album/31952309"/>
+        <updated>2024-07-30T03:16:59.457Z</updated>
+        <content type="html"><![CDATA[YoungBoy Never Broke Again]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[One Wish (Feat. Childish Gambino)]]></title>
+        <id>https://vibe.naver.com/album/31956494</id>
+        <link href="https://vibe.naver.com/album/31956494"/>
+        <updated>2024-07-30T03:16:59.469Z</updated>
+        <content type="html"><![CDATA[Ravyn Lenae]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Predator]]></title>
+        <id>https://vibe.naver.com/album/31952622</id>
+        <link href="https://vibe.naver.com/album/31952622"/>
+        <updated>2024-07-30T03:16:59.470Z</updated>
+        <content type="html"><![CDATA[Hayes Warner]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Millionaire]]></title>
+        <id>https://vibe.naver.com/album/31963087</id>
+        <link href="https://vibe.naver.com/album/31963087"/>
+        <updated>2024-07-30T03:16:59.472Z</updated>
+        <content type="html"><![CDATA[Roman Messer]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Somebody Else]]></title>
+        <id>https://vibe.naver.com/album/31954419</id>
+        <link href="https://vibe.naver.com/album/31954419"/>
+        <updated>2024-07-30T03:16:59.474Z</updated>
+        <content type="html"><![CDATA[Vandelux]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Multiply (LIZOT Remix)]]></title>
+        <id>https://vibe.naver.com/album/31952284</id>
+        <link href="https://vibe.naver.com/album/31952284"/>
+        <updated>2024-07-30T03:16:59.486Z</updated>
+        <content type="html"><![CDATA[Becky Hill]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Think About Heaven]]></title>
+        <id>https://vibe.naver.com/album/31962607</id>
+        <link href="https://vibe.naver.com/album/31962607"/>
+        <updated>2024-07-30T03:16:59.486Z</updated>
+        <content type="html"><![CDATA[Christopher Owens]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Lucky]]></title>
         <id>https://vibe.naver.com/album/31956748</id>
@@ -263,96 +354,5 @@
         <link href="https://vibe.naver.com/album/31953624"/>
         <updated>2024-07-26T03:15:29.037Z</updated>
         <content type="html"><![CDATA[Taura Lamb]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Washington Palace Babe]]></title>
-        <id>https://vibe.naver.com/album/31953916</id>
-        <link href="https://vibe.naver.com/album/31953916"/>
-        <updated>2024-07-26T03:15:29.038Z</updated>
-        <content type="html"><![CDATA[Charlie Faron]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MILKY WAY]]></title>
-        <id>https://vibe.naver.com/album/31945463</id>
-        <link href="https://vibe.naver.com/album/31945463"/>
-        <updated>2024-07-26T03:15:29.039Z</updated>
-        <content type="html"><![CDATA[Emily Lewis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Y2K!]]></title>
-        <id>https://vibe.naver.com/album/31952113</id>
-        <link href="https://vibe.naver.com/album/31952113"/>
-        <updated>2024-07-26T03:15:29.040Z</updated>
-        <content type="html"><![CDATA[Ice Spice]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Yes]]></title>
-        <id>https://vibe.naver.com/album/31934464</id>
-        <link href="https://vibe.naver.com/album/31934464"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Big Sean]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dreamt that I Was]]></title>
-        <id>https://vibe.naver.com/album/31948334</id>
-        <link href="https://vibe.naver.com/album/31948334"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Sylo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lonely (Planet Earth)]]></title>
-        <id>https://vibe.naver.com/album/31935630</id>
-        <link href="https://vibe.naver.com/album/31935630"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Dillon Francis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Holy Ghost]]></title>
-        <id>https://vibe.naver.com/album/31935693</id>
-        <link href="https://vibe.naver.com/album/31935693"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Tom Walker]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reverie]]></title>
-        <id>https://vibe.naver.com/album/31934040</id>
-        <link href="https://vibe.naver.com/album/31934040"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Gorgon City]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[JC]]></title>
-        <id>https://vibe.naver.com/album/31946988</id>
-        <link href="https://vibe.naver.com/album/31946988"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Jword]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Déjame Entrar]]></title>
-        <id>https://vibe.naver.com/album/31939330</id>
-        <link href="https://vibe.naver.com/album/31939330"/>
-        <updated>2024-07-25T03:14:42.538Z</updated>
-        <content type="html"><![CDATA[Rauw Alejandro]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mission Control (Feat. T Man the Wizard)]]></title>
-        <id>https://vibe.naver.com/album/31938042</id>
-        <link href="https://vibe.naver.com/album/31938042"/>
-        <updated>2024-07-25T03:14:42.542Z</updated>
-        <content type="html"><![CDATA[Logic]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kokorouchu]]></title>
-        <id>https://vibe.naver.com/album/31934089</id>
-        <link href="https://vibe.naver.com/album/31934089"/>
-        <updated>2024-07-25T03:14:42.542Z</updated>
-        <content type="html"><![CDATA[Nyanchu All Stars]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Well Wasted]]></title>
-        <id>https://vibe.naver.com/album/31909988</id>
-        <link href="https://vibe.naver.com/album/31909988"/>
-        <updated>2024-07-25T03:14:42.542Z</updated>
-        <content type="html"><![CDATA[The Fray]]></content>
     </entry>
 </feed>

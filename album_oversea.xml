@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-01T08:16:57.977Z</updated>
+    <updated>2024-08-01T09:12:58.713Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Umbrella]]></title>
+        <id>https://vibe.naver.com/album/31969032</id>
+        <link href="https://vibe.naver.com/album/31969032"/>
+        <updated>2024-08-01T09:12:52.004Z</updated>
+        <content type="html"><![CDATA[DK(김동혁)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4EVR]]></title>
+        <id>https://vibe.naver.com/album/31939998</id>
+        <link href="https://vibe.naver.com/album/31939998"/>
+        <updated>2024-08-01T09:12:52.014Z</updated>
+        <content type="html"><![CDATA[ISOKNOCK]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Life Size]]></title>
         <id>https://vibe.naver.com/album/31953560</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31953985"/>
         <updated>2024-07-29T03:14:48.745Z</updated>
         <content type="html"><![CDATA[millennium parade]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[舞台に立って]]></title>
-        <id>https://vibe.naver.com/album/31952632</id>
-        <link href="https://vibe.naver.com/album/31952632"/>
-        <updated>2024-07-29T03:14:48.745Z</updated>
-        <content type="html"><![CDATA[YOASOBI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In The Yuma (Cloonee's At The Sahara Remix)]]></title>
-        <id>https://vibe.naver.com/album/31952300</id>
-        <link href="https://vibe.naver.com/album/31952300"/>
-        <updated>2024-07-29T03:14:48.745Z</updated>
-        <content type="html"><![CDATA[Chris Lake]]></content>
     </entry>
 </feed>

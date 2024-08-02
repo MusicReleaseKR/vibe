@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-02T04:17:25.084Z</updated>
+    <updated>2024-08-02T05:13:41.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[Be Mine (English Version) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/31976764</id>
-        <link href="https://vibe.naver.com/album/31976764"/>
-        <updated>2024-08-02T04:17:11.949Z</updated>
-        <content type="html"><![CDATA[지민]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[Ice Cream (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/31976762</id>
         <link href="https://vibe.naver.com/album/31976762"/>
         <updated>2024-08-02T04:17:11.949Z</updated>
         <content type="html"><![CDATA[전소미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be Mine (English Version) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/31976764</id>
+        <link href="https://vibe.naver.com/album/31976764"/>
+        <updated>2024-08-02T04:17:11.949Z</updated>
+        <content type="html"><![CDATA[지민]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOW (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -705,24 +705,24 @@
         <content type="html"><![CDATA[Katerine Duska]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Be Mine (English Version) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31976764</id>
-        <link href="https://vibe.naver.com/album/31976764"/>
-        <updated>2024-08-02T04:17:24.160Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31976764" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31976764" class="text">Be Mine (English Version)</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Ice Cream (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/31976762</id>
         <link href="https://vibe.naver.com/album/31976762"/>
-        <updated>2024-08-02T04:17:24.160Z</updated>
+        <updated>2024-08-02T04:17:11.949Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31976762" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31976762" class="text">Ice Cream</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/484725" class="link_artist"><span class="text">전소미</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Be Mine (English Version) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31976764</id>
+        <link href="https://vibe.naver.com/album/31976764"/>
+        <updated>2024-08-02T04:17:11.949Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31976764" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31976764" class="text">Be Mine (English Version)</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274325" class="link_artist"><span class="text">지민</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WOW (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/31973078</id>
         <link href="https://vibe.naver.com/album/31973078"/>
-        <updated>2024-08-02T04:17:24.165Z</updated>
+        <updated>2024-08-02T04:17:11.949Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31973078" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31973078" class="text">WOW</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/383468" class="link_artist"><span class="text">JUNTARO</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>

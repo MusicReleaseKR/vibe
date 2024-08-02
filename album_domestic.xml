@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-02T03:16:11.579Z</updated>
+    <updated>2024-08-02T04:17:25.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Be Mine (English Version)]]></title>
+        <id>https://vibe.naver.com/album/31976764</id>
+        <link href="https://vibe.naver.com/album/31976764"/>
+        <updated>2024-08-02T04:17:11.949Z</updated>
+        <content type="html"><![CDATA[지민]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ice Cream]]></title>
+        <id>https://vibe.naver.com/album/31976762</id>
+        <link href="https://vibe.naver.com/album/31976762"/>
+        <updated>2024-08-02T04:17:11.949Z</updated>
+        <content type="html"><![CDATA[전소미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOW]]></title>
+        <id>https://vibe.naver.com/album/31973078</id>
+        <link href="https://vibe.naver.com/album/31973078"/>
+        <updated>2024-08-02T04:17:11.949Z</updated>
+        <content type="html"><![CDATA[JUNTARO]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오이풀꽃]]></title>
         <id>https://vibe.naver.com/album/31972344</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/31968938"/>
         <updated>2024-08-01T03:15:02.116Z</updated>
         <content type="html"><![CDATA[그을]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cold Brew]]></title>
-        <id>https://vibe.naver.com/album/31964887</id>
-        <link href="https://vibe.naver.com/album/31964887"/>
-        <updated>2024-08-01T03:15:02.116Z</updated>
-        <content type="html"><![CDATA[ashWave(애쉬웨이브)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Master card]]></title>
-        <id>https://vibe.naver.com/album/31969320</id>
-        <link href="https://vibe.naver.com/album/31969320"/>
-        <updated>2024-08-01T03:15:02.116Z</updated>
-        <content type="html"><![CDATA[유명한아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조각모음]]></title>
-        <id>https://vibe.naver.com/album/31968949</id>
-        <link href="https://vibe.naver.com/album/31968949"/>
-        <updated>2024-08-01T03:15:02.120Z</updated>
-        <content type="html"><![CDATA[Monotone(모노톤)]]></content>
     </entry>
 </feed>

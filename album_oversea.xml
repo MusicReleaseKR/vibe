@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-05T08:17:59.109Z</updated>
+    <updated>2024-08-05T09:14:11.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[约定]]></title>
+        <id>https://vibe.naver.com/album/31977463</id>
+        <link href="https://vibe.naver.com/album/31977463"/>
+        <updated>2024-08-05T09:14:05.050Z</updated>
+        <content type="html"><![CDATA[SUPER JUNIOR-D&amp;E]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sincere]]></title>
         <id>https://vibe.naver.com/album/31977215</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31952164"/>
         <updated>2024-08-01T03:15:09.254Z</updated>
         <content type="html"><![CDATA[Dan Deacon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperNova]]></title>
-        <id>https://vibe.naver.com/album/31963122</id>
-        <link href="https://vibe.naver.com/album/31963122"/>
-        <updated>2024-07-31T03:14:51.389Z</updated>
-        <content type="html"><![CDATA[m-flo]]></content>
     </entry>
 </feed>

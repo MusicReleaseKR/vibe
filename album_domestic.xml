@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-07T03:14:54.235Z</updated>
+    <updated>2024-08-07T04:17:13.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Badder Love (MINDA Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31981803</id>
+        <link href="https://vibe.naver.com/album/31981803"/>
+        <updated>2024-08-07T04:17:00.251Z</updated>
+        <content type="html"><![CDATA[EVNNE(이븐)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 사이로 비가 와]]></title>
         <id>https://vibe.naver.com/album/31981714</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31980496"/>
         <updated>2024-08-06T03:14:55.351Z</updated>
         <content type="html"><![CDATA[VVS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하트시그널 (Heart Signal)]]></title>
-        <id>https://vibe.naver.com/album/31980485</id>
-        <link href="https://vibe.naver.com/album/31980485"/>
-        <updated>2024-08-06T03:14:55.362Z</updated>
-        <content type="html"><![CDATA[Komilow]]></content>
     </entry>
 </feed>

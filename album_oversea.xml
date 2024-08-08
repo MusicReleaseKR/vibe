@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-08T08:17:09.590Z</updated>
+    <updated>2024-08-08T09:14:37.202Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The Highest]]></title>
+        <id>https://vibe.naver.com/album/31983987</id>
+        <link href="https://vibe.naver.com/album/31983987"/>
+        <updated>2024-08-08T09:14:30.896Z</updated>
+        <content type="html"><![CDATA[WayV]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dear Maria, Count Me In (ATL's Version)]]></title>
         <id>https://vibe.naver.com/album/31972961</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/31972941"/>
         <updated>2024-08-05T03:15:27.202Z</updated>
         <content type="html"><![CDATA[Andy Grammer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Superstar]]></title>
-        <id>https://vibe.naver.com/album/31969659</id>
-        <link href="https://vibe.naver.com/album/31969659"/>
-        <updated>2024-08-05T03:15:27.206Z</updated>
-        <content type="html"><![CDATA[Ayumu Imazu]]></content>
     </entry>
 </feed>

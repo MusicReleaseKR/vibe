@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-09T03:15:11.261Z</updated>
+    <updated>2024-08-09T04:16:12.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Brought The Heat Back (Feat. Ava Max)]]></title>
+        <id>https://vibe.naver.com/album/31988118</id>
+        <link href="https://vibe.naver.com/album/31988118"/>
+        <updated>2024-08-09T04:16:00.757Z</updated>
+        <content type="html"><![CDATA[엔하이픈 (ENHYPEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WOW (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/31988348</id>
+        <link href="https://vibe.naver.com/album/31988348"/>
+        <updated>2024-08-09T04:16:00.760Z</updated>
+        <content type="html"><![CDATA[JUNTARO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WORK Pt.4 - ATEEZ X G-Eazy]]></title>
+        <id>https://vibe.naver.com/album/31988099</id>
+        <link href="https://vibe.naver.com/album/31988099"/>
+        <updated>2024-08-09T04:16:00.762Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BAMESIS]]></title>
         <id>https://vibe.naver.com/album/31984026</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/31983806"/>
         <updated>2024-08-08T03:14:37.832Z</updated>
         <content type="html"><![CDATA[정가이(와인루프)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마피아 보스가 나에게 집착한다 OST Part 16]]></title>
-        <id>https://vibe.naver.com/album/31984049</id>
-        <link href="https://vibe.naver.com/album/31984049"/>
-        <updated>2024-08-08T03:14:37.832Z</updated>
-        <content type="html"><![CDATA[이보람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑의 하츄핑 OST]]></title>
-        <id>https://vibe.naver.com/album/31982267</id>
-        <link href="https://vibe.naver.com/album/31982267"/>
-        <updated>2024-08-08T03:14:37.832Z</updated>
-        <content type="html"><![CDATA[송은혜]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 28]]></title>
-        <id>https://vibe.naver.com/album/31977338</id>
-        <link href="https://vibe.naver.com/album/31977338"/>
-        <updated>2024-08-08T03:14:37.832Z</updated>
-        <content type="html"><![CDATA[우은미]]></content>
     </entry>
 </feed>

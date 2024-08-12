@@ -2,15 +2,92 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-12T08:18:22.653Z</updated>
+    <updated>2024-08-12T09:14:58.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Supersonic]]></title>
+        <id>https://vibe.naver.com/album/31992010</id>
+        <link href="https://vibe.naver.com/album/31992010"/>
+        <updated>2024-08-12T09:14:46.896Z</updated>
+        <content type="html"><![CDATA[프로미스나인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J - The 1st Album]]></title>
+        <id>https://vibe.naver.com/album/31992009</id>
+        <link href="https://vibe.naver.com/album/31992009"/>
+        <updated>2024-08-12T09:14:46.899Z</updated>
+        <content type="html"><![CDATA[재현(JAEHYUN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TENT 3.0]]></title>
+        <id>https://vibe.naver.com/album/31990390</id>
+        <link href="https://vibe.naver.com/album/31990390"/>
+        <updated>2024-08-12T09:14:46.899Z</updated>
+        <content type="html"><![CDATA[원슈타인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wait]]></title>
+        <id>https://vibe.naver.com/album/31991939</id>
+        <link href="https://vibe.naver.com/album/31991939"/>
+        <updated>2024-08-12T09:14:46.899Z</updated>
+        <content type="html"><![CDATA[효린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원하고 원망하죠 (웹툰 '세이렌' X 하은(포맨))]]></title>
+        <id>https://vibe.naver.com/album/31990367</id>
+        <link href="https://vibe.naver.com/album/31990367"/>
+        <updated>2024-08-12T09:14:46.899Z</updated>
+        <content type="html"><![CDATA[하은(포맨)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래도 우리는]]></title>
+        <id>https://vibe.naver.com/album/31992022</id>
+        <link href="https://vibe.naver.com/album/31992022"/>
+        <updated>2024-08-12T09:14:46.902Z</updated>
+        <content type="html"><![CDATA[너드커넥션(Nerd Connection)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump !t Up (Korean Ver.)]]></title>
         <id>https://vibe.naver.com/album/31990397</id>
         <link href="https://vibe.naver.com/album/31990397"/>
         <updated>2024-08-12T04:15:54.905Z</updated>
         <content type="html"><![CDATA[BOY STORY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[moneykiller - single]]></title>
+        <id>https://vibe.naver.com/album/31990398</id>
+        <link href="https://vibe.naver.com/album/31990398"/>
+        <updated>2024-08-12T09:14:46.909Z</updated>
+        <content type="html"><![CDATA[Kash Bang]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세글자]]></title>
+        <id>https://vibe.naver.com/album/31990480</id>
+        <link href="https://vibe.naver.com/album/31990480"/>
+        <updated>2024-08-12T09:14:46.909Z</updated>
+        <content type="html"><![CDATA[안재우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Night Of You & Me]]></title>
+        <id>https://vibe.naver.com/album/31990574</id>
+        <link href="https://vibe.naver.com/album/31990574"/>
+        <updated>2024-08-12T09:14:46.910Z</updated>
+        <content type="html"><![CDATA[Rosoulful]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우연일까? OST Part 7]]></title>
+        <id>https://vibe.naver.com/album/31990608</id>
+        <link href="https://vibe.naver.com/album/31990608"/>
+        <updated>2024-08-12T09:14:46.911Z</updated>
+        <content type="html"><![CDATA[21학번]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Is… (feat. Tade Dust)]]></title>
+        <id>https://vibe.naver.com/album/31991946</id>
+        <link href="https://vibe.naver.com/album/31991946"/>
+        <updated>2024-08-12T09:14:46.912Z</updated>
+        <content type="html"><![CDATA[The Deep]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[yours.]]></title>
@@ -277,82 +354,5 @@
         <link href="https://vibe.naver.com/album/31990615"/>
         <updated>2024-08-11T03:14:21.834Z</updated>
         <content type="html"><![CDATA[Hoodin(후딘)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠져들어]]></title>
-        <id>https://vibe.naver.com/album/31990290</id>
-        <link href="https://vibe.naver.com/album/31990290"/>
-        <updated>2024-08-11T03:14:21.835Z</updated>
-        <content type="html"><![CDATA[오씰(OSCiiL)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애초반 (나쁜 기억 지우개 X 빈센트블루, 리밋 (Limit))]]></title>
-        <id>https://vibe.naver.com/album/31990535</id>
-        <link href="https://vibe.naver.com/album/31990535"/>
-        <updated>2024-08-10T09:13:34.000Z</updated>
-        <content type="html"><![CDATA[빈센트 블루(Vincent Blue)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[8월의 시]]></title>
-        <id>https://vibe.naver.com/album/31990370</id>
-        <link href="https://vibe.naver.com/album/31990370"/>
-        <updated>2024-08-10T09:13:34.000Z</updated>
-        <content type="html"><![CDATA[박창근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HEART]]></title>
-        <id>https://vibe.naver.com/album/31990292</id>
-        <link href="https://vibe.naver.com/album/31990292"/>
-        <updated>2024-08-10T09:13:34.004Z</updated>
-        <content type="html"><![CDATA[maji]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tonight]]></title>
-        <id>https://vibe.naver.com/album/31990523</id>
-        <link href="https://vibe.naver.com/album/31990523"/>
-        <updated>2024-08-10T09:13:34.004Z</updated>
-        <content type="html"><![CDATA[김나희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[14535?]]></title>
-        <id>https://vibe.naver.com/album/31990476</id>
-        <link href="https://vibe.naver.com/album/31990476"/>
-        <updated>2024-08-10T09:13:34.004Z</updated>
-        <content type="html"><![CDATA[도규]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아빠의 노래]]></title>
-        <id>https://vibe.naver.com/album/31990612</id>
-        <link href="https://vibe.naver.com/album/31990612"/>
-        <updated>2024-08-10T09:13:34.005Z</updated>
-        <content type="html"><![CDATA[안재송]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love me Again (대충 캠퍼스로맨스임 X 켄(KEN))]]></title>
-        <id>https://vibe.naver.com/album/31990609</id>
-        <link href="https://vibe.naver.com/album/31990609"/>
-        <updated>2024-08-10T09:13:34.005Z</updated>
-        <content type="html"><![CDATA[켄(KEN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답정너 (Feat. g0nny)]]></title>
-        <id>https://vibe.naver.com/album/31990312</id>
-        <link href="https://vibe.naver.com/album/31990312"/>
-        <updated>2024-08-10T09:13:34.005Z</updated>
-        <content type="html"><![CDATA[황세현(h3hyeon)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[황민호의 건강백서]]></title>
-        <id>https://vibe.naver.com/album/31990521</id>
-        <link href="https://vibe.naver.com/album/31990521"/>
-        <updated>2024-08-10T09:13:34.020Z</updated>
-        <content type="html"><![CDATA[황민호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말해줘요 운명이라고]]></title>
-        <id>https://vibe.naver.com/album/31990409</id>
-        <link href="https://vibe.naver.com/album/31990409"/>
-        <updated>2024-08-10T09:13:34.020Z</updated>
-        <content type="html"><![CDATA[파니니 브런치(PANINI BRUNCH)]]></content>
     </entry>
 </feed>

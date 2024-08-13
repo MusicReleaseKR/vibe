@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-13T03:15:19.474Z</updated>
+    <updated>2024-08-13T04:16:05.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/31992005"/>
         <updated>2024-08-13T03:15:06.736Z</updated>
         <content type="html"><![CDATA[SUDI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Quilter]]></title>
+        <id>https://vibe.naver.com/album/31992018</id>
+        <link href="https://vibe.naver.com/album/31992018"/>
+        <updated>2024-08-13T03:15:06.740Z</updated>
+        <content type="html"><![CDATA[이동규(David DQ Lee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[카레의 노래]]></title>
@@ -74,13 +81,6 @@
         <link href="https://vibe.naver.com/album/31991059"/>
         <updated>2024-08-13T03:15:06.738Z</updated>
         <content type="html"><![CDATA[이오몽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream Quilter]]></title>
-        <id>https://vibe.naver.com/album/31992018</id>
-        <link href="https://vibe.naver.com/album/31992018"/>
-        <updated>2024-08-13T03:15:06.740Z</updated>
-        <content type="html"><![CDATA[이동규(David DQ Lee)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flower]]></title>

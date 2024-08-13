@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-08-13T03:15:19.466Z</updated>
+    <updated>2024-08-13T04:16:05.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/31992009"/>
         <updated>2024-08-12T09:14:58.109Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31992009" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31992009" class="text">J - The 1st Album</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/484817" class="link_artist"><span class="text">재현(JAEHYUN)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dream Quilter]]></title>
+        <id>https://vibe.naver.com/album/31992018</id>
+        <link href="https://vibe.naver.com/album/31992018"/>
+        <updated>2024-08-13T03:15:18.810Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31992018" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31992018" class="text">Dream Quilter</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/74812" class="link_artist"><span class="text">이동규(David DQ Lee)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LIFETIMES]]></title>
@@ -137,13 +144,6 @@
         <link href="https://vibe.naver.com/album/31991059"/>
         <updated>2024-08-13T03:15:18.807Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31991059" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31991059" class="text">월야 (月夜)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6967031" class="link_artist"><span class="text">이오몽</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream Quilter]]></title>
-        <id>https://vibe.naver.com/album/31992018</id>
-        <link href="https://vibe.naver.com/album/31992018"/>
-        <updated>2024-08-13T03:15:18.810Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31992018" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31992018" class="text">Dream Quilter</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/74812" class="link_artist"><span class="text">이동규(David DQ Lee)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[TENT 0.3]]></title>

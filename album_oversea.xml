@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-16T08:18:04.717Z</updated>
+    <updated>2024-08-16T09:15:56.739Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[Lady Gaga]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SIS (Soft Is Strong)]]></title>
-        <id>https://vibe.naver.com/album/31956413</id>
-        <link href="https://vibe.naver.com/album/31956413"/>
-        <updated>2024-08-16T04:15:44.723Z</updated>
-        <content type="html"><![CDATA[KATSEYE]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[New Woman]]></title>
         <id>https://vibe.naver.com/album/31996634</id>
         <link href="https://vibe.naver.com/album/31996634"/>
         <updated>2024-08-16T00:59:07.619Z</updated>
         <content type="html"><![CDATA[리사 (LISA)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SIS (Soft Is Strong)]]></title>
+        <id>https://vibe.naver.com/album/31956413</id>
+        <link href="https://vibe.naver.com/album/31956413"/>
+        <updated>2024-08-16T04:15:44.723Z</updated>
+        <content type="html"><![CDATA[KATSEYE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[F-1 Trillion]]></title>

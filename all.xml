@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-15T23:12:53.693Z</updated>
+    <updated>2024-08-16T00:59:14.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Bye Bye (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[UUOO]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[New Woman (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/31996634</id>
+        <link href="https://vibe.naver.com/album/31996634"/>
+        <updated>2024-08-16T00:59:07.619Z</updated>
+        <content type="html"><![CDATA[리사 (LISA)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Don't Tell Nobody (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/31995886</id>
         <link href="https://vibe.naver.com/album/31995886"/>
@@ -698,11 +705,11 @@
         <content type="html"><![CDATA[That Woman]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LA PRIMERA VEZ (Feat. NTG) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31984579</id>
-        <link href="https://vibe.naver.com/album/31984579"/>
-        <updated>2024-08-12T03:15:18.602Z</updated>
-        <content type="html"><![CDATA[Myke Towers]]></content>
+        <title type="html"><![CDATA[New Woman (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31996634</id>
+        <link href="https://vibe.naver.com/album/31996634"/>
+        <updated>2024-08-16T00:59:13.714Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31996634" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31996634" class="text">New Woman</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/500569" class="link_artist"><span class="text">리사 (LISA)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Don't Tell Nobody (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/31993622"/>
         <updated>2024-08-14T03:15:59.270Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31993622" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31993622" class="text">Hitten Vol.6</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6063313" class="link_artist"><span class="text">히튼(Hitten)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THE PURPLE (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31993401</id>
-        <link href="https://vibe.naver.com/album/31993401"/>
-        <updated>2024-08-14T03:15:59.270Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31993401" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31993401" class="text">THE PURPLE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8361453" class="link_artist"><span class="text">Cocktail Club</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

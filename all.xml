@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-20T14:13:13.696Z</updated>
+    <updated>2024-08-20T15:14:08.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ATE THAT EP (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32005823</id>
+        <link href="https://vibe.naver.com/album/32005823"/>
+        <updated>2024-08-20T15:13:55.650Z</updated>
+        <content type="html"><![CDATA[YOUNG POSSE(영파씨)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump Up The Volume! (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32005710</id>
@@ -348,11 +355,18 @@
         <content type="html"><![CDATA[투명안경박정우]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don't be late (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32002364</id>
-        <link href="https://vibe.naver.com/album/32002364"/>
-        <updated>2024-08-19T03:14:38.686Z</updated>
-        <content type="html"><![CDATA[Neeun(니은)]]></content>
+        <title type="html"><![CDATA[Ride the Vibe (Japanese Ver.) / Keep on Moving -Special Edition- (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/31899449</id>
+        <link href="https://vibe.naver.com/album/31899449"/>
+        <updated>2024-08-20T15:14:02.154Z</updated>
+        <content type="html"><![CDATA[NEXZ(넥스지)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[it's okay (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32005782</id>
+        <link href="https://vibe.naver.com/album/32005782"/>
+        <updated>2024-08-20T15:14:02.154Z</updated>
+        <content type="html"><![CDATA[LANA]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Find The Way (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -691,18 +705,25 @@
         <content type="html"><![CDATA[ONE OR EIGHT]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Time Of My Life (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31995582</id>
-        <link href="https://vibe.naver.com/album/31995582"/>
-        <updated>2024-08-16T03:17:05.278Z</updated>
-        <content type="html"><![CDATA[Peach PRC]]></content>
+        <title type="html"><![CDATA[ATE THAT EP (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32005823</id>
+        <link href="https://vibe.naver.com/album/32005823"/>
+        <updated>2024-08-20T15:14:07.565Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32005823" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32005823" class="text">ATE THAT EP</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8027758" class="link_artist"><span class="text">YOUNG POSSE(영파씨)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Intoxicated (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/31995696</id>
-        <link href="https://vibe.naver.com/album/31995696"/>
-        <updated>2024-08-16T03:17:05.279Z</updated>
-        <content type="html"><![CDATA[Warren Zeiders]]></content>
+        <title type="html"><![CDATA[Ride the Vibe (Japanese Ver.) / Keep on Moving -Special Edition- (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/31899449</id>
+        <link href="https://vibe.naver.com/album/31899449"/>
+        <updated>2024-08-20T15:14:07.565Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31899449" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31899449" class="text">Ride the Vibe (Japanese Ver.) / Keep on Moving -Special Edition-</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8269975" class="link_artist"><span class="text">NEXZ(넥스지)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[it's okay (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32005782</id>
+        <link href="https://vibe.naver.com/album/32005782"/>
+        <updated>2024-08-20T15:14:07.565Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32005782" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32005782" class="text">it's okay</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5927601" class="link_artist"><span class="text">LANA</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pump Up The Volume! (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/32002558"/>
         <updated>2024-08-19T03:14:38.672Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32002558" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32002558" class="text">뭐하니</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4519717" class="link_artist"><span class="text">이신주</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공항 가는 길 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32002289</id>
-        <link href="https://vibe.naver.com/album/32002289"/>
-        <updated>2024-08-19T03:14:38.672Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32002289" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32002289" class="text">공항 가는 길</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2846612" class="link_artist"><span class="text">이인</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dum and Dummer 1 : "2 idiots" (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32004106</id>
-        <link href="https://vibe.naver.com/album/32004106"/>
-        <updated>2024-08-19T03:14:38.672Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32004106" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32004106" class="text">Dum and Dummer 1 : "2 idiots"</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5346538" class="link_artist"><span class="text">AVN(에이븐)</span></a><span>, </span></span><span><a href="/artist/7043805" class="link_artist"><span class="text">PAAK</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[right person, wrong time (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/31996738</id>
-        <link href="https://vibe.naver.com/album/31996738"/>
-        <updated>2024-08-19T03:14:45.749Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31996738" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31996738" class="text">right person, wrong time</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5691754" class="link_artist"><span class="text">Henry Moodie</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

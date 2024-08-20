@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-20T14:13:13.693Z</updated>
+    <updated>2024-08-20T15:14:08.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ATE THAT EP]]></title>
+        <id>https://vibe.naver.com/album/32005823</id>
+        <link href="https://vibe.naver.com/album/32005823"/>
+        <updated>2024-08-20T15:13:55.650Z</updated>
+        <content type="html"><![CDATA[YOUNG POSSE(영파씨)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Pump Up The Volume!]]></title>
         <id>https://vibe.naver.com/album/32005710</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32002419"/>
         <updated>2024-08-19T03:14:38.681Z</updated>
         <content type="html"><![CDATA[투명안경박정우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don't be late]]></title>
-        <id>https://vibe.naver.com/album/32002364</id>
-        <link href="https://vibe.naver.com/album/32002364"/>
-        <updated>2024-08-19T03:14:38.686Z</updated>
-        <content type="html"><![CDATA[Neeun(니은)]]></content>
     </entry>
 </feed>

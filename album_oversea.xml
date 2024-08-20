@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-20T14:13:13.687Z</updated>
+    <updated>2024-08-20T15:14:08.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ride the Vibe (Japanese Ver.) / Keep on Moving -Special Edition-]]></title>
+        <id>https://vibe.naver.com/album/31899449</id>
+        <link href="https://vibe.naver.com/album/31899449"/>
+        <updated>2024-08-20T15:14:02.154Z</updated>
+        <content type="html"><![CDATA[NEXZ(넥스지)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[it's okay]]></title>
+        <id>https://vibe.naver.com/album/32005782</id>
+        <link href="https://vibe.naver.com/album/32005782"/>
+        <updated>2024-08-20T15:14:02.154Z</updated>
+        <content type="html"><![CDATA[LANA]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Find The Way]]></title>
         <id>https://vibe.naver.com/album/31999394</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/31995886"/>
         <updated>2024-08-15T15:13:39.976Z</updated>
         <content type="html"><![CDATA[ONE OR EIGHT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Time Of My Life]]></title>
-        <id>https://vibe.naver.com/album/31995582</id>
-        <link href="https://vibe.naver.com/album/31995582"/>
-        <updated>2024-08-16T03:17:05.278Z</updated>
-        <content type="html"><![CDATA[Peach PRC]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Intoxicated]]></title>
-        <id>https://vibe.naver.com/album/31995696</id>
-        <link href="https://vibe.naver.com/album/31995696"/>
-        <updated>2024-08-16T03:17:05.279Z</updated>
-        <content type="html"><![CDATA[Warren Zeiders]]></content>
     </entry>
 </feed>

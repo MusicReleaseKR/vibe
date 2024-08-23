@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-23T08:17:48.788Z</updated>
+    <updated>2024-08-23T09:14:18.301Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/32031754"/>
         <updated>2024-08-23T04:16:20.379Z</updated>
         <content type="html"><![CDATA[NCT DREAM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ERROR 405 (Japanese Ver.)]]></title>
+        <id>https://vibe.naver.com/album/32031752</id>
+        <link href="https://vibe.naver.com/album/32031752"/>
+        <updated>2024-08-23T09:14:12.093Z</updated>
+        <content type="html"><![CDATA[JD1]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party In Bali (PIB)]]></title>
+        <id>https://vibe.naver.com/album/32027968</id>
+        <link href="https://vibe.naver.com/album/32027968"/>
+        <updated>2024-08-23T09:14:12.097Z</updated>
+        <content type="html"><![CDATA[Agnez Mo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[WE PRAY]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32002101"/>
         <updated>2024-08-21T03:14:56.190Z</updated>
         <content type="html"><![CDATA[NoCap]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TokSik]]></title>
-        <id>https://vibe.naver.com/album/31995848</id>
-        <link href="https://vibe.naver.com/album/31995848"/>
-        <updated>2024-08-21T03:14:56.190Z</updated>
-        <content type="html"><![CDATA[Starset]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Love Me A Little]]></title>
-        <id>https://vibe.naver.com/album/32005914</id>
-        <link href="https://vibe.naver.com/album/32005914"/>
-        <updated>2024-08-21T03:14:56.190Z</updated>
-        <content type="html"><![CDATA[Horizon Blue]]></content>
     </entry>
 </feed>

@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-08-25T02:37:56.525Z</updated>
+    <updated>2024-08-25T03:14:03.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Could've Done Better]]></title>
+        <id>https://vibe.naver.com/album/32034024</id>
+        <link href="https://vibe.naver.com/album/32034024"/>
+        <updated>2024-08-25T03:13:50.865Z</updated>
+        <content type="html"><![CDATA[윤원]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그대 다시 내게 올까봐]]></title>
+        <id>https://vibe.naver.com/album/32034272</id>
+        <link href="https://vibe.naver.com/album/32034272"/>
+        <updated>2024-08-25T03:13:50.866Z</updated>
+        <content type="html"><![CDATA[우은미]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난 영화 지난여름]]></title>
+        <id>https://vibe.naver.com/album/32034069</id>
+        <link href="https://vibe.naver.com/album/32034069"/>
+        <updated>2024-08-25T03:13:50.866Z</updated>
+        <content type="html"><![CDATA[NASON(나선)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 디저트를 좋아하긴 하지만 너보단 아니야]]></title>
+        <id>https://vibe.naver.com/album/32034206</id>
+        <link href="https://vibe.naver.com/album/32034206"/>
+        <updated>2024-08-25T03:13:50.871Z</updated>
+        <content type="html"><![CDATA[수니(SOONEE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ride Wit Me !]]></title>
+        <id>https://vibe.naver.com/album/32034290</id>
+        <link href="https://vibe.naver.com/album/32034290"/>
+        <updated>2024-08-25T03:13:50.871Z</updated>
+        <content type="html"><![CDATA[스케리피(Scary'P)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finale]]></title>
+        <id>https://vibe.naver.com/album/32031564</id>
+        <link href="https://vibe.naver.com/album/32031564"/>
+        <updated>2024-08-25T03:13:50.871Z</updated>
+        <content type="html"><![CDATA[eJe]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C]]></title>
+        <id>https://vibe.naver.com/album/32027983</id>
+        <link href="https://vibe.naver.com/album/32027983"/>
+        <updated>2024-08-25T03:13:50.871Z</updated>
+        <content type="html"><![CDATA[Rsh]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉬운 노래가 듣고 싶어]]></title>
+        <id>https://vibe.naver.com/album/32034057</id>
+        <link href="https://vibe.naver.com/album/32034057"/>
+        <updated>2024-08-25T03:13:50.872Z</updated>
+        <content type="html"><![CDATA[이오]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사랑에 빠졌나봐]]></title>
         <id>https://vibe.naver.com/album/32034273</id>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/32031581"/>
         <updated>2024-08-23T03:14:37.180Z</updated>
         <content type="html"><![CDATA[신윤수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아오리 사과]]></title>
-        <id>https://vibe.naver.com/album/32031662</id>
-        <link href="https://vibe.naver.com/album/32031662"/>
-        <updated>2024-08-23T03:14:37.180Z</updated>
-        <content type="html"><![CDATA[몽글]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다 괜찮아질 거래]]></title>
-        <id>https://vibe.naver.com/album/32031477</id>
-        <link href="https://vibe.naver.com/album/32031477"/>
-        <updated>2024-08-23T03:14:37.180Z</updated>
-        <content type="html"><![CDATA[김훨]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿨쿨 로티프렌즈 자장가]]></title>
-        <id>https://vibe.naver.com/album/32028314</id>
-        <link href="https://vibe.naver.com/album/32028314"/>
-        <updated>2024-08-23T03:14:37.180Z</updated>
-        <content type="html"><![CDATA[로티프렌즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOF ep #breeze]]></title>
-        <id>https://vibe.naver.com/album/32027769</id>
-        <link href="https://vibe.naver.com/album/32027769"/>
-        <updated>2024-08-23T03:14:37.191Z</updated>
-        <content type="html"><![CDATA[DOF]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweetheart]]></title>
-        <id>https://vibe.naver.com/album/32031793</id>
-        <link href="https://vibe.naver.com/album/32031793"/>
-        <updated>2024-08-23T03:14:37.192Z</updated>
-        <content type="html"><![CDATA[한예(Hanye)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑의 안단테 OST]]></title>
-        <id>https://vibe.naver.com/album/32031738</id>
-        <link href="https://vibe.naver.com/album/32031738"/>
-        <updated>2024-08-23T03:14:37.136Z</updated>
-        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/32031738" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="사랑의 안단테 OST 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="32031738"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="32031738" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/32031738" data-title="사랑의 안단테 OST" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/32031738" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32031738" class="text">사랑의 안단테 OST</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling in love]]></title>
-        <id>https://vibe.naver.com/album/32031727</id>
-        <link href="https://vibe.naver.com/album/32031727"/>
-        <updated>2024-08-23T03:14:37.193Z</updated>
-        <content type="html"><![CDATA[RIAN]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I.P (inner peace)]]></title>
-        <id>https://vibe.naver.com/album/32033996</id>
-        <link href="https://vibe.naver.com/album/32033996"/>
-        <updated>2024-08-23T03:14:37.193Z</updated>
-        <content type="html"><![CDATA[Waykoh(웨이코)]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T14:14:18.870Z</updated>
+    <updated>2024-08-29T15:15:11.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[위태로울걸 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[김혁건(The Cross)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Hey Hello (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32054538</id>
+        <link href="https://vibe.naver.com/album/32054538"/>
+        <updated>2024-08-29T15:15:04.903Z</updated>
+        <content type="html"><![CDATA[Peder Elias]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I'm Not The Only One (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/32046239</id>
         <link href="https://vibe.naver.com/album/32046239"/>
@@ -698,11 +705,11 @@
         <content type="html"><![CDATA[SosMula]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Play On My Mind (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32037437</id>
-        <link href="https://vibe.naver.com/album/32037437"/>
-        <updated>2024-08-27T03:14:34.362Z</updated>
-        <content type="html"><![CDATA[Patrick Lite]]></content>
+        <title type="html"><![CDATA[Hey Hello (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32054538</id>
+        <link href="https://vibe.naver.com/album/32054538"/>
+        <updated>2024-08-29T15:15:11.013Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32054538" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32054538" class="text">Hey Hello</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2389051" class="link_artist"><span class="text">Peder Elias</span></a><span>, </span></span><span><a href="/artist/479099" class="link_artist"><span class="text">차은우(ASTRO)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm Not The Only One (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32038674"/>
         <updated>2024-08-28T03:15:24.725Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32038674" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32038674" class="text">나의 여름은 아직 안 끝났어</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/124434" class="link_artist"><span class="text">윤석철트리오</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홍자 3rd 미니앨범 '빠라삐리뽀' (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32038394</id>
-        <link href="https://vibe.naver.com/album/32038394"/>
-        <updated>2024-08-28T03:15:24.726Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32038394" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32038394" class="text">홍자 3rd 미니앨범 '빠라삐리뽀'</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/409663" class="link_artist"><span class="text">홍자</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

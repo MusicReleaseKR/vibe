@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-29T14:14:18.878Z</updated>
+    <updated>2024-08-29T15:15:11.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hey Hello]]></title>
+        <id>https://vibe.naver.com/album/32054538</id>
+        <link href="https://vibe.naver.com/album/32054538"/>
+        <updated>2024-08-29T15:15:04.903Z</updated>
+        <content type="html"><![CDATA[Peder Elias]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I'm Not The Only One]]></title>
         <id>https://vibe.naver.com/album/32046239</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32030954"/>
         <updated>2024-08-27T03:14:34.360Z</updated>
         <content type="html"><![CDATA[SosMula]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Play On My Mind]]></title>
-        <id>https://vibe.naver.com/album/32037437</id>
-        <link href="https://vibe.naver.com/album/32037437"/>
-        <updated>2024-08-27T03:14:34.362Z</updated>
-        <content type="html"><![CDATA[Patrick Lite]]></content>
     </entry>
 </feed>

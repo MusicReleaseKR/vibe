@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-29T23:14:05.121Z</updated>
+    <updated>2024-08-30T01:02:28.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[위태로울걸 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,18 +355,18 @@
         <content type="html"><![CDATA[김혁건(The Cross)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hey Hello (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32054538</id>
-        <link href="https://vibe.naver.com/album/32054538"/>
-        <updated>2024-08-29T15:15:04.903Z</updated>
-        <content type="html"><![CDATA[Peder Elias]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I'm Not The Only One (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/32046239</id>
         <link href="https://vibe.naver.com/album/32046239"/>
         <updated>2024-08-29T09:15:35.848Z</updated>
         <content type="html"><![CDATA[Sam Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Hello (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32054538</id>
+        <link href="https://vibe.naver.com/album/32054538"/>
+        <updated>2024-08-29T15:15:04.903Z</updated>
+        <content type="html"><![CDATA[Peder Elias]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[While We Wait 2 (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,18 +705,18 @@
         <content type="html"><![CDATA[SosMula]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hey Hello (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32054538</id>
-        <link href="https://vibe.naver.com/album/32054538"/>
-        <updated>2024-08-29T15:15:04.903Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32054538" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32054538" class="text">Hey Hello</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2389051" class="link_artist"><span class="text">Peder Elias</span></a><span>, </span></span><span><a href="/artist/479099" class="link_artist"><span class="text">차은우(ASTRO)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[I'm Not The Only One (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32046239</id>
         <link href="https://vibe.naver.com/album/32046239"/>
         <updated>2024-08-29T09:15:35.848Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32046239" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32046239" class="text">I'm Not The Only One</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/259942" class="link_artist"><span class="text">Sam Smith</span></a><span>, </span></span><span><a href="/artist/35551" class="link_artist"><span class="text">태연 (TAEYEON)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Hello (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32054538</id>
+        <link href="https://vibe.naver.com/album/32054538"/>
+        <updated>2024-08-29T15:15:04.903Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32054538" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32054538" class="text">Hey Hello</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2389051" class="link_artist"><span class="text">Peder Elias</span></a><span>, </span></span><span><a href="/artist/479099" class="link_artist"><span class="text">차은우(ASTRO)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위태로울걸 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

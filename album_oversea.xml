@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-08-29T23:14:05.111Z</updated>
+    <updated>2024-08-30T01:02:28.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[Hey Hello]]></title>
-        <id>https://vibe.naver.com/album/32054538</id>
-        <link href="https://vibe.naver.com/album/32054538"/>
-        <updated>2024-08-29T15:15:04.903Z</updated>
-        <content type="html"><![CDATA[Peder Elias]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[I'm Not The Only One]]></title>
         <id>https://vibe.naver.com/album/32046239</id>
         <link href="https://vibe.naver.com/album/32046239"/>
         <updated>2024-08-29T09:15:35.848Z</updated>
         <content type="html"><![CDATA[Sam Smith]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hey Hello]]></title>
+        <id>https://vibe.naver.com/album/32054538</id>
+        <link href="https://vibe.naver.com/album/32054538"/>
+        <updated>2024-08-29T15:15:04.903Z</updated>
+        <content type="html"><![CDATA[Peder Elias]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[While We Wait 2]]></title>

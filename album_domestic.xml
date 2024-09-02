@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-02T08:18:34.795Z</updated>
+    <updated>2024-09-02T09:15:47.829Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Band Aid]]></title>
+        <id>https://vibe.naver.com/album/32076760</id>
+        <link href="https://vibe.naver.com/album/32076760"/>
+        <updated>2024-09-02T09:15:35.424Z</updated>
+        <content type="html"><![CDATA[DAY6(데이식스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부모님 관람불가]]></title>
+        <id>https://vibe.naver.com/album/32076754</id>
+        <link href="https://vibe.naver.com/album/32076754"/>
+        <updated>2024-09-02T09:15:35.447Z</updated>
+        <content type="html"><![CDATA[BOYNEXTDOOR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TTYL]]></title>
+        <id>https://vibe.naver.com/album/32056926</id>
+        <link href="https://vibe.naver.com/album/32056926"/>
+        <updated>2024-09-02T09:15:35.447Z</updated>
+        <content type="html"><![CDATA[Loossemble (루셈블)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LEECHANGSUB PRE-RELEASE <1991>]]></title>
+        <id>https://vibe.naver.com/album/32057233</id>
+        <link href="https://vibe.naver.com/album/32057233"/>
+        <updated>2024-09-02T09:15:35.447Z</updated>
+        <content type="html"><![CDATA[이창섭]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가짜 아이돌]]></title>
+        <id>https://vibe.naver.com/album/32057155</id>
+        <link href="https://vibe.naver.com/album/32057155"/>
+        <updated>2024-09-02T09:15:35.448Z</updated>
+        <content type="html"><![CDATA[QWER]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잘가 고마웠어 내 사랑]]></title>
+        <id>https://vibe.naver.com/album/32076127</id>
+        <link href="https://vibe.naver.com/album/32076127"/>
+        <updated>2024-09-02T09:15:35.448Z</updated>
+        <content type="html"><![CDATA[박필규]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손해 보기 싫어서 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/32056966</id>
+        <link href="https://vibe.naver.com/album/32056966"/>
+        <updated>2024-09-02T09:15:35.448Z</updated>
+        <content type="html"><![CDATA[케이시(Kassy)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생네곡(My Song, My Story), Pt.3]]></title>
+        <id>https://vibe.naver.com/album/32060157</id>
+        <link href="https://vibe.naver.com/album/32060157"/>
+        <updated>2024-09-02T09:15:35.448Z</updated>
+        <content type="html"><![CDATA[수아(드림캐쳐)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anxious (Feat. The Deep)]]></title>
+        <id>https://vibe.naver.com/album/32076759</id>
+        <link href="https://vibe.naver.com/album/32076759"/>
+        <updated>2024-09-02T09:15:35.449Z</updated>
+        <content type="html"><![CDATA[JINex (지넥스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[푸른 바다의 꿈 (Feat. 여인혜)]]></title>
+        <id>https://vibe.naver.com/album/32054340</id>
+        <link href="https://vibe.naver.com/album/32054340"/>
+        <updated>2024-09-02T09:15:35.449Z</updated>
+        <content type="html"><![CDATA[BaB]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1st Single Album COCOCO]]></title>
+        <id>https://vibe.naver.com/album/32057307</id>
+        <link href="https://vibe.naver.com/album/32057307"/>
+        <updated>2024-09-02T09:15:35.450Z</updated>
+        <content type="html"><![CDATA[GENBLUE (젠블루)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내일의 너에게]]></title>
+        <id>https://vibe.naver.com/album/32054368</id>
+        <link href="https://vibe.naver.com/album/32054368"/>
+        <updated>2024-09-02T09:15:35.452Z</updated>
+        <content type="html"><![CDATA[모먼트(Moment)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[YOUNHA 7th Album 'GROWTH THEORY']]></title>
         <id>https://vibe.naver.com/album/32056967</id>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/32057106"/>
         <updated>2024-08-31T09:13:54.306Z</updated>
         <content type="html"><![CDATA[휘서(하이키)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외로이 빛나는 별]]></title>
-        <id>https://vibe.naver.com/album/32056951</id>
-        <link href="https://vibe.naver.com/album/32056951"/>
-        <updated>2024-08-31T09:13:54.306Z</updated>
-        <content type="html"><![CDATA[문건탁(Moon Geontak)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAZY]]></title>
-        <id>https://vibe.naver.com/album/32056801</id>
-        <link href="https://vibe.naver.com/album/32056801"/>
-        <updated>2024-08-30T04:16:41.062Z</updated>
-        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Starry Night]]></title>
-        <id>https://vibe.naver.com/album/32054333</id>
-        <link href="https://vibe.naver.com/album/32054333"/>
-        <updated>2024-08-30T04:16:41.062Z</updated>
-        <content type="html"><![CDATA[FIFTY FIFTY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짠해 2024 ver.]]></title>
-        <id>https://vibe.naver.com/album/32057310</id>
-        <link href="https://vibe.naver.com/album/32057310"/>
-        <updated>2024-08-31T03:13:57.349Z</updated>
-        <content type="html"><![CDATA[피에스타(FIESTAR)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알 수 없는 생명체]]></title>
-        <id>https://vibe.naver.com/album/32057320</id>
-        <link href="https://vibe.naver.com/album/32057320"/>
-        <updated>2024-08-31T03:13:57.350Z</updated>
-        <content type="html"><![CDATA[최진솔]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[park.]]></title>
-        <id>https://vibe.naver.com/album/32054363</id>
-        <link href="https://vibe.naver.com/album/32054363"/>
-        <updated>2024-08-31T03:13:57.353Z</updated>
-        <content type="html"><![CDATA[곽태풍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너 때문에 아프다]]></title>
-        <id>https://vibe.naver.com/album/32057116</id>
-        <link href="https://vibe.naver.com/album/32057116"/>
-        <updated>2024-08-31T03:13:57.354Z</updated>
-        <content type="html"><![CDATA[디어밍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[winning shot]]></title>
-        <id>https://vibe.naver.com/album/32056932</id>
-        <link href="https://vibe.naver.com/album/32056932"/>
-        <updated>2024-08-31T03:13:57.354Z</updated>
-        <content type="html"><![CDATA[이든(Lee Deun)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그말 한마디]]></title>
-        <id>https://vibe.naver.com/album/32056786</id>
-        <link href="https://vibe.naver.com/album/32056786"/>
-        <updated>2024-08-31T03:13:57.354Z</updated>
-        <content type="html"><![CDATA[늘웨이즈(Neulways)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미스터로또 베스트 PART 64]]></title>
-        <id>https://vibe.naver.com/album/32056935</id>
-        <link href="https://vibe.naver.com/album/32056935"/>
-        <updated>2024-08-31T03:13:57.317Z</updated>
-        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/32056935" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="미스터로또 베스트 PART 64 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="32056935"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="32056935" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/32056935" data-title="미스터로또 베스트 PART 64" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/32056935" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32056935" class="text">미스터로또 베스트 PART 64</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자장가]]></title>
-        <id>https://vibe.naver.com/album/32056904</id>
-        <link href="https://vibe.naver.com/album/32056904"/>
-        <updated>2024-08-31T03:13:57.354Z</updated>
-        <content type="html"><![CDATA[김종우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메이플스토리 OST : The Collective 3]]></title>
-        <id>https://vibe.naver.com/album/32056806</id>
-        <link href="https://vibe.naver.com/album/32056806"/>
-        <updated>2024-08-31T03:13:57.354Z</updated>
-        <content type="html"><![CDATA[NEXON Sound Team]]></content>
     </entry>
 </feed>

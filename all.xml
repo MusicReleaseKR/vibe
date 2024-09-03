@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-03T14:13:44.800Z</updated>
+    <updated>2024-09-03T15:14:53.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SuperSuper (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://vibe.naver.com/album/32077019"/>
         <updated>2024-09-03T09:14:56.540Z</updated>
         <content type="html"><![CDATA[영탁]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RIIZING : Epilogue - The 1st Mini Album (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32078980</id>
+        <link href="https://vibe.naver.com/album/32078980"/>
+        <updated>2024-09-03T15:14:41.362Z</updated>
+        <content type="html"><![CDATA[RIIZE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상승 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32076118"/>
         <updated>2024-09-02T03:15:30.543Z</updated>
         <content type="html"><![CDATA[손준혁]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Premiere (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32056964</id>
-        <link href="https://vibe.naver.com/album/32056964"/>
-        <updated>2024-09-02T03:15:30.547Z</updated>
-        <content type="html"><![CDATA[XP ROVXE]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Definitely Maybe (30th Anniversary) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -712,6 +712,13 @@
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32077019" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32077019" class="text">SuperSuper</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/125077" class="link_artist"><span class="text">영탁</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[RIIZING : Epilogue - The 1st Mini Album (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32078980</id>
+        <link href="https://vibe.naver.com/album/32078980"/>
+        <updated>2024-09-03T15:14:52.561Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32078980" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32078980" class="text">RIIZING : Epilogue - The 1st Mini Album</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6923142" class="link_artist"><span class="text">RIIZE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[상승 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32076773</id>
         <link href="https://vibe.naver.com/album/32076773"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32056871"/>
         <updated>2024-09-02T03:15:37.415Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32056871" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32056871" class="text">僕らのStory</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/376543" class="link_artist"><span class="text">SUPER JUNIOR-D&amp;E</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bending My Rules (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32056493</id>
-        <link href="https://vibe.naver.com/album/32056493"/>
-        <updated>2024-09-02T03:15:37.415Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32056493" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32056493" class="text">Bending My Rules</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/213220" class="link_artist"><span class="text">Flo</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

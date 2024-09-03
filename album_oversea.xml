@@ -2,9 +2,100 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-09-03T02:37:53.097Z</updated>
+    <updated>2024-09-03T03:15:45.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Definitely Maybe (30th Anniversary)]]></title>
+        <id>https://vibe.naver.com/album/32055259</id>
+        <link href="https://vibe.naver.com/album/32055259"/>
+        <updated>2024-09-03T03:15:38.813Z</updated>
+        <content type="html"><![CDATA[Oasis]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Finally]]></title>
+        <id>https://vibe.naver.com/album/32042651</id>
+        <link href="https://vibe.naver.com/album/32042651"/>
+        <updated>2024-09-03T03:15:38.813Z</updated>
+        <content type="html"><![CDATA[Swedish House Mafia]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SNAKEGANG EP Volume 1 (Deluxe)]]></title>
+        <id>https://vibe.naver.com/album/32039279</id>
+        <link href="https://vibe.naver.com/album/32039279"/>
+        <updated>2024-09-03T03:15:38.813Z</updated>
+        <content type="html"><![CDATA[Snakehips]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Other People]]></title>
+        <id>https://vibe.naver.com/album/32044977</id>
+        <link href="https://vibe.naver.com/album/32044977"/>
+        <updated>2024-09-03T03:15:38.813Z</updated>
+        <content type="html"><![CDATA[Daniel Seavey]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[THOUGHT YOU WERE THE ONE]]></title>
+        <id>https://vibe.naver.com/album/32043303</id>
+        <link href="https://vibe.naver.com/album/32043303"/>
+        <updated>2024-09-03T03:15:38.813Z</updated>
+        <content type="html"><![CDATA[Tommy Richman]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lose control]]></title>
+        <id>https://vibe.naver.com/album/32055520</id>
+        <link href="https://vibe.naver.com/album/32055520"/>
+        <updated>2024-09-03T03:15:38.814Z</updated>
+        <content type="html"><![CDATA[Chesle]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Revenge]]></title>
+        <id>https://vibe.naver.com/album/32043439</id>
+        <link href="https://vibe.naver.com/album/32043439"/>
+        <updated>2024-09-03T03:15:38.814Z</updated>
+        <content type="html"><![CDATA[Muni Long]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amelia]]></title>
+        <id>https://vibe.naver.com/album/32045281</id>
+        <link href="https://vibe.naver.com/album/32045281"/>
+        <updated>2024-09-03T03:15:38.814Z</updated>
+        <content type="html"><![CDATA[Laurie Anderson]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fallin 4 A Thug]]></title>
+        <id>https://vibe.naver.com/album/32043842</id>
+        <link href="https://vibe.naver.com/album/32043842"/>
+        <updated>2024-09-03T03:15:38.814Z</updated>
+        <content type="html"><![CDATA[Äyanna]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Faraway]]></title>
+        <id>https://vibe.naver.com/album/32077150</id>
+        <link href="https://vibe.naver.com/album/32077150"/>
+        <updated>2024-09-03T03:15:38.814Z</updated>
+        <content type="html"><![CDATA[MCN2]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Fed Up]]></title>
+        <id>https://vibe.naver.com/album/32048624</id>
+        <link href="https://vibe.naver.com/album/32048624"/>
+        <updated>2024-09-03T03:15:38.815Z</updated>
+        <content type="html"><![CDATA[Kay Flock]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Anike]]></title>
+        <id>https://vibe.naver.com/album/32054581</id>
+        <link href="https://vibe.naver.com/album/32054581"/>
+        <updated>2024-09-03T03:15:38.815Z</updated>
+        <content type="html"><![CDATA[Anike]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Alligator Bites Never Heal]]></title>
+        <id>https://vibe.naver.com/album/32043574</id>
+        <link href="https://vibe.naver.com/album/32043574"/>
+        <updated>2024-09-03T03:15:38.815Z</updated>
+        <content type="html"><![CDATA[Doechii]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[In The Lonely Hour (10th Anniversary Edition / Deluxe)]]></title>
         <id>https://vibe.naver.com/album/32043534</id>
@@ -263,96 +354,5 @@
         <link href="https://vibe.naver.com/album/32040275"/>
         <updated>2024-08-29T03:14:57.627Z</updated>
         <content type="html"><![CDATA[Kehlani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Player]]></title>
-        <id>https://vibe.naver.com/album/32030878</id>
-        <link href="https://vibe.naver.com/album/32030878"/>
-        <updated>2024-08-29T03:14:57.628Z</updated>
-        <content type="html"><![CDATA[Clara Mae]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glue]]></title>
-        <id>https://vibe.naver.com/album/32032441</id>
-        <link href="https://vibe.naver.com/album/32032441"/>
-        <updated>2024-08-29T03:14:57.633Z</updated>
-        <content type="html"><![CDATA[Kevin Abstract]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hater]]></title>
-        <id>https://vibe.naver.com/album/32027976</id>
-        <link href="https://vibe.naver.com/album/32027976"/>
-        <updated>2024-08-29T03:14:57.635Z</updated>
-        <content type="html"><![CDATA[Spencer Sutherland]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIE FOR ME]]></title>
-        <id>https://vibe.naver.com/album/32030770</id>
-        <link href="https://vibe.naver.com/album/32030770"/>
-        <updated>2024-08-29T03:14:57.637Z</updated>
-        <content type="html"><![CDATA[Chase Atlantic]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I Hope It Hurts]]></title>
-        <id>https://vibe.naver.com/album/32032464</id>
-        <link href="https://vibe.naver.com/album/32032464"/>
-        <updated>2024-08-29T03:14:57.646Z</updated>
-        <content type="html"><![CDATA[Jessie Murph]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr. Skii]]></title>
-        <id>https://vibe.naver.com/album/32031553</id>
-        <link href="https://vibe.naver.com/album/32031553"/>
-        <updated>2024-08-29T03:14:57.646Z</updated>
-        <content type="html"><![CDATA[Luh Tyler]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pierrot]]></title>
-        <id>https://vibe.naver.com/album/32038482</id>
-        <link href="https://vibe.naver.com/album/32038482"/>
-        <updated>2024-08-29T03:14:57.646Z</updated>
-        <content type="html"><![CDATA[Marcy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Nothing to Lose]]></title>
-        <id>https://vibe.naver.com/album/32032524</id>
-        <link href="https://vibe.naver.com/album/32032524"/>
-        <updated>2024-08-29T03:14:57.646Z</updated>
-        <content type="html"><![CDATA[maryjo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Late To The Party (Feat. Declan McKenna)]]></title>
-        <id>https://vibe.naver.com/album/32002606</id>
-        <link href="https://vibe.naver.com/album/32002606"/>
-        <updated>2024-08-29T03:14:57.648Z</updated>
-        <content type="html"><![CDATA[Orla Gartland]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Get 'Em All (feat. SeaMS)]]></title>
-        <id>https://vibe.naver.com/album/32038736</id>
-        <link href="https://vibe.naver.com/album/32038736"/>
-        <updated>2024-08-29T03:14:57.650Z</updated>
-        <content type="html"><![CDATA[Saco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Unity (Remixes)]]></title>
-        <id>https://vibe.naver.com/album/32038722</id>
-        <link href="https://vibe.naver.com/album/32038722"/>
-        <updated>2024-08-29T03:14:57.654Z</updated>
-        <content type="html"><![CDATA[Mitis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lioness (Francis Mercier Remix)]]></title>
-        <id>https://vibe.naver.com/album/32030962</id>
-        <link href="https://vibe.naver.com/album/32030962"/>
-        <updated>2024-08-29T03:14:57.656Z</updated>
-        <content type="html"><![CDATA[Swedish House Mafia]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[完璧な一日 (완벽한 하루)]]></title>
-        <id>https://vibe.naver.com/album/32039937</id>
-        <link href="https://vibe.naver.com/album/32039937"/>
-        <updated>2024-08-29T03:14:57.658Z</updated>
-        <content type="html"><![CDATA[송인]]></content>
     </entry>
 </feed>

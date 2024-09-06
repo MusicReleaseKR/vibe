@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-06T03:16:00.164Z</updated>
+    <updated>2024-09-06T04:16:37.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[abouTZU]]></title>
+        <id>https://vibe.naver.com/album/32089525</id>
+        <link href="https://vibe.naver.com/album/32089525"/>
+        <updated>2024-09-06T04:16:23.749Z</updated>
+        <content type="html"><![CDATA[쯔위 (TWICE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOUSE OF TRICKY : WATCH OUT]]></title>
+        <id>https://vibe.naver.com/album/32086304</id>
+        <link href="https://vibe.naver.com/album/32086304"/>
+        <updated>2024-09-06T04:16:23.751Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Volume Down]]></title>
         <id>https://vibe.naver.com/album/32086528</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32081592"/>
         <updated>2024-09-05T03:15:08.538Z</updated>
         <content type="html"><![CDATA[제이비킹스턴(JB Kingston)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spacewalk]]></title>
-        <id>https://vibe.naver.com/album/32081707</id>
-        <link href="https://vibe.naver.com/album/32081707"/>
-        <updated>2024-09-05T03:15:08.540Z</updated>
-        <content type="html"><![CDATA[55 Cancri E]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[everytime]]></title>
-        <id>https://vibe.naver.com/album/32081913</id>
-        <link href="https://vibe.naver.com/album/32081913"/>
-        <updated>2024-09-05T03:15:08.541Z</updated>
-        <content type="html"><![CDATA[MOONLIGHT]]></content>
     </entry>
 </feed>

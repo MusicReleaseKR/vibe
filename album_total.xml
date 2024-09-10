@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-09-10T03:16:00.865Z</updated>
+    <updated>2024-09-10T04:16:56.251Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위치 (WITCH) (Fury Ver.)]]></title>
+        <id>https://vibe.naver.com/album/32098002</id>
+        <link href="https://vibe.naver.com/album/32098002"/>
+        <updated>2024-09-10T04:16:55.566Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32098002" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32098002" class="text">위치 (WITCH) (Fury Ver.)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6528399" class="link_artist"><span class="text">xikers(싸이커스)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19.99]]></title>
         <id>https://vibe.naver.com/album/32076754</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32089691"/>
         <updated>2024-09-08T09:13:32.170Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32089691" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32089691" class="text">숲</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/134346" class="link_artist"><span class="text">스탠딩 에그(Standing Egg)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마친구아들 OST Part 3]]></title>
-        <id>https://vibe.naver.com/album/32089625</id>
-        <link href="https://vibe.naver.com/album/32089625"/>
-        <updated>2024-09-08T09:13:32.172Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32089625" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32089625" class="text">엄마친구아들 OST Part 3</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6764653" class="link_artist"><span class="text">ZEROBASEONE(제로베이스원)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

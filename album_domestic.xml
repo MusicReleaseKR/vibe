@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-10T03:16:00.875Z</updated>
+    <updated>2024-09-10T04:16:56.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위치 (WITCH) (Fury Ver.)]]></title>
+        <id>https://vibe.naver.com/album/32098002</id>
+        <link href="https://vibe.naver.com/album/32098002"/>
+        <updated>2024-09-10T04:16:41.950Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19.99]]></title>
         <id>https://vibe.naver.com/album/32076754</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32089701"/>
         <updated>2024-09-09T03:17:20.684Z</updated>
         <content type="html"><![CDATA[다비(DAVII)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 36]]></title>
-        <id>https://vibe.naver.com/album/32097292</id>
-        <link href="https://vibe.naver.com/album/32097292"/>
-        <updated>2024-09-09T03:17:20.686Z</updated>
-        <content type="html"><![CDATA[우하나]]></content>
     </entry>
 </feed>

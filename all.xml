@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-10T03:16:00.869Z</updated>
+    <updated>2024-09-10T04:16:56.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[위치 (WITCH) (Fury Ver.) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32098002</id>
+        <link href="https://vibe.naver.com/album/32098002"/>
+        <updated>2024-09-10T04:16:41.950Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[19.99 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32076754</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32089701"/>
         <updated>2024-09-09T03:17:20.684Z</updated>
         <content type="html"><![CDATA[다비(DAVII)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 36 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32097292</id>
-        <link href="https://vibe.naver.com/album/32097292"/>
-        <updated>2024-09-09T03:17:20.686Z</updated>
-        <content type="html"><![CDATA[우하나]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ego (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Fiji Blue]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[위치 (WITCH) (Fury Ver.) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32098002</id>
+        <link href="https://vibe.naver.com/album/32098002"/>
+        <updated>2024-09-10T04:16:55.566Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32098002" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32098002" class="text">위치 (WITCH) (Fury Ver.)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6528399" class="link_artist"><span class="text">xikers(싸이커스)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[19.99 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32076754</id>
         <link href="https://vibe.naver.com/album/32076754"/>
@@ -722,119 +729,119 @@
         <title type="html"><![CDATA[Ego (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32087186</id>
         <link href="https://vibe.naver.com/album/32087186"/>
-        <updated>2024-09-10T03:16:00.187Z</updated>
+        <updated>2024-09-10T03:15:54.352Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32087186" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32087186" class="text">Ego</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/418229" class="link_artist"><span class="text">Halsey</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lantern (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097950</id>
         <link href="https://vibe.naver.com/album/32097950"/>
-        <updated>2024-09-10T03:16:00.187Z</updated>
+        <updated>2024-09-10T03:15:47.297Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097950" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097950" class="text">Lantern</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/266662" class="link_artist"><span class="text">위아더나잇 (We Are The Night)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[취향저격 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097870</id>
         <link href="https://vibe.naver.com/album/32097870"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:47.297Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097870" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097870" class="text">취향저격</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/429042" class="link_artist"><span class="text">소각소각</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[ALIVE (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097847</id>
         <link href="https://vibe.naver.com/album/32097847"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:47.297Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097847" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097847" class="text">ALIVE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1619591" class="link_artist"><span class="text">수잔</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[칵테일 사랑 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32099169</id>
         <link href="https://vibe.naver.com/album/32099169"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32099169" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32099169" class="text">칵테일 사랑</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2793529" class="link_artist"><span class="text">정예원(YEWON)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Never Going Home Tonight (Feat. Madison Love) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32040952</id>
         <link href="https://vibe.naver.com/album/32040952"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:54.352Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32040952" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32040952" class="text">Never Going Home Tonight (Feat. Madison Love)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/11095" class="link_artist"><span class="text">David Guetta</span></a><span>, </span></span><span><a href="/artist/173156" class="link_artist"><span class="text">Alesso</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Escaper (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32085036</id>
         <link href="https://vibe.naver.com/album/32085036"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:54.366Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32085036" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32085036" class="text">Escaper</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3804073" class="link_artist"><span class="text">Sarah Kinsley</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Lucky 7 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32081926</id>
         <link href="https://vibe.naver.com/album/32081926"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:54.366Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32081926" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32081926" class="text">Lucky 7</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/547309" class="link_artist"><span class="text">RINI</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Show: Live On Tour (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32085074</id>
         <link href="https://vibe.naver.com/album/32085074"/>
-        <updated>2024-09-10T03:16:00.197Z</updated>
+        <updated>2024-09-10T03:15:54.366Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32085074" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32085074" class="text">The Show: Live On Tour</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/200186" class="link_artist"><span class="text">Niall Horan</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[That Ain't No Man That's The Devil (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32087238</id>
         <link href="https://vibe.naver.com/album/32087238"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:54.371Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32087238" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32087238" class="text">That Ain't No Man That's The Devil</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4076646" class="link_artist"><span class="text">Jessie Murph</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Wedding (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097467</id>
         <link href="https://vibe.naver.com/album/32097467"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:54.371Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097467" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097467" class="text">Wedding</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2433268" class="link_artist"><span class="text">Hans.</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Take it slow (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32098011</id>
         <link href="https://vibe.naver.com/album/32098011"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32098011" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32098011" class="text">Take it slow</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2195587" class="link_artist"><span class="text">미카엘(MIKYLE)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[둥글게 DGG (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097888</id>
         <link href="https://vibe.naver.com/album/32097888"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097888" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097888" class="text">둥글게 DGG</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4999002" class="link_artist"><span class="text">9uch2</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Only You (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32098082</id>
         <link href="https://vibe.naver.com/album/32098082"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32098082" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32098082" class="text">Only You</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8894320" class="link_artist"><span class="text">진승욱</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[일랑일랑 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097778</id>
         <link href="https://vibe.naver.com/album/32097778"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097778" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097778" class="text">일랑일랑</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3584701" class="link_artist"><span class="text">하츠(hartts)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dishes (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32098053</id>
         <link href="https://vibe.naver.com/album/32098053"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32098053" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32098053" class="text">Dishes</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5375789" class="link_artist"><span class="text">umu</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Did You Know? Part 1 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32097878</id>
         <link href="https://vibe.naver.com/album/32097878"/>
-        <updated>2024-09-10T03:16:00.199Z</updated>
+        <updated>2024-09-10T03:15:47.307Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32097878" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32097878" class="text">Did You Know? Part 1</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2294532" class="link_artist"><span class="text">YUNGIN</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32089691"/>
         <updated>2024-09-08T09:13:21.608Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32089691" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32089691" class="text">숲</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/134346" class="link_artist"><span class="text">스탠딩 에그(Standing Egg)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마친구아들 OST Part 3 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32089625</id>
-        <link href="https://vibe.naver.com/album/32089625"/>
-        <updated>2024-09-08T09:13:21.608Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32089625" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32089625" class="text">엄마친구아들 OST Part 3</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6764653" class="link_artist"><span class="text">ZEROBASEONE(제로베이스원)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

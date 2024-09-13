@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-09-13T08:17:45.436Z</updated>
+    <updated>2024-09-13T09:14:58.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/32108265"/>
         <updated>2024-09-13T06:19:47.061Z</updated>
         <content type="html"><![CDATA[The Weeknd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[태호TAEHO 1st Japan Digital Single きみがすき]]></title>
+        <id>https://vibe.naver.com/album/32105767</id>
+        <link href="https://vibe.naver.com/album/32105767"/>
+        <updated>2024-09-13T09:14:52.143Z</updated>
+        <content type="html"><![CDATA[태호(TAE HO)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Party In Bali (PIB) (Feat. Jay Park)]]></title>
+        <id>https://vibe.naver.com/album/32101891</id>
+        <link href="https://vibe.naver.com/album/32101891"/>
+        <updated>2024-09-13T09:14:52.143Z</updated>
+        <content type="html"><![CDATA[Agnez Mo]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Talk talk featuring troye sivan]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32099432"/>
         <updated>2024-09-11T03:14:46.252Z</updated>
         <content type="html"><![CDATA[cero]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance The Night Away]]></title>
-        <id>https://vibe.naver.com/album/32099542</id>
-        <link href="https://vibe.naver.com/album/32099542"/>
-        <updated>2024-09-11T03:14:46.252Z</updated>
-        <content type="html"><![CDATA[The Blackout Crew]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Good Girls Finish Last]]></title>
-        <id>https://vibe.naver.com/album/32085121</id>
-        <link href="https://vibe.naver.com/album/32085121"/>
-        <updated>2024-09-11T03:14:46.252Z</updated>
-        <content type="html"><![CDATA[Queen Naija]]></content>
     </entry>
 </feed>

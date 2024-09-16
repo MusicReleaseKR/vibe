@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-16T08:19:16.924Z</updated>
+    <updated>2024-09-16T09:17:44.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[좋은 날 좋은 시]]></title>
+        <id>https://vibe.naver.com/album/32108334</id>
+        <link href="https://vibe.naver.com/album/32108334"/>
+        <updated>2024-09-16T09:17:31.802Z</updated>
+        <content type="html"><![CDATA[안성훈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손해 보기 싫어서 OST Part 5]]></title>
+        <id>https://vibe.naver.com/album/32108198</id>
+        <link href="https://vibe.naver.com/album/32108198"/>
+        <updated>2024-09-16T09:17:31.802Z</updated>
+        <content type="html"><![CDATA[CHEEZE (치즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WANG]]></title>
+        <id>https://vibe.naver.com/album/32105911</id>
+        <link href="https://vibe.naver.com/album/32105911"/>
+        <updated>2024-09-16T09:17:31.807Z</updated>
+        <content type="html"><![CDATA[칸토]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아직도 널 좋아해 미안해]]></title>
+        <id>https://vibe.naver.com/album/32108316</id>
+        <link href="https://vibe.naver.com/album/32108316"/>
+        <updated>2024-09-16T09:17:31.807Z</updated>
+        <content type="html"><![CDATA[로키드(Lokid)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그런갑다...]]></title>
         <id>https://vibe.naver.com/album/32108301</id>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/32105756"/>
         <updated>2024-09-13T09:14:45.508Z</updated>
         <content type="html"><![CDATA[KIRIN (기린)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[bye summer]]></title>
-        <id>https://vibe.naver.com/album/32105825</id>
-        <link href="https://vibe.naver.com/album/32105825"/>
-        <updated>2024-09-13T09:14:45.512Z</updated>
-        <content type="html"><![CDATA[HUS (허밍어반스테레오)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어린 마음 꽃이 피었나]]></title>
-        <id>https://vibe.naver.com/album/32105880</id>
-        <link href="https://vibe.naver.com/album/32105880"/>
-        <updated>2024-09-13T09:14:45.535Z</updated>
-        <content type="html"><![CDATA[정효빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[PPiPPo]]></title>
-        <id>https://vibe.naver.com/album/32105986</id>
-        <link href="https://vibe.naver.com/album/32105986"/>
-        <updated>2024-09-13T09:14:45.535Z</updated>
-        <content type="html"><![CDATA[비비탄]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Boom Boom Bass (Orchestra Ver.)]]></title>
-        <id>https://vibe.naver.com/album/32105904</id>
-        <link href="https://vibe.naver.com/album/32105904"/>
-        <updated>2024-09-13T09:14:45.536Z</updated>
-        <content type="html"><![CDATA[서울시립교향악단]]></content>
     </entry>
 </feed>

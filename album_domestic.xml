@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-16T02:51:04.528Z</updated>
+    <updated>2024-09-16T03:22:25.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그런갑다...]]></title>
+        <id>https://vibe.naver.com/album/32108301</id>
+        <link href="https://vibe.naver.com/album/32108301"/>
+        <updated>2024-09-16T03:22:12.199Z</updated>
+        <content type="html"><![CDATA[유다빈밴드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여정]]></title>
+        <id>https://vibe.naver.com/album/32108464</id>
+        <link href="https://vibe.naver.com/album/32108464"/>
+        <updated>2024-09-16T03:22:12.199Z</updated>
+        <content type="html"><![CDATA[안희수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AVENUE]]></title>
+        <id>https://vibe.naver.com/album/32105941</id>
+        <link href="https://vibe.naver.com/album/32105941"/>
+        <updated>2024-09-16T03:22:12.199Z</updated>
+        <content type="html"><![CDATA[Woolenciah]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[검은 코끼리 (Black Elephant)]]></title>
+        <id>https://vibe.naver.com/album/32108201</id>
+        <link href="https://vibe.naver.com/album/32108201"/>
+        <updated>2024-09-16T03:22:12.199Z</updated>
+        <content type="html"><![CDATA[Smoke baby (스모크 베이비)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sea The Sky]]></title>
+        <id>https://vibe.naver.com/album/32108284</id>
+        <link href="https://vibe.naver.com/album/32108284"/>
+        <updated>2024-09-16T03:22:12.200Z</updated>
+        <content type="html"><![CDATA[Kim Addict(킴 애딕)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[by little]]></title>
+        <id>https://vibe.naver.com/album/32105899</id>
+        <link href="https://vibe.naver.com/album/32105899"/>
+        <updated>2024-09-16T03:22:12.202Z</updated>
+        <content type="html"><![CDATA[진홍]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[silhouette]]></title>
         <id>https://vibe.naver.com/album/32105938</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/32105904"/>
         <updated>2024-09-13T09:14:45.536Z</updated>
         <content type="html"><![CDATA[서울시립교향악단]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[tape1]]></title>
-        <id>https://vibe.naver.com/album/32105685</id>
-        <link href="https://vibe.naver.com/album/32105685"/>
-        <updated>2024-09-13T09:14:45.536Z</updated>
-        <content type="html"><![CDATA[tapeboii]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울 교포 (feat. Bizzy & DJ Di:on)]]></title>
-        <id>https://vibe.naver.com/album/32105907</id>
-        <link href="https://vibe.naver.com/album/32105907"/>
-        <updated>2024-09-13T09:14:45.536Z</updated>
-        <content type="html"><![CDATA[동박사]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[힙합 20주년 기념 앨범 x BXB]]></title>
-        <id>https://vibe.naver.com/album/32105838</id>
-        <link href="https://vibe.naver.com/album/32105838"/>
-        <updated>2024-09-13T09:14:45.542Z</updated>
-        <content type="html"><![CDATA[BXB]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[절규〈산울림 50주년 기념 프로젝트〉]]></title>
-        <id>https://vibe.naver.com/album/32105779</id>
-        <link href="https://vibe.naver.com/album/32105779"/>
-        <updated>2024-09-13T03:15:37.161Z</updated>
-        <content type="html"><![CDATA[네미시스(Nemesis)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아름다운 그대여 (feat. dxp)]]></title>
-        <id>https://vibe.naver.com/album/32105752</id>
-        <link href="https://vibe.naver.com/album/32105752"/>
-        <updated>2024-09-13T03:15:37.161Z</updated>
-        <content type="html"><![CDATA[조덕배]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세화의 바다처럼]]></title>
-        <id>https://vibe.naver.com/album/32101815</id>
-        <link href="https://vibe.naver.com/album/32101815"/>
-        <updated>2024-09-13T03:15:37.161Z</updated>
-        <content type="html"><![CDATA[maji]]></content>
     </entry>
 </feed>

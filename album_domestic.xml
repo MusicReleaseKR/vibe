@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-18T08:17:25.563Z</updated>
+    <updated>2024-09-18T09:16:35.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I Wish]]></title>
+        <id>https://vibe.naver.com/album/32105951</id>
+        <link href="https://vibe.naver.com/album/32105951"/>
+        <updated>2024-09-18T09:16:23.114Z</updated>
+        <content type="html"><![CDATA[네이비쿼카(NavyQuokka)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나란히 걷고 싶어 (소년시절의 너 X 장혜진)]]></title>
+        <id>https://vibe.naver.com/album/32108369</id>
+        <link href="https://vibe.naver.com/album/32108369"/>
+        <updated>2024-09-18T09:16:23.114Z</updated>
+        <content type="html"><![CDATA[장혜진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MooNuS(Prod.MAKTUB)]]></title>
+        <id>https://vibe.naver.com/album/32105984</id>
+        <link href="https://vibe.naver.com/album/32105984"/>
+        <updated>2024-09-18T09:16:23.132Z</updated>
+        <content type="html"><![CDATA[반광옥]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yes, I'm Cool]]></title>
+        <id>https://vibe.naver.com/album/32108212</id>
+        <link href="https://vibe.naver.com/album/32108212"/>
+        <updated>2024-09-18T09:16:23.132Z</updated>
+        <content type="html"><![CDATA[Neeun(니은)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[If Our Love Was a Show]]></title>
+        <id>https://vibe.naver.com/album/32108370</id>
+        <link href="https://vibe.naver.com/album/32108370"/>
+        <updated>2024-09-18T09:16:23.132Z</updated>
+        <content type="html"><![CDATA[Griffy]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더는 사랑한다는 말로는]]></title>
         <id>https://vibe.naver.com/album/32108283</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/32108137"/>
         <updated>2024-09-15T03:20:09.885Z</updated>
         <content type="html"><![CDATA[위도]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 어머니 내 꿈 찾아오면]]></title>
-        <id>https://vibe.naver.com/album/32108193</id>
-        <link href="https://vibe.naver.com/album/32108193"/>
-        <updated>2024-09-14T09:13:41.107Z</updated>
-        <content type="html"><![CDATA[이보람(씨야)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루종일 (소년시절의 너 X 김승민, 래원 (Layone))]]></title>
-        <id>https://vibe.naver.com/album/32108221</id>
-        <link href="https://vibe.naver.com/album/32108221"/>
-        <updated>2024-09-14T09:13:41.107Z</updated>
-        <content type="html"><![CDATA[김승민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[괜찮아 (나쁜 기억 지우개 X 김재중)]]></title>
-        <id>https://vibe.naver.com/album/32108269</id>
-        <link href="https://vibe.naver.com/album/32108269"/>
-        <updated>2024-09-14T09:13:41.108Z</updated>
-        <content type="html"><![CDATA[김재중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVER Part 1.5]]></title>
-        <id>https://vibe.naver.com/album/32108190</id>
-        <link href="https://vibe.naver.com/album/32108190"/>
-        <updated>2024-09-14T09:13:41.108Z</updated>
-        <content type="html"><![CDATA[나상현씨밴드]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너를 보는게 지친 하루에]]></title>
-        <id>https://vibe.naver.com/album/32105845</id>
-        <link href="https://vibe.naver.com/album/32105845"/>
-        <updated>2024-09-14T09:13:41.108Z</updated>
-        <content type="html"><![CDATA[제이세라(J-Cera)]]></content>
     </entry>
 </feed>

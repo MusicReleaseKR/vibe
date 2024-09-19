@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-09-18T23:13:26.277Z</updated>
+    <updated>2024-09-19T01:04:04.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/32101932"/>
         <updated>2024-09-18T03:16:15.232Z</updated>
         <content type="html"><![CDATA[Gabriela Bee]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramune]]></title>
+        <id>https://vibe.naver.com/album/32113779</id>
+        <link href="https://vibe.naver.com/album/32113779"/>
+        <updated>2024-09-19T01:03:58.151Z</updated>
+        <content type="html"><![CDATA[indigo la End]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[they're all around us]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32081930"/>
         <updated>2024-09-12T03:15:03.166Z</updated>
         <content type="html"><![CDATA[Jesse®]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[No One Else]]></title>
-        <id>https://vibe.naver.com/album/32087223</id>
-        <link href="https://vibe.naver.com/album/32087223"/>
-        <updated>2024-09-12T03:15:03.166Z</updated>
-        <content type="html"><![CDATA[Lola Brooke]]></content>
     </entry>
 </feed>

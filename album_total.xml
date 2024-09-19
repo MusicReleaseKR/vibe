@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-09-18T23:13:26.281Z</updated>
+    <updated>2024-09-19T01:04:04.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -95,6 +95,13 @@
         <link href="https://vibe.naver.com/album/32101932"/>
         <updated>2024-09-18T03:16:21.113Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32101932" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32101932" class="text">WISH YOU THE BEST</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3027330" class="link_artist"><span class="text">Gabriela Bee</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ramune]]></title>
+        <id>https://vibe.naver.com/album/32113779</id>
+        <link href="https://vibe.naver.com/album/32113779"/>
+        <updated>2024-09-19T01:04:04.299Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32113779" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32113779" class="text">Ramune</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1688688" class="link_artist"><span class="text">indigo la End</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[they're all around us]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32102380"/>
         <updated>2024-09-16T03:22:24.884Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32102380" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32102380" class="text">8 Days</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/301442" class="link_artist"><span class="text">Galantis</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Angel Boy]]></title>
-        <id>https://vibe.naver.com/album/32105980</id>
-        <link href="https://vibe.naver.com/album/32105980"/>
-        <updated>2024-09-16T03:22:24.885Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32105980" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32105980" class="text">Angel Boy</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/238959" class="link_artist"><span class="text">Thomas Day</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

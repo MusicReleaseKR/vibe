@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-09-19T03:17:33.971Z</updated>
+    <updated>2024-09-19T04:17:15.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TROUBLE (arcon Remix)]]></title>
+        <id>https://vibe.naver.com/album/32108234</id>
+        <link href="https://vibe.naver.com/album/32108234"/>
+        <updated>2024-09-19T04:17:14.943Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32108234" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32108234" class="text">TROUBLE (arcon Remix)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6962595" class="link_artist"><span class="text">EVNNE(이븐)</span></a><span>, </span></span><span><a href="/artist/2979150" class="link_artist"><span class="text">arcon</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Death of Slim Shady (Coup De Grâce): Expanded Mourner's Edition]]></title>
         <id>https://vibe.naver.com/album/32108262</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32101943"/>
         <updated>2024-09-17T03:15:41.955Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32101943" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32101943" class="text">DOF ep #time</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8429073" class="link_artist"><span class="text">DOF</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I'M HIS, HE'S MINE]]></title>
-        <id>https://vibe.naver.com/album/32104912</id>
-        <link href="https://vibe.naver.com/album/32104912"/>
-        <updated>2024-09-17T03:15:41.955Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32104912" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32104912" class="text">I'M HIS, HE'S MINE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/110419" class="link_artist"><span class="text">Katy Perry</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

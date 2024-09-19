@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-19T03:17:33.951Z</updated>
+    <updated>2024-09-19T04:17:15.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TROUBLE (arcon Remix)]]></title>
+        <id>https://vibe.naver.com/album/32108234</id>
+        <link href="https://vibe.naver.com/album/32108234"/>
+        <updated>2024-09-19T04:17:02.573Z</updated>
+        <content type="html"><![CDATA[EVNNE(이븐)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1,2,3,4]]></title>
         <id>https://vibe.naver.com/album/32108433</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32108464"/>
         <updated>2024-09-16T03:22:12.199Z</updated>
         <content type="html"><![CDATA[안희수]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AVENUE]]></title>
-        <id>https://vibe.naver.com/album/32105941</id>
-        <link href="https://vibe.naver.com/album/32105941"/>
-        <updated>2024-09-16T03:22:12.199Z</updated>
-        <content type="html"><![CDATA[Woolenciah]]></content>
     </entry>
 </feed>

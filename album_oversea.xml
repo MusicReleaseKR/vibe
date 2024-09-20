@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-09-20T08:18:46.475Z</updated>
+    <updated>2024-09-20T09:18:14.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[S P E Y S I D E]]></title>
+        <id>https://vibe.naver.com/album/32121760</id>
+        <link href="https://vibe.naver.com/album/32121760"/>
+        <updated>2024-09-20T09:18:08.183Z</updated>
+        <content type="html"><![CDATA[Bon Iver]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[when the rain stopped following me]]></title>
+        <id>https://vibe.naver.com/album/32118868</id>
+        <link href="https://vibe.naver.com/album/32118868"/>
+        <updated>2024-09-20T09:18:08.183Z</updated>
+        <content type="html"><![CDATA[eaJ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[143]]></title>
         <id>https://vibe.naver.com/album/32121692</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32106494"/>
         <updated>2024-09-17T03:15:36.087Z</updated>
         <content type="html"><![CDATA[FKA twigs]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desire]]></title>
-        <id>https://vibe.naver.com/album/32104809</id>
-        <link href="https://vibe.naver.com/album/32104809"/>
-        <updated>2024-09-17T03:15:36.087Z</updated>
-        <content type="html"><![CDATA[Jaxomy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad Dreams]]></title>
-        <id>https://vibe.naver.com/album/32106892</id>
-        <link href="https://vibe.naver.com/album/32106892"/>
-        <updated>2024-09-17T03:15:36.087Z</updated>
-        <content type="html"><![CDATA[Teddy Swims]]></content>
     </entry>
 </feed>

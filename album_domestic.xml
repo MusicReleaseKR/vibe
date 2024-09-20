@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-20T03:17:11.362Z</updated>
+    <updated>2024-09-20T04:18:13.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SAD SONG]]></title>
+        <id>https://vibe.naver.com/album/32105931</id>
+        <link href="https://vibe.naver.com/album/32105931"/>
+        <updated>2024-09-20T04:18:00.262Z</updated>
+        <content type="html"><![CDATA[P1Harmony]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Tune]]></title>
+        <id>https://vibe.naver.com/album/32054333</id>
+        <link href="https://vibe.naver.com/album/32054333"/>
+        <updated>2024-09-20T04:18:00.266Z</updated>
+        <content type="html"><![CDATA[FIFTY FIFTY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.33 : Supernova / Armageddon Remixes]]></title>
+        <id>https://vibe.naver.com/album/32119092</id>
+        <link href="https://vibe.naver.com/album/32119092"/>
+        <updated>2024-09-20T04:18:00.267Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GGUM]]></title>
         <id>https://vibe.naver.com/album/32118663</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/32107767"/>
         <updated>2024-09-19T03:17:19.041Z</updated>
         <content type="html"><![CDATA[donburi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 '귀공자' OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/32108600</id>
-        <link href="https://vibe.naver.com/album/32108600"/>
-        <updated>2024-09-19T03:17:19.041Z</updated>
-        <content type="html"><![CDATA[스카이민혁(Skyminhyuk)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지맞은 우리 OST Part 39]]></title>
-        <id>https://vibe.naver.com/album/32101950</id>
-        <link href="https://vibe.naver.com/album/32101950"/>
-        <updated>2024-09-19T03:17:19.041Z</updated>
-        <content type="html"><![CDATA[나은설]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Away with IT]]></title>
-        <id>https://vibe.naver.com/album/32101810</id>
-        <link href="https://vibe.naver.com/album/32101810"/>
-        <updated>2024-09-19T03:17:19.041Z</updated>
-        <content type="html"><![CDATA[Dr. Wave]]></content>
     </entry>
 </feed>

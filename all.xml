@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-25T01:08:06.527Z</updated>
+    <updated>2024-09-25T02:48:57.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Steady - The 1st Mini Album (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -467,13 +467,6 @@
         <content type="html"><![CDATA[AUDREY NUNA]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Stay With You (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32108376</id>
-        <link href="https://vibe.naver.com/album/32108376"/>
-        <updated>2024-09-23T03:19:53.234Z</updated>
-        <content type="html"><![CDATA[Peach Tree Rascals]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Flood (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/32122357</id>
         <link href="https://vibe.naver.com/album/32122357"/>
@@ -703,6 +696,13 @@
         <link href="https://vibe.naver.com/album/32118837"/>
         <updated>2024-09-20T03:17:05.077Z</updated>
         <content type="html"><![CDATA[STAR SEED]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bokurawaikimonodakara (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32119102</id>
+        <link href="https://vibe.naver.com/album/32119102"/>
+        <updated>2024-09-25T02:48:51.333Z</updated>
+        <content type="html"><![CDATA[Ryokuoushoku Shakai]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Steady - The 1st Mini Album (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

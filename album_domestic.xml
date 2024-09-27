@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-27T03:20:12.139Z</updated>
+    <updated>2024-09-27T04:17:51.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Love Tune (Sped Up ver.)]]></title>
+        <id>https://vibe.naver.com/album/32149159</id>
+        <link href="https://vibe.naver.com/album/32149159"/>
+        <updated>2024-09-27T04:17:33.504Z</updated>
+        <content type="html"><![CDATA[FIFTY FIFTY]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Do or Die (DPR CREAM Remix)]]></title>
+        <id>https://vibe.naver.com/album/32149078</id>
+        <link href="https://vibe.naver.com/album/32149078"/>
+        <updated>2024-09-27T04:17:33.504Z</updated>
+        <content type="html"><![CDATA[DPR IAN]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로드 투 킹덤 : ACE OF ACE 〈VS〉 Part 1]]></title>
         <id>https://vibe.naver.com/album/32149076</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32141925"/>
         <updated>2024-09-26T03:19:49.347Z</updated>
         <content type="html"><![CDATA[eundohee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HIGH]]></title>
-        <id>https://vibe.naver.com/album/32143739</id>
-        <link href="https://vibe.naver.com/album/32143739"/>
-        <updated>2024-09-26T03:19:49.347Z</updated>
-        <content type="html"><![CDATA[키밤(KEEBOMB)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[メロン]]></title>
-        <id>https://vibe.naver.com/album/32143561</id>
-        <link href="https://vibe.naver.com/album/32143561"/>
-        <updated>2024-09-26T03:19:49.347Z</updated>
-        <content type="html"><![CDATA[cotoba(코토바)]]></content>
     </entry>
 </feed>

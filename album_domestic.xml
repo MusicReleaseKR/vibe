@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-09-27T08:18:54.835Z</updated>
+    <updated>2024-09-27T09:15:59.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[술이 싫다]]></title>
+        <id>https://vibe.naver.com/album/32149085</id>
+        <link href="https://vibe.naver.com/album/32149085"/>
+        <updated>2024-09-27T09:15:45.955Z</updated>
+        <content type="html"><![CDATA[이적]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Nazca Records]]></title>
+        <id>https://vibe.naver.com/album/32151807</id>
+        <link href="https://vibe.naver.com/album/32151807"/>
+        <updated>2024-09-27T09:15:45.959Z</updated>
+        <content type="html"><![CDATA[QM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 월간 윤종신 Repair 9월호]]></title>
+        <id>https://vibe.naver.com/album/32152046</id>
+        <link href="https://vibe.naver.com/album/32152046"/>
+        <updated>2024-09-27T09:15:45.961Z</updated>
+        <content type="html"><![CDATA[윤종신]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경성크리처 S2 OST]]></title>
+        <id>https://vibe.naver.com/album/32149096</id>
+        <link href="https://vibe.naver.com/album/32149096"/>
+        <updated>2024-09-27T09:15:45.962Z</updated>
+        <content type="html"><![CDATA[홍이삭]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파도위의 날개짓]]></title>
+        <id>https://vibe.naver.com/album/32151292</id>
+        <link href="https://vibe.naver.com/album/32151292"/>
+        <updated>2024-09-27T09:15:45.963Z</updated>
+        <content type="html"><![CDATA[MC 스나이퍼]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love Tune (Sped Up ver.)]]></title>
         <id>https://vibe.naver.com/album/32149159</id>
@@ -13,11 +48,67 @@
         <content type="html"><![CDATA[FIFTY FIFTY]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Sky City]]></title>
+        <id>https://vibe.naver.com/album/32149084</id>
+        <link href="https://vibe.naver.com/album/32149084"/>
+        <updated>2024-09-27T09:15:45.968Z</updated>
+        <content type="html"><![CDATA[영센]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시, 우리]]></title>
+        <id>https://vibe.naver.com/album/32148933</id>
+        <link href="https://vibe.naver.com/album/32148933"/>
+        <updated>2024-09-27T09:15:45.969Z</updated>
+        <content type="html"><![CDATA[지오 (JIIO)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Me, Stranger]]></title>
+        <id>https://vibe.naver.com/album/32148796</id>
+        <link href="https://vibe.naver.com/album/32148796"/>
+        <updated>2024-09-27T09:15:45.970Z</updated>
+        <content type="html"><![CDATA[민수]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIBRE]]></title>
+        <id>https://vibe.naver.com/album/32149120</id>
+        <link href="https://vibe.naver.com/album/32149120"/>
+        <updated>2024-09-27T09:15:45.972Z</updated>
+        <content type="html"><![CDATA[New-L (뉴엘)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙합 20주년 기념 앨범 x 브루노 챔프맨]]></title>
+        <id>https://vibe.naver.com/album/32149049</id>
+        <link href="https://vibe.naver.com/album/32149049"/>
+        <updated>2024-09-27T09:15:45.973Z</updated>
+        <content type="html"><![CDATA[Bruno Champman(브루노 챔프맨)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Confessin']]></title>
+        <id>https://vibe.naver.com/album/32148740</id>
+        <link href="https://vibe.naver.com/album/32148740"/>
+        <updated>2024-09-27T09:15:45.975Z</updated>
+        <content type="html"><![CDATA[김민희]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Do or Die (DPR CREAM Remix)]]></title>
         <id>https://vibe.naver.com/album/32149078</id>
         <link href="https://vibe.naver.com/album/32149078"/>
         <updated>2024-09-27T04:17:33.504Z</updated>
         <content type="html"><![CDATA[DPR IAN]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한잔]]></title>
+        <id>https://vibe.naver.com/album/32140609</id>
+        <link href="https://vibe.naver.com/album/32140609"/>
+        <updated>2024-09-27T09:15:45.978Z</updated>
+        <content type="html"><![CDATA[제이드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NEW 엉뚱발랄 콩순이와 친구들 OST]]></title>
+        <id>https://vibe.naver.com/album/32149065</id>
+        <link href="https://vibe.naver.com/album/32149065"/>
+        <updated>2024-09-27T09:15:45.979Z</updated>
+        <content type="html"><![CDATA[콩순이]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[로드 투 킹덤 : ACE OF ACE 〈VS〉 Part 1]]></title>
@@ -94,7 +185,7 @@
         <id>https://vibe.naver.com/album/32149082</id>
         <link href="https://vibe.naver.com/album/32149082"/>
         <updated>2024-09-27T03:19:58.179Z</updated>
-        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/32149082" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="https://musicmeta-phinf.pstatic.net/album/032/149/32149082.jpg?type=r360Fll&amp;v=20240926162043" class="thumb v-lazy-image v-lazy-image-loaded" alt="미스쓰리랑 베스트 PART 22 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="32149082"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="32149082" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/32149082" data-title="미스쓰리랑 베스트 PART 22" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/32149082" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32149082" class="text">미스쓰리랑 베스트 PART 22</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/32149082" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="미스쓰리랑 베스트 PART 22 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="32149082"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="32149082" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/32149082" data-title="미스쓰리랑 베스트 PART 22" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/32149082" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32149082" class="text">미스쓰리랑 베스트 PART 22</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[너만이 전부야]]></title>
@@ -263,96 +354,5 @@
         <link href="https://vibe.naver.com/album/32149047"/>
         <updated>2024-09-26T09:15:55.716Z</updated>
         <content type="html"><![CDATA[정수민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그때 그때 그때]]></title>
-        <id>https://vibe.naver.com/album/32143806</id>
-        <link href="https://vibe.naver.com/album/32143806"/>
-        <updated>2024-09-26T09:15:55.717Z</updated>
-        <content type="html"><![CDATA[레이나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[dlTwksgdk]]></title>
-        <id>https://vibe.naver.com/album/32143834</id>
-        <link href="https://vibe.naver.com/album/32143834"/>
-        <updated>2024-09-26T09:15:55.717Z</updated>
-        <content type="html"><![CDATA[신애(Sinae)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SCENE]]></title>
-        <id>https://vibe.naver.com/album/32143717</id>
-        <link href="https://vibe.naver.com/album/32143717"/>
-        <updated>2024-09-26T09:15:55.720Z</updated>
-        <content type="html"><![CDATA[김소연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#BIGYMOVEMENT]]></title>
-        <id>https://vibe.naver.com/album/32143793</id>
-        <link href="https://vibe.naver.com/album/32143793"/>
-        <updated>2024-09-26T09:15:55.722Z</updated>
-        <content type="html"><![CDATA[YLN Foreign]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노놀 VOL 46. 강지나 ' 내 우울은 항상 널 곁에 두고 ']]></title>
-        <id>https://vibe.naver.com/album/32143812</id>
-        <link href="https://vibe.naver.com/album/32143812"/>
-        <updated>2024-09-26T09:15:55.732Z</updated>
-        <content type="html"><![CDATA[강지나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WAY 2A HEAD]]></title>
-        <id>https://vibe.naver.com/album/32142244</id>
-        <link href="https://vibe.naver.com/album/32142244"/>
-        <updated>2024-09-25T09:16:22.233Z</updated>
-        <content type="html"><![CDATA[김심야]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dancing In The Moonlight]]></title>
-        <id>https://vibe.naver.com/album/32143830</id>
-        <link href="https://vibe.naver.com/album/32143830"/>
-        <updated>2024-09-26T03:19:49.339Z</updated>
-        <content type="html"><![CDATA[이준기]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024]]></title>
-        <id>https://vibe.naver.com/album/32143707</id>
-        <link href="https://vibe.naver.com/album/32143707"/>
-        <updated>2024-09-26T03:19:49.339Z</updated>
-        <content type="html"><![CDATA[우주용사멤버쉽클럽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEOULVIBES, VION]]></title>
-        <id>https://vibe.naver.com/album/32143832</id>
-        <link href="https://vibe.naver.com/album/32143832"/>
-        <updated>2024-09-26T03:19:49.339Z</updated>
-        <content type="html"><![CDATA[KozyPop]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FLY]]></title>
-        <id>https://vibe.naver.com/album/32143724</id>
-        <link href="https://vibe.naver.com/album/32143724"/>
-        <updated>2024-09-26T03:19:49.347Z</updated>
-        <content type="html"><![CDATA[키츠요지(kitsyojii)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을]]></title>
-        <id>https://vibe.naver.com/album/32143747</id>
-        <link href="https://vibe.naver.com/album/32143747"/>
-        <updated>2024-09-26T03:19:49.347Z</updated>
-        <content type="html"><![CDATA[Kyly(카일리)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live it up]]></title>
-        <id>https://vibe.naver.com/album/32142208</id>
-        <link href="https://vibe.naver.com/album/32142208"/>
-        <updated>2024-09-26T03:19:49.347Z</updated>
-        <content type="html"><![CDATA[Jomalxne]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밤]]></title>
-        <id>https://vibe.naver.com/album/32141925</id>
-        <link href="https://vibe.naver.com/album/32141925"/>
-        <updated>2024-09-26T03:19:49.347Z</updated>
-        <content type="html"><![CDATA[eundohee]]></content>
     </entry>
 </feed>

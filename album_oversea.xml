@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-09-27T08:18:54.862Z</updated>
+    <updated>2024-09-27T09:15:59.612Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://vibe.naver.com/album/32149148"/>
         <updated>2024-09-27T04:17:45.229Z</updated>
         <content type="html"><![CDATA[Dimitri Vegas]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[That's What I Love]]></title>
+        <id>https://vibe.naver.com/album/32149162</id>
+        <link href="https://vibe.naver.com/album/32149162"/>
+        <updated>2024-09-27T09:15:52.973Z</updated>
+        <content type="html"><![CDATA[Leon Bridges]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[空っぽの空に花火を描く]]></title>
+        <id>https://vibe.naver.com/album/32151834</id>
+        <link href="https://vibe.naver.com/album/32151834"/>
+        <updated>2024-09-27T09:15:52.973Z</updated>
+        <content type="html"><![CDATA[민쇼크 MEANSHOCK]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Harlequin]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32117813"/>
         <updated>2024-09-25T03:22:03.416Z</updated>
         <content type="html"><![CDATA[Chase Atlantic]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Adult Swim]]></title>
-        <id>https://vibe.naver.com/album/32119048</id>
-        <link href="https://vibe.naver.com/album/32119048"/>
-        <updated>2024-09-25T03:22:03.417Z</updated>
-        <content type="html"><![CDATA[Bktherula]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Desperate]]></title>
-        <id>https://vibe.naver.com/album/32140495</id>
-        <link href="https://vibe.naver.com/album/32140495"/>
-        <updated>2024-09-25T03:22:03.426Z</updated>
-        <content type="html"><![CDATA[NEFFEX]]></content>
     </entry>
 </feed>

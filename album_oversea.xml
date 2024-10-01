@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-01T14:13:59.982Z</updated>
+    <updated>2024-10-01T15:15:29.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHERE DO WE GO]]></title>
+        <id>https://vibe.naver.com/album/32089710</id>
+        <link href="https://vibe.naver.com/album/32089710"/>
+        <updated>2024-10-01T15:15:23.455Z</updated>
+        <content type="html"><![CDATA[JO1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[モノトーン]]></title>
         <id>https://vibe.naver.com/album/32153397</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32149030"/>
         <updated>2024-09-27T03:20:05.670Z</updated>
         <content type="html"><![CDATA[Trivecta]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dance, No One's Watching]]></title>
-        <id>https://vibe.naver.com/album/32149135</id>
-        <link href="https://vibe.naver.com/album/32149135"/>
-        <updated>2024-09-27T03:20:05.671Z</updated>
-        <content type="html"><![CDATA[Ezra Collective]]></content>
     </entry>
 </feed>

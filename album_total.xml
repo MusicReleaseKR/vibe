@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-10-01T14:13:59.997Z</updated>
+    <updated>2024-10-01T15:15:29.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WHERE DO WE GO]]></title>
+        <id>https://vibe.naver.com/album/32089710</id>
+        <link href="https://vibe.naver.com/album/32089710"/>
+        <updated>2024-10-01T15:15:28.731Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32089710" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32089710" class="text">WHERE DO WE GO</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3565972" class="link_artist"><span class="text">JO1</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첫사랑]]></title>
         <id>https://vibe.naver.com/album/32161229</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32148635"/>
         <updated>2024-09-30T03:25:18.901Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32148635" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32148635" class="text">Lights Camera Action</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2940" class="link_artist"><span class="text">Kylie Minogue</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[愛の賞味期限]]></title>
-        <id>https://vibe.naver.com/album/31062141</id>
-        <link href="https://vibe.naver.com/album/31062141"/>
-        <updated>2024-09-30T03:25:18.901Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/31062141" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="31062141" class="text">愛の賞味期限</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8219959" class="link_artist"><span class="text">tuki.</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-03T14:14:40.257Z</updated>
+    <updated>2024-10-03T15:15:39.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SEE YOU (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[양나심]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Moon Music (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32166151</id>
+        <link href="https://vibe.naver.com/album/32166151"/>
+        <updated>2024-10-03T15:15:33.370Z</updated>
+        <content type="html"><![CDATA[Coldplay]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beat the odds (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32166377</id>
+        <link href="https://vibe.naver.com/album/32166377"/>
+        <updated>2024-10-03T15:15:33.370Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[The Best of Bublé (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/32148742</id>
         <link href="https://vibe.naver.com/album/32148742"/>
@@ -691,18 +705,18 @@
         <content type="html"><![CDATA[Beach Weather]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pastel (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32149292</id>
-        <link href="https://vibe.naver.com/album/32149292"/>
-        <updated>2024-09-30T03:25:13.609Z</updated>
-        <content type="html"><![CDATA[Neat]]></content>
+        <title type="html"><![CDATA[Moon Music (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32166151</id>
+        <link href="https://vibe.naver.com/album/32166151"/>
+        <updated>2024-10-03T15:15:38.742Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32166151" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32166151" class="text">Moon Music</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3224" class="link_artist"><span class="text">Coldplay</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SLUT SZN (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32148737</id>
-        <link href="https://vibe.naver.com/album/32148737"/>
-        <updated>2024-09-30T03:25:13.610Z</updated>
-        <content type="html"><![CDATA[NLE Choppa]]></content>
+        <title type="html"><![CDATA[Beat the odds (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32166377</id>
+        <link href="https://vibe.naver.com/album/32166377"/>
+        <updated>2024-10-03T15:15:38.742Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32166377" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32166377" class="text">Beat the odds</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5889303" class="link_artist"><span class="text">&amp;TEAM</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SEE YOU (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/32161114"/>
         <updated>2024-10-02T03:19:33.328Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32161114" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32161114" class="text">Holiday gift from MOON</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/109246" class="link_artist"><span class="text">Moon(혜원)</span></a><span>, </span></span><span><a href="/artist/13156" class="link_artist"><span class="text">Tsuyoshi Yamamoto</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Space (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32149168</id>
-        <link href="https://vibe.naver.com/album/32149168"/>
-        <updated>2024-10-02T03:19:33.328Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32149168" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32149168" class="text">Space</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1529044" class="link_artist"><span class="text">Mário</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dope Boy (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32147736</id>
-        <link href="https://vibe.naver.com/album/32147736"/>
-        <updated>2024-10-02T03:19:33.328Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32147736" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32147736" class="text">Dope Boy</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/331039" class="link_artist"><span class="text">Young Thug</span></a><span>, </span></span><span><a href="/artist/128089" class="link_artist"><span class="text">Nigo</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

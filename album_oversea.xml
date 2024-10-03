@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-03T14:14:40.250Z</updated>
+    <updated>2024-10-03T15:15:39.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Moon Music]]></title>
+        <id>https://vibe.naver.com/album/32166151</id>
+        <link href="https://vibe.naver.com/album/32166151"/>
+        <updated>2024-10-03T15:15:33.370Z</updated>
+        <content type="html"><![CDATA[Coldplay]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Beat the odds]]></title>
+        <id>https://vibe.naver.com/album/32166377</id>
+        <link href="https://vibe.naver.com/album/32166377"/>
+        <updated>2024-10-03T15:15:33.370Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Best of Bublé]]></title>
         <id>https://vibe.naver.com/album/32148742</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32149178"/>
         <updated>2024-09-30T03:25:13.605Z</updated>
         <content type="html"><![CDATA[Beach Weather]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pastel]]></title>
-        <id>https://vibe.naver.com/album/32149292</id>
-        <link href="https://vibe.naver.com/album/32149292"/>
-        <updated>2024-09-30T03:25:13.609Z</updated>
-        <content type="html"><![CDATA[Neat]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SLUT SZN]]></title>
-        <id>https://vibe.naver.com/album/32148737</id>
-        <link href="https://vibe.naver.com/album/32148737"/>
-        <updated>2024-09-30T03:25:13.610Z</updated>
-        <content type="html"><![CDATA[NLE Choppa]]></content>
     </entry>
 </feed>

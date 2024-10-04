@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-04T12:27:52.502Z</updated>
+    <updated>2024-10-04T13:22:01.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/32164604"/>
         <updated>2024-10-04T01:05:53.914Z</updated>
         <content type="html"><![CDATA[리사 (LISA)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joker: Folie à Deux (Music From The Motion Picture)]]></title>
+        <id>https://vibe.naver.com/album/32177048</id>
+        <link href="https://vibe.naver.com/album/32177048"/>
+        <updated>2024-10-04T13:21:54.392Z</updated>
+        <content type="html"><![CDATA[Joaquin Phoenix]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[HyperNova (acoustic version)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32160966"/>
         <updated>2024-10-01T03:29:04.882Z</updated>
         <content type="html"><![CDATA[408]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shark (10 Years On)]]></title>
-        <id>https://vibe.naver.com/album/32160740</id>
-        <link href="https://vibe.naver.com/album/32160740"/>
-        <updated>2024-10-01T03:29:04.882Z</updated>
-        <content type="html"><![CDATA[Oh Wonder]]></content>
     </entry>
 </feed>

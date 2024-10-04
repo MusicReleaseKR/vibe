@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-04T12:27:52.508Z</updated>
+    <updated>2024-10-04T13:22:01.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[R.E.M (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -369,6 +369,13 @@
         <content type="html"><![CDATA[리사 (LISA)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Joker: Folie à Deux (Music From The Motion Picture) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32177048</id>
+        <link href="https://vibe.naver.com/album/32177048"/>
+        <updated>2024-10-04T13:21:54.392Z</updated>
+        <content type="html"><![CDATA[Joaquin Phoenix]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[HyperNova (acoustic version) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/32166562</id>
         <link href="https://vibe.naver.com/album/32166562"/>
@@ -698,18 +705,18 @@
         <content type="html"><![CDATA[408]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Shark (10 Years On) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32160740</id>
-        <link href="https://vibe.naver.com/album/32160740"/>
-        <updated>2024-10-01T03:29:04.882Z</updated>
-        <content type="html"><![CDATA[Oh Wonder]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[R.E.M (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32166646</id>
         <link href="https://vibe.naver.com/album/32166646"/>
         <updated>2024-10-04T09:14:49.204Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32166646" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32166646" class="text">R.E.M</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6731797" class="link_artist"><span class="text">KISS OF LIFE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Joker: Folie à Deux (Music From The Motion Picture) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32177048</id>
+        <link href="https://vibe.naver.com/album/32177048"/>
+        <updated>2024-10-04T13:22:00.458Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32177048" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32177048" class="text">Joker: Folie à Deux (Music From The Motion Picture)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/84814" class="link_artist"><span class="text">Joaquin Phoenix</span></a><span>, </span></span><span><a href="/artist/110335" class="link_artist"><span class="text">Lady Gaga</span></a><span>, </span></span><span><a href="/artist/8919903" class="link_artist"><span class="text">Cast of Joker: Folie à Deux</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Move Remove (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32149976"/>
         <updated>2024-10-03T03:20:20.522Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32149976" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32149976" class="text">You</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/484397" class="link_artist"><span class="text">Maiah Manser</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[won't cry (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32147633</id>
-        <link href="https://vibe.naver.com/album/32147633"/>
-        <updated>2024-10-03T03:20:20.522Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32147633" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32147633" class="text">won't cry</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1409331" class="link_artist"><span class="text">Amber Mark</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

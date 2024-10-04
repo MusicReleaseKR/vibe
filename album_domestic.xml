@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-04T03:20:10.239Z</updated>
+    <updated>2024-10-04T04:17:58.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Super Duper Ride]]></title>
+        <id>https://vibe.naver.com/album/32161122</id>
+        <link href="https://vibe.naver.com/album/32161122"/>
+        <updated>2024-10-04T04:17:46.503Z</updated>
+        <content type="html"><![CDATA[APOKI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentimental Love]]></title>
+        <id>https://vibe.naver.com/album/32166634</id>
+        <link href="https://vibe.naver.com/album/32166634"/>
+        <updated>2024-10-04T04:17:46.503Z</updated>
+        <content type="html"><![CDATA[민지운 (Min Jiwoon)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로드 투 킹덤 : ACE OF ACE 〈VS〉 Part 2]]></title>
         <id>https://vibe.naver.com/album/32169439</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32161309"/>
         <updated>2024-10-02T09:14:53.813Z</updated>
         <content type="html"><![CDATA[대니 구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개소리 OST Part.2]]></title>
-        <id>https://vibe.naver.com/album/32161554</id>
-        <link href="https://vibe.naver.com/album/32161554"/>
-        <updated>2024-10-02T09:14:53.815Z</updated>
-        <content type="html"><![CDATA[모어(more)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가끔 생각나는 사람]]></title>
-        <id>https://vibe.naver.com/album/32153518</id>
-        <link href="https://vibe.naver.com/album/32153518"/>
-        <updated>2024-10-02T09:14:53.816Z</updated>
-        <content type="html"><![CDATA[윤현상]]></content>
     </entry>
 </feed>

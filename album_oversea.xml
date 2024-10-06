@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-06T14:12:26.956Z</updated>
+    <updated>2024-10-06T15:14:37.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Falling Up -English ver.-]]></title>
+        <id>https://vibe.naver.com/album/32173384</id>
+        <link href="https://vibe.naver.com/album/32173384"/>
+        <updated>2024-10-06T15:14:30.483Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIGHT]]></title>
+        <id>https://vibe.naver.com/album/32173383</id>
+        <link href="https://vibe.naver.com/album/32173383"/>
+        <updated>2024-10-06T15:14:30.499Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Falling Up]]></title>
+        <id>https://vibe.naver.com/album/32173385</id>
+        <link href="https://vibe.naver.com/album/32173385"/>
+        <updated>2024-10-06T15:14:30.499Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIGHT -English ver.-]]></title>
+        <id>https://vibe.naver.com/album/32173388</id>
+        <link href="https://vibe.naver.com/album/32173388"/>
+        <updated>2024-10-06T15:14:30.499Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Moon Music]]></title>
         <id>https://vibe.naver.com/album/32166151</id>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/32153397"/>
         <updated>2024-10-01T03:29:04.879Z</updated>
         <content type="html"><![CDATA[YOASOBI]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Omega]]></title>
-        <id>https://vibe.naver.com/album/32143543</id>
-        <link href="https://vibe.naver.com/album/32143543"/>
-        <updated>2024-10-01T03:29:04.879Z</updated>
-        <content type="html"><![CDATA[Rosalía]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BBC Recordings / Undone - The Sweater Song (Third Practice)]]></title>
-        <id>https://vibe.naver.com/album/32147249</id>
-        <link href="https://vibe.naver.com/album/32147249"/>
-        <updated>2024-10-01T03:29:04.879Z</updated>
-        <content type="html"><![CDATA[Weezer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hopeless Romantic]]></title>
-        <id>https://vibe.naver.com/album/32148633</id>
-        <link href="https://vibe.naver.com/album/32148633"/>
-        <updated>2024-10-01T03:29:04.879Z</updated>
-        <content type="html"><![CDATA[Alex Sampson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Delusional]]></title>
-        <id>https://vibe.naver.com/album/32160966</id>
-        <link href="https://vibe.naver.com/album/32160966"/>
-        <updated>2024-10-01T03:29:04.882Z</updated>
-        <content type="html"><![CDATA[408]]></content>
     </entry>
 </feed>

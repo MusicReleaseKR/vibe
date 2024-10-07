@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-07T02:51:08.897Z</updated>
+    <updated>2024-10-07T03:22:26.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,11 +13,46 @@
         <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Look Mom I Can Fly]]></title>
+        <id>https://vibe.naver.com/album/32166541</id>
+        <link href="https://vibe.naver.com/album/32166541"/>
+        <updated>2024-10-07T03:22:19.924Z</updated>
+        <content type="html"><![CDATA[Livingston]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Good All Year]]></title>
+        <id>https://vibe.naver.com/album/32165991</id>
+        <link href="https://vibe.naver.com/album/32165991"/>
+        <updated>2024-10-07T03:22:19.924Z</updated>
+        <content type="html"><![CDATA[Crash Adams]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Falling Up]]></title>
         <id>https://vibe.naver.com/album/32173385</id>
         <link href="https://vibe.naver.com/album/32173385"/>
         <updated>2024-10-06T15:14:30.499Z</updated>
         <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[My World]]></title>
+        <id>https://vibe.naver.com/album/32166543</id>
+        <link href="https://vibe.naver.com/album/32166543"/>
+        <updated>2024-10-07T03:22:19.930Z</updated>
+        <content type="html"><![CDATA[Calum Scott]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thick Of It (Feat. Trippie Redd) / Low]]></title>
+        <id>https://vibe.naver.com/album/32166011</id>
+        <link href="https://vibe.naver.com/album/32166011"/>
+        <updated>2024-10-07T03:22:19.930Z</updated>
+        <content type="html"><![CDATA[KSI]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Heaven Is Calling]]></title>
+        <id>https://vibe.naver.com/album/32162500</id>
+        <link href="https://vibe.naver.com/album/32162500"/>
+        <updated>2024-10-07T03:22:19.930Z</updated>
+        <content type="html"><![CDATA[Jai Wolf]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[NIGHT -English ver.-]]></title>
@@ -27,11 +62,60 @@
         <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[So Many Details (Toro Y Moi Cover)]]></title>
+        <id>https://vibe.naver.com/album/32177186</id>
+        <link href="https://vibe.naver.com/album/32177186"/>
+        <updated>2024-10-07T03:22:19.930Z</updated>
+        <content type="html"><![CDATA[Cautious Clay]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ik what you did last summer]]></title>
+        <id>https://vibe.naver.com/album/32166194</id>
+        <link href="https://vibe.naver.com/album/32166194"/>
+        <updated>2024-10-07T03:22:19.930Z</updated>
+        <content type="html"><![CDATA[OsamaSon]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Falling Up -English ver.-]]></title>
         <id>https://vibe.naver.com/album/32173384</id>
         <link href="https://vibe.naver.com/album/32173384"/>
         <updated>2024-10-06T15:14:30.483Z</updated>
         <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[House With The Blue Door]]></title>
+        <id>https://vibe.naver.com/album/32166529</id>
+        <link href="https://vibe.naver.com/album/32166529"/>
+        <updated>2024-10-07T03:22:19.931Z</updated>
+        <content type="html"><![CDATA[Nick Ward]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Island Sessions 2]]></title>
+        <id>https://vibe.naver.com/album/32173545</id>
+        <link href="https://vibe.naver.com/album/32173545"/>
+        <updated>2024-10-07T03:22:19.933Z</updated>
+        <content type="html"><![CDATA[Everybody Dies]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All I Wanna Know]]></title>
+        <id>https://vibe.naver.com/album/32193105</id>
+        <link href="https://vibe.naver.com/album/32193105"/>
+        <updated>2024-10-07T03:22:19.933Z</updated>
+        <content type="html"><![CDATA[Dawilk]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bloom]]></title>
+        <id>https://vibe.naver.com/album/32173431</id>
+        <link href="https://vibe.naver.com/album/32173431"/>
+        <updated>2024-10-07T03:22:19.934Z</updated>
+        <content type="html"><![CDATA[Deepend]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JADED]]></title>
+        <id>https://vibe.naver.com/album/32166528</id>
+        <link href="https://vibe.naver.com/album/32166528"/>
+        <updated>2024-10-07T03:22:19.935Z</updated>
+        <content type="html"><![CDATA[Toosii]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moon Music]]></title>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/32149168"/>
         <updated>2024-10-02T03:19:33.328Z</updated>
         <content type="html"><![CDATA[Mário]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dope Boy]]></title>
-        <id>https://vibe.naver.com/album/32147736</id>
-        <link href="https://vibe.naver.com/album/32147736"/>
-        <updated>2024-10-02T03:19:33.328Z</updated>
-        <content type="html"><![CDATA[Young Thug]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Is It The Way]]></title>
-        <id>https://vibe.naver.com/album/32148738</id>
-        <link href="https://vibe.naver.com/album/32148738"/>
-        <updated>2024-10-02T03:19:33.328Z</updated>
-        <content type="html"><![CDATA[Saweetie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Baby]]></title>
-        <id>https://vibe.naver.com/album/32150155</id>
-        <link href="https://vibe.naver.com/album/32150155"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[Peter McPoland]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Magic]]></title>
-        <id>https://vibe.naver.com/album/32161154</id>
-        <link href="https://vibe.naver.com/album/32161154"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[Andy Grammer]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rhetorical Questions]]></title>
-        <id>https://vibe.naver.com/album/32161476</id>
-        <link href="https://vibe.naver.com/album/32161476"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[Gracey]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My name]]></title>
-        <id>https://vibe.naver.com/album/32161619</id>
-        <link href="https://vibe.naver.com/album/32161619"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[Ieiri Leo]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs About You Specifically]]></title>
-        <id>https://vibe.naver.com/album/32148717</id>
-        <link href="https://vibe.naver.com/album/32148717"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[MICHELLE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Live From Wrigley Field]]></title>
-        <id>https://vibe.naver.com/album/32147654</id>
-        <link href="https://vibe.naver.com/album/32147654"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[The Lumineers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Better]]></title>
-        <id>https://vibe.naver.com/album/32161576</id>
-        <link href="https://vibe.naver.com/album/32161576"/>
-        <updated>2024-10-02T03:19:33.329Z</updated>
-        <content type="html"><![CDATA[IACO]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Promised Land (Remixes)]]></title>
-        <id>https://vibe.naver.com/album/32161158</id>
-        <link href="https://vibe.naver.com/album/32161158"/>
-        <updated>2024-10-02T03:19:33.338Z</updated>
-        <content type="html"><![CDATA[Vintage Culture]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Guten Morgen Sonnenschein]]></title>
-        <id>https://vibe.naver.com/album/32147232</id>
-        <link href="https://vibe.naver.com/album/32147232"/>
-        <updated>2024-10-02T03:19:33.338Z</updated>
-        <content type="html"><![CDATA[Nana Mouskouri]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[モノトーン]]></title>
-        <id>https://vibe.naver.com/album/32153397</id>
-        <link href="https://vibe.naver.com/album/32153397"/>
-        <updated>2024-10-01T03:29:04.879Z</updated>
-        <content type="html"><![CDATA[YOASOBI]]></content>
     </entry>
 </feed>

@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-07T08:18:35.471Z</updated>
+    <updated>2024-10-07T09:16:29.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[만화 (滿花)]]></title>
+        <id>https://vibe.naver.com/album/32173325</id>
+        <link href="https://vibe.naver.com/album/32173325"/>
+        <updated>2024-10-07T09:16:11.341Z</updated>
+        <content type="html"><![CDATA[이무진]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello : My First Love]]></title>
+        <id>https://vibe.naver.com/album/32193816</id>
+        <link href="https://vibe.naver.com/album/32193816"/>
+        <updated>2024-10-07T09:16:11.343Z</updated>
+        <content type="html"><![CDATA[더윈드(The Wind)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I can't call u]]></title>
+        <id>https://vibe.naver.com/album/32173105</id>
+        <link href="https://vibe.naver.com/album/32173105"/>
+        <updated>2024-10-07T09:16:11.343Z</updated>
+        <content type="html"><![CDATA[Chan(찬)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 해리에게 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/32173851</id>
+        <link href="https://vibe.naver.com/album/32173851"/>
+        <updated>2024-10-07T09:16:11.344Z</updated>
+        <content type="html"><![CDATA[이하이]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음]]></title>
+        <id>https://vibe.naver.com/album/32173316</id>
+        <link href="https://vibe.naver.com/album/32173316"/>
+        <updated>2024-10-07T09:16:11.344Z</updated>
+        <content type="html"><![CDATA[린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노래방에서]]></title>
+        <id>https://vibe.naver.com/album/32171868</id>
+        <link href="https://vibe.naver.com/album/32171868"/>
+        <updated>2024-10-07T09:16:11.344Z</updated>
+        <content type="html"><![CDATA[이우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HIGHBALL]]></title>
+        <id>https://vibe.naver.com/album/32173328</id>
+        <link href="https://vibe.naver.com/album/32173328"/>
+        <updated>2024-10-07T09:16:11.344Z</updated>
+        <content type="html"><![CDATA[수현(유키스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피아노래]]></title>
+        <id>https://vibe.naver.com/album/32175582</id>
+        <link href="https://vibe.naver.com/album/32175582"/>
+        <updated>2024-10-07T09:16:11.345Z</updated>
+        <content type="html"><![CDATA[송하예]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Rizz]]></title>
+        <id>https://vibe.naver.com/album/32193444</id>
+        <link href="https://vibe.naver.com/album/32193444"/>
+        <updated>2024-10-07T09:16:11.347Z</updated>
+        <content type="html"><![CDATA[윤서빈 (Yoon Seobin)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RE:WORKS]]></title>
+        <id>https://vibe.naver.com/album/32193748</id>
+        <link href="https://vibe.naver.com/album/32193748"/>
+        <updated>2024-10-07T09:16:11.349Z</updated>
+        <content type="html"><![CDATA[KENZIE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음을 바라던 너 (Feat. SO HYUN)]]></title>
+        <id>https://vibe.naver.com/album/32173066</id>
+        <link href="https://vibe.naver.com/album/32173066"/>
+        <updated>2024-10-07T09:16:11.350Z</updated>
+        <content type="html"><![CDATA[아이보리(Ivory)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PERSONA]]></title>
+        <id>https://vibe.naver.com/album/32173412</id>
+        <link href="https://vibe.naver.com/album/32173412"/>
+        <updated>2024-10-07T09:16:11.352Z</updated>
+        <content type="html"><![CDATA[LuciDreaM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIGHT -Korean ver.-]]></title>
         <id>https://vibe.naver.com/album/32173386</id>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/32173309"/>
         <updated>2024-10-06T03:23:12.898Z</updated>
         <content type="html"><![CDATA[John OFA Rhee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Calling]]></title>
-        <id>https://vibe.naver.com/album/32171865</id>
-        <link href="https://vibe.naver.com/album/32171865"/>
-        <updated>2024-10-06T03:23:12.903Z</updated>
-        <content type="html"><![CDATA[싸비(XAVII)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[25]]></title>
-        <id>https://vibe.naver.com/album/32173305</id>
-        <link href="https://vibe.naver.com/album/32173305"/>
-        <updated>2024-10-06T03:23:12.904Z</updated>
-        <content type="html"><![CDATA[OSSH]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Night on earth]]></title>
-        <id>https://vibe.naver.com/album/32173097</id>
-        <link href="https://vibe.naver.com/album/32173097"/>
-        <updated>2024-10-06T03:23:12.906Z</updated>
-        <content type="html"><![CDATA[제휘]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가을이 오면 우리는 시작될 거야]]></title>
-        <id>https://vibe.naver.com/album/32173259</id>
-        <link href="https://vibe.naver.com/album/32173259"/>
-        <updated>2024-10-06T03:23:12.908Z</updated>
-        <content type="html"><![CDATA[Kinn(킨)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello My Love]]></title>
-        <id>https://vibe.naver.com/album/32173306</id>
-        <link href="https://vibe.naver.com/album/32173306"/>
-        <updated>2024-10-06T03:23:12.908Z</updated>
-        <content type="html"><![CDATA[김원식]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엄마친구아들 OST Part 7]]></title>
-        <id>https://vibe.naver.com/album/32173264</id>
-        <link href="https://vibe.naver.com/album/32173264"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[정해인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빛나고 행복했던 우리]]></title>
-        <id>https://vibe.naver.com/album/32173250</id>
-        <link href="https://vibe.naver.com/album/32173250"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[왁스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기다리는 건 아무것도 아니에요]]></title>
-        <id>https://vibe.naver.com/album/32173332</id>
-        <link href="https://vibe.naver.com/album/32173332"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[정서주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[말하는 감자]]></title>
-        <id>https://vibe.naver.com/album/32173079</id>
-        <link href="https://vibe.naver.com/album/32173079"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[1DAY]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처음 그때]]></title>
-        <id>https://vibe.naver.com/album/32166516</id>
-        <link href="https://vibe.naver.com/album/32166516"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[정인성]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DNA러버 OST Part 8]]></title>
-        <id>https://vibe.naver.com/album/32173310</id>
-        <link href="https://vibe.naver.com/album/32173310"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[정예원(YEWON)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직진이야]]></title>
-        <id>https://vibe.naver.com/album/32173249</id>
-        <link href="https://vibe.naver.com/album/32173249"/>
-        <updated>2024-10-05T09:16:08.764Z</updated>
-        <content type="html"><![CDATA[박성온]]></content>
     </entry>
 </feed>

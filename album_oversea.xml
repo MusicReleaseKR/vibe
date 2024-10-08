@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-08T08:19:26.914Z</updated>
+    <updated>2024-10-08T09:16:01.742Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[T-Shirt]]></title>
+        <id>https://vibe.naver.com/album/32193587</id>
+        <link href="https://vibe.naver.com/album/32193587"/>
+        <updated>2024-10-08T09:15:55.296Z</updated>
+        <content type="html"><![CDATA[류수정]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Changes All The Time]]></title>
         <id>https://vibe.naver.com/album/32166544</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32166515"/>
         <updated>2024-10-04T03:20:03.695Z</updated>
         <content type="html"><![CDATA[Dizzee Rascal]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Best of Bublé]]></title>
-        <id>https://vibe.naver.com/album/32148742</id>
-        <link href="https://vibe.naver.com/album/32148742"/>
-        <updated>2024-10-03T03:20:20.513Z</updated>
-        <content type="html"><![CDATA[Michael Bublé]]></content>
     </entry>
 </feed>

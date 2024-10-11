@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-11T03:19:14.708Z</updated>
+    <updated>2024-10-11T04:17:20.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/32201028"/>
         <updated>2024-10-11T01:05:37.612Z</updated>
         <content type="html"><![CDATA[제니 (JENNIE)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[trampoline]]></title>
+        <id>https://vibe.naver.com/album/32201067</id>
+        <link href="https://vibe.naver.com/album/32201067"/>
+        <updated>2024-10-11T04:17:06.845Z</updated>
+        <content type="html"><![CDATA[Billlie(빌리)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학가요제 1라운드 베스트 PART 1]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32194994"/>
         <updated>2024-10-10T03:19:36.442Z</updated>
         <content type="html"><![CDATA[히즈이(hizui)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hypochondriac]]></title>
-        <id>https://vibe.naver.com/album/32193882</id>
-        <link href="https://vibe.naver.com/album/32193882"/>
-        <updated>2024-10-10T03:19:36.442Z</updated>
-        <content type="html"><![CDATA[HUNJIYA]]></content>
     </entry>
 </feed>

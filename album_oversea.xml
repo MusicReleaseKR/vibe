@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-15T08:19:29.809Z</updated>
+    <updated>2024-10-15T09:15:48.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SWEET SURRENDER]]></title>
+        <id>https://vibe.naver.com/album/32173313</id>
+        <link href="https://vibe.naver.com/album/32173313"/>
+        <updated>2024-10-15T09:15:42.297Z</updated>
+        <content type="html"><![CDATA[동방신기 (TVXQ!)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I Never Loved You]]></title>
         <id>https://vibe.naver.com/album/32203785</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32201705"/>
         <updated>2024-10-11T03:19:07.892Z</updated>
         <content type="html"><![CDATA[Ruxolf]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Water]]></title>
-        <id>https://vibe.naver.com/album/32201148</id>
-        <link href="https://vibe.naver.com/album/32201148"/>
-        <updated>2024-10-11T03:19:07.892Z</updated>
-        <content type="html"><![CDATA[Haliene]]></content>
     </entry>
 </feed>

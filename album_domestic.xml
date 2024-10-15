@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-15T01:06:57.877Z</updated>
+    <updated>2024-10-15T02:49:04.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/32208057"/>
         <updated>2024-10-14T09:16:45.003Z</updated>
         <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE and FALL]]></title>
+        <id>https://vibe.naver.com/album/32208078</id>
+        <link href="https://vibe.naver.com/album/32208078"/>
+        <updated>2024-10-14T09:16:45.003Z</updated>
+        <content type="html"><![CDATA[Xdinary Heroes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Love Bomber]]></title>
@@ -25,13 +32,6 @@
         <link href="https://vibe.naver.com/album/32205127"/>
         <updated>2024-10-14T09:16:45.003Z</updated>
         <content type="html"><![CDATA[CNBLUE(씨엔블루)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE and FALL]]></title>
-        <id>https://vibe.naver.com/album/32208078</id>
-        <link href="https://vibe.naver.com/album/32208078"/>
-        <updated>2024-10-14T09:16:45.003Z</updated>
-        <content type="html"><![CDATA[Xdinary Heroes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My Girl]]></title>

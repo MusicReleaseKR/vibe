@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-15T01:06:57.882Z</updated>
+    <updated>2024-10-15T02:49:04.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[SEVENTEEN 12th Mini Album 'SPILL THE FEELS' (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://vibe.naver.com/album/32208057"/>
         <updated>2024-10-14T09:16:45.003Z</updated>
         <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LIVE and FALL (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32208078</id>
+        <link href="https://vibe.naver.com/album/32208078"/>
+        <updated>2024-10-14T09:16:45.003Z</updated>
+        <content type="html"><![CDATA[Xdinary Heroes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Love Bomber (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -24,13 +31,6 @@
         <link href="https://vibe.naver.com/album/32205127"/>
         <updated>2024-10-14T09:16:45.003Z</updated>
         <content type="html"><![CDATA[CNBLUE(씨엔블루)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE and FALL (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32208078</id>
-        <link href="https://vibe.naver.com/album/32208078"/>
-        <updated>2024-10-14T09:16:45.003Z</updated>
-        <content type="html"><![CDATA[Xdinary Heroes]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My Girl (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -712,6 +712,13 @@
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32208057" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32208057" class="text">SEVENTEEN 12th Mini Album 'SPILL THE FEELS'</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴 (SEVENTEEN)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[LIVE and FALL (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32208078</id>
+        <link href="https://vibe.naver.com/album/32208078"/>
+        <updated>2024-10-14T09:16:45.003Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32208078" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32208078" class="text">LIVE and FALL</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4938743" class="link_artist"><span class="text">Xdinary Heroes</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Love Bomber (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32208054</id>
         <link href="https://vibe.naver.com/album/32208054"/>
@@ -724,13 +731,6 @@
         <link href="https://vibe.naver.com/album/32205127"/>
         <updated>2024-10-14T09:16:45.003Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32205127" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32205127" class="text">X</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/125617" class="link_artist"><span class="text">CNBLUE(씨엔블루)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIVE and FALL (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32208078</id>
-        <link href="https://vibe.naver.com/album/32208078"/>
-        <updated>2024-10-14T09:16:45.003Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32208078" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32208078" class="text">LIVE and FALL</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4938743" class="link_artist"><span class="text">Xdinary Heroes</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My Girl (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>

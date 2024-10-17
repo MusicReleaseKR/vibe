@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-17T08:19:38.870Z</updated>
+    <updated>2024-10-17T09:15:56.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TENT 0.7]]></title>
+        <id>https://vibe.naver.com/album/32211730</id>
+        <link href="https://vibe.naver.com/album/32211730"/>
+        <updated>2024-10-17T09:15:44.028Z</updated>
+        <content type="html"><![CDATA[원슈타인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로드 투 킹덤 : ACE OF ACE 〈IDENTITY〉 Part 2]]></title>
+        <id>https://vibe.naver.com/album/32211768</id>
+        <link href="https://vibe.naver.com/album/32211768"/>
+        <updated>2024-10-17T09:15:44.028Z</updated>
+        <content type="html"><![CDATA[더크루원(The CrewOne)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새끼손가락 걸고]]></title>
+        <id>https://vibe.naver.com/album/32211597</id>
+        <link href="https://vibe.naver.com/album/32211597"/>
+        <updated>2024-10-17T09:15:44.028Z</updated>
+        <content type="html"><![CDATA[우디 (Woody)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Call me more sometimes]]></title>
+        <id>https://vibe.naver.com/album/32211588</id>
+        <link href="https://vibe.naver.com/album/32211588"/>
+        <updated>2024-10-17T09:15:44.028Z</updated>
+        <content type="html"><![CDATA[양다일]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2Bad (Feat. Giwon, aiai)]]></title>
+        <id>https://vibe.naver.com/album/32211284</id>
+        <link href="https://vibe.naver.com/album/32211284"/>
+        <updated>2024-10-17T09:15:44.028Z</updated>
+        <content type="html"><![CDATA[YEOHO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조립식 가족 OST Part 1]]></title>
+        <id>https://vibe.naver.com/album/32211460</id>
+        <link href="https://vibe.naver.com/album/32211460"/>
+        <updated>2024-10-17T09:15:44.028Z</updated>
+        <content type="html"><![CDATA[하성운]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Time Machine]]></title>
+        <id>https://vibe.naver.com/album/32212070</id>
+        <link href="https://vibe.naver.com/album/32212070"/>
+        <updated>2024-10-17T09:15:44.041Z</updated>
+        <content type="html"><![CDATA[Ellui]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Carpe diem]]></title>
+        <id>https://vibe.naver.com/album/32211636</id>
+        <link href="https://vibe.naver.com/album/32211636"/>
+        <updated>2024-10-17T09:15:44.041Z</updated>
+        <content type="html"><![CDATA[DOKO(도코)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CICADA]]></title>
+        <id>https://vibe.naver.com/album/32211568</id>
+        <link href="https://vibe.naver.com/album/32211568"/>
+        <updated>2024-10-17T09:15:44.041Z</updated>
+        <content type="html"><![CDATA[율음]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Legend of the Fall]]></title>
         <id>https://vibe.naver.com/album/32211285</id>
@@ -291,68 +354,5 @@
         <link href="https://vibe.naver.com/album/32210455"/>
         <updated>2024-10-16T03:22:48.744Z</updated>
         <content type="html"><![CDATA[크루셜스타(CRUCiAL STAR)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RE:D]]></title>
-        <id>https://vibe.naver.com/album/32209401</id>
-        <link href="https://vibe.naver.com/album/32209401"/>
-        <updated>2024-10-16T03:22:48.746Z</updated>
-        <content type="html"><![CDATA[맥거핀(MGFF)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑한 만큼, 아니 어쩌면 그 이상을]]></title>
-        <id>https://vibe.naver.com/album/32209476</id>
-        <link href="https://vibe.naver.com/album/32209476"/>
-        <updated>2024-10-16T03:22:48.748Z</updated>
-        <content type="html"><![CDATA[여로]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[With You]]></title>
-        <id>https://vibe.naver.com/album/32208425</id>
-        <link href="https://vibe.naver.com/album/32208425"/>
-        <updated>2024-10-16T03:22:48.750Z</updated>
-        <content type="html"><![CDATA[엔분의일(1/N)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연애 사용법 (Feat. 그리즐리)]]></title>
-        <id>https://vibe.naver.com/album/32209725</id>
-        <link href="https://vibe.naver.com/album/32209725"/>
-        <updated>2024-10-16T03:22:48.754Z</updated>
-        <content type="html"><![CDATA[LAS(라스)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[놓아줘]]></title>
-        <id>https://vibe.naver.com/album/32209710</id>
-        <link href="https://vibe.naver.com/album/32209710"/>
-        <updated>2024-10-16T03:22:48.755Z</updated>
-        <content type="html"><![CDATA[규리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노 프라블럼!]]></title>
-        <id>https://vibe.naver.com/album/32208398</id>
-        <link href="https://vibe.naver.com/album/32208398"/>
-        <updated>2024-10-16T03:22:48.756Z</updated>
-        <content type="html"><![CDATA[DD! (디디)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVE COUNTDOWN]]></title>
-        <id>https://vibe.naver.com/album/32210107</id>
-        <link href="https://vibe.naver.com/album/32210107"/>
-        <updated>2024-10-16T03:22:48.757Z</updated>
-        <content type="html"><![CDATA[켄타상균]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각대로 안돼]]></title>
-        <id>https://vibe.naver.com/album/32209717</id>
-        <link href="https://vibe.naver.com/album/32209717"/>
-        <updated>2024-10-16T03:22:48.757Z</updated>
-        <content type="html"><![CDATA[High-G]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[죽이고 싶은 나의 전복 왕자님 OST Part 26]]></title>
-        <id>https://vibe.naver.com/album/32209414</id>
-        <link href="https://vibe.naver.com/album/32209414"/>
-        <updated>2024-10-16T03:22:48.762Z</updated>
-        <content type="html"><![CDATA[디어밍]]></content>
     </entry>
 </feed>

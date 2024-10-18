@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-18T03:22:41.622Z</updated>
+    <updated>2024-10-18T04:18:32.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[APT. (ROSÉ & Bruno Mars)]]></title>
+        <id>https://vibe.naver.com/album/32218786</id>
+        <link href="https://vibe.naver.com/album/32218786"/>
+        <updated>2024-10-18T04:18:19.125Z</updated>
+        <content type="html"><![CDATA[로제 (ROSÉ)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Home]]></title>
+        <id>https://vibe.naver.com/album/32218792</id>
+        <link href="https://vibe.naver.com/album/32218792"/>
+        <updated>2024-10-18T04:18:19.126Z</updated>
+        <content type="html"><![CDATA[엔하이픈 (ENHYPEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE, MONEY, FAME (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/32218782</id>
+        <link href="https://vibe.naver.com/album/32218782"/>
+        <updated>2024-10-18T04:18:19.126Z</updated>
+        <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sentimental Love (Feat. Slum Village) (Remix)]]></title>
+        <id>https://vibe.naver.com/album/32216222</id>
+        <link href="https://vibe.naver.com/album/32216222"/>
+        <updated>2024-10-18T04:18:19.126Z</updated>
+        <content type="html"><![CDATA[민지운 (Min Jiwoon)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학가요제 1라운드 베스트 PART 2]]></title>
         <id>https://vibe.naver.com/album/32218770</id>
@@ -45,7 +73,7 @@
         <id>https://vibe.naver.com/album/32216241</id>
         <link href="https://vibe.naver.com/album/32216241"/>
         <updated>2024-10-18T03:22:27.934Z</updated>
-        <content type="html"><![CDATA[Flow Blow]]></content>
+        <content type="html"><![CDATA[flow blow]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Universe]]></title>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/32211471"/>
         <updated>2024-10-17T03:20:53.005Z</updated>
         <content type="html"><![CDATA[Ignace Jang]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 아름다운 노래가 당신의 마음을 깨끗하게 할 수 있다면… (2024 MIX)]]></title>
-        <id>https://vibe.naver.com/album/32211577</id>
-        <link href="https://vibe.naver.com/album/32211577"/>
-        <updated>2024-10-17T03:20:53.005Z</updated>
-        <content type="html"><![CDATA[봄여름가을겨울]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첼로의 숲]]></title>
-        <id>https://vibe.naver.com/album/32211283</id>
-        <link href="https://vibe.naver.com/album/32211283"/>
-        <updated>2024-10-17T03:20:53.005Z</updated>
-        <content type="html"><![CDATA[홍진호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고된 하루 끝에]]></title>
-        <id>https://vibe.naver.com/album/32211459</id>
-        <link href="https://vibe.naver.com/album/32211459"/>
-        <updated>2024-10-17T03:20:53.005Z</updated>
-        <content type="html"><![CDATA[노블레스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹드라마 ″너에게 보내는 미래″ OST Part 2]]></title>
-        <id>https://vibe.naver.com/album/32211770</id>
-        <link href="https://vibe.naver.com/album/32211770"/>
-        <updated>2024-10-17T03:20:53.005Z</updated>
-        <content type="html"><![CDATA[김유안]]></content>
     </entry>
 </feed>

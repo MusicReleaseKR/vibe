@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-18T08:19:09.331Z</updated>
+    <updated>2024-10-18T09:16:29.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HEARTSTORM]]></title>
+        <id>https://vibe.naver.com/album/32211773</id>
+        <link href="https://vibe.naver.com/album/32211773"/>
+        <updated>2024-10-18T09:16:23.777Z</updated>
+        <content type="html"><![CDATA[Sorn (손)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SABLE,]]></title>
+        <id>https://vibe.naver.com/album/32218687</id>
+        <link href="https://vibe.naver.com/album/32218687"/>
+        <updated>2024-10-18T09:16:23.777Z</updated>
+        <content type="html"><![CDATA[Bon Iver]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Holidays]]></title>
         <id>https://vibe.naver.com/album/32214711</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32200727"/>
         <updated>2024-10-16T03:22:55.150Z</updated>
         <content type="html"><![CDATA[RUFUS DU SOL]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[This Version (The View Theme)]]></title>
-        <id>https://vibe.naver.com/album/32199696</id>
-        <link href="https://vibe.naver.com/album/32199696"/>
-        <updated>2024-10-16T03:22:55.150Z</updated>
-        <content type="html"><![CDATA[Leona Lewis]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Roses (Feat. Avery Anna)]]></title>
-        <id>https://vibe.naver.com/album/32200728</id>
-        <link href="https://vibe.naver.com/album/32200728"/>
-        <updated>2024-10-16T03:22:55.150Z</updated>
-        <content type="html"><![CDATA[Jenna Raine]]></content>
     </entry>
 </feed>

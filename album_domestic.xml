@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-20T02:54:11.256Z</updated>
+    <updated>2024-10-20T03:25:36.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[짐작]]></title>
+        <id>https://vibe.naver.com/album/30874345</id>
+        <link href="https://vibe.naver.com/album/30874345"/>
+        <updated>2024-10-20T03:25:24.951Z</updated>
+        <content type="html"><![CDATA[한올]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[missing in action]]></title>
+        <id>https://vibe.naver.com/album/32218947</id>
+        <link href="https://vibe.naver.com/album/32218947"/>
+        <updated>2024-10-20T03:25:24.951Z</updated>
+        <content type="html"><![CDATA[BRADYSTREET]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문화[Kulture] 3]]></title>
+        <id>https://vibe.naver.com/album/32219088</id>
+        <link href="https://vibe.naver.com/album/32219088"/>
+        <updated>2024-10-20T03:25:24.951Z</updated>
+        <content type="html"><![CDATA[BanggerDope(뱅거돞)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노르웨이 숲 10주년 Part 9]]></title>
+        <id>https://vibe.naver.com/album/30890957</id>
+        <link href="https://vibe.naver.com/album/30890957"/>
+        <updated>2024-10-20T03:25:24.951Z</updated>
+        <content type="html"><![CDATA[노르웨이 숲]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이별이 끝났다 말해요]]></title>
+        <id>https://vibe.naver.com/album/32219002</id>
+        <link href="https://vibe.naver.com/album/32219002"/>
+        <updated>2024-10-20T03:25:24.951Z</updated>
+        <content type="html"><![CDATA[단칸방 로맨스]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친구와 갈 데까지 OST Part 11]]></title>
+        <id>https://vibe.naver.com/album/32219031</id>
+        <link href="https://vibe.naver.com/album/32219031"/>
+        <updated>2024-10-20T03:25:24.951Z</updated>
+        <content type="html"><![CDATA[한송이(미니마니)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[wave to you]]></title>
         <id>https://vibe.naver.com/album/32218790</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/32216209"/>
         <updated>2024-10-18T03:22:27.938Z</updated>
         <content type="html"><![CDATA[베어풋인더가든(Bearfoot in the garden)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LIFE AGAIN (승리의 여신 : 니케 OST)]]></title>
-        <id>https://vibe.naver.com/album/32216391</id>
-        <link href="https://vibe.naver.com/album/32216391"/>
-        <updated>2024-10-18T03:22:27.939Z</updated>
-        <content type="html"><![CDATA[LEVEL NINE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 '무직백수 계백순' OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/32215616</id>
-        <link href="https://vibe.naver.com/album/32215616"/>
-        <updated>2024-10-18T03:22:27.940Z</updated>
-        <content type="html"><![CDATA[우정잉]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[떨어지는 단풍잎을 잡으면 소원이 이뤄진다던데]]></title>
-        <id>https://vibe.naver.com/album/32215646</id>
-        <link href="https://vibe.naver.com/album/32215646"/>
-        <updated>2024-10-18T03:22:27.943Z</updated>
-        <content type="html"><![CDATA[1% (원퍼센트)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온기가 필요한 밤]]></title>
-        <id>https://vibe.naver.com/album/32216189</id>
-        <link href="https://vibe.naver.com/album/32216189"/>
-        <updated>2024-10-18T03:22:27.944Z</updated>
-        <content type="html"><![CDATA[뜐뜐]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ONLY YOU]]></title>
-        <id>https://vibe.naver.com/album/32216135</id>
-        <link href="https://vibe.naver.com/album/32216135"/>
-        <updated>2024-10-18T03:22:27.944Z</updated>
-        <content type="html"><![CDATA[컴(COME)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Start Something]]></title>
-        <id>https://vibe.naver.com/album/32216101</id>
-        <link href="https://vibe.naver.com/album/32216101"/>
-        <updated>2024-10-18T03:22:27.946Z</updated>
-        <content type="html"><![CDATA[비터스위트(Bittersweet)]]></content>
     </entry>
 </feed>

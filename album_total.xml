@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-10-22T14:14:17.883Z</updated>
+    <updated>2024-10-22T15:15:52.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Jyuugoya]]></title>
+        <id>https://vibe.naver.com/album/32225548</id>
+        <link href="https://vibe.naver.com/album/32225548"/>
+        <updated>2024-10-22T15:15:51.858Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32225548" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32225548" class="text">Jyuugoya</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5889303" class="link_artist"><span class="text">&amp;TEAM</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20]]></title>
         <id>https://vibe.naver.com/album/32223660</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32217373"/>
         <updated>2024-10-21T03:24:07.073Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32217373" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32217373" class="text">What Do You Believe In? (Deluxe)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/270260" class="link_artist"><span class="text">Rag N Bone Man</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Forever Young]]></title>
-        <id>https://vibe.naver.com/album/32215505</id>
-        <link href="https://vibe.naver.com/album/32215505"/>
-        <updated>2024-10-21T03:24:07.077Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32215505" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32215505" class="text">Forever Young</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/11095" class="link_artist"><span class="text">David Guetta</span></a><span>, </span></span><span><a href="/artist/8248" class="link_artist"><span class="text">Alphaville</span></a><span>, </span></span><span><a href="/artist/1750594" class="link_artist"><span class="text">Ava Max</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

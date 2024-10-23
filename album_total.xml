@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-10-23T03:20:37.739Z</updated>
+    <updated>2024-10-23T04:18:18.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -88,6 +88,13 @@
         <link href="https://vibe.naver.com/album/32225137"/>
         <updated>2024-10-23T03:20:37.100Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32225137" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32225137" class="text">바다가 시작되는 곳</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/33029" class="link_artist"><span class="text">김바다(KIMBADA)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P U M P Me Up]]></title>
+        <id>https://vibe.naver.com/album/32225726</id>
+        <link href="https://vibe.naver.com/album/32225726"/>
+        <updated>2024-10-23T04:18:18.008Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32225726" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32225726" class="text">P U M P Me Up</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2979144" class="link_artist"><span class="text">Mar&nbsp;Vista</span></a><span>, </span></span><span><a href="/artist/283908" class="link_artist"><span class="text">Kellin Quinn</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[걔가 그러는데 (bitch he's mine)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32223885"/>
         <updated>2024-10-22T03:21:23.611Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32223885" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32223885" class="text">INSOMNIAC</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2713220" class="link_artist"><span class="text">ID:Earth(아이디얼스)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Warm Beers]]></title>
-        <id>https://vibe.naver.com/album/32217400</id>
-        <link href="https://vibe.naver.com/album/32217400"/>
-        <updated>2024-10-22T03:21:23.613Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32217400" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32217400" class="text">Warm Beers</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8852002" class="link_artist"><span class="text">ALEXSUCKS</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

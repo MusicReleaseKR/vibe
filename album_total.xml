@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-10-24T03:20:03.906Z</updated>
+    <updated>2024-10-24T04:18:01.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/32227315"/>
         <updated>2024-10-24T03:20:03.208Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32227315" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32227315" class="text">LIT pack 2</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2698706" class="link_artist"><span class="text">365LIT</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Long Way Home]]></title>
+        <id>https://vibe.naver.com/album/32215548</id>
+        <link href="https://vibe.naver.com/album/32215548"/>
+        <updated>2024-10-24T04:18:00.553Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32215548" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32215548" class="text">Long Way Home</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1727442" class="link_artist"><span class="text">Jamie Miller</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Who Said]]></title>
@@ -137,13 +144,6 @@
         <link href="https://vibe.naver.com/album/32215571"/>
         <updated>2024-10-24T03:20:03.231Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32215571" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32215571" class="text">Silent Night</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/341701" class="link_artist"><span class="text">Mother Mother</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Reinvention]]></title>
-        <id>https://vibe.naver.com/album/32214837</id>
-        <link href="https://vibe.naver.com/album/32214837"/>
-        <updated>2024-10-24T03:20:03.232Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32214837" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32214837" class="text">Reinvention</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/552144" class="link_artist"><span class="text">Theo Tams</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Elegy]]></title>

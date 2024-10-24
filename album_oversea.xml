@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-24T03:20:03.909Z</updated>
+    <updated>2024-10-24T04:18:01.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Long Way Home]]></title>
+        <id>https://vibe.naver.com/album/32215548</id>
+        <link href="https://vibe.naver.com/album/32215548"/>
+        <updated>2024-10-24T03:19:57.509Z</updated>
+        <content type="html"><![CDATA[Jamie Miller]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Who Said]]></title>
         <id>https://vibe.naver.com/album/32213451</id>
@@ -102,13 +109,6 @@
         <link href="https://vibe.naver.com/album/32214853"/>
         <updated>2024-10-24T03:19:57.507Z</updated>
         <content type="html"><![CDATA[Gordi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Long Way Home]]></title>
-        <id>https://vibe.naver.com/album/32215548</id>
-        <link href="https://vibe.naver.com/album/32215548"/>
-        <updated>2024-10-24T03:19:57.509Z</updated>
-        <content type="html"><![CDATA[Jamie Miller]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jyuugoya]]></title>

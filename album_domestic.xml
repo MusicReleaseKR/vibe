@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-25T03:22:11.815Z</updated>
+    <updated>2024-10-25T04:19:51.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[I'll Be There]]></title>
+        <id>https://vibe.naver.com/album/32235849</id>
+        <link href="https://vibe.naver.com/album/32235849"/>
+        <updated>2024-10-25T04:19:37.641Z</updated>
+        <content type="html"><![CDATA[진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[역성]]></title>
         <id>https://vibe.naver.com/album/32227278</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32227017"/>
         <updated>2024-10-24T03:19:50.196Z</updated>
         <content type="html"><![CDATA[지샤넬 (Ji Chanel)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약속]]></title>
-        <id>https://vibe.naver.com/album/32231791</id>
-        <link href="https://vibe.naver.com/album/32231791"/>
-        <updated>2024-10-24T03:19:50.196Z</updated>
-        <content type="html"><![CDATA[2315]]></content>
     </entry>
 </feed>

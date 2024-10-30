@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-10-30T03:22:07.546Z</updated>
+    <updated>2024-10-30T04:18:14.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Nostalgia 2000]]></title>
+        <id>https://vibe.naver.com/album/32240630</id>
+        <link href="https://vibe.naver.com/album/32240630"/>
+        <updated>2024-10-30T04:18:00.906Z</updated>
+        <content type="html"><![CDATA[P3PPER]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시간을 달리는 소녀]]></title>
         <id>https://vibe.naver.com/album/32239245</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32239140"/>
         <updated>2024-10-29T03:21:57.800Z</updated>
         <content type="html"><![CDATA[리플리(RIPLEY)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dream of You (Korean Ver.)]]></title>
-        <id>https://vibe.naver.com/album/32238869</id>
-        <link href="https://vibe.naver.com/album/32238869"/>
-        <updated>2024-10-29T03:21:57.800Z</updated>
-        <content type="html"><![CDATA[SCOOL]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-10-31T14:14:16.888Z</updated>
+    <updated>2024-10-31T15:15:42.250Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Made in Korea: The K-Pop Experience (Original TV Soundtrack)]]></title>
+        <id>https://vibe.naver.com/album/32262788</id>
+        <link href="https://vibe.naver.com/album/32262788"/>
+        <updated>2024-10-31T15:15:35.818Z</updated>
+        <content type="html"><![CDATA[메이드인코리아]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[São Paulo]]></title>
         <id>https://vibe.naver.com/album/32260224</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32228920"/>
         <updated>2024-10-28T03:25:06.143Z</updated>
         <content type="html"><![CDATA[Walk Off The Earth]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WHY ALWAYS ME?]]></title>
-        <id>https://vibe.naver.com/album/32232686</id>
-        <link href="https://vibe.naver.com/album/32232686"/>
-        <updated>2024-10-28T03:25:06.143Z</updated>
-        <content type="html"><![CDATA[Cochise]]></content>
     </entry>
 </feed>

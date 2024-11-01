@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-11-01T08:18:31.768Z</updated>
+    <updated>2024-11-01T09:16:05.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -13,13 +13,6 @@
         <content type="html"><![CDATA[BABYMONSTER]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[POWER]]></title>
-        <id>https://vibe.naver.com/album/32261031</id>
-        <link href="https://vibe.naver.com/album/32261031"/>
-        <updated>2024-10-31T09:15:21.121Z</updated>
-        <content type="html"><![CDATA[G-DRAGON]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Kep1er The 6th Mini Album 〈TIPI-TAP〉]]></title>
         <id>https://vibe.naver.com/album/32262987</id>
         <link href="https://vibe.naver.com/album/32262987"/>
@@ -27,11 +20,67 @@
         <content type="html"><![CDATA[Kep1er(케플러)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CLOVER Part 2.0]]></title>
+        <id>https://vibe.naver.com/album/32262978</id>
+        <link href="https://vibe.naver.com/album/32262978"/>
+        <updated>2024-11-01T09:15:53.848Z</updated>
+        <content type="html"><![CDATA[나상현씨밴드]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Best Friendz]]></title>
+        <id>https://vibe.naver.com/album/32262930</id>
+        <link href="https://vibe.naver.com/album/32262930"/>
+        <updated>2024-11-01T09:15:53.848Z</updated>
+        <content type="html"><![CDATA[ODD YOUTH (오드유스)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[LOVE, MONEY, FAME (Feat. DJ Khaled) (Timbaland Remix)]]></title>
         <id>https://vibe.naver.com/album/32264188</id>
         <link href="https://vibe.naver.com/album/32264188"/>
         <updated>2024-11-01T04:17:45.734Z</updated>
         <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일일일(일어날 일들은 일어나는 거고)]]></title>
+        <id>https://vibe.naver.com/album/32262773</id>
+        <link href="https://vibe.naver.com/album/32262773"/>
+        <updated>2024-11-01T09:15:53.856Z</updated>
+        <content type="html"><![CDATA[임창정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이별은 가을이야]]></title>
+        <id>https://vibe.naver.com/album/32262640</id>
+        <link href="https://vibe.naver.com/album/32262640"/>
+        <updated>2024-11-01T09:15:53.856Z</updated>
+        <content type="html"><![CDATA[새벽공방]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[힙합 20주년 기념 앨범 X 909]]></title>
+        <id>https://vibe.naver.com/album/32262883</id>
+        <link href="https://vibe.naver.com/album/32262883"/>
+        <updated>2024-11-01T09:15:53.856Z</updated>
+        <content type="html"><![CDATA[909]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UNIVERSE LEAGUE-We ready]]></title>
+        <id>https://vibe.naver.com/album/32262766</id>
+        <link href="https://vibe.naver.com/album/32262766"/>
+        <updated>2024-11-01T09:15:53.856Z</updated>
+        <content type="html"><![CDATA[UNIVERSE LEAGUE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Deep Diver]]></title>
+        <id>https://vibe.naver.com/album/32262702</id>
+        <link href="https://vibe.naver.com/album/32262702"/>
+        <updated>2024-11-01T09:15:53.856Z</updated>
+        <content type="html"><![CDATA[Transin]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[POWER]]></title>
+        <id>https://vibe.naver.com/album/32261031</id>
+        <link href="https://vibe.naver.com/album/32261031"/>
+        <updated>2024-10-31T09:15:21.121Z</updated>
+        <content type="html"><![CDATA[G-DRAGON]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학가요제 연합미션 베스트 PART 2]]></title>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/32260375"/>
         <updated>2024-10-31T03:22:47.687Z</updated>
         <content type="html"><![CDATA[서제이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑이 부족해]]></title>
-        <id>https://vibe.naver.com/album/32243784</id>
-        <link href="https://vibe.naver.com/album/32243784"/>
-        <updated>2024-10-31T03:22:47.694Z</updated>
-        <content type="html"><![CDATA[김시원]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 웹툰 하이클래스 OST Part 1]]></title>
-        <id>https://vibe.naver.com/album/32243555</id>
-        <link href="https://vibe.naver.com/album/32243555"/>
-        <updated>2024-10-31T03:22:47.694Z</updated>
-        <content type="html"><![CDATA[유명한아이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수지타산]]></title>
-        <id>https://vibe.naver.com/album/32243628</id>
-        <link href="https://vibe.naver.com/album/32243628"/>
-        <updated>2024-10-31T03:22:47.702Z</updated>
-        <content type="html"><![CDATA[FYVE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Somewhere in.. SEOUL]]></title>
-        <id>https://vibe.naver.com/album/32243781</id>
-        <link href="https://vibe.naver.com/album/32243781"/>
-        <updated>2024-10-31T03:22:47.702Z</updated>
-        <content type="html"><![CDATA[Trav,Blurr(트래블러)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOF ep #stay]]></title>
-        <id>https://vibe.naver.com/album/32243554</id>
-        <link href="https://vibe.naver.com/album/32243554"/>
-        <updated>2024-10-31T03:22:47.702Z</updated>
-        <content type="html"><![CDATA[DOF]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[U&I]]></title>
-        <id>https://vibe.naver.com/album/32260878</id>
-        <link href="https://vibe.naver.com/album/32260878"/>
-        <updated>2024-10-31T03:22:47.702Z</updated>
-        <content type="html"><![CDATA[유채 (U_Chae)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Surfyy Beach (Feat. Future Flow)]]></title>
-        <id>https://vibe.naver.com/album/32243762</id>
-        <link href="https://vibe.naver.com/album/32243762"/>
-        <updated>2024-10-31T03:22:47.702Z</updated>
-        <content type="html"><![CDATA[KIEM]]></content>
     </entry>
 </feed>

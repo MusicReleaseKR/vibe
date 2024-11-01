@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-11-01T03:31:18.345Z</updated>
+    <updated>2024-11-01T04:17:57.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DRIP]]></title>
+        <id>https://vibe.naver.com/album/32243530</id>
+        <link href="https://vibe.naver.com/album/32243530"/>
+        <updated>2024-11-01T04:17:45.734Z</updated>
+        <content type="html"><![CDATA[BABYMONSTER]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[POWER]]></title>
         <id>https://vibe.naver.com/album/32261031</id>
         <link href="https://vibe.naver.com/album/32261031"/>
         <updated>2024-10-31T09:15:21.121Z</updated>
         <content type="html"><![CDATA[G-DRAGON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Kep1er The 6th Mini Album 〈TIPI-TAP〉]]></title>
+        <id>https://vibe.naver.com/album/32262987</id>
+        <link href="https://vibe.naver.com/album/32262987"/>
+        <updated>2024-11-01T04:17:45.734Z</updated>
+        <content type="html"><![CDATA[Kep1er(케플러)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LOVE, MONEY, FAME (Feat. DJ Khaled) (Timbaland Remix)]]></title>
+        <id>https://vibe.naver.com/album/32264188</id>
+        <link href="https://vibe.naver.com/album/32264188"/>
+        <updated>2024-11-01T04:17:45.734Z</updated>
+        <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학가요제 연합미션 베스트 PART 2]]></title>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/32243762"/>
         <updated>2024-10-31T03:22:47.702Z</updated>
         <content type="html"><![CDATA[KIEM]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[으라차차 대한민국]]></title>
-        <id>https://vibe.naver.com/album/32243789</id>
-        <link href="https://vibe.naver.com/album/32243789"/>
-        <updated>2024-10-31T03:22:47.702Z</updated>
-        <content type="html"><![CDATA[더더(THETHE)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그대의 방]]></title>
-        <id>https://vibe.naver.com/album/32243533</id>
-        <link href="https://vibe.naver.com/album/32243533"/>
-        <updated>2024-10-31T03:22:47.703Z</updated>
-        <content type="html"><![CDATA[이나리]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동경]]></title>
-        <id>https://vibe.naver.com/album/32244088</id>
-        <link href="https://vibe.naver.com/album/32244088"/>
-        <updated>2024-10-31T03:22:47.703Z</updated>
-        <content type="html"><![CDATA[Night of Lifetime]]></content>
     </entry>
 </feed>

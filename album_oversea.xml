@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-01T03:31:18.354Z</updated>
+    <updated>2024-11-01T04:17:57.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Eternal Atake 2]]></title>
+        <id>https://vibe.naver.com/album/32264207</id>
+        <link href="https://vibe.naver.com/album/32264207"/>
+        <updated>2024-11-01T04:17:51.535Z</updated>
+        <content type="html"><![CDATA[Lil Uzi Vert]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gorgeous]]></title>
         <id>https://vibe.naver.com/album/32262984</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32241050"/>
         <updated>2024-10-30T03:22:01.241Z</updated>
         <content type="html"><![CDATA[Harper Quinn]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Acoustic Soul 2014-2024]]></title>
-        <id>https://vibe.naver.com/album/32241514</id>
-        <link href="https://vibe.naver.com/album/32241514"/>
-        <updated>2024-10-30T03:22:01.244Z</updated>
-        <content type="html"><![CDATA[Shikao Suga]]></content>
     </entry>
 </feed>

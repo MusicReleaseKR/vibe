@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-02T02:44:21.773Z</updated>
+    <updated>2024-11-02T03:19:31.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[chapter]]></title>
+        <id>https://vibe.naver.com/album/32264518</id>
+        <link href="https://vibe.naver.com/album/32264518"/>
+        <updated>2024-11-02T03:19:25.151Z</updated>
+        <content type="html"><![CDATA[Sam Ock]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Eternal Atake 2]]></title>
         <id>https://vibe.naver.com/album/32264207</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32240589"/>
         <updated>2024-10-30T03:22:01.241Z</updated>
         <content type="html"><![CDATA[Flying Lotus]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Am I Wrong]]></title>
-        <id>https://vibe.naver.com/album/32241050</id>
-        <link href="https://vibe.naver.com/album/32241050"/>
-        <updated>2024-10-30T03:22:01.241Z</updated>
-        <content type="html"><![CDATA[Harper Quinn]]></content>
     </entry>
 </feed>

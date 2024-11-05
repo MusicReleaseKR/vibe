@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-05T14:14:16.196Z</updated>
+    <updated>2024-11-05T15:15:33.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HAUTE COUTURE]]></title>
+        <id>https://vibe.naver.com/album/32268691</id>
+        <link href="https://vibe.naver.com/album/32268691"/>
+        <updated>2024-11-05T15:15:26.732Z</updated>
+        <content type="html"><![CDATA[MISAMO(미사모)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[景色 (KESHIKI)]]></title>
         <id>https://vibe.naver.com/album/32267352</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32262756"/>
         <updated>2024-11-01T03:31:12.286Z</updated>
         <content type="html"><![CDATA[노노짱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Family Business]]></title>
-        <id>https://vibe.naver.com/album/32264045</id>
-        <link href="https://vibe.naver.com/album/32264045"/>
-        <updated>2024-11-01T03:31:12.286Z</updated>
-        <content type="html"><![CDATA[Lawrence(로렌스)]]></content>
     </entry>
 </feed>

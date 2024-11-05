@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-11-05T14:14:16.199Z</updated>
+    <updated>2024-11-05T15:15:33.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/32267172"/>
         <updated>2024-11-05T09:15:23.963Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32267172" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32267172" class="text">사계절 (청설 X 안재우)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3637149" class="link_artist"><span class="text">안재우</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HAUTE COUTURE]]></title>
+        <id>https://vibe.naver.com/album/32268691</id>
+        <link href="https://vibe.naver.com/album/32268691"/>
+        <updated>2024-11-05T15:15:32.802Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32268691" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32268691" class="text">HAUTE COUTURE</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6877452" class="link_artist"><span class="text">MISAMO(미사모)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차례]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32264580"/>
         <updated>2024-11-04T03:24:25.929Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32264580" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32264580" class="text">Super 괴짜</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8721427" class="link_artist"><span class="text">200(이백)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역류]]></title>
-        <id>https://vibe.naver.com/album/32265058</id>
-        <link href="https://vibe.naver.com/album/32265058"/>
-        <updated>2024-11-04T03:24:25.929Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32265058" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32265058" class="text">역류</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8820920" class="link_artist"><span class="text">남규원</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-11-07T14:13:40.600Z</updated>
+    <updated>2024-11-07T15:14:34.876Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[December 25th]]></title>
+        <id>https://vibe.naver.com/album/32274896</id>
+        <link href="https://vibe.naver.com/album/32274896"/>
+        <updated>2024-11-07T15:14:34.187Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32274896" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32274896" class="text">December 25th</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/376133" class="link_artist"><span class="text">Charlie Puth</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The 5th Mini Album 'VOYAGE']]></title>
         <id>https://vibe.naver.com/album/32271705</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32270439"/>
         <updated>2024-11-06T03:17:49.096Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32270439" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32270439" class="text">HARMONY</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/139440" class="link_artist"><span class="text">를(LEL)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[clap]]></title>
-        <id>https://vibe.naver.com/album/32268482</id>
-        <link href="https://vibe.naver.com/album/32268482"/>
-        <updated>2024-11-06T03:17:49.096Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32268482" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32268482" class="text">clap</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3596130" class="link_artist"><span class="text">버비(Burvey)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

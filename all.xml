@@ -2,8 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-10T02:47:51.796Z</updated>
+    <updated>2024-11-10T03:19:55.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Diamond (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278236</id>
+        <link href="https://vibe.naver.com/album/32278236"/>
+        <updated>2024-11-10T03:19:43.682Z</updated>
+        <content type="html"><![CDATA[서액터]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기울어진 달을 따라 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278371</id>
+        <link href="https://vibe.naver.com/album/32278371"/>
+        <updated>2024-11-10T03:19:43.685Z</updated>
+        <content type="html"><![CDATA[유용호]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[둥근달 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278108</id>
+        <link href="https://vibe.naver.com/album/32278108"/>
+        <updated>2024-11-10T03:19:43.696Z</updated>
+        <content type="html"><![CDATA[이짜나언짜나]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too late (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278175</id>
+        <link href="https://vibe.naver.com/album/32278175"/>
+        <updated>2024-11-10T03:19:43.696Z</updated>
+        <content type="html"><![CDATA[YOUNGKEEM]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afterwork (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278400</id>
+        <link href="https://vibe.naver.com/album/32278400"/>
+        <updated>2024-11-10T03:19:43.700Z</updated>
+        <content type="html"><![CDATA[다이얼로그(Dialogue)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원형의 시간 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278393</id>
+        <link href="https://vibe.naver.com/album/32278393"/>
+        <updated>2024-11-10T03:19:43.700Z</updated>
+        <content type="html"><![CDATA[임가영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닮고다른 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32278219</id>
+        <link href="https://vibe.naver.com/album/32278219"/>
+        <updated>2024-11-10T03:19:43.700Z</updated>
+        <content type="html"><![CDATA[디에고(diego)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[nrv (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32278389</id>
@@ -100,7 +149,7 @@
         <id>https://vibe.naver.com/album/32278395</id>
         <link href="https://vibe.naver.com/album/32278395"/>
         <updated>2024-11-09T03:17:33.162Z</updated>
-        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/32278395" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="https://musicmeta-phinf.pstatic.net/album/032/278/32278395.jpg?type=r360Fll&amp;v=20241108164843" class="thumb v-lazy-image v-lazy-image-loaded" alt="뮤지컬 <ETERNITY> Part.2 시간 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="32278395"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="32278395" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/32278395" data-title="뮤지컬 <ETERNITY> Part.2 시간" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/32278395" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278395" class="text">뮤지컬 &lt;ETERNITY&gt; Part.2 시간</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
+        <content type="html"><![CDATA[<div data-v-78809b3d="" class="" data-v-4639e6ee=""><div data-v-78809b3d="" class="thumb_area"><a data-v-78809b3d="" href="/album/32278395" class="link"><img data-v-cbb0f7a8="" data-v-78809b3d="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQMAAAC6caSPAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAGUExURRoaGhERETZTak8AAANXSURBVHja7ZpBjtswDEWt8UJLHcFH6BHUm8k36VV8FB/BGHThAobUcZMgtugJ+ekk6IJ/MUAWb2yTFCWRbBqTyWQymUwmk8lkMplMJpPJZDqrj1J6jHCllDxASPxCyoIQbfmnAX0I9phylZzwN2QUI90NmeH3kr9Ze0ekNgt3ZMJMjJi5FPRj3BbpMa/IPdNtkRn9eun3l4J+v9sjPeZ7qf/DHplQg8lMlvZIhg0mMZnDkbZGBizCZFEWamRCbSyxcqyRBXWLxDGloFZ2FOlRt/CO8U9BJtSTPFJ5Mgt8WXkyR96XFbJ0PFI5fw68++tP96z7a+ePLet+gjgWaYnnWfd7EpKJW8qeBH7kkECWV8dFDEUCh3Rk3QcuyCLJLp6LmEjing2yRJDIBVkiyTVxCF32bFoizm85xBHEc5nMkRcLHNKSvaXjMllL8lFCkaVh82Ud+4tj974ayZ5FSHoNbIolyC8E+f1DlsjvKyz3jWxT7rb/OIiQuI3hVrSPx902jCEL/cUh8+7LFsk6nnYmzxJk2AWpCOl3C06E7DNBFmSLXCUPOZIAZKlsLkDmKuQEOWmq1kL/EmSsUsFrkKFKa69B+uPfz0Ha75CBR+pokCF+hJFuhpG4wEjKEJJvSIKecv2DPOXydq9E/usXA/2iRBQBowhLRfALl9h70sUZ5D3Z8j2ZX74lNd8hT91ez2ziiqMCgCiOPWcOVyN+hJMfFBXH0TOHXsXRWn6AV1wTNtf9xiURsrnyfAqvPBfkD1Luut7WEOR6J0xATfWC9BFALq4gFVL2jpzJ9ZJFZnLvHbgSwUQu5GxVYTyoRzD5YiAIWyGhlQKudJPJtZ+t9ixHJa/Ha2wmCFu5Go+qZI/X2HRUJXsc/dNRyesxMoPIpUwHtSD8alIHIavfD6qqXIGs91Chf0UGDFm/fAxYB+LLvlOH9TnWIItYN2Ut0icMWV8qYW0eRQNCgRx0Rrgul8P7L4rGkKL9pGlyKVppioadoi2oaD4qWpwOdgu1cgMjkj66ovWsaHAr2uiKZr1iJEAzeKAYb1AMUShGNRQDIZqxE8Vwi2KERjGooxkHUgwdKUabNANUijEtxTBY06YCj6l9lPKzMZlMJpPJZDKZTCaTyWQymUyms/oLB8jHAF7zovkAAAAASUVORK5CYII=" class="thumb v-lazy-image" alt="뮤지컬 <ETERNITY> Part.2 시간 앨범 커버"><!----><!----></a><a data-v-5e072f9e="" data-v-78809b3d="" href="#" role="button" screen-reader-live="" class="btn_play_now" aria-describedby="32278395"><span data-v-5e072f9e="" class="blind">재생하기</span><!----></a><div data-v-78809b3d="" class="more_option only"><!----><div data-v-18500bfa="" class="dropdown_wrap"><a data-v-18500bfa="" href="#" role="button" aria-haspopup="menu" aria-expanded="false" aria-describedby="32278395" class="btn_option_now"><span data-v-18500bfa="" class="blind">옵션 보기</span></a><div data-v-18500bfa="" role="menu" class="playable_dropdown" style="display: none;"><!----><!----><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_playlist_add">내 플레이리스트 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_like"><span data-v-18500bfa="">좋아요</span></a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_next">바로 다음에 추가</a><a data-v-18500bfa="" href="#" role="button" class="dropdown_item dropdown_add_last">맨 아래에 추가</a><a data-v-682dad78="" href="#" role="button" aria-haspopup="dialog" class="dropdown_item dropdown_mp3" data-v-18500bfa=""><span data-v-682dad78="" class=""> MP3 구매 <!----></span></a><a data-v-18500bfa="" href="#" data-style="unity-v2" data-oninitialize="window.__splugin_oninitialize()" data-url="https://vibe.naver.com/album/32278395" data-title="뮤지컬 <ETERNITY> Part.2 시간" class="naver-splugin spi_sns_share dropdown_share">공유</a><!----><div data-v-18500bfa="" class="btn_close_area"><a data-v-18500bfa="" href="#" class="btn_close"><span data-v-18500bfa="" class="blind">모달 닫기</span></a></div></div></div></div></div><div data-v-78809b3d="" class="info"><!----><a data-v-78809b3d="" href="/album/32278395" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278395" class="text">뮤지컬 &lt;ETERNITY&gt; Part.2 시간</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div></div></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[늘 사랑받을 너에게 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -304,55 +353,6 @@
         <link href="https://vibe.naver.com/album/32275192"/>
         <updated>2024-11-08T03:18:00.357Z</updated>
         <content type="html"><![CDATA[호코(HoKo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리집 고양이는 베지테리언 OST Part 9 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32275352</id>
-        <link href="https://vibe.naver.com/album/32275352"/>
-        <updated>2024-11-08T03:18:00.361Z</updated>
-        <content type="html"><![CDATA[한가빈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mr. 플랑크톤 OST from the Netflix Series (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32270508</id>
-        <link href="https://vibe.naver.com/album/32270508"/>
-        <updated>2024-11-08T03:18:00.361Z</updated>
-        <content type="html"><![CDATA[박준하(JUNHA PARK)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow Burning (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32274944</id>
-        <link href="https://vibe.naver.com/album/32274944"/>
-        <updated>2024-11-08T03:18:00.361Z</updated>
-        <content type="html"><![CDATA[The Godot (더 고도)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부덕사 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32274925</id>
-        <link href="https://vibe.naver.com/album/32274925"/>
-        <updated>2024-11-08T03:18:00.362Z</updated>
-        <content type="html"><![CDATA[새의요람]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광대 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32274964</id>
-        <link href="https://vibe.naver.com/album/32274964"/>
-        <updated>2024-11-08T03:18:00.363Z</updated>
-        <content type="html"><![CDATA[춘몽]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[터치터치 그대 OST Part 13 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32275684</id>
-        <link href="https://vibe.naver.com/album/32275684"/>
-        <updated>2024-11-08T03:18:00.375Z</updated>
-        <content type="html"><![CDATA[소밍]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hey Girl (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32271426</id>
-        <link href="https://vibe.naver.com/album/32271426"/>
-        <updated>2024-11-08T03:18:00.375Z</updated>
-        <content type="html"><![CDATA[3WAY Project]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[December 25th (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,55 @@
         <content type="html"><![CDATA[Everyone You Know]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Diamond (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278236</id>
+        <link href="https://vibe.naver.com/album/32278236"/>
+        <updated>2024-11-10T03:19:54.440Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278236" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278236" class="text">Diamond</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1618944" class="link_artist"><span class="text">서액터</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기울어진 달을 따라 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278371</id>
+        <link href="https://vibe.naver.com/album/32278371"/>
+        <updated>2024-11-10T03:19:54.440Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278371" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278371" class="text">기울어진 달을 따라</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/347543" class="link_artist"><span class="text">유용호</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[둥근달 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278108</id>
+        <link href="https://vibe.naver.com/album/32278108"/>
+        <updated>2024-11-10T03:19:54.442Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278108" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278108" class="text">둥근달</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/494235" class="link_artist"><span class="text">이짜나언짜나</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Too late (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278175</id>
+        <link href="https://vibe.naver.com/album/32278175"/>
+        <updated>2024-11-10T03:19:54.444Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278175" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278175" class="text">Too late</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8403794" class="link_artist"><span class="text">YOUNGKEEM</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Afterwork (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278400</id>
+        <link href="https://vibe.naver.com/album/32278400"/>
+        <updated>2024-11-10T03:19:54.446Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278400" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278400" class="text">Afterwork</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/107294" class="link_artist"><span class="text">다이얼로그(Dialogue)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원형의 시간 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278393</id>
+        <link href="https://vibe.naver.com/album/32278393"/>
+        <updated>2024-11-10T03:19:54.447Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278393" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278393" class="text">원형의 시간</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/493694" class="link_artist"><span class="text">임가영</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[닮고다른 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32278219</id>
+        <link href="https://vibe.naver.com/album/32278219"/>
+        <updated>2024-11-10T03:19:54.449Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278219" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278219" class="text">닮고다른</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5482640" class="link_artist"><span class="text">디에고(diego)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[nrv (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32278389</id>
         <link href="https://vibe.naver.com/album/32278389"/>
@@ -1004,54 +1053,5 @@
         <link href="https://vibe.naver.com/album/32278077"/>
         <updated>2024-11-08T03:18:07.677Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278077" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278077" class="text">The Devil Wears Prada But God Wears Gucci</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2587794" class="link_artist"><span class="text">Masked Wolf</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWE (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32275020</id>
-        <link href="https://vibe.naver.com/album/32275020"/>
-        <updated>2024-11-08T03:18:07.678Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32275020" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32275020" class="text">AWE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5387473" class="link_artist"><span class="text">XG</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Silent Night (Feat. Eric Legnini) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32274901</id>
-        <link href="https://vibe.naver.com/album/32274901"/>
-        <updated>2024-11-08T03:18:00.355Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32274901" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32274901" class="text">Silent Night (Feat. Eric Legnini)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8125" class="link_artist"><span class="text">나윤선</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영화 데드라인 OST (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32274917</id>
-        <link href="https://vibe.naver.com/album/32274917"/>
-        <updated>2024-11-08T03:18:00.334Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32274917" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32274917" class="text">영화 데드라인 OST</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My name is 가브리엘 OST (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32275078</id>
-        <link href="https://vibe.naver.com/album/32275078"/>
-        <updated>2024-11-08T03:18:00.356Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32275078" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32275078" class="text">My name is 가브리엘 OST</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5174572" class="link_artist"><span class="text">노지영</span></a><span>, </span></span><span><a href="/artist/8499560" class="link_artist"><span class="text">박지훈</span></a><span>, </span></span><span><a href="/artist/1897823" class="link_artist"><span class="text">한재완</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Small Talk (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32275013</id>
-        <link href="https://vibe.naver.com/album/32275013"/>
-        <updated>2024-11-08T03:18:00.356Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32275013" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32275013" class="text">Small Talk</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1488473" class="link_artist"><span class="text">우수</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Songs (Streaming Ver.) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32272371</id>
-        <link href="https://vibe.naver.com/album/32272371"/>
-        <updated>2024-11-08T03:18:07.680Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32272371" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32272371" class="text">Songs (Streaming Ver.)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2700152" class="link_artist"><span class="text">half·alive</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Makeup Sex (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32270938</id>
-        <link href="https://vibe.naver.com/album/32270938"/>
-        <updated>2024-11-08T03:18:07.680Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32270938" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32270938" class="text">Makeup Sex</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6887856" class="link_artist"><span class="text">Say Now</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

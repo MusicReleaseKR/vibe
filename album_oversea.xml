@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-12T14:14:22.189Z</updated>
+    <updated>2024-11-12T15:15:33.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GIANT]]></title>
+        <id>https://vibe.naver.com/album/32289965</id>
+        <link href="https://vibe.naver.com/album/32289965"/>
+        <updated>2024-11-12T15:15:27.261Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Signs]]></title>
+        <id>https://vibe.naver.com/album/32289910</id>
+        <link href="https://vibe.naver.com/album/32289910"/>
+        <updated>2024-11-12T15:15:27.261Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Love, The Rascals]]></title>
         <id>https://vibe.naver.com/album/32275125</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32275356"/>
         <updated>2024-11-08T03:18:07.696Z</updated>
         <content type="html"><![CDATA[Estelle]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Soldier]]></title>
-        <id>https://vibe.naver.com/album/32276280</id>
-        <link href="https://vibe.naver.com/album/32276280"/>
-        <updated>2024-11-08T03:18:07.697Z</updated>
-        <content type="html"><![CDATA[Dax]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FEARLESS (TC/TC)]]></title>
-        <id>https://vibe.naver.com/album/32274048</id>
-        <link href="https://vibe.naver.com/album/32274048"/>
-        <updated>2024-11-08T03:18:07.699Z</updated>
-        <content type="html"><![CDATA[TC/TC]]></content>
     </entry>
 </feed>

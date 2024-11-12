@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-11-12T14:14:22.185Z</updated>
+    <updated>2024-11-12T15:15:33.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[GIANT]]></title>
+        <id>https://vibe.naver.com/album/32289965</id>
+        <link href="https://vibe.naver.com/album/32289965"/>
+        <updated>2024-11-12T15:15:32.910Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32289965" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32289965" class="text">GIANT</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Star Signs]]></title>
+        <id>https://vibe.naver.com/album/32289910</id>
+        <link href="https://vibe.naver.com/album/32289910"/>
+        <updated>2024-11-12T15:15:32.910Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32289910" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32289910" class="text">Star Signs</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5438597" class="link_artist"><span class="text">LE SSERAFIM (르세라핌)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dreaming : 웹툰 '더 그레이트' X 안유진 (IVE)]]></title>
         <id>https://vibe.naver.com/album/32285114</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32281294"/>
         <updated>2024-11-11T03:19:55.585Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32281294" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32281294" class="text">Wish 2025</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/269956" class="link_artist"><span class="text">카더가든</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뮤지컬 '시라노' 2024]]></title>
-        <id>https://vibe.naver.com/album/32278392</id>
-        <link href="https://vibe.naver.com/album/32278392"/>
-        <updated>2024-11-11T03:19:55.585Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32278392" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32278392" class="text">뮤지컬 '시라노' 2024</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1294967" class="link_artist"><span class="text">고은성</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[환절기]]></title>
-        <id>https://vibe.naver.com/album/32280958</id>
-        <link href="https://vibe.naver.com/album/32280958"/>
-        <updated>2024-11-11T03:19:55.586Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32280958" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32280958" class="text">환절기</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2882143" class="link_artist"><span class="text">뮤지쿡(MusiCook)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

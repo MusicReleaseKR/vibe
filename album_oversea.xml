@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-14T14:14:19.044Z</updated>
+    <updated>2024-11-14T15:15:53.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[From Zero]]></title>
+        <id>https://vibe.naver.com/album/32296849</id>
+        <link href="https://vibe.naver.com/album/32296849"/>
+        <updated>2024-11-14T15:15:46.529Z</updated>
+        <content type="html"><![CDATA[Linkin Park]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Disease (Streaming Ver.)]]></title>
         <id>https://vibe.naver.com/album/32295611</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32274127"/>
         <updated>2024-11-12T03:17:02.410Z</updated>
         <content type="html"><![CDATA[Sophie Ellis-Bextor]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The less, The best of you]]></title>
-        <id>https://vibe.naver.com/album/32281602</id>
-        <link href="https://vibe.naver.com/album/32281602"/>
-        <updated>2024-11-12T03:17:02.410Z</updated>
-        <content type="html"><![CDATA[Secret Police]]></content>
     </entry>
 </feed>

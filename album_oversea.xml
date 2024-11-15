@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-15T07:14:48.751Z</updated>
+    <updated>2024-11-15T08:18:58.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아케인: 시즌 2 OST Act.2]]></title>
+        <id>https://vibe.naver.com/album/32297244</id>
+        <link href="https://vibe.naver.com/album/32297244"/>
+        <updated>2024-11-15T08:18:52.182Z</updated>
+        <content type="html"><![CDATA[Arcane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Shawn]]></title>
         <id>https://vibe.naver.com/album/32297354</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32281351"/>
         <updated>2024-11-13T03:19:15.125Z</updated>
         <content type="html"><![CDATA[WEDNESDAY CAMPANELLA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shades of]]></title>
-        <id>https://vibe.naver.com/album/32289276</id>
-        <link href="https://vibe.naver.com/album/32289276"/>
-        <updated>2024-11-13T03:19:15.126Z</updated>
-        <content type="html"><![CDATA[WONK]]></content>
     </entry>
 </feed>

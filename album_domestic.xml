@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-11-19T04:18:20.271Z</updated>
+    <updated>2024-11-19T05:14:52.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Running Wild (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/32302003</id>
+        <link href="https://vibe.naver.com/album/32302003"/>
+        <updated>2024-11-19T05:14:40.425Z</updated>
+        <content type="html"><![CDATA[진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Letter To Myself - The 6th Mini Album]]></title>
         <id>https://vibe.naver.com/album/32300181</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32300067"/>
         <updated>2024-11-18T03:31:57.353Z</updated>
         <content type="html"><![CDATA[예르아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HITORI]]></title>
-        <id>https://vibe.naver.com/album/32299061</id>
-        <link href="https://vibe.naver.com/album/32299061"/>
-        <updated>2024-11-18T03:31:57.355Z</updated>
-        <content type="html"><![CDATA[kumira]]></content>
     </entry>
 </feed>

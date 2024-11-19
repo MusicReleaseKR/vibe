@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-19T04:18:20.281Z</updated>
+    <updated>2024-11-19T05:14:52.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Running Wild (Remixes) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32302003</id>
+        <link href="https://vibe.naver.com/album/32302003"/>
+        <updated>2024-11-19T05:14:40.425Z</updated>
+        <content type="html"><![CDATA[진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Letter To Myself - The 6th Mini Album (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32300181</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32300067"/>
         <updated>2024-11-18T03:31:57.353Z</updated>
         <content type="html"><![CDATA[예르아]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HITORI (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32299061</id>
-        <link href="https://vibe.naver.com/album/32299061"/>
-        <updated>2024-11-18T03:31:57.355Z</updated>
-        <content type="html"><![CDATA[kumira]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SLOW IT DOWN (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[ano]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Running Wild (Remixes) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32302003</id>
+        <link href="https://vibe.naver.com/album/32302003"/>
+        <updated>2024-11-19T05:14:52.086Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32302003" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32302003" class="text">Running Wild (Remixes)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274319" class="link_artist"><span class="text">진</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Letter To Myself - The 6th Mini Album (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32300181</id>
         <link href="https://vibe.naver.com/album/32300181"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32300052"/>
         <updated>2024-11-17T09:14:46.850Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32300052" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32300052" class="text">일년을 겨울에 살아</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/107383" class="link_artist"><span class="text">정준일</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너를 만나 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32299984</id>
-        <link href="https://vibe.naver.com/album/32299984"/>
-        <updated>2024-11-17T09:14:46.850Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32299984" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32299984" class="text">너를 만나</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/492620" class="link_artist"><span class="text">전상근</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

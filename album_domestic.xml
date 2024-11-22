@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-11-22T04:18:30.980Z</updated>
+    <updated>2024-11-22T05:15:31.888Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[number one girl]]></title>
+        <id>https://vibe.naver.com/album/32314961</id>
+        <link href="https://vibe.naver.com/album/32314961"/>
+        <updated>2024-11-22T05:15:19.498Z</updated>
+        <content type="html"><![CDATA[로제 (ROSÉ)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOME SWEET HOME (Feat. 태양, 대성)]]></title>
+        <id>https://vibe.naver.com/album/32312776</id>
+        <link href="https://vibe.naver.com/album/32312776"/>
+        <updated>2024-11-22T05:15:19.500Z</updated>
+        <content type="html"><![CDATA[G-DRAGON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Would You Do]]></title>
+        <id>https://vibe.naver.com/album/32312774</id>
+        <link href="https://vibe.naver.com/album/32312774"/>
+        <updated>2024-11-22T05:15:19.506Z</updated>
+        <content type="html"><![CDATA[원호(WONHO)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Baby It's Both (Tick-Tack English Ver.) Feat. Ava Max]]></title>
+        <id>https://vibe.naver.com/album/32312659</id>
+        <link href="https://vibe.naver.com/album/32312659"/>
+        <updated>2024-11-22T05:15:19.506Z</updated>
+        <content type="html"><![CDATA[아일릿(ILLIT)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ice On My Teeth (Festa Remixes 2)]]></title>
+        <id>https://vibe.naver.com/album/32312759</id>
+        <link href="https://vibe.naver.com/album/32312759"/>
+        <updated>2024-11-22T05:15:19.507Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학가요제 선곡 맞교환전 베스트 PART 3]]></title>
         <id>https://vibe.naver.com/album/32312745</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/32307586"/>
         <updated>2024-11-21T03:26:04.705Z</updated>
         <content type="html"><![CDATA[우희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Falling]]></title>
-        <id>https://vibe.naver.com/album/32307804</id>
-        <link href="https://vibe.naver.com/album/32307804"/>
-        <updated>2024-11-21T03:26:04.708Z</updated>
-        <content type="html"><![CDATA[HANZ]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Seasons of us]]></title>
-        <id>https://vibe.naver.com/album/32307943</id>
-        <link href="https://vibe.naver.com/album/32307943"/>
-        <updated>2024-11-21T03:26:04.708Z</updated>
-        <content type="html"><![CDATA[kenessi(케네시)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS 일일드라마 '스캔들' OST Part 12]]></title>
-        <id>https://vibe.naver.com/album/32308184</id>
-        <link href="https://vibe.naver.com/album/32308184"/>
-        <updated>2024-11-21T03:26:04.708Z</updated>
-        <content type="html"><![CDATA[신인선]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨트는 셀프입니다 (Mozziron)]]></title>
-        <id>https://vibe.naver.com/album/32307767</id>
-        <link href="https://vibe.naver.com/album/32307767"/>
-        <updated>2024-11-21T03:26:04.708Z</updated>
-        <content type="html"><![CDATA[브이레코드 나머지반]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[locker room]]></title>
-        <id>https://vibe.naver.com/album/32304875</id>
-        <link href="https://vibe.naver.com/album/32304875"/>
-        <updated>2024-11-21T03:26:04.708Z</updated>
-        <content type="html"><![CDATA[메치(mechilling)]]></content>
     </entry>
 </feed>

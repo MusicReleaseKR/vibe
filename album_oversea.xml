@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-22T04:18:30.986Z</updated>
+    <updated>2024-11-22T05:15:31.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Touch (Holiday Version)]]></title>
+        <id>https://vibe.naver.com/album/32312442</id>
+        <link href="https://vibe.naver.com/album/32312442"/>
+        <updated>2024-11-22T05:15:25.826Z</updated>
+        <content type="html"><![CDATA[KATSEYE]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아케인: 시즌 2 OST Act.3]]></title>
+        <id>https://vibe.naver.com/album/32312685</id>
+        <link href="https://vibe.naver.com/album/32312685"/>
+        <updated>2024-11-22T05:15:25.826Z</updated>
+        <content type="html"><![CDATA[Arcane]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ravel: Le tombeau de Couperin, M. 68: I. Prélude]]></title>
         <id>https://vibe.naver.com/album/32310782</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32296784"/>
         <updated>2024-11-20T03:26:52.759Z</updated>
         <content type="html"><![CDATA[Dasha]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[今夜はHearty Party (Feat. ひかり)]]></title>
-        <id>https://vibe.naver.com/album/32302964</id>
-        <link href="https://vibe.naver.com/album/32302964"/>
-        <updated>2024-11-20T03:26:52.759Z</updated>
-        <content type="html"><![CDATA[Tokimeki Records]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CITRUS CURIO CITY]]></title>
-        <id>https://vibe.naver.com/album/32305287</id>
-        <link href="https://vibe.naver.com/album/32305287"/>
-        <updated>2024-11-20T03:26:52.759Z</updated>
-        <content type="html"><![CDATA[frederic]]></content>
     </entry>
 </feed>

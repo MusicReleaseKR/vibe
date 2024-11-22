@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-22T08:19:59.455Z</updated>
+    <updated>2024-11-22T09:16:34.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/32312685"/>
         <updated>2024-11-22T05:15:25.826Z</updated>
         <content type="html"><![CDATA[Arcane]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Atlanta Seoul]]></title>
+        <id>https://vibe.naver.com/album/32312757</id>
+        <link href="https://vibe.naver.com/album/32312757"/>
+        <updated>2024-11-22T09:16:27.603Z</updated>
+        <content type="html"><![CDATA[Jword]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ravel: Le tombeau de Couperin, M. 68: I. Prélude]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32295479"/>
         <updated>2024-11-20T03:26:52.759Z</updated>
         <content type="html"><![CDATA[070 Shake]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Heartbreaker From Tennessee]]></title>
-        <id>https://vibe.naver.com/album/32296784</id>
-        <link href="https://vibe.naver.com/album/32296784"/>
-        <updated>2024-11-20T03:26:52.759Z</updated>
-        <content type="html"><![CDATA[Dasha]]></content>
     </entry>
 </feed>

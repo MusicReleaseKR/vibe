@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-26T03:29:09.078Z</updated>
+    <updated>2024-11-26T04:18:30.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[有你更好 Better With You]]></title>
+        <id>https://vibe.naver.com/album/32317849</id>
+        <link href="https://vibe.naver.com/album/32317849"/>
+        <updated>2024-11-26T04:18:24.093Z</updated>
+        <content type="html"><![CDATA[야오천 (YAOCHEN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Under the Tree (from “That Christmas”)]]></title>
         <id>https://vibe.naver.com/album/32317467</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32312719"/>
         <updated>2024-11-22T03:27:23.275Z</updated>
         <content type="html"><![CDATA[Midnight Village]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Half Past Us]]></title>
-        <id>https://vibe.naver.com/album/32308082</id>
-        <link href="https://vibe.naver.com/album/32308082"/>
-        <updated>2024-11-22T03:27:23.278Z</updated>
-        <content type="html"><![CDATA[Mokita]]></content>
     </entry>
 </feed>

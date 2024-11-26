@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-11-26T04:18:30.842Z</updated>
+    <updated>2024-11-26T05:15:15.175Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[네게 닿을 때까지 (Feat. Taka)]]></title>
+        <id>https://vibe.naver.com/album/32318626</id>
+        <link href="https://vibe.naver.com/album/32318626"/>
+        <updated>2024-11-26T05:15:03.145Z</updated>
+        <content type="html"><![CDATA[진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dreaming (골 때리는 그녀들 X tripleS (트리플에스))]]></title>
         <id>https://vibe.naver.com/album/32317685</id>
@@ -24,7 +31,7 @@
         <id>https://vibe.naver.com/album/32317827</id>
         <link href="https://vibe.naver.com/album/32317827"/>
         <updated>2024-11-26T03:28:55.064Z</updated>
-        <content type="html"><![CDATA[라즈베리필드(Raspberry Field)]]></content>
+        <content type="html"><![CDATA[해이(Hey)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[계절의 것들]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32315357"/>
         <updated>2024-11-25T03:32:07.689Z</updated>
         <content type="html"><![CDATA[대니 구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We will sail for your freedom]]></title>
-        <id>https://vibe.naver.com/album/32315567</id>
-        <link href="https://vibe.naver.com/album/32315567"/>
-        <updated>2024-11-25T03:32:07.694Z</updated>
-        <content type="html"><![CDATA[모레도토요일]]></content>
     </entry>
 </feed>

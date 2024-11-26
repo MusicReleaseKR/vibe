@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-26T04:18:30.844Z</updated>
+    <updated>2024-11-26T05:15:15.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[네게 닿을 때까지 (Feat. Taka) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32318626</id>
+        <link href="https://vibe.naver.com/album/32318626"/>
+        <updated>2024-11-26T05:15:03.145Z</updated>
+        <content type="html"><![CDATA[진]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dreaming (골 때리는 그녀들 X tripleS (트리플에스)) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32317685</id>
@@ -23,7 +30,7 @@
         <id>https://vibe.naver.com/album/32317827</id>
         <link href="https://vibe.naver.com/album/32317827"/>
         <updated>2024-11-26T03:28:55.064Z</updated>
-        <content type="html"><![CDATA[라즈베리필드(Raspberry Field)]]></content>
+        <content type="html"><![CDATA[해이(Hey)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[계절의 것들 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32315357"/>
         <updated>2024-11-25T03:32:07.689Z</updated>
         <content type="html"><![CDATA[대니 구]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We will sail for your freedom (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32315567</id>
-        <link href="https://vibe.naver.com/album/32315567"/>
-        <updated>2024-11-25T03:32:07.694Z</updated>
-        <content type="html"><![CDATA[모레도토요일]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[有你更好 Better With You (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,10 +705,17 @@
         <content type="html"><![CDATA[Midnight Village]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[네게 닿을 때까지 (Feat. Taka) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32318626</id>
+        <link href="https://vibe.naver.com/album/32318626"/>
+        <updated>2024-11-26T05:15:14.381Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32318626" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32318626" class="text">네게 닿을 때까지 (Feat. Taka)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274319" class="link_artist"><span class="text">진</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[有你更好 Better With You (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32317849</id>
         <link href="https://vibe.naver.com/album/32317849"/>
-        <updated>2024-11-26T04:18:30.138Z</updated>
+        <updated>2024-11-26T04:18:24.093Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32317849" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32317849" class="text">有你更好 Better With You</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5154034" class="link_artist"><span class="text">야오천 (YAOCHEN)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -744,7 +751,7 @@
         <id>https://vibe.naver.com/album/32317827</id>
         <link href="https://vibe.naver.com/album/32317827"/>
         <updated>2024-11-26T03:28:55.064Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32317827" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32317827" class="text">NEW UNIVERSE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/139205" class="link_artist"><span class="text">라즈베리필드(Raspberry Field)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32317827" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32317827" class="text">NEW UNIVERSE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4850" class="link_artist"><span class="text">해이(Hey)</span></a><span>, </span></span><span><a href="/artist/139205" class="link_artist"><span class="text">라즈베리필드(Raspberry Field)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[계절의 것들 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32312766"/>
         <updated>2024-11-25T03:32:14.182Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32312766" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32312766" class="text">Black Dress</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4421525" class="link_artist"><span class="text">Jonah Kagen</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Arigato Kokorokara / Yuki 100% (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32309398</id>
-        <link href="https://vibe.naver.com/album/32309398"/>
-        <updated>2024-11-25T03:32:14.183Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32309398" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32309398" class="text">Arigato Kokorokara / Yuki 100%</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8856184" class="link_artist"><span class="text">나니와 단시 (Naniwa Danshi)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

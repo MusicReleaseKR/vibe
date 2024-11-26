@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-11-26T14:15:33.086Z</updated>
+    <updated>2024-11-26T15:16:39.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WISHFUL]]></title>
+        <id>https://vibe.naver.com/album/32319032</id>
+        <link href="https://vibe.naver.com/album/32319032"/>
+        <updated>2024-11-26T15:16:38.228Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32319032" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32319032" class="text">WISHFUL</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/7067722" class="link_artist"><span class="text">NCT WISH</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shohikigen]]></title>
+        <id>https://vibe.naver.com/album/32319354</id>
+        <link href="https://vibe.naver.com/album/32319354"/>
+        <updated>2024-11-26T15:16:38.229Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32319354" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32319354" class="text">Shohikigen</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴 (SEVENTEEN)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Like A Flower - The 1st Mini Album]]></title>
         <id>https://vibe.naver.com/album/32318559</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32315257"/>
         <updated>2024-11-25T09:18:00.447Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32315257" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32315257" class="text">애프터파티</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4000386" class="link_artist"><span class="text">스카프(SC4F)</span></a><span>, </span></span><span><a href="/artist/4000387" class="link_artist"><span class="text">마디(MADII)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lano]]></title>
-        <id>https://vibe.naver.com/album/32315537</id>
-        <link href="https://vibe.naver.com/album/32315537"/>
-        <updated>2024-11-25T09:18:00.455Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32315537" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32315537" class="text">Lano</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3638584" class="link_artist"><span class="text">Agwi</span></a><span>, </span></span><span><a href="/artist/3655636" class="link_artist"><span class="text">Suyo</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Outta Da Blue]]></title>
-        <id>https://vibe.naver.com/album/32312451</id>
-        <link href="https://vibe.naver.com/album/32312451"/>
-        <updated>2024-11-25T03:32:20.069Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32312451" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32312451" class="text">Outta Da Blue</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2122" class="link_artist"><span class="text">Snoop Dogg</span></a><span>, </span></span><span><a href="/artist/1581" class="link_artist"><span class="text">Dr. Dre</span></a><span>, </span></span><span><a href="/artist/2952418" class="link_artist"><span class="text">Alus</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

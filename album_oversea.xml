@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-11-26T14:15:33.142Z</updated>
+    <updated>2024-11-26T15:16:38.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[WISHFUL]]></title>
+        <id>https://vibe.naver.com/album/32319032</id>
+        <link href="https://vibe.naver.com/album/32319032"/>
+        <updated>2024-11-26T15:16:32.954Z</updated>
+        <content type="html"><![CDATA[NCT WISH]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Shohikigen]]></title>
+        <id>https://vibe.naver.com/album/32319354</id>
+        <link href="https://vibe.naver.com/album/32319354"/>
+        <updated>2024-11-26T15:16:32.954Z</updated>
+        <content type="html"><![CDATA[세븐틴 (SEVENTEEN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[有你更好 Better With You]]></title>
         <id>https://vibe.naver.com/album/32317849</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32312772"/>
         <updated>2024-11-22T03:27:23.272Z</updated>
         <content type="html"><![CDATA[jeonghyeon]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Whisper]]></title>
-        <id>https://vibe.naver.com/album/32312762</id>
-        <link href="https://vibe.naver.com/album/32312762"/>
-        <updated>2024-11-22T03:27:23.274Z</updated>
-        <content type="html"><![CDATA[Tatsuya Kitani]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Death Of Me]]></title>
-        <id>https://vibe.naver.com/album/32312719</id>
-        <link href="https://vibe.naver.com/album/32312719"/>
-        <updated>2024-11-22T03:27:23.275Z</updated>
-        <content type="html"><![CDATA[Midnight Village]]></content>
     </entry>
 </feed>

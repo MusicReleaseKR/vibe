@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-11-28T09:17:16.011Z</updated>
+    <updated>2024-11-28T10:16:46.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32322825" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32322825" class="text">Painting</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2354930" class="link_artist"><span class="text">oceanfromtheblue</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모아나 2 (한국어 버전 사운드트랙)]]></title>
+        <id>https://vibe.naver.com/album/32316986</id>
+        <link href="https://vibe.naver.com/album/32316986"/>
+        <updated>2024-11-28T10:16:45.841Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32316986" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32316986" class="text">모아나 2 (한국어 버전 사운드트랙)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><span class="link_artist">Various Artists</span><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Insomnia]]></title>
         <id>https://vibe.naver.com/album/32321999</id>
         <link href="https://vibe.naver.com/album/32321999"/>
@@ -34,18 +41,18 @@
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32321999" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32321999" class="text">Insomnia</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/231995" class="link_artist"><span class="text">BIGONE(빅원)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 리슨: 우리 함께 다시]]></title>
-        <id>https://vibe.naver.com/album/32326146</id>
-        <link href="https://vibe.naver.com/album/32326146"/>
-        <updated>2024-11-28T09:17:15.254Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32326146" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32326146" class="text">더 리슨: 우리 함께 다시</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8962863" class="link_artist"><span class="text">더 리슨4 (먼데이 키즈 (Monday Kiz), DK(디셈버), 케이시 (Kassy), HYNN (박혜원), 유회승 (엔플라잉), 방예담, 이예준, 우디 (Woody), 이비(EB))</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[COSMOS]]></title>
         <id>https://vibe.naver.com/album/32321703</id>
         <link href="https://vibe.naver.com/album/32321703"/>
         <updated>2024-11-28T09:17:15.267Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32321703" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32321703" class="text">COSMOS</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2439624" class="link_artist"><span class="text">신인류</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더 리슨: 우리 함께 다시]]></title>
+        <id>https://vibe.naver.com/album/32326146</id>
+        <link href="https://vibe.naver.com/album/32326146"/>
+        <updated>2024-11-28T09:17:15.254Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32326146" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32326146" class="text">더 리슨: 우리 함께 다시</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8962863" class="link_artist"><span class="text">더 리슨4 (먼데이 키즈 (Monday Kiz), DK(디셈버), 케이시 (Kassy), HYNN (박혜원), 유회승 (엔플라잉), 방예담, 이예준, 우디 (Woody), 이비(EB))</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[My insecure]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32319354"/>
         <updated>2024-11-26T15:16:38.229Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32319354" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32319354" class="text">Shohikigen</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/421339" class="link_artist"><span class="text">세븐틴 (SEVENTEEN)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)]]></title>
-        <id>https://vibe.naver.com/album/32316957</id>
-        <link href="https://vibe.naver.com/album/32316957"/>
-        <updated>2024-11-27T03:33:45.935Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32316957" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32316957" class="text">Moana 2 (Original Motion Picture Soundtrack/Deluxe Edition)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2982411" class="link_artist"><span class="text">Disney</span></a><span>, </span></span><span><a href="/artist/1486446" class="link_artist"><span class="text">Auli'i Cravalho</span></a><span>, </span></span><span><a href="/artist/896421" class="link_artist"><span class="text">Dwayne Johnson</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

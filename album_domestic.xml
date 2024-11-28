@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-11-28T04:18:52.614Z</updated>
+    <updated>2024-11-28T05:15:55.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[H₩OARANG]]></title>
+        <id>https://vibe.naver.com/album/32305494</id>
+        <link href="https://vibe.naver.com/album/32305494"/>
+        <updated>2024-11-28T05:15:40.629Z</updated>
+        <content type="html"><![CDATA[2Spade]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천사 인터뷰]]></title>
         <id>https://vibe.naver.com/album/32322938</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32318696"/>
         <updated>2024-11-26T09:16:34.837Z</updated>
         <content type="html"><![CDATA[SUPER JUNIOR-D&amp;E]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취하는 로맨스 OST Part 8]]></title>
-        <id>https://vibe.naver.com/album/32317806</id>
-        <link href="https://vibe.naver.com/album/32317806"/>
-        <updated>2024-11-26T09:16:34.838Z</updated>
-        <content type="html"><![CDATA[송하영 (프로미스나인)]]></content>
     </entry>
 </feed>

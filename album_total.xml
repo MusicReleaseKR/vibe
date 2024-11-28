@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-11-28T04:18:52.618Z</updated>
+    <updated>2024-11-28T05:15:55.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[H₩OARANG]]></title>
+        <id>https://vibe.naver.com/album/32305494</id>
+        <link href="https://vibe.naver.com/album/32305494"/>
+        <updated>2024-11-28T05:15:54.172Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32305494" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32305494" class="text">H₩OARANG</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5563469" class="link_artist"><span class="text">2Spade</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[천사 인터뷰]]></title>
         <id>https://vibe.naver.com/album/32322938</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32319639"/>
         <updated>2024-11-27T03:33:45.942Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32319639" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32319639" class="text">그래야해</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2698706" class="link_artist"><span class="text">365LIT</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Like A Flower - The 1st Mini Album]]></title>
-        <id>https://vibe.naver.com/album/32318559</id>
-        <link href="https://vibe.naver.com/album/32318559"/>
-        <updated>2024-11-26T09:16:46.666Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32318559" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32318559" class="text">Like A Flower - The 1st Mini Album</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/344033" class="link_artist"><span class="text">아이린 (IRENE)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

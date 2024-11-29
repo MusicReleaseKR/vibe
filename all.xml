@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-29T04:19:22.551Z</updated>
+    <updated>2024-11-29T05:16:00.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Winter Ahead (with 박효신) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32328251</id>
+        <link href="https://vibe.naver.com/album/32328251"/>
+        <updated>2024-11-29T05:15:47.179Z</updated>
+        <content type="html"><![CDATA[V]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3:33 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32326307</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32305494"/>
         <updated>2024-11-28T05:15:40.629Z</updated>
         <content type="html"><![CDATA[2Spade]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나와, 한잔할래 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32322625</id>
-        <link href="https://vibe.naver.com/album/32322625"/>
-        <updated>2024-11-28T09:17:03.269Z</updated>
-        <content type="html"><![CDATA[건지(GUNJI)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Moonlit Floor (Kiss Me) (Santa Baby Remix) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,10 +705,17 @@
         <content type="html"><![CDATA[Sadboi]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Winter Ahead (with 박효신) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32328251</id>
+        <link href="https://vibe.naver.com/album/32328251"/>
+        <updated>2024-11-29T05:15:59.479Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32328251" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32328251" class="text">Winter Ahead (with 박효신)</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274326" class="link_artist"><span class="text">V</span></a><span>, </span></span><span><a href="/artist/1680" class="link_artist"><span class="text">박효신</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[3:33 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32326307</id>
         <link href="https://vibe.naver.com/album/32326307"/>
-        <updated>2024-11-29T04:19:21.804Z</updated>
+        <updated>2024-11-29T04:19:11.378Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32326307" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32326307" class="text">3:33</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/432003" class="link_artist"><span class="text">DEAN</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32322926"/>
         <updated>2024-11-28T03:33:10.789Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32322926" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32322926" class="text">i don't know</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4155271" class="link_artist"><span class="text">Eyal(이얄)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEOULVIBES, PREET (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32322929</id>
-        <link href="https://vibe.naver.com/album/32322929"/>
-        <updated>2024-11-28T03:33:10.791Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32322929" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32322929" class="text">SEOULVIBES, PREET</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2394405" class="link_artist"><span class="text">KozyPop</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

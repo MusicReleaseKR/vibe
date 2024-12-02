@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-02T14:15:37.040Z</updated>
+    <updated>2024-12-02T15:16:41.213Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/32328890"/>
         <updated>2024-12-02T09:17:53.693Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32328890" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32328890" class="text">취하는 로맨스 OST Part 9</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4324" class="link_artist"><span class="text">넬(NELL)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AlwayS]]></title>
+        <id>https://vibe.naver.com/album/32332553</id>
+        <link href="https://vibe.naver.com/album/32332553"/>
+        <updated>2024-12-02T15:16:40.321Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32332553" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32332553" class="text">AlwayS</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3654002" class="link_artist"><span class="text">NiziU (니쥬)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미워도 좋아]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32328789"/>
         <updated>2024-11-30T09:14:50.351Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32328789" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32328789" class="text">LOVE WAVE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/480027" class="link_artist"><span class="text">다영</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진심누나 Episode Final]]></title>
-        <id>https://vibe.naver.com/album/32328482</id>
-        <link href="https://vibe.naver.com/album/32328482"/>
-        <updated>2024-11-30T09:14:50.351Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32328482" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32328482" class="text">진심누나 Episode Final</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8917261" class="link_artist"><span class="text">마이트로 (MYTRO)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

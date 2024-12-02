@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-02T14:15:37.034Z</updated>
+    <updated>2024-12-02T15:16:41.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AlwayS]]></title>
+        <id>https://vibe.naver.com/album/32332553</id>
+        <link href="https://vibe.naver.com/album/32332553"/>
+        <updated>2024-12-02T15:16:34.507Z</updated>
+        <content type="html"><![CDATA[NiziU (니쥬)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Another Part Of Me]]></title>
         <id>https://vibe.naver.com/album/32325113</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32310911"/>
         <updated>2024-11-28T03:33:18.597Z</updated>
         <content type="html"><![CDATA[Olivia Newton-John]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WISHFUL]]></title>
-        <id>https://vibe.naver.com/album/32319032</id>
-        <link href="https://vibe.naver.com/album/32319032"/>
-        <updated>2024-11-26T15:16:32.954Z</updated>
-        <content type="html"><![CDATA[NCT WISH]]></content>
     </entry>
 </feed>

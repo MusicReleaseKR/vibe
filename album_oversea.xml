@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-04T03:00:33.046Z</updated>
+    <updated>2024-12-04T03:37:55.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://vibe.naver.com/album/32358563"/>
         <updated>2024-12-04T03:00:26.484Z</updated>
         <content type="html"><![CDATA[디에잇]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Peaceful Piano Christmas]]></title>
-        <id>https://vibe.naver.com/album/32334402</id>
-        <link href="https://vibe.naver.com/album/32334402"/>
-        <updated>2024-12-04T03:00:26.484Z</updated>
-        <content type="html"><![CDATA[William Haviland(윌리엄 하빌랜드)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Trill Bill]]></title>
@@ -32,6 +25,13 @@
         <link href="https://vibe.naver.com/album/32333195"/>
         <updated>2024-12-04T03:00:26.484Z</updated>
         <content type="html"><![CDATA[Leina]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[これからの君のために]]></title>
+        <id>https://vibe.naver.com/album/32305213</id>
+        <link href="https://vibe.naver.com/album/32305213"/>
+        <updated>2024-12-04T03:37:48.552Z</updated>
+        <content type="html"><![CDATA[찬성]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DU$K]]></title>

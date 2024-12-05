@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-05T14:15:16.438Z</updated>
+    <updated>2024-12-05T15:16:56.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[rosie (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32400568</id>
+        <link href="https://vibe.naver.com/album/32400568"/>
+        <updated>2024-12-05T15:16:44.639Z</updated>
+        <content type="html"><![CDATA[로제 (ROSÉ)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LAST NIGHT (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32400494</id>
@@ -348,11 +355,11 @@
         <content type="html"><![CDATA[김뮤즈(Kimmuse)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[You are My Christmas (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32334269</id>
-        <link href="https://vibe.naver.com/album/32334269"/>
-        <updated>2024-12-04T09:16:43.082Z</updated>
-        <content type="html"><![CDATA[유채 (U_Chae)]]></content>
+        <title type="html"><![CDATA[illumination (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32397362</id>
+        <link href="https://vibe.naver.com/album/32397362"/>
+        <updated>2024-12-05T15:16:50.507Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Silver Bells (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -698,11 +705,18 @@
         <content type="html"><![CDATA[David Guetta]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Leaveyourlove (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32318389</id>
-        <link href="https://vibe.naver.com/album/32318389"/>
-        <updated>2024-12-02T03:02:19.904Z</updated>
-        <content type="html"><![CDATA[Parcels]]></content>
+        <title type="html"><![CDATA[rosie (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32400568</id>
+        <link href="https://vibe.naver.com/album/32400568"/>
+        <updated>2024-12-05T15:16:55.770Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32400568" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32400568" class="text">rosie</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/500567" class="link_artist"><span class="text">로제 (ROSÉ)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[illumination (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32397362</id>
+        <link href="https://vibe.naver.com/album/32397362"/>
+        <updated>2024-12-05T15:16:55.770Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32397362" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32397362" class="text">illumination</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5889303" class="link_artist"><span class="text">&amp;TEAM</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[LAST NIGHT (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/32358563"/>
         <updated>2024-12-04T03:00:26.484Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32358563" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32358563" class="text">THE 8 'STARDUST' 1st EP CHINA</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/421406" class="link_artist"><span class="text">디에잇</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NOCTURNE (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32271018</id>
-        <link href="https://vibe.naver.com/album/32271018"/>
-        <updated>2024-12-04T03:00:19.800Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32271018" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32271018" class="text">NOCTURNE</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5919713" class="link_artist"><span class="text">LONELEE</span></a><span>, </span></span><span><a href="/artist/3151732" class="link_artist"><span class="text">TRYDENY</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[침대 (snowing ver.) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32334206</id>
-        <link href="https://vibe.naver.com/album/32334206"/>
-        <updated>2024-12-04T03:00:19.800Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32334206" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32334206" class="text">침대 (snowing ver.)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2421326" class="link_artist"><span class="text">레나(LENA)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

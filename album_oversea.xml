@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-05T14:15:16.429Z</updated>
+    <updated>2024-12-05T15:16:56.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[illumination]]></title>
+        <id>https://vibe.naver.com/album/32397362</id>
+        <link href="https://vibe.naver.com/album/32397362"/>
+        <updated>2024-12-05T15:16:50.507Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Silver Bells]]></title>
         <id>https://vibe.naver.com/album/32325119</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32326269"/>
         <updated>2024-12-02T03:02:19.903Z</updated>
         <content type="html"><![CDATA[David Guetta]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Leaveyourlove]]></title>
-        <id>https://vibe.naver.com/album/32318389</id>
-        <link href="https://vibe.naver.com/album/32318389"/>
-        <updated>2024-12-02T03:02:19.904Z</updated>
-        <content type="html"><![CDATA[Parcels]]></content>
     </entry>
 </feed>

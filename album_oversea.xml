@@ -2,9 +2,93 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-05T01:12:52.174Z</updated>
+    <updated>2024-12-05T03:01:30.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Silver Bells]]></title>
+        <id>https://vibe.naver.com/album/32325119</id>
+        <link href="https://vibe.naver.com/album/32325119"/>
+        <updated>2024-12-05T03:01:23.849Z</updated>
+        <content type="html"><![CDATA[Stephen Sanchez]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Iolite]]></title>
+        <id>https://vibe.naver.com/album/32334535</id>
+        <link href="https://vibe.naver.com/album/32334535"/>
+        <updated>2024-12-05T03:01:23.850Z</updated>
+        <content type="html"><![CDATA[Omoinotake]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Let It Be Christmas]]></title>
+        <id>https://vibe.naver.com/album/32326265</id>
+        <link href="https://vibe.naver.com/album/32326265"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[Trea Landon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wild Long Lie]]></title>
+        <id>https://vibe.naver.com/album/32331926</id>
+        <link href="https://vibe.naver.com/album/32331926"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[Sam Fender]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A Christmas to Remember (Extended Edition)]]></title>
+        <id>https://vibe.naver.com/album/32330889</id>
+        <link href="https://vibe.naver.com/album/32330889"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[Tom Gaebel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[What Was I For You]]></title>
+        <id>https://vibe.naver.com/album/32366015</id>
+        <link href="https://vibe.naver.com/album/32366015"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[DALEXO]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Merry Christmas Party!]]></title>
+        <id>https://vibe.naver.com/album/32317991</id>
+        <link href="https://vibe.naver.com/album/32317991"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[Mayer Hawthorne]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dissolve]]></title>
+        <id>https://vibe.naver.com/album/32333319</id>
+        <link href="https://vibe.naver.com/album/32333319"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[Tamino]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jentry Chau vs the Underworld (Soundtrack from the Netflix Series)]]></title>
+        <id>https://vibe.naver.com/album/32332619</id>
+        <link href="https://vibe.naver.com/album/32332619"/>
+        <updated>2024-12-05T03:01:23.860Z</updated>
+        <content type="html"><![CDATA[Brian H. Kim]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Where In Heaven]]></title>
+        <id>https://vibe.naver.com/album/32365295</id>
+        <link href="https://vibe.naver.com/album/32365295"/>
+        <updated>2024-12-05T03:01:23.863Z</updated>
+        <content type="html"><![CDATA[Jason Ross]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Saka x Utlwa]]></title>
+        <id>https://vibe.naver.com/album/32325107</id>
+        <link href="https://vibe.naver.com/album/32325107"/>
+        <updated>2024-12-05T03:01:23.863Z</updated>
+        <content type="html"><![CDATA[StokieNChilli]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wishing]]></title>
+        <id>https://vibe.naver.com/album/32366974</id>
+        <link href="https://vibe.naver.com/album/32366974"/>
+        <updated>2024-12-05T03:01:23.863Z</updated>
+        <content type="html"><![CDATA[Lund]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[THE 8 'STARDUST' 1st EP CHINA]]></title>
         <id>https://vibe.naver.com/album/32358563</id>
@@ -270,89 +354,5 @@
         <link href="https://vibe.naver.com/album/32318389"/>
         <updated>2024-12-02T03:02:19.904Z</updated>
         <content type="html"><![CDATA[Parcels]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Neon Lights (feat. SEM)]]></title>
-        <id>https://vibe.naver.com/album/32332062</id>
-        <link href="https://vibe.naver.com/album/32332062"/>
-        <updated>2024-12-02T03:02:19.906Z</updated>
-        <content type="html"><![CDATA[Steeg]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shiver (Wilkinson Remix)]]></title>
-        <id>https://vibe.naver.com/album/32325416</id>
-        <link href="https://vibe.naver.com/album/32325416"/>
-        <updated>2024-12-02T03:02:19.907Z</updated>
-        <content type="html"><![CDATA[John Summit]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Another World (Liva K Remix)]]></title>
-        <id>https://vibe.naver.com/album/32325403</id>
-        <link href="https://vibe.naver.com/album/32325403"/>
-        <updated>2024-12-02T03:02:19.908Z</updated>
-        <content type="html"><![CDATA[Meduza]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Moonlit Floor (Kiss Me) (Santa Baby Remix)]]></title>
-        <id>https://vibe.naver.com/album/32326420</id>
-        <link href="https://vibe.naver.com/album/32326420"/>
-        <updated>2024-11-29T03:32:47.504Z</updated>
-        <content type="html"><![CDATA[리사 (LISA)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[There For You]]></title>
-        <id>https://vibe.naver.com/album/32328226</id>
-        <link href="https://vibe.naver.com/album/32328226"/>
-        <updated>2024-11-29T03:32:47.504Z</updated>
-        <content type="html"><![CDATA[Etham]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Tangerine Rays]]></title>
-        <id>https://vibe.naver.com/album/32325415</id>
-        <link href="https://vibe.naver.com/album/32325415"/>
-        <updated>2024-11-29T03:32:47.504Z</updated>
-        <content type="html"><![CDATA[Zedd]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[RE:PRESENT]]></title>
-        <id>https://vibe.naver.com/album/32326243</id>
-        <link href="https://vibe.naver.com/album/32326243"/>
-        <updated>2024-11-29T03:32:47.504Z</updated>
-        <content type="html"><![CDATA[유키스]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[we've been here before]]></title>
-        <id>https://vibe.naver.com/album/32326412</id>
-        <link href="https://vibe.naver.com/album/32326412"/>
-        <updated>2024-11-29T03:32:47.504Z</updated>
-        <content type="html"><![CDATA[brb.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[眠らない夢]]></title>
-        <id>https://vibe.naver.com/album/32326276</id>
-        <link href="https://vibe.naver.com/album/32326276"/>
-        <updated>2024-11-29T03:32:47.505Z</updated>
-        <content type="html"><![CDATA[다즈비(DAZBEE)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Fantasia]]></title>
-        <id>https://vibe.naver.com/album/32322928</id>
-        <link href="https://vibe.naver.com/album/32322928"/>
-        <updated>2024-11-29T03:32:47.505Z</updated>
-        <content type="html"><![CDATA[K-391]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Duets (30th Anniversary / Deluxe)]]></title>
-        <id>https://vibe.naver.com/album/32325394</id>
-        <link href="https://vibe.naver.com/album/32325394"/>
-        <updated>2024-11-29T03:32:47.505Z</updated>
-        <content type="html"><![CDATA[Andrea Bocelli]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IN_MY_HEAD]]></title>
-        <id>https://vibe.naver.com/album/32326418</id>
-        <link href="https://vibe.naver.com/album/32326418"/>
-        <updated>2024-11-29T03:32:47.505Z</updated>
-        <content type="html"><![CDATA[natori]]></content>
     </entry>
 </feed>

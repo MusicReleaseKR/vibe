@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-06T04:19:54.055Z</updated>
+    <updated>2024-12-06T05:16:22.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,20 @@
         <link href="https://vibe.naver.com/album/32400568"/>
         <updated>2024-12-05T15:16:44.639Z</updated>
         <content type="html"><![CDATA[로제 (ROSÉ)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRATEGY]]></title>
+        <id>https://vibe.naver.com/album/32426085</id>
+        <link href="https://vibe.naver.com/album/32426085"/>
+        <updated>2024-12-06T05:16:08.560Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ice On My Teeth (English Ver.)]]></title>
+        <id>https://vibe.naver.com/album/32401045</id>
+        <link href="https://vibe.naver.com/album/32401045"/>
+        <updated>2024-12-06T05:16:08.560Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돌리세요]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32367290"/>
         <updated>2024-12-05T03:01:17.048Z</updated>
         <content type="html"><![CDATA[제이플라(J.Fla)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취미생활]]></title>
-        <id>https://vibe.naver.com/album/32360181</id>
-        <link href="https://vibe.naver.com/album/32360181"/>
-        <updated>2024-12-05T03:01:17.050Z</updated>
-        <content type="html"><![CDATA[복다진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 캐롤 오르골]]></title>
-        <id>https://vibe.naver.com/album/32359847</id>
-        <link href="https://vibe.naver.com/album/32359847"/>
-        <updated>2024-12-05T03:01:17.054Z</updated>
-        <content type="html"><![CDATA[라인프렌즈(LINE FRIENDS)]]></content>
     </entry>
 </feed>

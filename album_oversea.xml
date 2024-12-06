@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-06T04:19:54.058Z</updated>
+    <updated>2024-12-06T05:16:22.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[White Christmas (with V of BTS)]]></title>
+        <id>https://vibe.naver.com/album/32401939</id>
+        <link href="https://vibe.naver.com/album/32401939"/>
+        <updated>2024-12-06T05:16:15.218Z</updated>
+        <content type="html"><![CDATA[V]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas: 30th Anniversary Edition]]></title>
         <id>https://vibe.naver.com/album/32400909</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32332574"/>
         <updated>2024-12-03T09:16:36.084Z</updated>
         <content type="html"><![CDATA[NINE.i(나인아이)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[The Party Never Ends]]></title>
-        <id>https://vibe.naver.com/album/32328481</id>
-        <link href="https://vibe.naver.com/album/32328481"/>
-        <updated>2024-12-03T03:02:18.301Z</updated>
-        <content type="html"><![CDATA[Juice WRLD]]></content>
     </entry>
 </feed>

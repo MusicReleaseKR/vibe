@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-06T04:19:54.060Z</updated>
+    <updated>2024-12-06T05:16:22.016Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[rosie (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -10,6 +10,20 @@
         <link href="https://vibe.naver.com/album/32400568"/>
         <updated>2024-12-05T15:16:44.639Z</updated>
         <content type="html"><![CDATA[로제 (ROSÉ)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRATEGY (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32426085</id>
+        <link href="https://vibe.naver.com/album/32426085"/>
+        <updated>2024-12-06T05:16:08.560Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ice On My Teeth (English Ver.) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32401045</id>
+        <link href="https://vibe.naver.com/album/32401045"/>
+        <updated>2024-12-06T05:16:08.560Z</updated>
+        <content type="html"><![CDATA[ATEEZ(에이티즈)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돌리세요 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -341,18 +355,11 @@
         <content type="html"><![CDATA[제이플라(J.Fla)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[취미생활 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32360181</id>
-        <link href="https://vibe.naver.com/album/32360181"/>
-        <updated>2024-12-05T03:01:17.050Z</updated>
-        <content type="html"><![CDATA[복다진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스 캐롤 오르골 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32359847</id>
-        <link href="https://vibe.naver.com/album/32359847"/>
-        <updated>2024-12-05T03:01:17.054Z</updated>
-        <content type="html"><![CDATA[라인프렌즈(LINE FRIENDS)]]></content>
+        <title type="html"><![CDATA[White Christmas (with V of BTS) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32401939</id>
+        <link href="https://vibe.naver.com/album/32401939"/>
+        <updated>2024-12-06T05:16:15.218Z</updated>
+        <content type="html"><![CDATA[V]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas: 30th Anniversary Edition (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -698,18 +705,32 @@
         <content type="html"><![CDATA[NINE.i(나인아이)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Party Never Ends (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32328481</id>
-        <link href="https://vibe.naver.com/album/32328481"/>
-        <updated>2024-12-03T03:02:18.301Z</updated>
-        <content type="html"><![CDATA[Juice WRLD]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[rosie (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32400568</id>
         <link href="https://vibe.naver.com/album/32400568"/>
         <updated>2024-12-05T15:16:44.639Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32400568" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32400568" class="text">rosie</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/500567" class="link_artist"><span class="text">로제 (ROSÉ)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STRATEGY (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32426085</id>
+        <link href="https://vibe.naver.com/album/32426085"/>
+        <updated>2024-12-06T05:16:21.042Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32426085" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32426085" class="text">STRATEGY</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/460475" class="link_artist"><span class="text">TWICE(트와이스)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[White Christmas (with V of BTS) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32401939</id>
+        <link href="https://vibe.naver.com/album/32401939"/>
+        <updated>2024-12-06T05:16:21.046Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32401939" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32401939" class="text">White Christmas (with V of BTS)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274326" class="link_artist"><span class="text">V</span></a><span>, </span></span><span><a href="/artist/1507" class="link_artist"><span class="text">Bing Crosby</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ice On My Teeth (English Ver.) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32401045</id>
+        <link href="https://vibe.naver.com/album/32401045"/>
+        <updated>2024-12-06T05:16:21.050Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32401045" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32401045" class="text">Ice On My Teeth (English Ver.)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2475793" class="link_artist"><span class="text">ATEEZ(에이티즈)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Merry Christmas: 30th Anniversary Edition (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1032,26 +1053,5 @@
         <link href="https://vibe.naver.com/album/32366976"/>
         <updated>2024-12-05T03:01:17.038Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32366976" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32366976" class="text">안녕 (Hello)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1413" class="link_artist"><span class="text">이지훈</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOF ep #dangerous (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32358908</id>
-        <link href="https://vibe.naver.com/album/32358908"/>
-        <updated>2024-12-05T03:01:17.040Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32358908" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32358908" class="text">DOF ep #dangerous</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8429073" class="link_artist"><span class="text">DOF</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lean on You (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32362890</id>
-        <link href="https://vibe.naver.com/album/32362890"/>
-        <updated>2024-12-05T03:01:17.044Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32362890" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32362890" class="text">Lean on You</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8305790" class="link_artist"><span class="text">HOZE</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hero Death (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32359061</id>
-        <link href="https://vibe.naver.com/album/32359061"/>
-        <updated>2024-12-04T09:16:43.077Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32359061" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32359061" class="text">Hero Death</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2988467" class="link_artist"><span class="text">BIG Naughty (서동현)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

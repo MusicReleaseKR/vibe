@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-09T03:03:46.748Z</updated>
+    <updated>2024-12-09T04:19:11.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Winter Glow]]></title>
+        <id>https://vibe.naver.com/album/32432919</id>
+        <link href="https://vibe.naver.com/album/32432919"/>
+        <updated>2024-12-09T04:18:57.827Z</updated>
+        <content type="html"><![CDATA[FIFTY FIFTY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[루퍼트의 눈물 (Rupert's drop)]]></title>
         <id>https://vibe.naver.com/album/32432910</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32430941"/>
         <updated>2024-12-07T09:15:42.078Z</updated>
         <content type="html"><![CDATA[임연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[날 사랑하지 말아요]]></title>
-        <id>https://vibe.naver.com/album/32428846</id>
-        <link href="https://vibe.naver.com/album/32428846"/>
-        <updated>2024-12-07T09:15:42.079Z</updated>
-        <content type="html"><![CDATA[정이한(더 넛츠)]]></content>
     </entry>
 </feed>

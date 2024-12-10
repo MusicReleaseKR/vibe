@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-10T03:02:24.800Z</updated>
+    <updated>2024-12-10T04:19:08.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/32468816"/>
         <updated>2024-12-10T03:02:24.005Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32468816" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32468816" class="text">X-mas Treat</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8814520" class="link_artist"><span class="text">B.D.U(비디유)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈꽃사탕]]></title>
+        <id>https://vibe.naver.com/album/32468815</id>
+        <link href="https://vibe.naver.com/album/32468815"/>
+        <updated>2024-12-10T04:19:07.790Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32468815" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32468815" class="text">눈꽃사탕</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8343336" class="link_artist"><span class="text">신수지</span></a><span>, </span></span><span><a href="/artist/7445" class="link_artist"><span class="text">유미</span></a><span>, </span></span><span><a href="/artist/5489895" class="link_artist"><span class="text">김민경</span></a><span>, </span></span><span><a href="/artist/493109" class="link_artist"><span class="text">박기량</span></a><span>, </span></span><span><a href="/artist/9048802" class="link_artist"><span class="text">박지영</span></a><span>, </span></span><span><a href="/artist/6064664" class="link_artist"><span class="text">김용필</span></a><span>, </span></span><span><a href="/artist/6705637" class="link_artist"><span class="text">URE(노성율)</span></a><span>, </span></span><span><a href="/artist/12915" class="link_artist"><span class="text">김현아</span></a><span>, </span></span><span><a href="/artist/3630198" class="link_artist"><span class="text">일민</span></a><span>, </span></span><span><a href="/artist/8895505" class="link_artist"><span class="text">천희승(CHUN HEE SEUNG)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DTX 2nd : 말달리자 ride]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32401634"/>
         <updated>2024-12-09T03:03:45.955Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32401634" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32401634" class="text">Friend</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4470985" class="link_artist"><span class="text">Peter McPoland</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DRY CRY]]></title>
-        <id>https://vibe.naver.com/album/32380694</id>
-        <link href="https://vibe.naver.com/album/32380694"/>
-        <updated>2024-12-09T03:03:45.963Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32380694" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32380694" class="text">DRY CRY</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2649477" class="link_artist"><span class="text">Sadboi</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

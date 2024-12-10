@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-10T03:02:24.781Z</updated>
+    <updated>2024-12-10T04:19:08.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/32468816"/>
         <updated>2024-12-10T03:02:12.409Z</updated>
         <content type="html"><![CDATA[B.D.U(비디유)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈꽃사탕]]></title>
+        <id>https://vibe.naver.com/album/32468815</id>
+        <link href="https://vibe.naver.com/album/32468815"/>
+        <updated>2024-12-10T04:18:56.558Z</updated>
+        <content type="html"><![CDATA[신수지]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[DTX 2nd : 말달리자 ride]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32468444"/>
         <updated>2024-12-09T03:03:34.207Z</updated>
         <content type="html"><![CDATA[Coco Frankie]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Icebreak (Remix)]]></title>
-        <id>https://vibe.naver.com/album/32426274</id>
-        <link href="https://vibe.naver.com/album/32426274"/>
-        <updated>2024-12-09T03:03:34.207Z</updated>
-        <content type="html"><![CDATA[늘보(Neulbo)]]></content>
     </entry>
 </feed>

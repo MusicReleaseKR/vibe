@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-10T14:15:48.548Z</updated>
+    <updated>2024-12-10T15:16:55.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[100RED Winter Special Single 'The Last Christmas' (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,20 @@
         <content type="html"><![CDATA[윤한(Yoonhan)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[CRAZY (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32471029</id>
+        <link href="https://vibe.naver.com/album/32471029"/>
+        <updated>2024-12-10T15:16:48.726Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buddy Buddy (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/32471526</id>
+        <link href="https://vibe.naver.com/album/32471526"/>
+        <updated>2024-12-10T15:16:48.727Z</updated>
+        <content type="html"><![CDATA[NiziU (니쥬)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[NAKAMA (Dragon Ball DAIMA Ending Theme - Anime ver.) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/32467886</id>
         <link href="https://vibe.naver.com/album/32467886"/>
@@ -691,20 +705,6 @@
         <content type="html"><![CDATA[Ace Aura]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DND (Explicit Ver.) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32398271</id>
-        <link href="https://vibe.naver.com/album/32398271"/>
-        <updated>2024-12-06T03:36:32.865Z</updated>
-        <content type="html"><![CDATA[BNZA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Rolling Stone (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/32400894</id>
-        <link href="https://vibe.naver.com/album/32400894"/>
-        <updated>2024-12-06T03:36:32.867Z</updated>
-        <content type="html"><![CDATA[Roy Woods]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[100RED Winter Special Single 'The Last Christmas' (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32468820</id>
         <link href="https://vibe.naver.com/album/32468820"/>
@@ -731,6 +731,20 @@
         <link href="https://vibe.naver.com/album/32468509"/>
         <updated>2024-12-10T09:17:00.590Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32468509" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32468509" class="text">외롭다고 말하긴 싫은데</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/15563" class="link_artist"><span class="text">제아</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CRAZY (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32471029</id>
+        <link href="https://vibe.naver.com/album/32471029"/>
+        <updated>2024-12-10T15:16:54.700Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32471029" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32471029" class="text">CRAZY</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5438597" class="link_artist"><span class="text">LE SSERAFIM (르세라핌)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Buddy Buddy (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32471526</id>
+        <link href="https://vibe.naver.com/album/32471526"/>
+        <updated>2024-12-10T15:16:54.700Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32471526" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32471526" class="text">Buddy Buddy</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3654002" class="link_artist"><span class="text">NiziU (니쥬)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거짓말의 반대말만 할게요 (비밀 사이 X 이창섭(LEECHANGSUB)) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/32432943"/>
         <updated>2024-12-09T03:03:34.195Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32432943" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32432943" class="text">don't need this anymore</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2862857" class="link_artist"><span class="text">Paulkyte(폴카이트)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Voyage (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32468428</id>
-        <link href="https://vibe.naver.com/album/32468428"/>
-        <updated>2024-12-09T03:03:34.195Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32468428" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32468428" class="text">Le Voyage</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/145572" class="link_artist"><span class="text">윤한(Yoonhan)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별이 될게 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32427921</id>
-        <link href="https://vibe.naver.com/album/32427921"/>
-        <updated>2024-12-09T03:03:34.199Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32427921" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32427921" class="text">별이 될게</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/237948" class="link_artist"><span class="text">배그나</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

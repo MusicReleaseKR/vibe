@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-12T09:16:55.156Z</updated>
+    <updated>2024-12-12T10:17:13.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/32474742"/>
         <updated>2024-12-12T09:16:54.458Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32474742" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32474742" class="text">결혼해YOU OST Part.5</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/469904" class="link_artist"><span class="text">이민혁</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VULTURES 2]]></title>
+        <id>https://vibe.naver.com/album/32479298</id>
+        <link href="https://vibe.naver.com/album/32479298"/>
+        <updated>2024-12-12T10:17:12.568Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32479298" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32479298" class="text">VULTURES 2</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/9051981" class="link_artist"><span class="text">¥$</span></a><span>, </span></span><span><a href="/artist/9151" class="link_artist"><span class="text">Kanye West</span></a><span>, </span></span><span><a href="/artist/265953" class="link_artist"><span class="text">Ty Dolla $ign</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Serendipity]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32471700"/>
         <updated>2024-12-11T03:00:29.183Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32471700" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32471700" class="text">365</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/5874641" class="link_artist"><span class="text">규리(Kyuri)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑해 이 말뿐이야]]></title>
-        <id>https://vibe.naver.com/album/32471560</id>
-        <link href="https://vibe.naver.com/album/32471560"/>
-        <updated>2024-12-11T03:00:29.183Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32471560" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32471560" class="text">사랑해 이 말뿐이야</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/460273" class="link_artist"><span class="text">에피타이저(appetizer)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

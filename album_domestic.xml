@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-13T04:19:06.740Z</updated>
+    <updated>2024-12-13T05:15:29.194Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[合 (HOP)]]></title>
+        <id>https://vibe.naver.com/album/32481487</id>
+        <link href="https://vibe.naver.com/album/32481487"/>
+        <updated>2024-12-13T05:15:15.649Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone]]></title>
+        <id>https://vibe.naver.com/album/32479466</id>
+        <link href="https://vibe.naver.com/album/32479466"/>
+        <updated>2024-12-13T05:15:15.654Z</updated>
+        <content type="html"><![CDATA[민지운 (Min Jiwoon)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학가요제 결승전]]></title>
         <id>https://vibe.naver.com/album/32479547</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32474232"/>
         <updated>2024-12-12T03:37:46.432Z</updated>
         <content type="html"><![CDATA[임형주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[THIS IS MY ANSWER]]></title>
-        <id>https://vibe.naver.com/album/32474425</id>
-        <link href="https://vibe.naver.com/album/32474425"/>
-        <updated>2024-12-12T03:37:46.432Z</updated>
-        <content type="html"><![CDATA[차우인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Midnight Drive]]></title>
-        <id>https://vibe.naver.com/album/32474485</id>
-        <link href="https://vibe.naver.com/album/32474485"/>
-        <updated>2024-12-12T03:37:46.432Z</updated>
-        <content type="html"><![CDATA[바닐라 유니티]]></content>
     </entry>
 </feed>

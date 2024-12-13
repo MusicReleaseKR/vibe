@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-13T04:19:06.738Z</updated>
+    <updated>2024-12-13T05:15:29.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[合 (HOP)]]></title>
+        <id>https://vibe.naver.com/album/32481487</id>
+        <link href="https://vibe.naver.com/album/32481487"/>
+        <updated>2024-12-13T05:15:28.521Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32481487" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32481487" class="text">合 (HOP)</span><span data-v-78809b3d="" class="badge_dolby"><span data-v-78809b3d="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/1963693" class="link_artist"><span class="text">Stray Kids (스트레이 키즈)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Someone]]></title>
+        <id>https://vibe.naver.com/album/32479466</id>
+        <link href="https://vibe.naver.com/album/32479466"/>
+        <updated>2024-12-13T05:15:28.521Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32479466" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32479466" class="text">Someone</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2396495" class="link_artist"><span class="text">민지운 (Min Jiwoon)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ravel: Sonatine, M. 40: I. Modéré]]></title>
         <id>https://vibe.naver.com/album/32477555</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32474617"/>
         <updated>2024-12-12T03:00:13.293Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32474617" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32474617" class="text">I Can Feel</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/312509" class="link_artist"><span class="text">Syn Cole</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Still In Love]]></title>
-        <id>https://vibe.naver.com/album/32426258</id>
-        <link href="https://vibe.naver.com/album/32426258"/>
-        <updated>2024-12-12T03:00:13.295Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32426258" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32426258" class="text">Still In Love</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/8465936" class="link_artist"><span class="text">Chezile</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바보처럼]]></title>
-        <id>https://vibe.naver.com/album/32471574</id>
-        <link href="https://vibe.naver.com/album/32471574"/>
-        <updated>2024-12-11T09:16:53.777Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32471574" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32471574" class="text">바보처럼</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/200" class="link_artist"><span class="text">이승철</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

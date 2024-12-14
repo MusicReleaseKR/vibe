@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-14T03:28:50.384Z</updated>
+    <updated>2024-12-14T04:18:51.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/32481821"/>
         <updated>2024-12-14T03:28:49.467Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32481821" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32481821" class="text">왜 날 사랑하게 만들어요?</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/3530289" class="link_artist"><span class="text">siso(시소)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지금 거신 전화는 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/32481784</id>
+        <link href="https://vibe.naver.com/album/32481784"/>
+        <updated>2024-12-14T04:18:50.639Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32481784" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32481784" class="text">지금 거신 전화는 OST Part 3</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/366510" class="link_artist"><span class="text">SURAN(수란)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기억을 걷다보면]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32474432"/>
         <updated>2024-12-12T09:16:54.458Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32474432" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32474432" class="text">Serendipity</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2861934" class="link_artist"><span class="text">정효빈</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넌 (you are)]]></title>
-        <id>https://vibe.naver.com/album/32474341</id>
-        <link href="https://vibe.naver.com/album/32474341"/>
-        <updated>2024-12-12T09:16:54.458Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32474341" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32474341" class="text">넌 (you are)</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/9055" class="link_artist"><span class="text">이승열</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

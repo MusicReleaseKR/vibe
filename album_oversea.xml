@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-15T14:13:21.798Z</updated>
+    <updated>2024-12-15T15:14:34.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[The wish]]></title>
+        <id>https://vibe.naver.com/album/32481843</id>
+        <link href="https://vibe.naver.com/album/32481843"/>
+        <updated>2024-12-15T15:14:28.183Z</updated>
+        <content type="html"><![CDATA[TWICE(트와이스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Yukiakari]]></title>
+        <id>https://vibe.naver.com/album/32481512</id>
+        <link href="https://vibe.naver.com/album/32481512"/>
+        <updated>2024-12-15T15:14:28.190Z</updated>
+        <content type="html"><![CDATA[&amp;TEAM]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ravel: Sonatine, M. 40: I. Modéré]]></title>
         <id>https://vibe.naver.com/album/32477555</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32401333"/>
         <updated>2024-12-11T03:00:23.346Z</updated>
         <content type="html"><![CDATA[Khalid]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CRAZY]]></title>
-        <id>https://vibe.naver.com/album/32471029</id>
-        <link href="https://vibe.naver.com/album/32471029"/>
-        <updated>2024-12-10T15:16:48.726Z</updated>
-        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Buddy Buddy]]></title>
-        <id>https://vibe.naver.com/album/32471526</id>
-        <link href="https://vibe.naver.com/album/32471526"/>
-        <updated>2024-12-10T15:16:48.727Z</updated>
-        <content type="html"><![CDATA[NiziU (니쥬)]]></content>
     </entry>
 </feed>

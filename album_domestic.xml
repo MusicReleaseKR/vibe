@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-16T04:19:15.405Z</updated>
+    <updated>2024-12-16T05:17:13.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Walkin On Water (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/32481847</id>
+        <link href="https://vibe.naver.com/album/32481847"/>
+        <updated>2024-12-16T05:17:02.625Z</updated>
+        <content type="html"><![CDATA[Stray Kids (스트레이 키즈)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에필로그 (Epilogue)]]></title>
         <id>https://vibe.naver.com/album/32481775</id>
@@ -69,6 +76,13 @@
         <content type="html"><![CDATA[장수빈]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[미치도록 사랑했었던 그날]]></title>
+        <id>https://vibe.naver.com/album/32481786</id>
+        <link href="https://vibe.naver.com/album/32481786"/>
+        <updated>2024-12-16T05:17:02.631Z</updated>
+        <content type="html"><![CDATA[우은미]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이해하지 못한 말]]></title>
         <id>https://vibe.naver.com/album/32482519</id>
         <link href="https://vibe.naver.com/album/32482519"/>
@@ -118,7 +132,7 @@
         <content type="html"><![CDATA[Hippie Kunda (히피쿤다)]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[My Side]]></title>
+        <title type="html"><![CDATA[Your Side]]></title>
         <id>https://vibe.naver.com/album/32481801</id>
         <link href="https://vibe.naver.com/album/32481801"/>
         <updated>2024-12-16T03:03:30.572Z</updated>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32481831"/>
         <updated>2024-12-15T03:05:32.664Z</updated>
         <content type="html"><![CDATA[뮤지(Muzie)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서로가 서로의 마음 안에]]></title>
-        <id>https://vibe.naver.com/album/32481730</id>
-        <link href="https://vibe.naver.com/album/32481730"/>
-        <updated>2024-12-15T03:05:32.664Z</updated>
-        <content type="html"><![CDATA[Kinn(킨)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비는 총총]]></title>
-        <id>https://vibe.naver.com/album/32481795</id>
-        <link href="https://vibe.naver.com/album/32481795"/>
-        <updated>2024-12-15T03:05:32.664Z</updated>
-        <content type="html"><![CDATA[H3ATHR SUN(헤더썬)]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-17T01:13:01.479Z</updated>
+    <updated>2024-12-17T02:59:34.526Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -223,13 +223,6 @@
         <content type="html"><![CDATA[Peso Pluma]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[not so xmas xmas, Vol. 2]]></title>
-        <id>https://vibe.naver.com/album/32470164</id>
-        <link href="https://vibe.naver.com/album/32470164"/>
-        <updated>2024-12-13T03:01:48.255Z</updated>
-        <content type="html"><![CDATA[Gareth.T]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[On a night when everyone wants to die]]></title>
         <id>https://vibe.naver.com/album/32478694</id>
         <link href="https://vibe.naver.com/album/32478694"/>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/32474235"/>
         <updated>2024-12-12T03:00:07.185Z</updated>
         <content type="html"><![CDATA[Ichiko Aoba]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Christmas (Deluxe Edition)]]></title>
+        <id>https://vibe.naver.com/album/32426254</id>
+        <link href="https://vibe.naver.com/album/32426254"/>
+        <updated>2024-12-17T02:59:28.446Z</updated>
+        <content type="html"><![CDATA[Cher]]></content>
     </entry>
 </feed>

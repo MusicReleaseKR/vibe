@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2024-12-18T04:18:24.971Z</updated>
+    <updated>2024-12-18T05:15:29.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Santa Claus Is Coming To Town]]></title>
+        <id>https://vibe.naver.com/album/32486335</id>
+        <link href="https://vibe.naver.com/album/32486335"/>
+        <updated>2024-12-18T05:15:22.541Z</updated>
+        <content type="html"><![CDATA[Lady Gaga]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xmas Time]]></title>
         <id>https://vibe.naver.com/album/32479252</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32479406"/>
         <updated>2024-12-13T03:01:48.254Z</updated>
         <content type="html"><![CDATA[Michael Marcagi]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Glide]]></title>
-        <id>https://vibe.naver.com/album/32317692</id>
-        <link href="https://vibe.naver.com/album/32317692"/>
-        <updated>2024-12-13T03:01:48.254Z</updated>
-        <content type="html"><![CDATA[Fiji Blue]]></content>
     </entry>
 </feed>

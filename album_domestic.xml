@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-20T04:17:48.505Z</updated>
+    <updated>2024-12-20T05:14:30.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Winter Ahead (with 박효신) : 윤석철트리오 Ver.]]></title>
+        <id>https://vibe.naver.com/album/32498399</id>
+        <link href="https://vibe.naver.com/album/32498399"/>
+        <updated>2024-12-20T05:14:18.059Z</updated>
+        <content type="html"><![CDATA[V]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.35 : Done Remix]]></title>
+        <id>https://vibe.naver.com/album/32498509</id>
+        <link href="https://vibe.naver.com/album/32498509"/>
+        <updated>2024-12-20T05:14:18.063Z</updated>
+        <content type="html"><![CDATA[nævis(나이비스)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미스터트롯3 예선전 베스트 PART 1]]></title>
         <id>https://vibe.naver.com/album/32498595</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32493002"/>
         <updated>2024-12-19T03:27:09.067Z</updated>
         <content type="html"><![CDATA[고상지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래도 보고 싶다]]></title>
-        <id>https://vibe.naver.com/album/32493026</id>
-        <link href="https://vibe.naver.com/album/32493026"/>
-        <updated>2024-12-19T03:27:09.067Z</updated>
-        <content type="html"><![CDATA[신현우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우연을 기다렸어]]></title>
-        <id>https://vibe.naver.com/album/32492840</id>
-        <link href="https://vibe.naver.com/album/32492840"/>
-        <updated>2024-12-19T03:27:09.068Z</updated>
-        <content type="html"><![CDATA[훈스]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-20T04:17:48.509Z</updated>
+    <updated>2024-12-20T05:14:30.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Winter Ahead (with 박효신) : 윤석철트리오 Ver.]]></title>
+        <id>https://vibe.naver.com/album/32498399</id>
+        <link href="https://vibe.naver.com/album/32498399"/>
+        <updated>2024-12-20T05:14:29.295Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32498399" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32498399" class="text">Winter Ahead (with 박효신) : 윤석철트리오 Ver.</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/274326" class="link_artist"><span class="text">V</span></a><span>, </span></span><span><a href="/artist/1680" class="link_artist"><span class="text">박효신</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.35 : Done Remix]]></title>
+        <id>https://vibe.naver.com/album/32498509</id>
+        <link href="https://vibe.naver.com/album/32498509"/>
+        <updated>2024-12-20T05:14:29.295Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32498509" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32498509" class="text">iScreaM Vol.35 : Done Remix</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/6669712" class="link_artist"><span class="text">nævis(나이비스)</span></a><span>, </span></span><span><a href="/artist/375848" class="link_artist"><span class="text">IMLAY</span></a><span>, </span></span><span><a href="/artist/5563469" class="link_artist"><span class="text">2Spade</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Game Don't Stop - Squid Game 2]]></title>
         <id>https://vibe.naver.com/album/32485423</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32491388"/>
         <updated>2024-12-19T03:27:22.192Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32491388" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32491388" class="text">함께하나</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/4622697" class="link_artist"><span class="text">사람하나</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 작은 크리스마스]]></title>
-        <id>https://vibe.naver.com/album/32492092</id>
-        <link href="https://vibe.naver.com/album/32492092"/>
-        <updated>2024-12-19T03:27:22.192Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32492092" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32492092" class="text">우리 작은 크리스마스</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/363229" class="link_artist"><span class="text">마리슈</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24'VIN]]></title>
-        <id>https://vibe.naver.com/album/32497210</id>
-        <link href="https://vibe.naver.com/album/32497210"/>
-        <updated>2024-12-19T03:27:22.193Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-78809b3d="" href="/album/32497210" class="title"><span data-v-78809b3d="" class="text_wrap"><span data-v-78809b3d="" id="32497210" class="text">24'VIN</span><!----><!----></span><span data-v-78809b3d="" class="blind">페이지로 이동</span></a><div data-v-78809b3d="" class="artist"><span data-v-78809b3d="" class="artist_sub_inner"><span><a href="/artist/2896305" class="link_artist"><span class="text">솜혜빈(som hevin)</span></a><!----></span></span><span data-v-78809b3d="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

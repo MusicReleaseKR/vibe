@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2024-12-24T14:13:26.041Z</updated>
+    <updated>2024-12-24T15:14:25.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[S G T A P E - 02]]></title>
+        <id>https://vibe.naver.com/album/32504136</id>
+        <link href="https://vibe.naver.com/album/32504136"/>
+        <updated>2024-12-24T15:14:25.201Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32504136" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32504136" class="text">S G T A P E - 02</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/453272" class="link_artist"><span class="text">실리카겔</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHU IS KEVIN]]></title>
         <id>https://vibe.naver.com/album/32503390</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32500445"/>
         <updated>2024-12-23T03:21:08.433Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32500445" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32500445" class="text">Love Talk</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/2410249" class="link_artist"><span class="text">PL(피엘)</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTX 3rd : 미친 듯 놀자 ride]]></title>
-        <id>https://vibe.naver.com/album/32500430</id>
-        <link href="https://vibe.naver.com/album/32500430"/>
-        <updated>2024-12-23T03:21:08.436Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32500430" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32500430" class="text">DTX 3rd : 미친 듯 놀자 ride</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/6105199" class="link_artist"><span class="text">디스코택시(D'scoTech-XI)</span></a><span>, </span></span><span><a href="/artist/3186" class="link_artist"><span class="text">노브레인(NoBrain)</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

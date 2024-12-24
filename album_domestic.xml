@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-24T14:13:26.032Z</updated>
+    <updated>2024-12-24T15:14:25.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[S G T A P E - 02]]></title>
+        <id>https://vibe.naver.com/album/32504136</id>
+        <link href="https://vibe.naver.com/album/32504136"/>
+        <updated>2024-12-24T15:14:08.921Z</updated>
+        <content type="html"><![CDATA[실리카겔]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[WHU IS KEVIN]]></title>
         <id>https://vibe.naver.com/album/32503390</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32500445"/>
         <updated>2024-12-23T03:20:51.358Z</updated>
         <content type="html"><![CDATA[PL(피엘)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DTX 3rd : 미친 듯 놀자 ride]]></title>
-        <id>https://vibe.naver.com/album/32500430</id>
-        <link href="https://vibe.naver.com/album/32500430"/>
-        <updated>2024-12-23T03:20:51.359Z</updated>
-        <content type="html"><![CDATA[디스코택시(D'scoTech-XI)]]></content>
     </entry>
 </feed>

@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-28T08:17:30.249Z</updated>
+    <updated>2024-12-28T09:13:50.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지금 거신 전화는 OST Part 5]]></title>
+        <id>https://vibe.naver.com/album/32507205</id>
+        <link href="https://vibe.naver.com/album/32507205"/>
+        <updated>2024-12-28T09:13:33.174Z</updated>
+        <content type="html"><![CDATA[휘인(Whee In)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑은 외나무다리에서 OST Part 10]]></title>
+        <id>https://vibe.naver.com/album/32507086</id>
+        <link href="https://vibe.naver.com/album/32507086"/>
+        <updated>2024-12-28T09:13:33.175Z</updated>
+        <content type="html"><![CDATA[진동욱]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그때가 좋았어]]></title>
+        <id>https://vibe.naver.com/album/32507286</id>
+        <link href="https://vibe.naver.com/album/32507286"/>
+        <updated>2024-12-28T09:13:33.178Z</updated>
+        <content type="html"><![CDATA[이규라]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루에도 열두 번]]></title>
+        <id>https://vibe.naver.com/album/32507282</id>
+        <link href="https://vibe.naver.com/album/32507282"/>
+        <updated>2024-12-28T09:13:33.179Z</updated>
+        <content type="html"><![CDATA[1chika]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시, 겨울]]></title>
+        <id>https://vibe.naver.com/album/32507294</id>
+        <link href="https://vibe.naver.com/album/32507294"/>
+        <updated>2024-12-28T09:13:33.180Z</updated>
+        <content type="html"><![CDATA[12월]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마트료시카(Matryoshka)]]></title>
+        <id>https://vibe.naver.com/album/32507285</id>
+        <link href="https://vibe.naver.com/album/32507285"/>
+        <updated>2024-12-28T09:13:33.183Z</updated>
+        <content type="html"><![CDATA[도비비(DovIvI)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[음악 (with 선우정아)]]></title>
         <id>https://vibe.naver.com/album/32507270</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/32506097"/>
         <updated>2024-12-27T03:18:42.415Z</updated>
         <content type="html"><![CDATA[조월(Jowall)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GIN & TONIC]]></title>
-        <id>https://vibe.naver.com/album/32506956</id>
-        <link href="https://vibe.naver.com/album/32506956"/>
-        <updated>2024-12-27T03:18:42.420Z</updated>
-        <content type="html"><![CDATA[LIK3]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피상]]></title>
-        <id>https://vibe.naver.com/album/32506179</id>
-        <link href="https://vibe.naver.com/album/32506179"/>
-        <updated>2024-12-27T03:18:42.421Z</updated>
-        <content type="html"><![CDATA[LIF(리프)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEQUENCE #4]]></title>
-        <id>https://vibe.naver.com/album/32504184</id>
-        <link href="https://vibe.naver.com/album/32504184"/>
-        <updated>2024-12-26T09:15:08.898Z</updated>
-        <content type="html"><![CDATA[김재중]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[히히하하]]></title>
-        <id>https://vibe.naver.com/album/32504500</id>
-        <link href="https://vibe.naver.com/album/32504500"/>
-        <updated>2024-12-26T09:15:08.899Z</updated>
-        <content type="html"><![CDATA[이날치]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[more and more]]></title>
-        <id>https://vibe.naver.com/album/32503567</id>
-        <link href="https://vibe.naver.com/album/32503567"/>
-        <updated>2024-12-26T09:15:08.900Z</updated>
-        <content type="html"><![CDATA[Royal 44]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DIRTY]]></title>
-        <id>https://vibe.naver.com/album/32503576</id>
-        <link href="https://vibe.naver.com/album/32503576"/>
-        <updated>2024-12-26T09:15:08.902Z</updated>
-        <content type="html"><![CDATA[가오가이(kaogaii)]]></content>
     </entry>
 </feed>

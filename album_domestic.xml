@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2024-12-29T09:13:41.212Z</updated>
+    <updated>2024-12-29T10:13:56.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -39,13 +39,6 @@
         <link href="https://vibe.naver.com/album/32507276"/>
         <updated>2024-12-29T09:13:26.276Z</updated>
         <content type="html"><![CDATA[OXYNOVA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NINE]]></title>
-        <id>https://vibe.naver.com/album/32507277</id>
-        <link href="https://vibe.naver.com/album/32507277"/>
-        <updated>2024-12-29T09:13:26.276Z</updated>
-        <content type="html"><![CDATA[더 딴따라]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사랑은 외나무다리에서 OST]]></title>
@@ -354,5 +347,12 @@
         <link href="https://vibe.naver.com/album/32507066"/>
         <updated>2024-12-27T03:18:42.399Z</updated>
         <content type="html"><![CDATA[은종]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[siracusa]]></title>
+        <id>https://vibe.naver.com/album/32506094</id>
+        <link href="https://vibe.naver.com/album/32506094"/>
+        <updated>2024-12-29T10:13:37.623Z</updated>
+        <content type="html"><![CDATA[orange flavored cigarettes]]></content>
     </entry>
 </feed>

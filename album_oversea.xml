@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-01-01T02:54:09.663Z</updated>
+    <updated>2025-01-01T03:26:33.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Slime Season]]></title>
+        <id>https://vibe.naver.com/album/32243410</id>
+        <link href="https://vibe.naver.com/album/32243410"/>
+        <updated>2025-01-01T03:26:25.390Z</updated>
+        <content type="html"><![CDATA[Young Thug]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Adore You (ARTBAT Remix)]]></title>
+        <id>https://vibe.naver.com/album/32505842</id>
+        <link href="https://vibe.naver.com/album/32505842"/>
+        <updated>2025-01-01T03:26:25.390Z</updated>
+        <content type="html"><![CDATA[Hugel]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Ultima Noapte]]></title>
+        <id>https://vibe.naver.com/album/32507178</id>
+        <link href="https://vibe.naver.com/album/32507178"/>
+        <updated>2025-01-01T03:26:25.396Z</updated>
+        <content type="html"><![CDATA[IDK]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[back to friends]]></title>
+        <id>https://vibe.naver.com/album/32506234</id>
+        <link href="https://vibe.naver.com/album/32506234"/>
+        <updated>2025-01-01T03:26:25.396Z</updated>
+        <content type="html"><![CDATA[sombr]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[All I Think About]]></title>
+        <id>https://vibe.naver.com/album/32509574</id>
+        <link href="https://vibe.naver.com/album/32509574"/>
+        <updated>2025-01-01T03:26:25.410Z</updated>
+        <content type="html"><![CDATA[Tobÿ]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[+-=÷× (Tour Collection: Live)]]></title>
         <id>https://vibe.naver.com/album/32506214</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/32496961"/>
         <updated>2024-12-25T03:18:02.038Z</updated>
         <content type="html"><![CDATA[LIZOT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N / bias (Special Edition)]]></title>
-        <id>https://vibe.naver.com/album/32504308</id>
-        <link href="https://vibe.naver.com/album/32504308"/>
-        <updated>2024-12-25T03:18:02.038Z</updated>
-        <content type="html"><![CDATA[Kento Nakajima]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[We Wish You A Merry Christmas]]></title>
-        <id>https://vibe.naver.com/album/32496857</id>
-        <link href="https://vibe.naver.com/album/32496857"/>
-        <updated>2024-12-25T03:18:02.038Z</updated>
-        <content type="html"><![CDATA[The Weavers]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Every Day Will Be Like A Holiday]]></title>
-        <id>https://vibe.naver.com/album/32480318</id>
-        <link href="https://vibe.naver.com/album/32480318"/>
-        <updated>2024-12-25T03:18:02.039Z</updated>
-        <content type="html"><![CDATA[The Band Loula]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1432]]></title>
-        <id>https://vibe.naver.com/album/32496890</id>
-        <link href="https://vibe.naver.com/album/32496890"/>
-        <updated>2024-12-24T03:19:36.517Z</updated>
-        <content type="html"><![CDATA[Katy Perry]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[All Night]]></title>
-        <id>https://vibe.naver.com/album/32498197</id>
-        <link href="https://vibe.naver.com/album/32498197"/>
-        <updated>2024-12-24T03:19:36.518Z</updated>
-        <content type="html"><![CDATA[Anthony Russo]]></content>
     </entry>
 </feed>

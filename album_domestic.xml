@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-01T08:18:54.113Z</updated>
+    <updated>2025-01-01T09:15:08.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[연]]></title>
+        <id>https://vibe.naver.com/album/32509567</id>
+        <link href="https://vibe.naver.com/album/32509567"/>
+        <updated>2025-01-01T09:14:51.580Z</updated>
+        <content type="html"><![CDATA[오반(OVAN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작의 아이 ハジマリのコ (Starting With You)]]></title>
+        <id>https://vibe.naver.com/album/32509464</id>
+        <link href="https://vibe.naver.com/album/32509464"/>
+        <updated>2025-01-01T09:14:51.581Z</updated>
+        <content type="html"><![CDATA[마크툽(Maktub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애의 참견 2025 OST Part.1]]></title>
+        <id>https://vibe.naver.com/album/32509496</id>
+        <link href="https://vibe.naver.com/album/32509496"/>
+        <updated>2025-01-01T09:14:51.581Z</updated>
+        <content type="html"><![CDATA[김미정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수상한 그녀 OST Part 4]]></title>
+        <id>https://vibe.naver.com/album/32509565</id>
+        <link href="https://vibe.naver.com/album/32509565"/>
+        <updated>2025-01-01T09:14:51.582Z</updated>
+        <content type="html"><![CDATA[채원빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blanket]]></title>
         <id>https://vibe.naver.com/album/32509410</id>
@@ -326,33 +354,5 @@
         <link href="https://vibe.naver.com/album/32507084"/>
         <updated>2024-12-30T09:15:29.394Z</updated>
         <content type="html"><![CDATA[조정민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너 아니면 누구를]]></title>
-        <id>https://vibe.naver.com/album/32507370</id>
-        <link href="https://vibe.naver.com/album/32507370"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[민하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 미완성]]></title>
-        <id>https://vibe.naver.com/album/32507323</id>
-        <link href="https://vibe.naver.com/album/32507323"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[신일국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign 3rd Mini Album 'Love Potion']]></title>
-        <id>https://vibe.naver.com/album/32507362</id>
-        <link href="https://vibe.naver.com/album/32507362"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[n.SSign(엔싸인)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wen Moon (English Version)]]></title>
-        <id>https://vibe.naver.com/album/32507349</id>
-        <link href="https://vibe.naver.com/album/32507349"/>
-        <updated>2024-12-30T09:15:29.395Z</updated>
-        <content type="html"><![CDATA[이터니티(IITERNITI)]]></content>
     </entry>
 </feed>

@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-01T08:18:54.122Z</updated>
+    <updated>2025-01-01T09:15:08.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32509567</id>
+        <link href="https://vibe.naver.com/album/32509567"/>
+        <updated>2025-01-01T09:14:51.580Z</updated>
+        <content type="html"><![CDATA[오반(OVAN)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작의 아이 ハジマリのコ (Starting With You) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32509464</id>
+        <link href="https://vibe.naver.com/album/32509464"/>
+        <updated>2025-01-01T09:14:51.581Z</updated>
+        <content type="html"><![CDATA[마크툽(Maktub)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애의 참견 2025 OST Part.1 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32509496</id>
+        <link href="https://vibe.naver.com/album/32509496"/>
+        <updated>2025-01-01T09:14:51.581Z</updated>
+        <content type="html"><![CDATA[김미정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수상한 그녀 OST Part 4 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32509565</id>
+        <link href="https://vibe.naver.com/album/32509565"/>
+        <updated>2025-01-01T09:14:51.582Z</updated>
+        <content type="html"><![CDATA[채원빈]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Blanket (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32509410</id>
@@ -325,34 +353,6 @@
         <link href="https://vibe.naver.com/album/32507084"/>
         <updated>2024-12-30T09:15:29.394Z</updated>
         <content type="html"><![CDATA[조정민]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너 아니면 누구를 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32507370</id>
-        <link href="https://vibe.naver.com/album/32507370"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[민하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리들의 미완성 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32507323</id>
-        <link href="https://vibe.naver.com/album/32507323"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[신일국]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[n.SSign 3rd Mini Album 'Love Potion' (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32507362</id>
-        <link href="https://vibe.naver.com/album/32507362"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[n.SSign(엔싸인)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Wen Moon (English Version) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32507349</id>
-        <link href="https://vibe.naver.com/album/32507349"/>
-        <updated>2024-12-30T09:15:29.395Z</updated>
-        <content type="html"><![CDATA[이터니티(IITERNITI)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Slime Season (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,34 @@
         <content type="html"><![CDATA[LIZOT]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[연 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32509567</id>
+        <link href="https://vibe.naver.com/album/32509567"/>
+        <updated>2025-01-01T09:15:07.438Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32509567" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32509567" class="text">연</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/470713" class="link_artist"><span class="text">오반(OVAN)</span></a><span>, </span></span><span><a href="/artist/3679562" class="link_artist"><span class="text">주시크 (Joosiq)</span></a><span>, </span></span><span><a href="/artist/93829" class="link_artist"><span class="text">런치</span></a><span>, </span></span><span><a href="/artist/479427" class="link_artist"><span class="text">피아노맨</span></a><span>, </span></span><span><a href="/artist/2409476" class="link_artist"><span class="text">임수</span></a><span>, </span></span><span><a href="/artist/8213369" class="link_artist"><span class="text">김창운</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작의 아이 ハジマリのコ (Starting With You) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32509464</id>
+        <link href="https://vibe.naver.com/album/32509464"/>
+        <updated>2025-01-01T09:15:07.438Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32509464" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32509464" class="text">시작의 아이 ハジマリのコ (Starting With You)</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/170118" class="link_artist"><span class="text">마크툽(Maktub)</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애의 참견 2025 OST Part.1 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32509496</id>
+        <link href="https://vibe.naver.com/album/32509496"/>
+        <updated>2025-01-01T09:15:07.438Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32509496" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32509496" class="text">연애의 참견 2025 OST Part.1</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/2392889" class="link_artist"><span class="text">김미정</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수상한 그녀 OST Part 4 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32509565</id>
+        <link href="https://vibe.naver.com/album/32509565"/>
+        <updated>2025-01-01T09:15:07.451Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32509565" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32509565" class="text">수상한 그녀 OST Part 4</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/9061301" class="link_artist"><span class="text">채원빈</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Slime Season (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32243410</id>
         <link href="https://vibe.naver.com/album/32243410"/>
@@ -1025,33 +1053,5 @@
         <link href="https://vibe.naver.com/album/32508348"/>
         <updated>2024-12-31T03:18:01.262Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32508348" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32508348" class="text">Beautiful Story (Highlight)</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/8944430" class="link_artist"><span class="text">W!TCHX (위치스)</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빈 칸 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32508352</id>
-        <link href="https://vibe.naver.com/album/32508352"/>
-        <updated>2024-12-31T03:18:01.262Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32508352" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32508352" class="text">빈 칸</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/4001849" class="link_artist"><span class="text">뱁영규</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이보다 더 좋을 수 있을까 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32507341</id>
-        <link href="https://vibe.naver.com/album/32507341"/>
-        <updated>2024-12-30T09:15:29.390Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32507341" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32507341" class="text">이보다 더 좋을 수 있을까</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/214529" class="link_artist"><span class="text">비투비</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32507409</id>
-        <link href="https://vibe.naver.com/album/32507409"/>
-        <updated>2024-12-30T09:15:29.390Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32507409" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32507409" class="text">20</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/10093" class="link_artist"><span class="text">HUS (허밍어반스테레오)</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼하자 맹꽁아! OST Part 13 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32507377</id>
-        <link href="https://vibe.naver.com/album/32507377"/>
-        <updated>2024-12-30T09:15:29.394Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-67a59031="" href="/album/32507377" class="title" disabled="false"><span data-v-67a59031="" class="text_wrap"><span data-v-67a59031="" id="32507377" class="text">결혼하자 맹꽁아! OST Part 13</span><!----><!----></span><span data-v-67a59031="" class="blind">페이지로 이동</span></a><div data-v-67a59031="" class="artist"><span data-v-67a59031="" class="artist_sub_inner"><span><a href="/artist/139191" class="link_artist"><span class="text">제이세라(J-Cera)</span></a><!----></span></span><span data-v-67a59031="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

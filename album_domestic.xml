@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-03T05:14:14.245Z</updated>
+    <updated>2025-01-03T06:20:14.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -41,7 +41,7 @@
         <content type="html"><![CDATA[신씨]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[술이 좋아서]]></title>
+        <title type="html"><![CDATA[술이 그렇게 좋아서]]></title>
         <id>https://vibe.naver.com/album/32510899</id>
         <link href="https://vibe.naver.com/album/32510899"/>
         <updated>2025-01-03T03:19:03.945Z</updated>

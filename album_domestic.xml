@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-03T08:18:45.258Z</updated>
+    <updated>2025-01-03T09:15:00.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사랑했던 우리는 없어]]></title>
+        <id>https://vibe.naver.com/album/32510958</id>
+        <link href="https://vibe.naver.com/album/32510958"/>
+        <updated>2025-01-03T09:14:47.484Z</updated>
+        <content type="html"><![CDATA[리]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hug & Hub Part 5]]></title>
+        <id>https://vibe.naver.com/album/32510893</id>
+        <link href="https://vibe.naver.com/album/32510893"/>
+        <updated>2025-01-03T09:14:47.484Z</updated>
+        <content type="html"><![CDATA[김정은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[겨울정류장]]></title>
+        <id>https://vibe.naver.com/album/32510979</id>
+        <link href="https://vibe.naver.com/album/32510979"/>
+        <updated>2025-01-03T09:14:47.484Z</updated>
+        <content type="html"><![CDATA[김우도]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화풀이 스타일 (Anger Freestyle)]]></title>
+        <id>https://vibe.naver.com/album/32510810</id>
+        <link href="https://vibe.naver.com/album/32510810"/>
+        <updated>2025-01-03T09:14:47.485Z</updated>
+        <content type="html"><![CDATA[요시(Yosi)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darling]]></title>
+        <id>https://vibe.naver.com/album/32510728</id>
+        <link href="https://vibe.naver.com/album/32510728"/>
+        <updated>2025-01-03T09:14:47.485Z</updated>
+        <content type="html"><![CDATA[송파울프스]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Messiah]]></title>
         <id>https://vibe.naver.com/album/32510903</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/32509410"/>
         <updated>2025-01-01T03:26:16.946Z</updated>
         <content type="html"><![CDATA[이을 (E.ul)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#2B87C6]]></title>
-        <id>https://vibe.naver.com/album/32509458</id>
-        <link href="https://vibe.naver.com/album/32509458"/>
-        <updated>2025-01-01T03:26:16.946Z</updated>
-        <content type="html"><![CDATA[DAN(댄)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be Your Man]]></title>
-        <id>https://vibe.naver.com/album/32509451</id>
-        <link href="https://vibe.naver.com/album/32509451"/>
-        <updated>2025-01-01T03:26:16.948Z</updated>
-        <content type="html"><![CDATA[홍석민(HONG SEOKMIN)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난 행복해 (유진우 X 나미브)]]></title>
-        <id>https://vibe.naver.com/album/32509594</id>
-        <link href="https://vibe.naver.com/album/32509594"/>
-        <updated>2025-01-01T03:26:16.948Z</updated>
-        <content type="html"><![CDATA[유진우]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 사랑하지 않은 죄 OST Part 11]]></title>
-        <id>https://vibe.naver.com/album/32508554</id>
-        <link href="https://vibe.naver.com/album/32508554"/>
-        <updated>2025-01-01T03:26:16.951Z</updated>
-        <content type="html"><![CDATA[황시연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Footstep, Walk, Run (승리의 여신 : 니케 OST)]]></title>
-        <id>https://vibe.naver.com/album/32509597</id>
-        <link href="https://vibe.naver.com/album/32509597"/>
-        <updated>2025-01-01T03:26:16.951Z</updated>
-        <content type="html"><![CDATA[LEVEL NINE]]></content>
     </entry>
 </feed>

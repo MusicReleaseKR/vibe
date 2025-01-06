@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-06T08:20:01.652Z</updated>
+    <updated>2025-01-06T09:16:03.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘만 I LOVE YOU]]></title>
+        <id>https://vibe.naver.com/album/32514192</id>
+        <link href="https://vibe.naver.com/album/32514192"/>
+        <updated>2025-01-06T09:15:50.963Z</updated>
+        <content type="html"><![CDATA[BOYNEXTDOOR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CONNECTION]]></title>
+        <id>https://vibe.naver.com/album/32474406</id>
+        <link href="https://vibe.naver.com/album/32474406"/>
+        <updated>2025-01-06T09:15:50.963Z</updated>
+        <content type="html"><![CDATA[온유 (ONEW)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[snow8]]></title>
+        <id>https://vibe.naver.com/album/32512086</id>
+        <link href="https://vibe.naver.com/album/32512086"/>
+        <updated>2025-01-06T09:15:50.963Z</updated>
+        <content type="html"><![CDATA[리도어(Redoor)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날 두고 가지 마]]></title>
+        <id>https://vibe.naver.com/album/32512212</id>
+        <link href="https://vibe.naver.com/album/32512212"/>
+        <updated>2025-01-06T09:15:50.963Z</updated>
+        <content type="html"><![CDATA[여은]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[100%]]></title>
+        <id>https://vibe.naver.com/album/32512128</id>
+        <link href="https://vibe.naver.com/album/32512128"/>
+        <updated>2025-01-06T09:15:50.966Z</updated>
+        <content type="html"><![CDATA[TOVE]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Season of Memories]]></title>
         <id>https://vibe.naver.com/album/32513023</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/32511991"/>
         <updated>2025-01-04T09:13:55.767Z</updated>
         <content type="html"><![CDATA[Paul Blanco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지나가는 바람처럼]]></title>
-        <id>https://vibe.naver.com/album/32512031</id>
-        <link href="https://vibe.naver.com/album/32512031"/>
-        <updated>2025-01-04T09:13:55.778Z</updated>
-        <content type="html"><![CDATA[숙희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처음]]></title>
-        <id>https://vibe.naver.com/album/32511954</id>
-        <link href="https://vibe.naver.com/album/32511954"/>
-        <updated>2025-01-04T09:13:55.779Z</updated>
-        <content type="html"><![CDATA[리햅 (Rheehab)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 거신 전화는 OST Part 6]]></title>
-        <id>https://vibe.naver.com/album/32511951</id>
-        <link href="https://vibe.naver.com/album/32511951"/>
-        <updated>2025-01-04T09:13:55.779Z</updated>
-        <content type="html"><![CDATA[유연석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SALTY]]></title>
-        <id>https://vibe.naver.com/album/32512041</id>
-        <link href="https://vibe.naver.com/album/32512041"/>
-        <updated>2025-01-04T09:13:55.779Z</updated>
-        <content type="html"><![CDATA[만쥬한봉지]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[널 잃은 후에]]></title>
-        <id>https://vibe.naver.com/album/32512044</id>
-        <link href="https://vibe.naver.com/album/32512044"/>
-        <updated>2025-01-04T09:13:55.787Z</updated>
-        <content type="html"><![CDATA[Ari K]]></content>
     </entry>
 </feed>

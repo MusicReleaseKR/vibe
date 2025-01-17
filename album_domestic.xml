@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-17T04:17:55.121Z</updated>
+    <updated>2025-01-17T05:14:16.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/32590441"/>
         <updated>2025-01-17T03:16:41.572Z</updated>
         <content type="html"><![CDATA[윤마치 (MRCH)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Did: Bloom (Deluxe)]]></title>
+        <id>https://vibe.naver.com/album/32590354</id>
+        <link href="https://vibe.naver.com/album/32590354"/>
+        <updated>2025-01-17T05:14:01.631Z</updated>
+        <content type="html"><![CDATA[Yves (이브)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Late Night Calls]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32587052"/>
         <updated>2025-01-16T03:15:53.395Z</updated>
         <content type="html"><![CDATA[제임스 키스(James Keys)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별 같은 그대 눈빛]]></title>
-        <id>https://vibe.naver.com/album/32586807</id>
-        <link href="https://vibe.naver.com/album/32586807"/>
-        <updated>2025-01-16T03:15:53.395Z</updated>
-        <content type="html"><![CDATA[유혁]]></content>
     </entry>
 </feed>

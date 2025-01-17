@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-17T04:17:55.129Z</updated>
+    <updated>2025-01-17T05:14:16.940Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[More and More (나의 완벽한 비서 OST Part 4) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://vibe.naver.com/album/32590441"/>
         <updated>2025-01-17T03:16:41.572Z</updated>
         <content type="html"><![CDATA[윤마치 (MRCH)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I Did: Bloom (Deluxe) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32590354</id>
+        <link href="https://vibe.naver.com/album/32590354"/>
+        <updated>2025-01-17T05:14:01.631Z</updated>
+        <content type="html"><![CDATA[Yves (이브)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Late Night Calls (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32587052"/>
         <updated>2025-01-16T03:15:53.395Z</updated>
         <content type="html"><![CDATA[제임스 키스(James Keys)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별 같은 그대 눈빛 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32586807</id>
-        <link href="https://vibe.naver.com/album/32586807"/>
-        <updated>2025-01-16T03:15:53.395Z</updated>
-        <content type="html"><![CDATA[유혁]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[GBP (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -712,6 +712,13 @@
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32590441" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32590441" class="text">More and More (나의 완벽한 비서 OST Part 4)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2955090" class="link_artist"><span class="text">윤마치 (MRCH)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[I Did: Bloom (Deluxe) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32590354</id>
+        <link href="https://vibe.naver.com/album/32590354"/>
+        <updated>2025-01-17T05:14:16.239Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32590354" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32590354" class="text">I Did: Bloom (Deluxe)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2103409" class="link_artist"><span class="text">Yves (이브)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Late Night Calls (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32590363</id>
         <link href="https://vibe.naver.com/album/32590363"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32536347"/>
         <updated>2025-01-16T03:16:00.372Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32536347" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32536347" class="text">Catharsis</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5651373" class="link_artist"><span class="text">Venus Anon</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVE 2 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32585082</id>
-        <link href="https://vibe.naver.com/album/32585082"/>
-        <updated>2025-01-15T23:13:48.034Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32585082" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32585082" class="text">LOVE 2</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/6886458" class="link_artist"><span class="text">브브걸  (BBGIRLS)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

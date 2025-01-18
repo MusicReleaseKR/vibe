@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-01-18T02:37:23.374Z</updated>
+    <updated>2025-01-18T03:14:45.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Tell Me How to Live (Redux) [feat. Patrick Antonian]]]></title>
+        <id>https://vibe.naver.com/album/32591238</id>
+        <link href="https://vibe.naver.com/album/32591238"/>
+        <updated>2025-01-18T03:14:39.107Z</updated>
+        <content type="html"><![CDATA[Capital Cities]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GBP]]></title>
         <id>https://vibe.naver.com/album/32599641</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32525279"/>
         <updated>2025-01-15T23:13:54.848Z</updated>
         <content type="html"><![CDATA[Iggi Kelly]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Life Of A Zootieee]]></title>
-        <id>https://vibe.naver.com/album/32553979</id>
-        <link href="https://vibe.naver.com/album/32553979"/>
-        <updated>2025-01-15T23:13:54.848Z</updated>
-        <content type="html"><![CDATA[El Snappo]]></content>
     </entry>
 </feed>

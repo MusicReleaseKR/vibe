@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-01-22T08:19:07.838Z</updated>
+    <updated>2025-01-22T09:15:51.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Slowly, It Dawns]]></title>
+        <id>https://vibe.naver.com/album/32590379</id>
+        <link href="https://vibe.naver.com/album/32590379"/>
+        <updated>2025-01-22T09:15:45.608Z</updated>
+        <content type="html"><![CDATA[Victoria Canal]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Happy People]]></title>
         <id>https://vibe.naver.com/album/32590453</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32590365"/>
         <updated>2025-01-17T03:16:47.957Z</updated>
         <content type="html"><![CDATA[Mac Miller]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Slow Motion]]></title>
-        <id>https://vibe.naver.com/album/32589167</id>
-        <link href="https://vibe.naver.com/album/32589167"/>
-        <updated>2025-01-17T03:16:47.959Z</updated>
-        <content type="html"><![CDATA[Marshmello]]></content>
     </entry>
 </feed>

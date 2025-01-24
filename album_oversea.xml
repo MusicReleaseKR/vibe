@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-01-24T04:17:22.445Z</updated>
+    <updated>2025-01-24T05:14:01.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Fat Juicy & Wet]]></title>
+        <id>https://vibe.naver.com/album/32695964</id>
+        <link href="https://vibe.naver.com/album/32695964"/>
+        <updated>2025-01-24T05:13:54.978Z</updated>
+        <content type="html"><![CDATA[Sexyy Red]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Brainstorm]]></title>
         <id>https://vibe.naver.com/album/32695379</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32598026"/>
         <updated>2025-01-22T03:17:53.940Z</updated>
         <content type="html"><![CDATA[ARTBAT]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Piano Renditions of Little River Band]]></title>
-        <id>https://vibe.naver.com/album/32589277</id>
-        <link href="https://vibe.naver.com/album/32589277"/>
-        <updated>2025-01-22T03:17:53.942Z</updated>
-        <content type="html"><![CDATA[Rock Me Gently]]></content>
     </entry>
 </feed>

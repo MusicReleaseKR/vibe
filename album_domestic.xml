@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-24T03:16:35.599Z</updated>
+    <updated>2025-01-24T04:17:22.452Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Love Tune: Rewired]]></title>
+        <id>https://vibe.naver.com/album/32695975</id>
+        <link href="https://vibe.naver.com/album/32695975"/>
+        <updated>2025-01-24T04:17:08.249Z</updated>
+        <content type="html"><![CDATA[FIFTY FIFTY]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스터디그룹 OST Part 1]]></title>
         <id>https://vibe.naver.com/album/32696546</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32692765"/>
         <updated>2025-01-23T03:15:49.828Z</updated>
         <content type="html"><![CDATA[한지연]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꽃]]></title>
-        <id>https://vibe.naver.com/album/32692703</id>
-        <link href="https://vibe.naver.com/album/32692703"/>
-        <updated>2025-01-23T03:15:49.832Z</updated>
-        <content type="html"><![CDATA[홍기은]]></content>
     </entry>
 </feed>

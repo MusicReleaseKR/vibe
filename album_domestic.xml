@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-28T14:14:05.706Z</updated>
+    <updated>2025-01-28T15:15:30.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Wash Away]]></title>
+        <id>https://vibe.naver.com/album/32699067</id>
+        <link href="https://vibe.naver.com/album/32699067"/>
+        <updated>2025-01-28T15:15:16.919Z</updated>
+        <content type="html"><![CDATA[Balming Tiger]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플러팅]]></title>
         <id>https://vibe.naver.com/album/32660287</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32692809"/>
         <updated>2025-01-26T03:16:20.604Z</updated>
         <content type="html"><![CDATA[Ondé (온데)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Answer (나의 완벽한 비서 OST Part 7)]]></title>
-        <id>https://vibe.naver.com/album/32696276</id>
-        <link href="https://vibe.naver.com/album/32696276"/>
-        <updated>2025-01-25T09:13:47.713Z</updated>
-        <content type="html"><![CDATA[민니((여자)아이들)]]></content>
     </entry>
 </feed>

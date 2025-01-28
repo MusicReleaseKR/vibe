@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-28T14:14:05.709Z</updated>
+    <updated>2025-01-28T15:15:30.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Wash Away (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/32699067</id>
+        <link href="https://vibe.naver.com/album/32699067"/>
+        <updated>2025-01-28T15:15:16.919Z</updated>
+        <content type="html"><![CDATA[Balming Tiger]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플러팅 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/32660287</id>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/32692809"/>
         <updated>2025-01-26T03:16:20.604Z</updated>
         <content type="html"><![CDATA[Ondé (온데)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Answer (나의 완벽한 비서 OST Part 7) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/32696276</id>
-        <link href="https://vibe.naver.com/album/32696276"/>
-        <updated>2025-01-25T09:13:47.713Z</updated>
-        <content type="html"><![CDATA[민니((여자)아이들)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[A Tear in Space (Airlock) (Jakwob Remix) (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -705,6 +705,13 @@
         <content type="html"><![CDATA[Papa Roach]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Wash Away (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/32699067</id>
+        <link href="https://vibe.naver.com/album/32699067"/>
+        <updated>2025-01-28T15:15:29.243Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32699067" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32699067" class="text">Wash Away</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2400240" class="link_artist"><span class="text">Balming Tiger</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[플러팅 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/32660287</id>
         <link href="https://vibe.naver.com/album/32660287"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/32698752"/>
         <updated>2025-01-27T03:17:06.631Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32698752" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32698752" class="text">GOD_i</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8662562" class="link_artist"><span class="text">Number_i</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cameraman (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/32695365</id>
-        <link href="https://vibe.naver.com/album/32695365"/>
-        <updated>2025-01-27T03:17:06.632Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32695365" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32695365" class="text">Cameraman</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5300701" class="link_artist"><span class="text">DWLLRS</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

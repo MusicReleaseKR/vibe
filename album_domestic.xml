@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-01-30T08:17:57.806Z</updated>
+    <updated>2025-01-30T09:15:01.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스터디그룹 OST Part 2]]></title>
+        <id>https://vibe.naver.com/album/32698682</id>
+        <link href="https://vibe.naver.com/album/32698682"/>
+        <updated>2025-01-30T09:14:47.704Z</updated>
+        <content type="html"><![CDATA[방예담]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친구도 될 수 없는 우리]]></title>
+        <id>https://vibe.naver.com/album/32698827</id>
+        <link href="https://vibe.naver.com/album/32698827"/>
+        <updated>2025-01-30T09:14:47.704Z</updated>
+        <content type="html"><![CDATA[주대건]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Storm]]></title>
+        <id>https://vibe.naver.com/album/32696597</id>
+        <link href="https://vibe.naver.com/album/32696597"/>
+        <updated>2025-01-30T09:14:47.704Z</updated>
+        <content type="html"><![CDATA[김보경(NEON)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한 사람]]></title>
+        <id>https://vibe.naver.com/album/32698689</id>
+        <link href="https://vibe.naver.com/album/32698689"/>
+        <updated>2025-01-30T09:14:47.705Z</updated>
+        <content type="html"><![CDATA[김한결]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[n.SSign 1st Arena Concert Live Album 'BIRTH OF COSMO']]></title>
+        <id>https://vibe.naver.com/album/32698691</id>
+        <link href="https://vibe.naver.com/album/32698691"/>
+        <updated>2025-01-30T09:14:47.705Z</updated>
+        <content type="html"><![CDATA[n.SSign(엔싸인)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[True]]></title>
+        <id>https://vibe.naver.com/album/32699088</id>
+        <link href="https://vibe.naver.com/album/32699088"/>
+        <updated>2025-01-30T09:14:47.706Z</updated>
+        <content type="html"><![CDATA[BIXXB]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 헤어질 줄 몰랐어]]></title>
         <id>https://vibe.naver.com/album/32698830</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/32699063"/>
         <updated>2025-01-27T03:16:59.076Z</updated>
         <content type="html"><![CDATA[박창근]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아 이뻐라]]></title>
-        <id>https://vibe.naver.com/album/32698301</id>
-        <link href="https://vibe.naver.com/album/32698301"/>
-        <updated>2025-01-27T03:16:59.076Z</updated>
-        <content type="html"><![CDATA[요요미]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별들에게 물어봐 OST Part 3]]></title>
-        <id>https://vibe.naver.com/album/32696586</id>
-        <link href="https://vibe.naver.com/album/32696586"/>
-        <updated>2025-01-26T09:13:33.950Z</updated>
-        <content type="html"><![CDATA[진]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕을 말할 때]]></title>
-        <id>https://vibe.naver.com/album/32698422</id>
-        <link href="https://vibe.naver.com/album/32698422"/>
-        <updated>2025-01-26T09:13:33.951Z</updated>
-        <content type="html"><![CDATA[주호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[White Noise in Snow]]></title>
-        <id>https://vibe.naver.com/album/32696397</id>
-        <link href="https://vibe.naver.com/album/32696397"/>
-        <updated>2025-01-26T09:13:33.964Z</updated>
-        <content type="html"><![CDATA[OSUN(권오선)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Homesick]]></title>
-        <id>https://vibe.naver.com/album/32696527</id>
-        <link href="https://vibe.naver.com/album/32696527"/>
-        <updated>2025-01-26T09:13:33.964Z</updated>
-        <content type="html"><![CDATA[Wuuslime (우슬라임)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼자]]></title>
-        <id>https://vibe.naver.com/album/32696382</id>
-        <link href="https://vibe.naver.com/album/32696382"/>
-        <updated>2025-01-26T09:13:33.965Z</updated>
-        <content type="html"><![CDATA[양다일]]></content>
     </entry>
 </feed>

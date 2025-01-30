@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-01-30T14:13:58.661Z</updated>
+    <updated>2025-01-30T15:15:37.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Lose A You]]></title>
+        <id>https://vibe.naver.com/album/32699388</id>
+        <link href="https://vibe.naver.com/album/32699388"/>
+        <updated>2025-01-30T15:15:30.589Z</updated>
+        <content type="html"><![CDATA[Christopher]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日だけ I LOVE YOU (Japanese Ver.)]]></title>
+        <id>https://vibe.naver.com/album/32698692</id>
+        <link href="https://vibe.naver.com/album/32698692"/>
+        <updated>2025-01-30T15:15:30.589Z</updated>
+        <content type="html"><![CDATA[BOYNEXTDOOR]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[XDM Unidentified Waves]]></title>
+        <id>https://vibe.naver.com/album/32699092</id>
+        <link href="https://vibe.naver.com/album/32699092"/>
+        <updated>2025-01-30T15:15:30.589Z</updated>
+        <content type="html"><![CDATA[XG]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Won't Be Long]]></title>
         <id>https://vibe.naver.com/album/32696000</id>
@@ -333,26 +354,5 @@
         <link href="https://vibe.naver.com/album/32695573"/>
         <updated>2025-01-24T03:16:29.142Z</updated>
         <content type="html"><![CDATA[Jorja Smith]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[A Jaguar's Dream]]></title>
-        <id>https://vibe.naver.com/album/32695922</id>
-        <link href="https://vibe.naver.com/album/32695922"/>
-        <updated>2025-01-24T03:16:29.142Z</updated>
-        <content type="html"><![CDATA[Jordan Adetunji]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[it's Franky baby!]]></title>
-        <id>https://vibe.naver.com/album/32695342</id>
-        <link href="https://vibe.naver.com/album/32695342"/>
-        <updated>2025-01-24T03:16:29.143Z</updated>
-        <content type="html"><![CDATA[Young Franco]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Ways]]></title>
-        <id>https://vibe.naver.com/album/32693905</id>
-        <link href="https://vibe.naver.com/album/32693905"/>
-        <updated>2025-01-24T03:16:29.144Z</updated>
-        <content type="html"><![CDATA[No Guidnce]]></content>
     </entry>
 </feed>

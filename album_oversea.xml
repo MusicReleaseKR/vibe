@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-01-31T01:05:22.443Z</updated>
+    <updated>2025-01-31T02:41:45.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://vibe.naver.com/album/32696005"/>
         <updated>2025-01-30T03:16:28.497Z</updated>
         <content type="html"><![CDATA[Forrest Frank]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tomorrow]]></title>
+        <id>https://vibe.naver.com/album/32699086</id>
+        <link href="https://vibe.naver.com/album/32699086"/>
+        <updated>2025-01-31T02:41:38.629Z</updated>
+        <content type="html"><![CDATA[JC Stewart]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Generation_Cloud]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32696524"/>
         <updated>2025-01-24T03:16:29.142Z</updated>
         <content type="html"><![CDATA[Creepy Nuts]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[High (Acoustic)]]></title>
-        <id>https://vibe.naver.com/album/32695573</id>
-        <link href="https://vibe.naver.com/album/32695573"/>
-        <updated>2025-01-24T03:16:29.142Z</updated>
-        <content type="html"><![CDATA[Jorja Smith]]></content>
     </entry>
 </feed>

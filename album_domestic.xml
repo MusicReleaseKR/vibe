@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-02-04T08:19:15.149Z</updated>
+    <updated>2025-02-04T09:15:18.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아무래도 (Feat. ZENE THE ZILLA)]]></title>
+        <id>https://vibe.naver.com/album/32714064</id>
+        <link href="https://vibe.naver.com/album/32714064"/>
+        <updated>2025-02-04T09:15:03.793Z</updated>
+        <content type="html"><![CDATA[TOIL]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GROS CALIN II]]></title>
+        <id>https://vibe.naver.com/album/32714110</id>
+        <link href="https://vibe.naver.com/album/32714110"/>
+        <updated>2025-02-04T09:15:03.795Z</updated>
+        <content type="html"><![CDATA[HUS (허밍어반스테레오)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비가 (Feat. 박재정)]]></title>
+        <id>https://vibe.naver.com/album/32714199</id>
+        <link href="https://vibe.naver.com/album/32714199"/>
+        <updated>2025-02-04T09:15:03.795Z</updated>
+        <content type="html"><![CDATA[피아노맨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원경 OST Part 4]]></title>
+        <id>https://vibe.naver.com/album/32714048</id>
+        <link href="https://vibe.naver.com/album/32714048"/>
+        <updated>2025-02-04T09:15:03.796Z</updated>
+        <content type="html"><![CDATA[적재]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Smoke Point]]></title>
+        <id>https://vibe.naver.com/album/32590450</id>
+        <link href="https://vibe.naver.com/album/32590450"/>
+        <updated>2025-02-04T09:15:03.798Z</updated>
+        <content type="html"><![CDATA[ALL(H)OURS(올아워즈)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친절한 선주씨 OST Part.6]]></title>
+        <id>https://vibe.naver.com/album/32713993</id>
+        <link href="https://vibe.naver.com/album/32713993"/>
+        <updated>2025-02-04T09:15:03.799Z</updated>
+        <content type="html"><![CDATA[Se!n]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Your names]]></title>
         <id>https://vibe.naver.com/album/32714074</id>
@@ -312,47 +354,5 @@
         <link href="https://vibe.naver.com/album/32708588"/>
         <updated>2025-02-02T03:17:01.986Z</updated>
         <content type="html"><![CDATA[DOF]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Palindrome]]></title>
-        <id>https://vibe.naver.com/album/32711749</id>
-        <link href="https://vibe.naver.com/album/32711749"/>
-        <updated>2025-02-02T03:17:01.986Z</updated>
-        <content type="html"><![CDATA[후디니(HOUDINI)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 시절의 우리]]></title>
-        <id>https://vibe.naver.com/album/32711628</id>
-        <link href="https://vibe.naver.com/album/32711628"/>
-        <updated>2025-02-02T03:17:01.986Z</updated>
-        <content type="html"><![CDATA[장민석]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[별들에게 물어봐 OST Part 4]]></title>
-        <id>https://vibe.naver.com/album/32711463</id>
-        <link href="https://vibe.naver.com/album/32711463"/>
-        <updated>2025-02-01T09:14:21.050Z</updated>
-        <content type="html"><![CDATA[승관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시작의 아이 ハジマリのコ (Starting With You)]]></title>
-        <id>https://vibe.naver.com/album/32509464</id>
-        <link href="https://vibe.naver.com/album/32509464"/>
-        <updated>2025-02-01T09:14:21.058Z</updated>
-        <content type="html"><![CDATA[마크툽(Maktub)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Swarm (Flies Remix)]]></title>
-        <id>https://vibe.naver.com/album/32711487</id>
-        <link href="https://vibe.naver.com/album/32711487"/>
-        <updated>2025-02-01T09:14:21.058Z</updated>
-        <content type="html"><![CDATA[키츠요지(kitsyojii)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각이 나버렸어]]></title>
-        <id>https://vibe.naver.com/album/32711456</id>
-        <link href="https://vibe.naver.com/album/32711456"/>
-        <updated>2025-02-01T09:14:21.058Z</updated>
-        <content type="html"><![CDATA[줍에이(Joob A)]]></content>
     </entry>
 </feed>

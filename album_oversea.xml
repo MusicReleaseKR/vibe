@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-02-07T08:18:58.333Z</updated>
+    <updated>2025-02-07T09:15:33.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://vibe.naver.com/album/32723047"/>
         <updated>2025-02-07T03:18:50.601Z</updated>
         <content type="html"><![CDATA[d4vd]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Songs From The Richest Man In The World]]></title>
+        <id>https://vibe.naver.com/album/32725274</id>
+        <link href="https://vibe.naver.com/album/32725274"/>
+        <updated>2025-02-07T09:15:26.354Z</updated>
+        <content type="html"><![CDATA[Ben Rector]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[tsukushi]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32705242"/>
         <updated>2025-02-04T03:16:54.239Z</updated>
         <content type="html"><![CDATA[Meduza]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[In My Head]]></title>
-        <id>https://vibe.naver.com/album/32708691</id>
-        <link href="https://vibe.naver.com/album/32708691"/>
-        <updated>2025-02-04T03:16:54.252Z</updated>
-        <content type="html"><![CDATA[Gryffin]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-02-13T14:14:25.704Z</updated>
+    <updated>2025-02-13T15:15:58.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sketch]]></title>
+        <id>https://vibe.naver.com/album/32874560</id>
+        <link href="https://vibe.naver.com/album/32874560"/>
+        <updated>2025-02-13T15:15:51.399Z</updated>
+        <content type="html"><![CDATA[aimyon]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Almond Chocolate]]></title>
+        <id>https://vibe.naver.com/album/32874616</id>
+        <link href="https://vibe.naver.com/album/32874616"/>
+        <updated>2025-02-13T15:15:51.399Z</updated>
+        <content type="html"><![CDATA[아일릿(ILLIT)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Time limit]]></title>
         <id>https://vibe.naver.com/album/32866441</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/32723011"/>
         <updated>2025-02-12T12:28:21.351Z</updated>
         <content type="html"><![CDATA[Carlie Hanson]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bed of Lies]]></title>
-        <id>https://vibe.naver.com/album/32725073</id>
-        <link href="https://vibe.naver.com/album/32725073"/>
-        <updated>2025-02-12T12:28:21.353Z</updated>
-        <content type="html"><![CDATA[Alice Chater]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폰 좀 보여줘봐]]></title>
-        <id>https://vibe.naver.com/album/32717322</id>
-        <link href="https://vibe.naver.com/album/32717322"/>
-        <updated>2025-02-12T12:28:21.354Z</updated>
-        <content type="html"><![CDATA[MAISONdes]]></content>
     </entry>
 </feed>

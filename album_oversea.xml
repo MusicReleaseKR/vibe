@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-02-13T08:19:54.406Z</updated>
+    <updated>2025-02-13T09:16:03.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Time limit]]></title>
+        <id>https://vibe.naver.com/album/32866441</id>
+        <link href="https://vibe.naver.com/album/32866441"/>
+        <updated>2025-02-13T09:15:56.969Z</updated>
+        <content type="html"><![CDATA[보이프렌드]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Meanwhile]]></title>
         <id>https://vibe.naver.com/album/32866444</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32717322"/>
         <updated>2025-02-12T12:28:21.354Z</updated>
         <content type="html"><![CDATA[MAISONdes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CAN WE LIVE?]]></title>
-        <id>https://vibe.naver.com/album/32724626</id>
-        <link href="https://vibe.naver.com/album/32724626"/>
-        <updated>2025-02-12T12:28:21.355Z</updated>
-        <content type="html"><![CDATA[NLE Choppa]]></content>
     </entry>
 </feed>

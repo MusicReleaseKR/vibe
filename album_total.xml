@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-02-14T14:14:07.293Z</updated>
+    <updated>2025-02-14T15:15:41.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/32874864"/>
         <updated>2025-02-14T09:15:26.641Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32874864" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32874864" class="text">혼자 왔어요</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/340201" class="link_artist"><span class="text">전철민</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桜色舞うころ]]></title>
+        <id>https://vibe.naver.com/album/32878025</id>
+        <link href="https://vibe.naver.com/album/32878025"/>
+        <updated>2025-02-14T15:15:40.953Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32878025" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32878025" class="text">桜色舞うころ</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/101659" class="link_artist"><span class="text">준케이(JUN. K)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[MADEIN FOREVER]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32866614"/>
         <updated>2025-02-13T03:18:28.502Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32866614" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32866614" class="text">노놀 VOL 54. 김승현 ' 오늘 밤 '</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1992949" class="link_artist"><span class="text">김승현(kimSeUng hYun)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너의 번호를 지우려다가]]></title>
-        <id>https://vibe.naver.com/album/32866464</id>
-        <link href="https://vibe.naver.com/album/32866464"/>
-        <updated>2025-02-13T03:18:28.502Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32866464" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32866464" class="text">너의 번호를 지우려다가</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8429191" class="link_artist"><span class="text">리</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

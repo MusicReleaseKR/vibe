@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-02-14T14:14:07.308Z</updated>
+    <updated>2025-02-14T15:15:41.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://vibe.naver.com/album/32877794"/>
         <updated>2025-02-14T09:15:21.092Z</updated>
         <content type="html"><![CDATA[Selena Gomez]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[桜色舞うころ]]></title>
+        <id>https://vibe.naver.com/album/32878025</id>
+        <link href="https://vibe.naver.com/album/32878025"/>
+        <updated>2025-02-14T15:15:34.392Z</updated>
+        <content type="html"><![CDATA[준케이(JUN. K)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Everything Is Peaceful Love]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32725056"/>
         <updated>2025-02-12T12:28:21.319Z</updated>
         <content type="html"><![CDATA[EST Gee]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jail Experience]]></title>
-        <id>https://vibe.naver.com/album/32725059</id>
-        <link href="https://vibe.naver.com/album/32725059"/>
-        <updated>2025-02-12T12:28:21.321Z</updated>
-        <content type="html"><![CDATA[Lil Tony Official]]></content>
     </entry>
 </feed>

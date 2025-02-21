@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-02-21T04:18:38.933Z</updated>
+    <updated>2025-02-21T05:14:22.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LV Bag (Feat. j-hope of BTS & Pharrell Williams)]]></title>
+        <id>https://vibe.naver.com/album/32892053</id>
+        <link href="https://vibe.naver.com/album/32892053"/>
+        <updated>2025-02-21T05:14:14.806Z</updated>
+        <content type="html"><![CDATA[Don Toliver]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ravel: The Piano Concertos]]></title>
         <id>https://vibe.naver.com/album/32887784</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32872798"/>
         <updated>2025-02-21T03:20:14.898Z</updated>
         <content type="html"><![CDATA[Avicii]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Critical Thinking]]></title>
-        <id>https://vibe.naver.com/album/32874949</id>
-        <link href="https://vibe.naver.com/album/32874949"/>
-        <updated>2025-02-21T03:20:14.899Z</updated>
-        <content type="html"><![CDATA[Manic Street Preachers]]></content>
     </entry>
 </feed>

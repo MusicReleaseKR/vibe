@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-02-25T09:16:20.773Z</updated>
+    <updated>2025-02-25T10:15:55.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/32996111"/>
         <updated>2025-02-25T09:16:07.622Z</updated>
         <content type="html"><![CDATA[vangdale]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GO MAX]]></title>
+        <id>https://vibe.naver.com/album/32988197</id>
+        <link href="https://vibe.naver.com/album/32988197"/>
+        <updated>2025-02-25T10:15:42.036Z</updated>
+        <content type="html"><![CDATA[블루(BLOO)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파도]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32892486"/>
         <updated>2025-02-25T09:16:07.703Z</updated>
         <content type="html"><![CDATA[비공정]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Twilight]]></title>
-        <id>https://vibe.naver.com/album/32892558</id>
-        <link href="https://vibe.naver.com/album/32892558"/>
-        <updated>2025-02-25T09:16:07.707Z</updated>
-        <content type="html"><![CDATA[아스트로(ASTRO)]]></content>
     </entry>
 </feed>

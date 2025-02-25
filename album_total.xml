@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-02-25T04:18:26.839Z</updated>
+    <updated>2025-02-25T05:14:49.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Übermensch]]></title>
+        <id>https://vibe.naver.com/album/32999599</id>
+        <link href="https://vibe.naver.com/album/32999599"/>
+        <updated>2025-02-25T05:14:48.585Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32999599" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32999599" class="text">Übermensch</span><span data-v-81bbacc8="" class="badge_dolby"><span data-v-81bbacc8="" class="blind">Dolby Atmos 지원</span></span><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/35262" class="link_artist"><span class="text">G-DRAGON</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Reflections (From The Vault Of Smoke + Mirrors)]]></title>
         <id>https://vibe.naver.com/album/32892316</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32892268"/>
         <updated>2025-02-25T02:50:32.762Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32892268" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32892268" class="text">우리는 진짜 바다를 보러 가는 거야</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2354917" class="link_artist"><span class="text">Ruru(루루)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언덕 X POST PROJECT]]></title>
-        <id>https://vibe.naver.com/album/32892550</id>
-        <link href="https://vibe.naver.com/album/32892550"/>
-        <updated>2025-02-25T02:50:32.762Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32892550" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32892550" class="text">언덕 X POST PROJECT</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5482878" class="link_artist"><span class="text">A+B</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-02-25T04:18:26.827Z</updated>
+    <updated>2025-02-25T05:14:49.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Übermensch]]></title>
+        <id>https://vibe.naver.com/album/32999599</id>
+        <link href="https://vibe.naver.com/album/32999599"/>
+        <updated>2025-02-25T05:14:35.114Z</updated>
+        <content type="html"><![CDATA[G-DRAGON]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스키모2]]></title>
         <id>https://vibe.naver.com/album/33002775</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/32892225"/>
         <updated>2025-02-25T02:50:20.287Z</updated>
         <content type="html"><![CDATA[요셉(포맨)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[없어질 것 같아]]></title>
-        <id>https://vibe.naver.com/album/32892581</id>
-        <link href="https://vibe.naver.com/album/32892581"/>
-        <updated>2025-02-25T02:50:20.289Z</updated>
-        <content type="html"><![CDATA[SwlwBloo(스왈로블루)]]></content>
     </entry>
 </feed>

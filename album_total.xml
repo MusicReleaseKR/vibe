@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-02-27T04:18:14.009Z</updated>
+    <updated>2025-02-27T05:15:59.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://vibe.naver.com/album/32889360"/>
         <updated>2025-02-27T03:22:36.112Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/32889360" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="32889360" class="text">You The One</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5797171" class="link_artist"><span class="text">Lola Brooke</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.36 : Someone Remixes]]></title>
+        <id>https://vibe.naver.com/album/33020324</id>
+        <link href="https://vibe.naver.com/album/33020324"/>
+        <updated>2025-02-27T05:15:58.663Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33020324" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33020324" class="text">iScreaM Vol.36 : Someone Remixes</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2396495" class="link_artist"><span class="text">민지운 (Min Jiwoon)</span></a><span>, </span></span><span><a href="/artist/128962" class="link_artist"><span class="text">DJ Marky</span></a><span>, </span></span><span><a href="/artist/322112" class="link_artist"><span class="text">Makoto</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Le Alien Petit Prince : kennytheking]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33017636"/>
         <updated>2025-02-27T02:51:28.087Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33017636" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33017636" class="text">엄마까투리 창작동요</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8877898" class="link_artist"><span class="text">엄마까투리</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거품]]></title>
-        <id>https://vibe.naver.com/album/33016843</id>
-        <link href="https://vibe.naver.com/album/33016843"/>
-        <updated>2025-02-27T02:51:28.092Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33016843" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33016843" class="text">거품</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/224442" class="link_artist"><span class="text">이호석</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

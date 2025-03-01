@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-01T02:55:22.553Z</updated>
+    <updated>2025-03-01T03:28:11.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Soundly]]></title>
+        <id>https://vibe.naver.com/album/33029189</id>
+        <link href="https://vibe.naver.com/album/33029189"/>
+        <updated>2025-03-01T03:28:04.352Z</updated>
+        <content type="html"><![CDATA[Scandal]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dance and Fall in Love]]></title>
         <id>https://vibe.naver.com/album/33026276</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33009444"/>
         <updated>2025-02-27T02:51:22.368Z</updated>
         <content type="html"><![CDATA[나니와 단시 (Naniwa Danshi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[You Happened]]></title>
-        <id>https://vibe.naver.com/album/32889380</id>
-        <link href="https://vibe.naver.com/album/32889380"/>
-        <updated>2025-02-27T02:51:22.368Z</updated>
-        <content type="html"><![CDATA[Knox]]></content>
     </entry>
 </feed>

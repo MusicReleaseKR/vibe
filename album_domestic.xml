@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-01T02:55:22.535Z</updated>
+    <updated>2025-03-01T03:28:11.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[날 안아줘요]]></title>
+        <id>https://vibe.naver.com/album/33026844</id>
+        <link href="https://vibe.naver.com/album/33026844"/>
+        <updated>2025-03-01T03:27:57.332Z</updated>
+        <content type="html"><![CDATA[백예슬]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시간이 지나도]]></title>
+        <id>https://vibe.naver.com/album/33029395</id>
+        <link href="https://vibe.naver.com/album/33029395"/>
+        <updated>2025-03-01T03:27:57.332Z</updated>
+        <content type="html"><![CDATA[이설]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연주해줘]]></title>
+        <id>https://vibe.naver.com/album/33029451</id>
+        <link href="https://vibe.naver.com/album/33029451"/>
+        <updated>2025-03-01T03:27:57.335Z</updated>
+        <content type="html"><![CDATA[마커스강]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[403]]></title>
+        <id>https://vibe.naver.com/album/33029723</id>
+        <link href="https://vibe.naver.com/album/33029723"/>
+        <updated>2025-03-01T03:27:57.335Z</updated>
+        <content type="html"><![CDATA[사공(Sagong)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑한다는 말도 했겠지]]></title>
+        <id>https://vibe.naver.com/album/33029438</id>
+        <link href="https://vibe.naver.com/album/33029438"/>
+        <updated>2025-03-01T03:27:57.335Z</updated>
+        <content type="html"><![CDATA[안재우]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[¡Qué Frío Es El Invierno!]]></title>
+        <id>https://vibe.naver.com/album/33029442</id>
+        <link href="https://vibe.naver.com/album/33029442"/>
+        <updated>2025-03-01T03:27:57.336Z</updated>
+        <content type="html"><![CDATA[로티프렌즈]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mushroom]]></title>
+        <id>https://vibe.naver.com/album/33029420</id>
+        <link href="https://vibe.naver.com/album/33029420"/>
+        <updated>2025-03-01T03:27:57.336Z</updated>
+        <content type="html"><![CDATA[글로디(Glody)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Waving]]></title>
+        <id>https://vibe.naver.com/album/33029738</id>
+        <link href="https://vibe.naver.com/album/33029738"/>
+        <updated>2025-03-01T03:27:57.338Z</updated>
+        <content type="html"><![CDATA[UNXL(언오피셜)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Theme. 2]]></title>
         <id>https://vibe.naver.com/album/33026549</id>
@@ -298,61 +354,5 @@
         <link href="https://vibe.naver.com/album/33020171"/>
         <updated>2025-02-27T03:22:22.245Z</updated>
         <content type="html"><![CDATA[BLEUR(블루어)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ASAP (Feat. Chris Patrick)]]></title>
-        <id>https://vibe.naver.com/album/33020083</id>
-        <link href="https://vibe.naver.com/album/33020083"/>
-        <updated>2025-02-27T03:22:22.245Z</updated>
-        <content type="html"><![CDATA[HEYOON (혜윤)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[너를 닮은 기억 (A Memory like you)]]></title>
-        <id>https://vibe.naver.com/album/33020470</id>
-        <link href="https://vibe.naver.com/album/33020470"/>
-        <updated>2025-02-27T03:22:22.245Z</updated>
-        <content type="html"><![CDATA[레냐 리트]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Le Alien Petit Prince : kennytheking]]></title>
-        <id>https://vibe.naver.com/album/33020301</id>
-        <link href="https://vibe.naver.com/album/33020301"/>
-        <updated>2025-02-27T03:22:22.246Z</updated>
-        <content type="html"><![CDATA[Kennytheking(케니더킹)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 죽는 이유 OST Part 3]]></title>
-        <id>https://vibe.naver.com/album/33019889</id>
-        <link href="https://vibe.naver.com/album/33019889"/>
-        <updated>2025-02-27T03:22:22.248Z</updated>
-        <content type="html"><![CDATA[우하나]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하트 스테인 O.S.T Part 4]]></title>
-        <id>https://vibe.naver.com/album/33020283</id>
-        <link href="https://vibe.naver.com/album/33020283"/>
-        <updated>2025-02-27T03:22:22.250Z</updated>
-        <content type="html"><![CDATA[한효림]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[creespy]]></title>
-        <id>https://vibe.naver.com/album/33025261</id>
-        <link href="https://vibe.naver.com/album/33025261"/>
-        <updated>2025-02-27T03:22:22.254Z</updated>
-        <content type="html"><![CDATA[creespy]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헤어진게 맞나싶어]]></title>
-        <id>https://vibe.naver.com/album/33020129</id>
-        <link href="https://vibe.naver.com/album/33020129"/>
-        <updated>2025-02-27T03:22:22.259Z</updated>
-        <content type="html"><![CDATA[김도희]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Letter]]></title>
-        <id>https://vibe.naver.com/album/33019798</id>
-        <link href="https://vibe.naver.com/album/33019798"/>
-        <updated>2025-02-27T03:22:22.261Z</updated>
-        <content type="html"><![CDATA[이민석]]></content>
     </entry>
 </feed>

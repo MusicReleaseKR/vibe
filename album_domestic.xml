@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-03T04:19:45.273Z</updated>
+    <updated>2025-03-03T05:15:57.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Do What You Do]]></title>
+        <id>https://vibe.naver.com/album/33029690</id>
+        <link href="https://vibe.naver.com/album/33029690"/>
+        <updated>2025-03-03T05:15:43.252Z</updated>
+        <content type="html"><![CDATA[백현(BAEKHYUN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FXCK YOUR NEW BOYFRIEND]]></title>
         <id>https://vibe.naver.com/album/33029545</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33026529"/>
         <updated>2025-02-28T09:16:33.350Z</updated>
         <content type="html"><![CDATA[주호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My valentine (쇼뮤지컬 드림하이 OST)]]></title>
-        <id>https://vibe.naver.com/album/33026503</id>
-        <link href="https://vibe.naver.com/album/33026503"/>
-        <updated>2025-02-28T09:16:33.357Z</updated>
-        <content type="html"><![CDATA[박서함]]></content>
     </entry>
 </feed>

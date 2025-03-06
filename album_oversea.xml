@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-06T14:14:50.136Z</updated>
+    <updated>2025-03-06T15:16:32.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IS THIS LOVE]]></title>
+        <id>https://vibe.naver.com/album/33142465</id>
+        <link href="https://vibe.naver.com/album/33142465"/>
+        <updated>2025-03-06T15:16:24.777Z</updated>
+        <content type="html"><![CDATA[XG]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Bleed]]></title>
         <id>https://vibe.naver.com/album/33027406</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33023985"/>
         <updated>2025-03-03T03:25:40.088Z</updated>
         <content type="html"><![CDATA[Stephen Dawes]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[My Way]]></title>
-        <id>https://vibe.naver.com/album/33029764</id>
-        <link href="https://vibe.naver.com/album/33029764"/>
-        <updated>2025-03-03T03:25:40.089Z</updated>
-        <content type="html"><![CDATA[Gil Sanders]]></content>
     </entry>
 </feed>

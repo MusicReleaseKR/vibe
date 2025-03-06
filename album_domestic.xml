@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-06T14:14:50.131Z</updated>
+    <updated>2025-03-06T15:16:32.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ruby]]></title>
+        <id>https://vibe.naver.com/album/33142484</id>
+        <link href="https://vibe.naver.com/album/33142484"/>
+        <updated>2025-03-06T15:16:17.302Z</updated>
+        <content type="html"><![CDATA[제니 (JENNIE)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACT LIKE THAT]]></title>
         <id>https://vibe.naver.com/album/33119241</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33029728"/>
         <updated>2025-03-04T09:16:51.397Z</updated>
         <content type="html"><![CDATA[임한별]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where's my soul]]></title>
-        <id>https://vibe.naver.com/album/33029610</id>
-        <link href="https://vibe.naver.com/album/33029610"/>
-        <updated>2025-03-04T09:16:51.398Z</updated>
-        <content type="html"><![CDATA[COCONA]]></content>
     </entry>
 </feed>

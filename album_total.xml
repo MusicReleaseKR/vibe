@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-03-06T14:14:50.137Z</updated>
+    <updated>2025-03-06T15:16:32.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Ruby]]></title>
+        <id>https://vibe.naver.com/album/33142484</id>
+        <link href="https://vibe.naver.com/album/33142484"/>
+        <updated>2025-03-06T15:16:31.951Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33142484" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33142484" class="text">Ruby</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/500571" class="link_artist"><span class="text">제니 (JENNIE)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ACT LIKE THAT]]></title>
         <id>https://vibe.naver.com/album/33119241</id>
@@ -39,6 +46,13 @@
         <link href="https://vibe.naver.com/album/33122482"/>
         <updated>2025-03-06T09:17:05.971Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33122482" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33122482" class="text">성격차이</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/201394" class="link_artist"><span class="text">KURO</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IS THIS LOVE]]></title>
+        <id>https://vibe.naver.com/album/33142465</id>
+        <link href="https://vibe.naver.com/album/33142465"/>
+        <updated>2025-03-06T15:16:31.953Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33142465" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33142465" class="text">IS THIS LOVE</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5387473" class="link_artist"><span class="text">XG</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이 노래를 듣게 되면]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/33085656"/>
         <updated>2025-03-05T03:23:52.020Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33085656" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33085656" class="text">FRΛCTION * : Cloud 9ine</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2723425" class="link_artist"><span class="text">GALACTIKA&nbsp;*</span></a><span>, </span></span><span><a href="/artist/3568922" class="link_artist"><span class="text">우빈</span></a><span>, </span></span><span><a href="/artist/5669071" class="link_artist"><span class="text">준하</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안식처]]></title>
-        <id>https://vibe.naver.com/album/33085441</id>
-        <link href="https://vibe.naver.com/album/33085441"/>
-        <updated>2025-03-05T03:23:52.021Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33085441" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33085441" class="text">안식처</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5742747" class="link_artist"><span class="text">신여름</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀리의 하루 (Millie's Wonderland)]]></title>
-        <id>https://vibe.naver.com/album/33085809</id>
-        <link href="https://vibe.naver.com/album/33085809"/>
-        <updated>2025-03-05T03:23:52.021Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33085809" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33085809" class="text">밀리의 하루 (Millie's Wonderland)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/9319926" class="link_artist"><span class="text">밀리</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

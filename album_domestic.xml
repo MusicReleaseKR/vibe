@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-07T04:18:48.665Z</updated>
+    <updated>2025-03-07T05:15:26.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Sweet Dreams (Feat. Miguel)]]></title>
+        <id>https://vibe.naver.com/album/33166906</id>
+        <link href="https://vibe.naver.com/album/33166906"/>
+        <updated>2025-03-07T05:15:12.482Z</updated>
+        <content type="html"><![CDATA[j-hope]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ruby]]></title>
         <id>https://vibe.naver.com/album/33142484</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33085428"/>
         <updated>2025-03-05T03:23:39.544Z</updated>
         <content type="html"><![CDATA[권순관]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Out of my mind]]></title>
-        <id>https://vibe.naver.com/album/33084070</id>
-        <link href="https://vibe.naver.com/album/33084070"/>
-        <updated>2025-03-05T03:23:39.545Z</updated>
-        <content type="html"><![CDATA[Paper Life]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-11T03:25:49.118Z</updated>
+    <updated>2025-03-11T04:19:23.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/33247534"/>
         <updated>2025-03-11T03:25:34.298Z</updated>
         <content type="html"><![CDATA[임가영]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet Dreams - zzZ Remixes]]></title>
+        <id>https://vibe.naver.com/album/33275336</id>
+        <link href="https://vibe.naver.com/album/33275336"/>
+        <updated>2025-03-11T04:19:09.175Z</updated>
+        <content type="html"><![CDATA[j-hope]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상형]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33166517"/>
         <updated>2025-03-09T03:14:25.630Z</updated>
         <content type="html"><![CDATA[안예슬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄타령]]></title>
-        <id>https://vibe.naver.com/album/33172404</id>
-        <link href="https://vibe.naver.com/album/33172404"/>
-        <updated>2025-03-09T03:14:25.630Z</updated>
-        <content type="html"><![CDATA[까데호]]></content>
     </entry>
 </feed>

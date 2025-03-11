@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-03-11T03:25:49.127Z</updated>
+    <updated>2025-03-11T04:19:23.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -32,6 +32,13 @@
         <link href="https://vibe.naver.com/album/33142186"/>
         <updated>2025-03-11T03:25:48.427Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33142186" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33142186" class="text">Second Wind</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/425860" class="link_artist"><span class="text">Daniel Seavey</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sweet Dreams - zzZ Remixes]]></title>
+        <id>https://vibe.naver.com/album/33275336</id>
+        <link href="https://vibe.naver.com/album/33275336"/>
+        <updated>2025-03-11T04:19:22.054Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33275336" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33275336" class="text">Sweet Dreams - zzZ Remixes</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/274322" class="link_artist"><span class="text">j-hope</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이상형]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33167574"/>
         <updated>2025-03-09T09:11:44.965Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33167574" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33167574" class="text">다 핀 꽃 (괜찮아 괜찮아 괜찮아! X 휘인 (Whee In))</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/313700" class="link_artist"><span class="text">휘인(Whee In)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감자연구소 OST Part 3]]></title>
-        <id>https://vibe.naver.com/album/33171643</id>
-        <link href="https://vibe.naver.com/album/33171643"/>
-        <updated>2025-03-09T09:11:44.966Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33171643" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33171643" class="text">감자연구소 OST Part 3</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/381960" class="link_artist"><span class="text">케이시(Kassy)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

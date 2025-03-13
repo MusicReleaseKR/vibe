@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-03-13T08:20:56.445Z</updated>
+    <updated>2025-03-13T09:16:44.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Name Is…]]></title>
+        <id>https://vibe.naver.com/album/33316967</id>
+        <link href="https://vibe.naver.com/album/33316967"/>
+        <updated>2025-03-13T09:16:43.884Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33316967" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33316967" class="text">My Name Is…</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8929926" class="link_artist"><span class="text">SAY MY NAME (세이마이네임)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끝없는 꿈]]></title>
+        <id>https://vibe.naver.com/album/33318797</id>
+        <link href="https://vibe.naver.com/album/33318797"/>
+        <updated>2025-03-13T09:16:43.884Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33318797" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33318797" class="text">끝없는 꿈</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8872064" class="link_artist"><span class="text">AEONIT(이오닛)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm Still Dreaming (김성근의 겨울방학 X SHOON)]]></title>
+        <id>https://vibe.naver.com/album/33321224</id>
+        <link href="https://vibe.naver.com/album/33321224"/>
+        <updated>2025-03-13T09:16:43.884Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33321224" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33321224" class="text">I'm Still Dreaming (김성근의 겨울방학 X SHOON)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/161538" class="link_artist"><span class="text">슌(Shoon)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.A.E (Just After the Echoes)]]></title>
+        <id>https://vibe.naver.com/album/33314707</id>
+        <link href="https://vibe.naver.com/album/33314707"/>
+        <updated>2025-03-13T09:16:43.884Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33314707" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33314707" class="text">J.A.E (Just After the Echoes)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/4082811" class="link_artist"><span class="text">INJAE(인재)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친절한 선주씨 OST Part 10]]></title>
+        <id>https://vibe.naver.com/album/33310560</id>
+        <link href="https://vibe.naver.com/album/33310560"/>
+        <updated>2025-03-13T09:16:43.884Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33310560" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33310560" class="text">친절한 선주씨 OST Part 10</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1385" class="link_artist"><span class="text">변진섭</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문제적남자]]></title>
         <id>https://vibe.naver.com/album/33314858</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/33277093"/>
         <updated>2025-03-12T03:24:45.314Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33277093" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33277093" class="text">쓰뚜르릅 빠빠</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/201775" class="link_artist"><span class="text">마끼아또</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SOLDATO (OST)]]></title>
-        <id>https://vibe.naver.com/album/33279941</id>
-        <link href="https://vibe.naver.com/album/33279941"/>
-        <updated>2025-03-12T03:24:45.316Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33279941" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33279941" class="text">SOLDATO (OST)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/9415308" class="link_artist"><span class="text">솔다토(SOLDATO)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NATURE 1]]></title>
-        <id>https://vibe.naver.com/album/33276263</id>
-        <link href="https://vibe.naver.com/album/33276263"/>
-        <updated>2025-03-12T03:24:45.317Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33276263" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33276263" class="text">NATURE 1</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/156390" class="link_artist"><span class="text">RAINBOW99</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAVIOR]]></title>
-        <id>https://vibe.naver.com/album/33143378</id>
-        <link href="https://vibe.naver.com/album/33143378"/>
-        <updated>2025-03-12T03:24:45.320Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33143378" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33143378" class="text">SAVIOR</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8403301" class="link_artist"><span class="text">Johnny Huynh</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lovely Jet]]></title>
-        <id>https://vibe.naver.com/album/33281636</id>
-        <link href="https://vibe.naver.com/album/33281636"/>
-        <updated>2025-03-12T03:24:45.322Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33281636" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33281636" class="text">Lovely Jet</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/2605880" class="link_artist"><span class="text">윤대천</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈물바람]]></title>
-        <id>https://vibe.naver.com/album/33277102</id>
-        <link href="https://vibe.naver.com/album/33277102"/>
-        <updated>2025-03-12T03:24:45.323Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33277102" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33277102" class="text">눈물바람</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/3910184" class="link_artist"><span class="text">화아(HwA)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

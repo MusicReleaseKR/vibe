@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-13T08:20:56.448Z</updated>
+    <updated>2025-03-13T09:16:44.648Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[My Name Is…]]></title>
+        <id>https://vibe.naver.com/album/33316967</id>
+        <link href="https://vibe.naver.com/album/33316967"/>
+        <updated>2025-03-13T09:16:31.710Z</updated>
+        <content type="html"><![CDATA[SAY MY NAME (세이마이네임)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끝없는 꿈]]></title>
+        <id>https://vibe.naver.com/album/33318797</id>
+        <link href="https://vibe.naver.com/album/33318797"/>
+        <updated>2025-03-13T09:16:31.710Z</updated>
+        <content type="html"><![CDATA[AEONIT(이오닛)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[I'm Still Dreaming (김성근의 겨울방학 X SHOON)]]></title>
+        <id>https://vibe.naver.com/album/33321224</id>
+        <link href="https://vibe.naver.com/album/33321224"/>
+        <updated>2025-03-13T09:16:31.710Z</updated>
+        <content type="html"><![CDATA[슌(Shoon)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[J.A.E (Just After the Echoes)]]></title>
+        <id>https://vibe.naver.com/album/33314707</id>
+        <link href="https://vibe.naver.com/album/33314707"/>
+        <updated>2025-03-13T09:16:31.717Z</updated>
+        <content type="html"><![CDATA[INJAE(인재)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친절한 선주씨 OST Part 10]]></title>
+        <id>https://vibe.naver.com/album/33310560</id>
+        <link href="https://vibe.naver.com/album/33310560"/>
+        <updated>2025-03-13T09:16:31.717Z</updated>
+        <content type="html"><![CDATA[변진섭]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문제적남자]]></title>
         <id>https://vibe.naver.com/album/33314858</id>
@@ -319,40 +354,5 @@
         <link href="https://vibe.naver.com/album/33247537"/>
         <updated>2025-03-11T09:16:55.989Z</updated>
         <content type="html"><![CDATA[SF9]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Do I?]]></title>
-        <id>https://vibe.naver.com/album/33248112</id>
-        <link href="https://vibe.naver.com/album/33248112"/>
-        <updated>2025-03-11T09:16:55.989Z</updated>
-        <content type="html"><![CDATA[트웰브(twlv)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그놈은 흑염룡 OST Part 4]]></title>
-        <id>https://vibe.naver.com/album/33247110</id>
-        <link href="https://vibe.naver.com/album/33247110"/>
-        <updated>2025-03-11T09:16:56.013Z</updated>
-        <content type="html"><![CDATA[Colde(콜드)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[i am]]></title>
-        <id>https://vibe.naver.com/album/33247118</id>
-        <link href="https://vibe.naver.com/album/33247118"/>
-        <updated>2025-03-11T09:16:56.014Z</updated>
-        <content type="html"><![CDATA[신수현]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이별은 늘 제자리]]></title>
-        <id>https://vibe.naver.com/album/33248860</id>
-        <link href="https://vibe.naver.com/album/33248860"/>
-        <updated>2025-03-11T09:16:56.015Z</updated>
-        <content type="html"><![CDATA[민하]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Sweet Dreams - zzZ Remixes]]></title>
-        <id>https://vibe.naver.com/album/33275336</id>
-        <link href="https://vibe.naver.com/album/33275336"/>
-        <updated>2025-03-11T04:19:09.175Z</updated>
-        <content type="html"><![CDATA[j-hope]]></content>
     </entry>
 </feed>

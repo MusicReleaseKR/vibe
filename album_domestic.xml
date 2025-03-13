@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-13T09:16:44.648Z</updated>
+    <updated>2025-03-13T10:16:51.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[AEONIT(이오닛)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[교회오빠]]></title>
+        <id>https://vibe.naver.com/album/33174923</id>
+        <link href="https://vibe.naver.com/album/33174923"/>
+        <updated>2025-03-13T10:16:37.603Z</updated>
+        <content type="html"><![CDATA[오반(OVAN)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I'm Still Dreaming (김성근의 겨울방학 X SHOON)]]></title>
         <id>https://vibe.naver.com/album/33321224</id>
         <link href="https://vibe.naver.com/album/33321224"/>
         <updated>2025-03-13T09:16:31.710Z</updated>
         <content type="html"><![CDATA[슌(Shoon)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키다리의 선물]]></title>
+        <id>https://vibe.naver.com/album/33142281</id>
+        <link href="https://vibe.naver.com/album/33142281"/>
+        <updated>2025-03-13T10:16:37.605Z</updated>
+        <content type="html"><![CDATA[정동원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[J.A.E (Just After the Echoes)]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/33277096"/>
         <updated>2025-03-12T03:24:30.951Z</updated>
         <content type="html"><![CDATA[HEYA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랩:퍼블릭 3블록 MIXTAPE '〈3']]></title>
-        <id>https://vibe.naver.com/album/33247237</id>
-        <link href="https://vibe.naver.com/album/33247237"/>
-        <updated>2025-03-11T09:16:55.987Z</updated>
-        <content type="html"><![CDATA[김하온(HAON)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVE RACE]]></title>
-        <id>https://vibe.naver.com/album/33247537</id>
-        <link href="https://vibe.naver.com/album/33247537"/>
-        <updated>2025-03-11T09:16:55.989Z</updated>
-        <content type="html"><![CDATA[SF9]]></content>
     </entry>
 </feed>

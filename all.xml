@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-03-13T09:16:44.663Z</updated>
+    <updated>2025-03-13T10:16:51.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[My Name Is… (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -19,11 +19,25 @@
         <content type="html"><![CDATA[AEONIT(이오닛)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[교회오빠 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/33174923</id>
+        <link href="https://vibe.naver.com/album/33174923"/>
+        <updated>2025-03-13T10:16:37.603Z</updated>
+        <content type="html"><![CDATA[오반(OVAN)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[I'm Still Dreaming (김성근의 겨울방학 X SHOON) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
         <id>https://vibe.naver.com/album/33321224</id>
         <link href="https://vibe.naver.com/album/33321224"/>
         <updated>2025-03-13T09:16:31.710Z</updated>
         <content type="html"><![CDATA[슌(Shoon)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키다리의 선물 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/33142281</id>
+        <link href="https://vibe.naver.com/album/33142281"/>
+        <updated>2025-03-13T10:16:37.605Z</updated>
+        <content type="html"><![CDATA[정동원]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[J.A.E (Just After the Echoes) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -339,20 +353,6 @@
         <link href="https://vibe.naver.com/album/33277096"/>
         <updated>2025-03-12T03:24:30.951Z</updated>
         <content type="html"><![CDATA[HEYA]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랩:퍼블릭 3블록 MIXTAPE '〈3' (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/33247237</id>
-        <link href="https://vibe.naver.com/album/33247237"/>
-        <updated>2025-03-11T09:16:55.987Z</updated>
-        <content type="html"><![CDATA[김하온(HAON)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LOVE RACE (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/33247537</id>
-        <link href="https://vibe.naver.com/album/33247537"/>
-        <updated>2025-03-11T09:16:55.989Z</updated>
-        <content type="html"><![CDATA[SF9]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Classy Girl (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -708,35 +708,49 @@
         <title type="html"><![CDATA[My Name Is… (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33316967</id>
         <link href="https://vibe.naver.com/album/33316967"/>
-        <updated>2025-03-13T09:16:43.884Z</updated>
+        <updated>2025-03-13T09:16:31.710Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33316967" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33316967" class="text">My Name Is…</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8929926" class="link_artist"><span class="text">SAY MY NAME (세이마이네임)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[끝없는 꿈 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33318797</id>
         <link href="https://vibe.naver.com/album/33318797"/>
-        <updated>2025-03-13T09:16:43.884Z</updated>
+        <updated>2025-03-13T09:16:31.710Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33318797" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33318797" class="text">끝없는 꿈</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/8872064" class="link_artist"><span class="text">AEONIT(이오닛)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교회오빠 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/33174923</id>
+        <link href="https://vibe.naver.com/album/33174923"/>
+        <updated>2025-03-13T10:16:50.547Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33174923" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33174923" class="text">교회오빠</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/470713" class="link_artist"><span class="text">오반(OVAN)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[I'm Still Dreaming (김성근의 겨울방학 X SHOON) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33321224</id>
         <link href="https://vibe.naver.com/album/33321224"/>
-        <updated>2025-03-13T09:16:43.884Z</updated>
+        <updated>2025-03-13T09:16:31.710Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33321224" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33321224" class="text">I'm Still Dreaming (김성근의 겨울방학 X SHOON)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/161538" class="link_artist"><span class="text">슌(Shoon)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[키다리의 선물 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/33142281</id>
+        <link href="https://vibe.naver.com/album/33142281"/>
+        <updated>2025-03-13T10:16:50.547Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33142281" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33142281" class="text">키다리의 선물</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/3021078" class="link_artist"><span class="text">정동원</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[J.A.E (Just After the Echoes) (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33314707</id>
         <link href="https://vibe.naver.com/album/33314707"/>
-        <updated>2025-03-13T09:16:43.884Z</updated>
+        <updated>2025-03-13T09:16:31.717Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33314707" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33314707" class="text">J.A.E (Just After the Echoes)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/4082811" class="link_artist"><span class="text">INJAE(인재)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친절한 선주씨 OST Part 10 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33310560</id>
         <link href="https://vibe.naver.com/album/33310560"/>
-        <updated>2025-03-13T09:16:43.884Z</updated>
+        <updated>2025-03-13T09:16:31.717Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33310560" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33310560" class="text">친절한 선주씨 OST Part 10</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1385" class="link_artist"><span class="text">변진섭</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
@@ -1039,19 +1053,5 @@
         <link href="https://vibe.naver.com/album/33275328"/>
         <updated>2025-03-12T03:24:30.931Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33275328" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33275328" class="text">재회</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/128450" class="link_artist"><span class="text">달에닿아</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Safeandsound (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/33261021</id>
-        <link href="https://vibe.naver.com/album/33261021"/>
-        <updated>2025-03-12T03:24:38.637Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33261021" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33261021" class="text">Safeandsound</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1570056" class="link_artist"><span class="text">Parcels</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쓰뚜르릅 빠빠 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/33277093</id>
-        <link href="https://vibe.naver.com/album/33277093"/>
-        <updated>2025-03-12T03:24:30.944Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33277093" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33277093" class="text">쓰뚜르릅 빠빠</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/201775" class="link_artist"><span class="text">마끼아또</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

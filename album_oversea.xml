@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-14T08:19:34.737Z</updated>
+    <updated>2025-03-14T09:16:33.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[간절한 소원]]></title>
+        <id>https://vibe.naver.com/album/33341715</id>
+        <link href="https://vibe.naver.com/album/33341715"/>
+        <updated>2025-03-14T09:16:25.991Z</updated>
+        <content type="html"><![CDATA[수지(Suzy)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMOKE THE PAIN AWAY]]></title>
         <id>https://vibe.naver.com/album/33342269</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33142352"/>
         <updated>2025-03-11T03:25:42.031Z</updated>
         <content type="html"><![CDATA[Kita Alexander]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Run It Up]]></title>
-        <id>https://vibe.naver.com/album/33105226</id>
-        <link href="https://vibe.naver.com/album/33105226"/>
-        <updated>2025-03-11T03:25:42.034Z</updated>
-        <content type="html"><![CDATA[Hanumankind]]></content>
     </entry>
 </feed>

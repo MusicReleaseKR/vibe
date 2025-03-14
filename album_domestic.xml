@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-14T03:26:00.652Z</updated>
+    <updated>2025-03-14T04:18:04.930Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HOT]]></title>
+        <id>https://vibe.naver.com/album/33344455</id>
+        <link href="https://vibe.naver.com/album/33344455"/>
+        <updated>2025-03-14T04:17:50.147Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학교 그 시절 (윤택TV X 유럽(ULUV))]]></title>
         <id>https://vibe.naver.com/album/33342341</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33283346"/>
         <updated>2025-03-12T09:16:16.950Z</updated>
         <content type="html"><![CDATA[서액터]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[야광별]]></title>
-        <id>https://vibe.naver.com/album/33276120</id>
-        <link href="https://vibe.naver.com/album/33276120"/>
-        <updated>2025-03-12T09:16:16.952Z</updated>
-        <content type="html"><![CDATA[손예지]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-03-17T03:29:54.018Z</updated>
+    <updated>2025-03-17T04:18:41.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/33344793"/>
         <updated>2025-03-17T03:29:53.241Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33344793" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33344793" class="text">HE'S MY MELODY</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/349249" class="link_artist"><span class="text">Risso (리소)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOT (English ver.)]]></title>
+        <id>https://vibe.naver.com/album/33347038</id>
+        <link href="https://vibe.naver.com/album/33347038"/>
+        <updated>2025-03-17T04:18:40.793Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33347038" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33347038" class="text">HOT (English ver.)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5438597" class="link_artist"><span class="text">LE SSERAFIM (르세라핌)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Boys Don't Cry]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33344596"/>
         <updated>2025-03-15T09:14:27.548Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33344596" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33344596" class="text">감기</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1523762" class="link_artist"><span class="text">이정석</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[폭싹 속았수다 OST from the Netflix Series - 2막]]></title>
-        <id>https://vibe.naver.com/album/33344699</id>
-        <link href="https://vibe.naver.com/album/33344699"/>
-        <updated>2025-03-15T03:22:24.742Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33344699" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33344699" class="text">폭싹 속았수다 OST from the Netflix Series - 2막</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/9416388" class="link_artist"><span class="text">황소윤</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

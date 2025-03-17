@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-17T03:29:54.026Z</updated>
+    <updated>2025-03-17T04:18:41.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/33344793"/>
         <updated>2025-03-17T03:29:40.785Z</updated>
         <content type="html"><![CDATA[Risso (리소)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOT (English ver.)]]></title>
+        <id>https://vibe.naver.com/album/33347038</id>
+        <link href="https://vibe.naver.com/album/33347038"/>
+        <updated>2025-03-17T04:18:26.867Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[별 헤는 밤이야]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33344784"/>
         <updated>2025-03-15T03:22:12.403Z</updated>
         <content type="html"><![CDATA[권용욱]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 지내냐는 말]]></title>
-        <id>https://vibe.naver.com/album/33344510</id>
-        <link href="https://vibe.naver.com/album/33344510"/>
-        <updated>2025-03-15T03:22:12.404Z</updated>
-        <content type="html"><![CDATA[김미정]]></content>
     </entry>
 </feed>

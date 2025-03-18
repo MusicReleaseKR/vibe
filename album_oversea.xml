@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-18T14:15:45.219Z</updated>
+    <updated>2025-03-18T15:18:14.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[O/N]]></title>
+        <id>https://vibe.naver.com/album/33400450</id>
+        <link href="https://vibe.naver.com/album/33400450"/>
+        <updated>2025-03-18T15:18:08.079Z</updated>
+        <content type="html"><![CDATA[준케이(JUN. K)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DSTM]]></title>
+        <id>https://vibe.naver.com/album/33400375</id>
+        <link href="https://vibe.naver.com/album/33400375"/>
+        <updated>2025-03-18T15:18:08.081Z</updated>
+        <content type="html"><![CDATA[ONE OR EIGHT]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FUFN (Fuck You For Now)]]></title>
         <id>https://vibe.naver.com/album/33342740</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/33317572"/>
         <updated>2025-03-13T03:27:16.731Z</updated>
         <content type="html"><![CDATA[Martin Garrix]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Be Alright]]></title>
-        <id>https://vibe.naver.com/album/33142193</id>
-        <link href="https://vibe.naver.com/album/33142193"/>
-        <updated>2025-03-13T03:27:16.732Z</updated>
-        <content type="html"><![CDATA[Josh Groban]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Supercharger (ALIGN Remix)]]></title>
-        <id>https://vibe.naver.com/album/33132267</id>
-        <link href="https://vibe.naver.com/album/33132267"/>
-        <updated>2025-03-13T03:27:16.732Z</updated>
-        <content type="html"><![CDATA[Louis The Child]]></content>
     </entry>
 </feed>

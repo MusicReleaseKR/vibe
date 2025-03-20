@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-20T09:16:43.752Z</updated>
+    <updated>2025-03-20T10:16:55.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[장범준 4집(찌질의 역사)]]></title>
+        <id>https://vibe.naver.com/album/33344781</id>
+        <link href="https://vibe.naver.com/album/33344781"/>
+        <updated>2025-03-20T10:16:42.084Z</updated>
+        <content type="html"><![CDATA[장범준]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SYZYGY]]></title>
         <id>https://vibe.naver.com/album/33402331</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33400349"/>
         <updated>2025-03-19T03:27:40.203Z</updated>
         <content type="html"><![CDATA[안예은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DOF ep #motion]]></title>
-        <id>https://vibe.naver.com/album/33400023</id>
-        <link href="https://vibe.naver.com/album/33400023"/>
-        <updated>2025-03-19T03:27:40.203Z</updated>
-        <content type="html"><![CDATA[DOF]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-21T04:18:30.888Z</updated>
+    <updated>2025-03-21T05:15:07.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -60,6 +60,13 @@
         <link href="https://vibe.naver.com/album/33400182"/>
         <updated>2025-03-21T03:28:36.215Z</updated>
         <content type="html"><![CDATA[Luh Tyler]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Far From Here]]></title>
+        <id>https://vibe.naver.com/album/33403954</id>
+        <link href="https://vibe.naver.com/album/33403954"/>
+        <updated>2025-03-21T05:15:00.610Z</updated>
+        <content type="html"><![CDATA[John Splithoff]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[PLAYERS]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33400450"/>
         <updated>2025-03-18T15:18:08.079Z</updated>
         <content type="html"><![CDATA[준케이(JUN. K)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DSTM]]></title>
-        <id>https://vibe.naver.com/album/33400375</id>
-        <link href="https://vibe.naver.com/album/33400375"/>
-        <updated>2025-03-18T15:18:08.081Z</updated>
-        <content type="html"><![CDATA[ONE OR EIGHT]]></content>
     </entry>
 </feed>

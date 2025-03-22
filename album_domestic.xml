@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-22T08:18:05.286Z</updated>
+    <updated>2025-03-22T09:15:40.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빌런의 나라 OST Part.1]]></title>
+        <id>https://vibe.naver.com/album/33410411</id>
+        <link href="https://vibe.naver.com/album/33410411"/>
+        <updated>2025-03-22T09:15:27.975Z</updated>
+        <content type="html"><![CDATA[노라조]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[협상의 기술 OST Part.3]]></title>
+        <id>https://vibe.naver.com/album/33410398</id>
+        <link href="https://vibe.naver.com/album/33410398"/>
+        <updated>2025-03-22T09:15:27.975Z</updated>
+        <content type="html"><![CDATA[Kevin Salem]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[두번]]></title>
+        <id>https://vibe.naver.com/album/33410255</id>
+        <link href="https://vibe.naver.com/album/33410255"/>
+        <updated>2025-03-22T09:15:27.975Z</updated>
+        <content type="html"><![CDATA[HOON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Risky (Feat. Khundi Panda)]]></title>
+        <id>https://vibe.naver.com/album/33410261</id>
+        <link href="https://vibe.naver.com/album/33410261"/>
+        <updated>2025-03-22T09:15:27.979Z</updated>
+        <content type="html"><![CDATA[COCONA]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[처음 그 날처럼]]></title>
+        <id>https://vibe.naver.com/album/33410251</id>
+        <link href="https://vibe.naver.com/album/33410251"/>
+        <updated>2025-03-22T09:15:27.979Z</updated>
+        <content type="html"><![CDATA[연변대학최씨]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직장인들 OST Part 3]]></title>
+        <id>https://vibe.naver.com/album/33410039</id>
+        <link href="https://vibe.naver.com/album/33410039"/>
+        <updated>2025-03-22T09:15:27.979Z</updated>
+        <content type="html"><![CDATA[강세린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[It's not what I wanted, it's what you wanted]]></title>
+        <id>https://vibe.naver.com/album/33410393</id>
+        <link href="https://vibe.naver.com/album/33410393"/>
+        <updated>2025-03-22T09:15:27.979Z</updated>
+        <content type="html"><![CDATA[니브(NIve)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭싹 속았수다 OST from the Netflix Series - 3막]]></title>
         <id>https://vibe.naver.com/album/33411212</id>
@@ -305,54 +354,5 @@
         <link href="https://vibe.naver.com/album/33402091"/>
         <updated>2025-03-20T09:16:29.782Z</updated>
         <content type="html"><![CDATA[신인류]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(Me)moir]]></title>
-        <id>https://vibe.naver.com/album/33402483</id>
-        <link href="https://vibe.naver.com/album/33402483"/>
-        <updated>2025-03-20T09:16:29.782Z</updated>
-        <content type="html"><![CDATA[에일리(Ailee)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠깐 나와볼래]]></title>
-        <id>https://vibe.naver.com/album/33402601</id>
-        <link href="https://vibe.naver.com/album/33402601"/>
-        <updated>2025-03-20T09:16:29.784Z</updated>
-        <content type="html"><![CDATA[스무살]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[jamesdean]]></title>
-        <id>https://vibe.naver.com/album/33402564</id>
-        <link href="https://vibe.naver.com/album/33402564"/>
-        <updated>2025-03-20T09:16:29.784Z</updated>
-        <content type="html"><![CDATA[ILHOON]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떠캐 (Feat. 민수)]]></title>
-        <id>https://vibe.naver.com/album/33402344</id>
-        <link href="https://vibe.naver.com/album/33402344"/>
-        <updated>2025-03-20T09:16:29.784Z</updated>
-        <content type="html"><![CDATA[황세현(h3hyeon)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNDENIABLE]]></title>
-        <id>https://vibe.naver.com/album/33402620</id>
-        <link href="https://vibe.naver.com/album/33402620"/>
-        <updated>2025-03-20T09:16:29.784Z</updated>
-        <content type="html"><![CDATA[FANTASY BOYS]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Home]]></title>
-        <id>https://vibe.naver.com/album/33402595</id>
-        <link href="https://vibe.naver.com/album/33402595"/>
-        <updated>2025-03-20T09:16:29.785Z</updated>
-        <content type="html"><![CDATA[픽보이 (Peakboy)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Old Friend]]></title>
-        <id>https://vibe.naver.com/album/33402207</id>
-        <link href="https://vibe.naver.com/album/33402207"/>
-        <updated>2025-03-20T09:16:29.785Z</updated>
-        <content type="html"><![CDATA[YLN Foreign]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-23T14:12:52.054Z</updated>
+    <updated>2025-03-23T15:14:17.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[BE CLASSIC (Special Edition)]]></title>
+        <id>https://vibe.naver.com/album/33029598</id>
+        <link href="https://vibe.naver.com/album/33029598"/>
+        <updated>2025-03-23T15:14:10.087Z</updated>
+        <content type="html"><![CDATA[JO1]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Just Us (Feat. Doja Cat)]]></title>
         <id>https://vibe.naver.com/album/33410021</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33400467"/>
         <updated>2025-03-19T03:27:47.737Z</updated>
         <content type="html"><![CDATA[Koresawa]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[O/N]]></title>
-        <id>https://vibe.naver.com/album/33400450</id>
-        <link href="https://vibe.naver.com/album/33400450"/>
-        <updated>2025-03-18T15:18:08.079Z</updated>
-        <content type="html"><![CDATA[준케이(JUN. K)]]></content>
     </entry>
 </feed>

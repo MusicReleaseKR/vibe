@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-26T03:28:38.207Z</updated>
+    <updated>2025-03-26T04:18:45.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -74,6 +74,13 @@
         <link href="https://vibe.naver.com/album/33466000"/>
         <updated>2025-03-26T03:28:24.550Z</updated>
         <content type="html"><![CDATA[사뮈(Samui)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iScreaM Vol.37 : 프락치 (Fraktsiya) (Feat. 이영지) Remixes]]></title>
+        <id>https://vibe.naver.com/album/33465814</id>
+        <link href="https://vibe.naver.com/album/33465814"/>
+        <updated>2025-03-26T04:18:32.594Z</updated>
+        <content type="html"><![CDATA[마크 (MARK)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[봄으로 피어]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33462935"/>
         <updated>2025-03-26T01:11:12.456Z</updated>
         <content type="html"><![CDATA[손혜은]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Where You At]]></title>
-        <id>https://vibe.naver.com/album/33464453</id>
-        <link href="https://vibe.naver.com/album/33464453"/>
-        <updated>2025-03-26T01:11:12.458Z</updated>
-        <content type="html"><![CDATA[Hanon(하논)]]></content>
     </entry>
 </feed>

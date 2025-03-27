@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-03-27T03:31:44.746Z</updated>
+    <updated>2025-03-27T04:18:41.311Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -53,6 +53,13 @@
         <link href="https://vibe.naver.com/album/33500670"/>
         <updated>2025-03-27T03:31:30.402Z</updated>
         <content type="html"><![CDATA[JuwON]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Whiplash (English Ver.)]]></title>
+        <id>https://vibe.naver.com/album/33498271</id>
+        <link href="https://vibe.naver.com/album/33498271"/>
+        <updated>2025-03-27T04:18:26.550Z</updated>
+        <content type="html"><![CDATA[aespa]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[울어요]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33462986"/>
         <updated>2025-03-26T22:14:19.657Z</updated>
         <content type="html"><![CDATA[oceanfromtheblue]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Zero]]></title>
-        <id>https://vibe.naver.com/album/33462904</id>
-        <link href="https://vibe.naver.com/album/33462904"/>
-        <updated>2025-03-26T22:14:19.659Z</updated>
-        <content type="html"><![CDATA[바이 바이 배드맨(Bye Bye Badman)]]></content>
     </entry>
 </feed>

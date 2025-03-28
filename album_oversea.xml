@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-03-28T08:20:17.163Z</updated>
+    <updated>2025-03-28T09:16:49.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[eternal sunshine deluxe: brighter days ahead]]></title>
+        <id>https://vibe.naver.com/album/33553234</id>
+        <link href="https://vibe.naver.com/album/33553234"/>
+        <updated>2025-03-28T09:16:42.747Z</updated>
+        <content type="html"><![CDATA[Ariana Grande]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Honey]]></title>
         <id>https://vibe.naver.com/album/33537567</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33400990"/>
         <updated>2025-03-27T09:17:07.425Z</updated>
         <content type="html"><![CDATA[Major League Djz]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[hahaha]]></title>
-        <id>https://vibe.naver.com/album/33407079</id>
-        <link href="https://vibe.naver.com/album/33407079"/>
-        <updated>2025-03-27T09:17:07.426Z</updated>
-        <content type="html"><![CDATA[salem ilese]]></content>
     </entry>
 </feed>

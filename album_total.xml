@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-03-28T03:33:25.053Z</updated>
+    <updated>2025-03-28T04:19:14.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Make You Shine (English Ver.)]]></title>
+        <id>https://vibe.naver.com/album/33534272</id>
+        <link href="https://vibe.naver.com/album/33534272"/>
+        <updated>2025-03-28T04:19:13.677Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33534272" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33534272" class="text">Make You Shine (English Ver.)</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/7067722" class="link_artist"><span class="text">NCT WISH</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손 잡을까]]></title>
         <id>https://vibe.naver.com/album/33525588</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33499636"/>
         <updated>2025-03-27T09:17:13.755Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33499636" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33499636" class="text">하얀캔버스</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/9453558" class="link_artist"><span class="text">밴드 CUBE</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바람의 여행자 Vagabond]]></title>
-        <id>https://vibe.naver.com/album/33501381</id>
-        <link href="https://vibe.naver.com/album/33501381"/>
-        <updated>2025-03-27T09:17:13.756Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33501381" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33501381" class="text">바람의 여행자 Vagabond</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/717198" class="link_artist"><span class="text">이아람</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

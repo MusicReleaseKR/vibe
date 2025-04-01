@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-04-01T03:10:49.260Z</updated>
+    <updated>2025-04-01T04:19:07.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,20 @@
         <link href="https://vibe.naver.com/album/33579910"/>
         <updated>2025-04-01T03:10:34.931Z</updated>
         <content type="html"><![CDATA[Neidi(네이디)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MONA LISA (Remix so fine)]]></title>
+        <id>https://vibe.naver.com/album/33574957</id>
+        <link href="https://vibe.naver.com/album/33574957"/>
+        <updated>2025-04-01T04:18:51.768Z</updated>
+        <content type="html"><![CDATA[j-hope]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOT MESS (Remixes)]]></title>
+        <id>https://vibe.naver.com/album/33580135</id>
+        <link href="https://vibe.naver.com/album/33580135"/>
+        <updated>2025-04-01T04:18:51.768Z</updated>
+        <content type="html"><![CDATA[EVNNE(이븐)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말할까 말까]]></title>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/33553299"/>
         <updated>2025-03-31T21:14:43.272Z</updated>
         <content type="html"><![CDATA[이병찬]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물비늘]]></title>
-        <id>https://vibe.naver.com/album/33553164</id>
-        <link href="https://vibe.naver.com/album/33553164"/>
-        <updated>2025-03-31T21:14:43.273Z</updated>
-        <content type="html"><![CDATA[혜은이]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그쪽으로 먼저 가]]></title>
-        <id>https://vibe.naver.com/album/33553342</id>
-        <link href="https://vibe.naver.com/album/33553342"/>
-        <updated>2025-03-31T21:14:43.275Z</updated>
-        <content type="html"><![CDATA[CHOIT]]></content>
     </entry>
 </feed>

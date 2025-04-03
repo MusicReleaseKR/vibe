@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-04-03T14:15:23.589Z</updated>
+    <updated>2025-04-03T15:15:09.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Azizam]]></title>
+        <id>https://vibe.naver.com/album/33631282</id>
+        <link href="https://vibe.naver.com/album/33631282"/>
+        <updated>2025-04-03T15:15:02.991Z</updated>
+        <content type="html"><![CDATA[Ed Sheeran]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[to our forever]]></title>
         <id>https://vibe.naver.com/album/33656894</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33511219"/>
         <updated>2025-04-02T16:19:51.889Z</updated>
         <content type="html"><![CDATA[Emotional Oranges]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Bad Boys]]></title>
-        <id>https://vibe.naver.com/album/33513243</id>
-        <link href="https://vibe.naver.com/album/33513243"/>
-        <updated>2025-04-02T16:19:51.890Z</updated>
-        <content type="html"><![CDATA[Jax Jones]]></content>
     </entry>
 </feed>

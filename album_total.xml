@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-04-03T14:15:23.595Z</updated>
+    <updated>2025-04-03T15:15:09.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://vibe.naver.com/album/33631378"/>
         <updated>2025-04-03T09:17:48.036Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33631378" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33631378" class="text">STELLA II</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/270281" class="link_artist"><span class="text">스텔라장(Stella Jang)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azizam]]></title>
+        <id>https://vibe.naver.com/album/33631282</id>
+        <link href="https://vibe.naver.com/album/33631282"/>
+        <updated>2025-04-03T15:15:09.189Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33631282" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33631282" class="text">Azizam</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/162587" class="link_artist"><span class="text">Ed Sheeran</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6 roses]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33601970"/>
         <updated>2025-04-02T16:19:58.200Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33601970" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33601970" class="text">6242</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1465174" class="link_artist"><span class="text">HeMeets</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그만 전화해]]></title>
-        <id>https://vibe.naver.com/album/33625510</id>
-        <link href="https://vibe.naver.com/album/33625510"/>
-        <updated>2025-04-02T16:19:58.201Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33625510" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33625510" class="text">그만 전화해</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/107100" class="link_artist"><span class="text">제소윤</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

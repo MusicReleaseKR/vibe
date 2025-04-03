@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-03T14:15:23.599Z</updated>
+    <updated>2025-04-03T15:15:09.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Adult Swim (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -355,6 +355,13 @@
         <content type="html"><![CDATA[임수]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Azizam (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
+        <id>https://vibe.naver.com/album/33631282</id>
+        <link href="https://vibe.naver.com/album/33631282"/>
+        <updated>2025-04-03T15:15:02.991Z</updated>
+        <content type="html"><![CDATA[Ed Sheeran]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[to our forever (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
         <id>https://vibe.naver.com/album/33656894</id>
         <link href="https://vibe.naver.com/album/33656894"/>
@@ -698,13 +705,6 @@
         <content type="html"><![CDATA[Emotional Oranges]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Bad Boys (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
-        <id>https://vibe.naver.com/album/33513243</id>
-        <link href="https://vibe.naver.com/album/33513243"/>
-        <updated>2025-04-02T16:19:51.890Z</updated>
-        <content type="html"><![CDATA[Jax Jones]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Adult Swim (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33631372</id>
         <link href="https://vibe.naver.com/album/33631372"/>
@@ -717,6 +717,13 @@
         <link href="https://vibe.naver.com/album/33631378"/>
         <updated>2025-04-03T09:17:34.130Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33631378" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33631378" class="text">STELLA II</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/270281" class="link_artist"><span class="text">스텔라장(Stella Jang)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azizam (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/33631282</id>
+        <link href="https://vibe.naver.com/album/33631282"/>
+        <updated>2025-04-03T15:15:09.189Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33631282" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33631282" class="text">Azizam</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/162587" class="link_artist"><span class="text">Ed Sheeran</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[6 roses (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/33601970"/>
         <updated>2025-04-02T16:19:44.831Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33601970" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33601970" class="text">6242</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/1465174" class="link_artist"><span class="text">HeMeets</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그만 전화해 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/33625510</id>
-        <link href="https://vibe.naver.com/album/33625510"/>
-        <updated>2025-04-02T16:19:44.831Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33625510" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33625510" class="text">그만 전화해</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/107100" class="link_artist"><span class="text">제소윤</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

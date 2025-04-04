@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-04-04T08:20:52.497Z</updated>
+    <updated>2025-04-04T09:17:19.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Find Love]]></title>
+        <id>https://vibe.naver.com/album/33668345</id>
+        <link href="https://vibe.naver.com/album/33668345"/>
+        <updated>2025-04-04T09:17:12.847Z</updated>
+        <content type="html"><![CDATA[Etham]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[End of the World]]></title>
         <id>https://vibe.naver.com/album/33668696</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33029598"/>
         <updated>2025-04-02T16:19:51.880Z</updated>
         <content type="html"><![CDATA[JO1]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Different Type of Love (Feat. Masicka)]]></title>
-        <id>https://vibe.naver.com/album/33526345</id>
-        <link href="https://vibe.naver.com/album/33526345"/>
-        <updated>2025-04-02T16:19:51.880Z</updated>
-        <content type="html"><![CDATA[Mahalia]]></content>
     </entry>
 </feed>

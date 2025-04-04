@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/total</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 모든 앨범</title>
-    <updated>2025-04-04T09:17:19.792Z</updated>
+    <updated>2025-04-04T10:17:53.128Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -48,6 +48,13 @@
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33656905" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33656905" class="text">아직 (Feat. Aden (에이든))</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/5531936" class="link_artist"><span class="text">hayawn(하얀)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
+        <id>https://vibe.naver.com/album/33656900</id>
+        <link href="https://vibe.naver.com/album/33656900"/>
+        <updated>2025-04-04T04:18:43.211Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33656900" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33656900" class="text">HOUSE OF TRICKY : SPUR</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/6528399" class="link_artist"><span class="text">xikers(싸이커스)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[친절한 선주씨 OST Part 13]]></title>
         <id>https://vibe.naver.com/album/33648611</id>
         <link href="https://vibe.naver.com/album/33648611"/>
@@ -74,13 +81,6 @@
         <link href="https://vibe.naver.com/album/33657821"/>
         <updated>2025-04-04T09:17:19.054Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33657821" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33657821" class="text">Mahogany</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/434178" class="link_artist"><span class="text">BASECAMP</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
-        <id>https://vibe.naver.com/album/33656900</id>
-        <link href="https://vibe.naver.com/album/33656900"/>
-        <updated>2025-04-04T04:18:43.211Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33656900" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33656900" class="text">HOUSE OF TRICKY : SPUR</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/6528399" class="link_artist"><span class="text">xikers(싸이커스)</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Loose]]></title>

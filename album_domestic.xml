@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-04-04T09:17:19.773Z</updated>
+    <updated>2025-04-04T10:17:53.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[hayawn(하얀)]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
+        <id>https://vibe.naver.com/album/33656900</id>
+        <link href="https://vibe.naver.com/album/33656900"/>
+        <updated>2025-04-04T04:18:29.237Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[친절한 선주씨 OST Part 13]]></title>
         <id>https://vibe.naver.com/album/33648611</id>
         <link href="https://vibe.naver.com/album/33648611"/>
@@ -67,13 +74,6 @@
         <link href="https://vibe.naver.com/album/33657821"/>
         <updated>2025-04-04T09:17:05.370Z</updated>
         <content type="html"><![CDATA[BASECAMP]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
-        <id>https://vibe.naver.com/album/33656900</id>
-        <link href="https://vibe.naver.com/album/33656900"/>
-        <updated>2025-04-04T04:18:29.237Z</updated>
-        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Loose]]></title>

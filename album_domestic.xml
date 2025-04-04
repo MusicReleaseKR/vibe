@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-04-04T03:32:01.181Z</updated>
+    <updated>2025-04-04T04:18:43.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[HOUSE OF TRICKY : SPUR]]></title>
+        <id>https://vibe.naver.com/album/33656900</id>
+        <link href="https://vibe.naver.com/album/33656900"/>
+        <updated>2025-04-04T04:18:29.237Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Loose]]></title>
+        <id>https://vibe.naver.com/album/33668598</id>
+        <link href="https://vibe.naver.com/album/33668598"/>
+        <updated>2025-04-04T04:18:29.237Z</updated>
+        <content type="html"><![CDATA[엔하이픈 (ENHYPEN)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[objects]]></title>
         <id>https://vibe.naver.com/album/33668701</id>
@@ -340,19 +354,5 @@
         <link href="https://vibe.naver.com/album/33625013"/>
         <updated>2025-04-02T16:19:44.817Z</updated>
         <content type="html"><![CDATA[지샤넬 (Ji Chanel)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[noon]]></title>
-        <id>https://vibe.naver.com/album/33609220</id>
-        <link href="https://vibe.naver.com/album/33609220"/>
-        <updated>2025-04-02T16:19:44.820Z</updated>
-        <content type="html"><![CDATA[0WAVE]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WISH]]></title>
-        <id>https://vibe.naver.com/album/33609228</id>
-        <link href="https://vibe.naver.com/album/33609228"/>
-        <updated>2025-04-02T16:19:44.820Z</updated>
-        <content type="html"><![CDATA[히죽이들]]></content>
     </entry>
 </feed>

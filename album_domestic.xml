@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-04-09T03:36:05.662Z</updated>
+    <updated>2025-04-09T04:18:46.900Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -67,6 +67,13 @@
         <link href="https://vibe.naver.com/album/33677670"/>
         <updated>2025-04-09T03:35:51.570Z</updated>
         <content type="html"><![CDATA[연주]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BREATHE (tankzzo Ver.)]]></title>
+        <id>https://vibe.naver.com/album/33679410</id>
+        <link href="https://vibe.naver.com/album/33679410"/>
+        <updated>2025-04-09T04:18:33.555Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P.I.O (Party Is Over)]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33675626"/>
         <updated>2025-04-08T21:14:59.349Z</updated>
         <content type="html"><![CDATA[극동아시아타이거즈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옛날에 금잔디]]></title>
-        <id>https://vibe.naver.com/album/33675901</id>
-        <link href="https://vibe.naver.com/album/33675901"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[양수경]]></content>
     </entry>
 </feed>

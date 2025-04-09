@@ -2,9 +2,86 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-04-09T08:22:29.114Z</updated>
+    <updated>2025-04-09T09:17:46.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Oh My]]></title>
+        <id>https://vibe.naver.com/album/33679429</id>
+        <link href="https://vibe.naver.com/album/33679429"/>
+        <updated>2025-04-09T09:17:32.735Z</updated>
+        <content type="html"><![CDATA[오마이걸(OH MY GIRL)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mess]]></title>
+        <id>https://vibe.naver.com/album/33683119</id>
+        <link href="https://vibe.naver.com/album/33683119"/>
+        <updated>2025-04-09T09:17:32.735Z</updated>
+        <content type="html"><![CDATA[강다니엘]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Love Is Blind]]></title>
+        <id>https://vibe.naver.com/album/33683063</id>
+        <link href="https://vibe.naver.com/album/33683063"/>
+        <updated>2025-04-09T09:17:32.735Z</updated>
+        <content type="html"><![CDATA[클라디(CLADI)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월드 오브 스트릿 우먼 파이터(WSWF) Original Vol.0 (응원테마)]]></title>
+        <id>https://vibe.naver.com/album/33679557</id>
+        <link href="https://vibe.naver.com/album/33679557"/>
+        <updated>2025-04-09T09:17:32.735Z</updated>
+        <content type="html"><![CDATA[월드 오브 스트릿 우먼 파이터 (WSWF)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BANG OUT]]></title>
+        <id>https://vibe.naver.com/album/33679423</id>
+        <link href="https://vibe.naver.com/album/33679423"/>
+        <updated>2025-04-09T09:17:32.738Z</updated>
+        <content type="html"><![CDATA[WHIB(휘브)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이상해]]></title>
+        <id>https://vibe.naver.com/album/33677245</id>
+        <link href="https://vibe.naver.com/album/33677245"/>
+        <updated>2025-04-09T09:17:32.738Z</updated>
+        <content type="html"><![CDATA[허회경]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Promenade]]></title>
+        <id>https://vibe.naver.com/album/33677576</id>
+        <link href="https://vibe.naver.com/album/33677576"/>
+        <updated>2025-04-09T09:17:32.738Z</updated>
+        <content type="html"><![CDATA[다린]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫사랑의 기억을 꺼내다]]></title>
+        <id>https://vibe.naver.com/album/33677632</id>
+        <link href="https://vibe.naver.com/album/33677632"/>
+        <updated>2025-04-09T09:17:32.738Z</updated>
+        <content type="html"><![CDATA[최해든]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BREATHE (tankzzo Ver.)]]></title>
+        <id>https://vibe.naver.com/album/33679410</id>
+        <link href="https://vibe.naver.com/album/33679410"/>
+        <updated>2025-04-09T04:18:33.555Z</updated>
+        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만 못된 사람]]></title>
+        <id>https://vibe.naver.com/album/33677296</id>
+        <link href="https://vibe.naver.com/album/33677296"/>
+        <updated>2025-04-09T09:17:32.738Z</updated>
+        <content type="html"><![CDATA[자정]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웃자]]></title>
+        <id>https://vibe.naver.com/album/33677671</id>
+        <link href="https://vibe.naver.com/album/33677671"/>
+        <updated>2025-04-09T09:17:32.739Z</updated>
+        <content type="html"><![CDATA[박현호]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Night on Earth – Hallucination (Remix)]]></title>
         <id>https://vibe.naver.com/album/33679534</id>
@@ -67,13 +144,6 @@
         <link href="https://vibe.naver.com/album/33677670"/>
         <updated>2025-04-09T03:35:51.570Z</updated>
         <content type="html"><![CDATA[연주]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BREATHE (tankzzo Ver.)]]></title>
-        <id>https://vibe.naver.com/album/33679410</id>
-        <link href="https://vibe.naver.com/album/33679410"/>
-        <updated>2025-04-09T04:18:33.555Z</updated>
-        <content type="html"><![CDATA[xikers(싸이커스)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[P.I.O (Party Is Over)]]></title>
@@ -284,75 +354,5 @@
         <link href="https://vibe.naver.com/album/33677238"/>
         <updated>2025-04-08T21:14:59.347Z</updated>
         <content type="html"><![CDATA[노아코스트 (Noa Coast)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클래식의 숲 II]]></title>
-        <id>https://vibe.naver.com/album/33677236</id>
-        <link href="https://vibe.naver.com/album/33677236"/>
-        <updated>2025-04-08T21:14:59.347Z</updated>
-        <content type="html"><![CDATA[노르웨이 숲]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑은 F처럼 고백은 J처럼]]></title>
-        <id>https://vibe.naver.com/album/33675862</id>
-        <link href="https://vibe.naver.com/album/33675862"/>
-        <updated>2025-04-08T21:14:59.347Z</updated>
-        <content type="html"><![CDATA[소심한 오빠]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Playlist7]]></title>
-        <id>https://vibe.naver.com/album/33410397</id>
-        <link href="https://vibe.naver.com/album/33410397"/>
-        <updated>2025-04-08T21:14:59.347Z</updated>
-        <content type="html"><![CDATA[유씨(yussi)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낙화]]></title>
-        <id>https://vibe.naver.com/album/33675641</id>
-        <link href="https://vibe.naver.com/album/33675641"/>
-        <updated>2025-04-08T21:14:59.348Z</updated>
-        <content type="html"><![CDATA[정의만]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불꽃]]></title>
-        <id>https://vibe.naver.com/album/33677239</id>
-        <link href="https://vibe.naver.com/album/33677239"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[That]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[본능적인 그대 OST Part 18]]></title>
-        <id>https://vibe.naver.com/album/33675646</id>
-        <link href="https://vibe.naver.com/album/33675646"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[밈 (mim)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Spotlight]]></title>
-        <id>https://vibe.naver.com/album/33675721</id>
-        <link href="https://vibe.naver.com/album/33675721"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[flow blow]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Room]]></title>
-        <id>https://vibe.naver.com/album/33677361</id>
-        <link href="https://vibe.naver.com/album/33677361"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[Loosen Door]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 빛난 별을 따다]]></title>
-        <id>https://vibe.naver.com/album/33675839</id>
-        <link href="https://vibe.naver.com/album/33675839"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[리디아(Lydia)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시간이 지나간다면]]></title>
-        <id>https://vibe.naver.com/album/33675626</id>
-        <link href="https://vibe.naver.com/album/33675626"/>
-        <updated>2025-04-08T21:14:59.349Z</updated>
-        <content type="html"><![CDATA[극동아시아타이거즈]]></content>
     </entry>
 </feed>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/oversea</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 해외</title>
-    <updated>2025-04-10T14:15:59.787Z</updated>
+    <updated>2025-04-10T15:18:30.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IN THE RAIN]]></title>
+        <id>https://vibe.naver.com/album/33687836</id>
+        <link href="https://vibe.naver.com/album/33687836"/>
+        <updated>2025-04-10T15:18:23.621Z</updated>
+        <content type="html"><![CDATA[XG]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MINHA RAZÃO]]></title>
         <id>https://vibe.naver.com/album/33683535</id>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33652140"/>
         <updated>2025-04-10T02:58:43.257Z</updated>
         <content type="html"><![CDATA[The Dare]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pity Party]]></title>
-        <id>https://vibe.naver.com/album/33656918</id>
-        <link href="https://vibe.naver.com/album/33656918"/>
-        <updated>2025-04-10T02:58:43.258Z</updated>
-        <content type="html"><![CDATA[Lydia Night]]></content>
     </entry>
 </feed>

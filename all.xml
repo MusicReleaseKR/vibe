@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://MusicReleaseKR.github.io/vibe/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-04-11T03:36:36.528Z</updated>
+    <updated>2025-04-11T04:19:35.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[like JENNIE (Peggy Gou Remix) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -38,6 +38,13 @@
         <link href="https://vibe.naver.com/album/33690314"/>
         <updated>2025-04-11T03:00:15.503Z</updated>
         <content type="html"><![CDATA[마커스강]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[K-POP ScreaM 2 (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
+        <id>https://vibe.naver.com/album/33687875</id>
+        <link href="https://vibe.naver.com/album/33687875"/>
+        <updated>2025-04-11T04:19:21.072Z</updated>
+        <content type="html"><![CDATA[ScreaM Records]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[톡톡 (Feat. 김연서) (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
@@ -346,13 +353,6 @@
         <link href="https://vibe.naver.com/album/33679429"/>
         <updated>2025-04-10T02:58:35.366Z</updated>
         <content type="html"><![CDATA[오마이걸(OH MY GIRL)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Mess (네이버 바이브 ─ 최신앨범 ─ 국내)]]></title>
-        <id>https://vibe.naver.com/album/33683119</id>
-        <link href="https://vibe.naver.com/album/33683119"/>
-        <updated>2025-04-10T02:58:35.366Z</updated>
-        <content type="html"><![CDATA[강다니엘]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Past Lives (네이버 바이브 ─ 최신앨범 ─ 해외)]]></title>
@@ -747,6 +747,13 @@
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33690314" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33690314" class="text">사는게 그런거지</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/6064663" class="link_artist"><span class="text">마커스강</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[K-POP ScreaM 2 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
+        <id>https://vibe.naver.com/album/33687875</id>
+        <link href="https://vibe.naver.com/album/33687875"/>
+        <updated>2025-04-11T04:19:34.341Z</updated>
+        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33687875" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33687875" class="text">K-POP ScreaM 2</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/6629626" class="link_artist"><span class="text">ScreaM Records</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[Call My Name (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
         <id>https://vibe.naver.com/album/33688212</id>
         <link href="https://vibe.naver.com/album/33688212"/>
@@ -1046,12 +1053,5 @@
         <link href="https://vibe.naver.com/album/33683227"/>
         <updated>2025-04-10T03:35:09.707Z</updated>
         <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33683227" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33683227" class="text">좋아마심</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/114734" class="link_artist"><span class="text">박보영</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위로의 별에서 (네이버 바이브 ─ 최신앨범 ─ 모든 앨범)]]></title>
-        <id>https://vibe.naver.com/album/33682639</id>
-        <link href="https://vibe.naver.com/album/33682639"/>
-        <updated>2025-04-10T03:35:09.707Z</updated>
-        <content type="html"><![CDATA[<!----><a data-v-81bbacc8="" href="/album/33682639" class="title" disabled="false"><span data-v-81bbacc8="" class="text_wrap"><span data-v-81bbacc8="" id="33682639" class="text">위로의 별에서</span><!----><!----></span><span data-v-81bbacc8="" class="blind">페이지로 이동</span></a><div data-v-81bbacc8="" class="artist"><span data-v-81bbacc8="" class="artist_sub_inner"><span><a href="/artist/128450" class="link_artist"><span class="text">달에닿아</span></a><!----></span></span><span data-v-81bbacc8="" class="blind">아티스트명</span></div>]]></content>
     </entry>
 </feed>

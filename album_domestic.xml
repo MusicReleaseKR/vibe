@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://vibe.naver.com/new-release-album/domestic</id>
     <title>네이버 바이브 ─ 최신앨범 ─ 국내</title>
-    <updated>2025-04-14T03:05:21.459Z</updated>
+    <updated>2025-04-14T04:19:51.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://vibe.naver.com/favicon.ico</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://vibe.naver.com/album/33698317"/>
         <updated>2025-04-14T03:05:06.933Z</updated>
         <content type="html"><![CDATA[데이브레이크 (Daybreak)]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[HOT (English ver.) (Feat. JADE)]]></title>
+        <id>https://vibe.naver.com/album/33698299</id>
+        <link href="https://vibe.naver.com/album/33698299"/>
+        <updated>2025-04-14T04:19:36.871Z</updated>
+        <content type="html"><![CDATA[LE SSERAFIM (르세라핌)]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[SoulMate]]></title>
@@ -347,12 +354,5 @@
         <link href="https://vibe.naver.com/album/33687750"/>
         <updated>2025-04-12T03:28:54.158Z</updated>
         <content type="html"><![CDATA[임지우(imzoo)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Suspense]]></title>
-        <id>https://vibe.naver.com/album/33687794</id>
-        <link href="https://vibe.naver.com/album/33687794"/>
-        <updated>2025-04-12T03:28:54.158Z</updated>
-        <content type="html"><![CDATA[화노(Hwanho)]]></content>
     </entry>
 </feed>
